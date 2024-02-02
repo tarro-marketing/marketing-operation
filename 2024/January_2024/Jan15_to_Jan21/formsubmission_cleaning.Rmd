@@ -1,0 +1,112 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r}
+library(tidyverse)
+library(purrr)
+library(dplyr)
+
+```
+
+```{r}
+folder_path <- "~/Performance Analysis/Form Submission/2024/Jan15_to_Jan21/Data"
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+combo_data <- purrr::map_df(filenames, 
+              ~read_csv(.x) %>% mutate(filename = .x))
+```
+
+
+```{r}
+
+
+common_path <- dirname(filenames[1])
+
+combo_data <- combo_data %>%
+  mutate(filename = as.character(filename)) %>%
+  mutate(filename = str_replace(filename, common_path, ""),
+         filename = str_remove(filename, "/")) |> 
+  mutate(filename = str_replace_all(filename, "\\([0-9a-f]+\\)-\\d{4}-\\d{2}-\\d{2}\\.csv", "")) %>%
+  rename(phone_number = `手机号码`) %>%
+  mutate(phone_number = str_replace_all(phone_number, "-", "") %>% 
+                          str_replace_all("[^0-9]", "")) %>% 
+  mutate(
+    channel = case_when(
+      str_detect(filename, "(?i)SEM|Blog Pages Contact us") ~ "SEM",
+      str_detect(filename, "(?i)SEO|Contact us") ~ "SEO",
+      str_detect(filename, "(?i)sMS") ~ "SMS",
+      str_detect(filename, "(?i)Brizo|(?i)DM") ~ "DM"))
+```
+
+
+```{r}
+combo_data |> 
+  group_by(channel) |> 
+  summarize(form_fill_numbers=n()) |> 
+  arrange(desc(form_fill_numbers)) -> summary_table
+
+write_csv(summary_table, "form_fill_counts_by_channel.csv")
+write_csv(combo_data,"all_form_fill.csv", na = "")
+```
+
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "DM")) -> dm_form_submit
+
+write_csv(dm_form_submit, "DM/dm_fsubmit.csv")
+
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SMS")) -> SMS_form_submit
+
+write_csv(SMS_form_submit, "SMS/sms_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SEM")) -> SEM_form_submit
+
+write_csv(SEM_form_submit, "SEM/sem_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "YouTube")) -> YouTube_form_submit
+
+write_csv(YouTube_form_submit, "YouTube/youtube_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "Display")) -> Display_form_submit
+
+write_csv(Display_form_submit, "Display/display_fsubmit.csv")
+```
+ 
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SEO") | str_detect(Form.Name..ID., "Direct")) -> SEO_Direct_form_submit
+
+write_csv(SEO_Direct_form_submit, "Direct - SEO/seo_direct_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "DSP")) -> DSP_form_submit
+
+write_csv(DSP_form_submit, "DSP/dsp_fsubmit.csv")
+```
+
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "2024jan")) -> jan_form_submit
+
+write_csv(jan_form_submit, "DM/2024jan_fsubmit.csv")
+```
