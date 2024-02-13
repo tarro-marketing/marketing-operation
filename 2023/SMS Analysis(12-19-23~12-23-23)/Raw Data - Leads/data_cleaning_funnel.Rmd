@@ -1,0 +1,90 @@
+---
+title: "funnel"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r}
+library(tidyverse)
+sms_lead <- read_csv("sms-dec-19to23-2023.csv")
+
+sms_lead$`Mobile - Primary` <- as.double(gsub("[^0-9]", "", sms_lead$`Mobile - Primary`))
+sms_lead$`Business Phone` <- as.double(gsub("[^0-9]", "", sms_lead$`Business Phone`))
+
+click_combo_data <- read_csv("../Clean Data/click_combo_data.csv")
+sent_list <- read_csv("../Clean Data/sent_list.csv")
+sms_inbound_call <- read_csv("sms_inbound_call.csv")
+```
+
+```{r}
+by_in_bound_call = inner_join(sms_lead, sms_inbound_call,by=c("Mobile - Primary"="Phone"))
+```
+
+
+```{r}
+trackable_by_mobile = inner_join(sms_lead, sent_list,by=c("Mobile - Primary"="phone_number"))
+trackable_by_business = inner_join(sms_lead, sent_list,by=c("Business Phone"="phone_number"))
+
+trackable <- rbind(trackable_by_mobile,trackable_by_business)
+
+write_csv(trackable, "../Clean Data/trackable_lead.csv")
+```
+
+```{r}
+library(dplyr)
+library(tidyr)
+
+# Assuming 'trackable' is your data frame
+
+# MEL
+MEL <- trackable %>%
+  group_by(Format) %>%
+  summarise(counts = n(), Metric = "MEL")
+
+# MQL_jotform
+MQL_jotform <- trackable %>%
+  filter(`Created By` == 'JotForm Integration User',
+         `Menu Type` != '',
+         `State/Province (text only)` != '') %>%
+  group_by(Format) %>%
+  summarise(counts = n(), Metric = "MQL")
+
+# MQL_rest
+MQL_rest <- trackable %>%
+  filter(`Created By` != 'JotForm Integration User',
+         `Menu Type` != '',
+         `State/Province (text only)` != '',
+         `Lead Status` %in% c('AE Assigned', 'Converted')) %>%
+  group_by(Format) %>%
+  summarise(counts = n(), Metric = "MQL")
+
+# Combine MQL_jotform and MQL_rest
+MQL <- bind_rows(MQL_jotform, MQL_rest) %>%
+  group_by(Format) %>%
+  summarise(counts = sum(counts), Metric = "MQL")
+
+# Cohorted SQL
+cohorted_SQL <- trackable %>%
+  filter(`Opportunity ID` != '') %>%
+  group_by(Format) %>%
+  summarise(counts = n(), Metric = "cohorted_SQL")
+
+# CW
+CW <- trackable %>%
+  filter(Stage %in% c('Closed Won', 'Onboarded')) %>%
+  group_by(Format) %>%
+  summarise(counts = n(), Metric = "CW")
+
+# Combine all metrics
+all_metrics <- bind_rows(MEL, MQL, cohorted_SQL, CW)
+
+# Pivot the data
+pivoted_data <- all_metrics %>%
+  pivot_wider(names_from = Metric, values_from = counts, values_fill = 0)
+
+# Print the pivoted data
+print(pivoted_data)
+
+
+```
+

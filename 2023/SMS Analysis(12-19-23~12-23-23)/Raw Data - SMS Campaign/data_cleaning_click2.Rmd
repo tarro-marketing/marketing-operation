@@ -1,0 +1,57 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(purrr)
+library(dplyr)
+
+```
+
+```{r}
+folder_path <- getwd()
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+combo_data <- purrr::map_df(filenames, 
+              ~read.csv(.x, stringsAsFactors = FALSE) %>% mutate(filename = .x))
+
+combo_data <- combo_data %>%
+  mutate(filename = as.character(filename)) %>%
+  mutate(filename = str_remove(filename, "^C:/.*Campaign/")) |> 
+  mutate(phone_number = sub("^1", "", combo_data$phone_number))
+
+
+combo_data <- combo_data |> 
+   mutate(Format = if_else(str_detect(filename, "Floating"), "Floating CTA", "No Floating"))
+
+write_csv(combo_data, "../Clean Data/sent_list.csv")
+
+```
+
+```{r}
+
+combo_data |> 
+  filter(device!='bot' & device !="") |> 
+  group_by(Format) |> 
+  summarise(counts=n()) |> 
+  arrange(counts)
+
+
+  
+```
+
+```{r}
+
+combo_data_click <- combo_data |> 
+    filter(device!='bot' & device !="")
+write_csv(combo_data_click, "../Clean Data/click_combo_data.csv")
+```
+
+
