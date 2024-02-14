@@ -93,10 +93,13 @@ marketing_nurture_queue <- marketing_nurture_queue  |>
 marketing_nurture_queue <- marketing_nurture_queue |> 
   mutate(State = case_when(is.na(`State/Province (text only)`) ~ State_Area,
                            TRUE ~ `State/Province (text only)`)) |> 
-  filter(Country=="United States") 
+  filter(Country=="United States") |> 
+  distinct(Phone, .keep_all = TRUE)
+
 
 marketing_nurture_queue_sms_list <- marketing_nurture_queue |> 
-  select(Phone, State, list_source,`Area Code`)  
+  select(Phone, State, list_source,`Area Code`)  |> 
+  distinct(Phone, .keep_all = TRUE)
 
 
   

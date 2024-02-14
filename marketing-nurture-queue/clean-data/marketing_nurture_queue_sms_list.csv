@@ -15,20 +15,6 @@ Phone,State,list_source,Area Code
 3478286697,ON,wonders-lead-queue,347
 3474722990,GA,wonders-lead-queue,347
 3127092927,ON,wonders-lead-queue,312
-4044283388,ON,wonders-lead-queue,404
-3479889669,NC,wonders-lead-queue,347
-3479198888,IN,wonders-lead-queue,347
-3478286697,NY,wonders-lead-queue,347
-3474722990,NY,wonders-lead-queue,347
-3127092927,FL,wonders-lead-queue,312
-3479889669,NY,wonders-lead-queue,347
-3479198888,OH,wonders-lead-queue,347
-3478286697,NY,wonders-lead-queue,347
-3474722990,TN,wonders-lead-queue,347
-3127092927,IL,wonders-lead-queue,312
-3474722990,NY,wonders-lead-queue,347
-3127092927,FL,wonders-lead-queue,312
-3127092927,IL,wonders-lead-queue,312
 9899980088,MI,wonders-lead-queue,989
 9899060228,MI,wonders-lead-queue,989
 9895010151,MI,wonders-lead-queue,989
@@ -658,7 +644,6 @@ Phone,State,list_source,Area Code
 9179303306,PA,wonders-lead-queue,917
 9179303178,CT,wonders-lead-queue,917
 9179301199,NJ,wonders-lead-queue,917
-9179300218,NY,wonders-lead-queue,917
 9179300218,NY,wonders-lead-queue,917
 9179300105,TX,wonders-lead-queue,917
 9179300000,NY,wonders-lead-queue,917
@@ -4755,7 +4740,6 @@ Phone,State,list_source,Area Code
 6463847201,NY,wonders-lead-queue,646
 6463847017,NY,wonders-lead-queue,646
 6463844730,MA,wonders-lead-queue,646
-6463844730,MA,wonders-lead-queue,646
 6463843564,NY,wonders-lead-queue,646
 6463843222,NY,wonders-lead-queue,646
 6463842503,AZ,wonders-lead-queue,646
@@ -5413,7 +5397,6 @@ Phone,State,list_source,Area Code
 6267894169,VT,wonders-lead-queue,626
 6267829148,CO,wonders-lead-queue,626
 6267828857,CA,wonders-lead-queue,626
-6267828857,AR,wonders-lead-queue,626
 6267828832,CA,wonders-lead-queue,626
 6267823860,CA,wonders-lead-queue,626
 6267821599,CA,wonders-lead-queue,626
