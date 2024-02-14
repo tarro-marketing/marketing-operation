@@ -60,23 +60,31 @@ wonders_lead_queue <- wonders_lead_queue|>
          TRUE ~ State)) |> 
   select(Phone, State, list_source,`Area Code`)  
   
-sms_list <- rbind(brizo, inbound_call_sms_follow_up, masterlist, printshop, wonders_lead_queue)
-
-sms_list_unique <- sms_list |> 
-  distinct(Phone, .keep_all = TRUE)
-
-# duplicate phone numbers 46420
-# unique total = 88525
+# sms_list <- rbind(brizo, inbound_call_sms_follow_up, masterlist, printshop, wonders_lead_queue)
 
 
-sms_list_unique <- sms_list_unique %>%
-  mutate(Is10Digits = if_else(nchar(Phone) == 10, TRUE, FALSE)) |> 
-  filter(Is10Digits== TRUE) |> 
-  select(-Is10Digits)
 
-## usable phone 85524
+SMS_List_0111_Group_1_SQL_Gift_ <- read_csv("data/SMS List 0111 - Group 1 (SQL Gift).csv")
+SMS_List_0111_Group_2_CW_Gift_ <- read_csv("data/SMS List 0111 - Group 2 (CW Gift).csv")
+SMS_List_0111_Group_3_No_Gift_ <- read_csv("data/SMS List 0111 - Group 3 (No Gift).csv")
 
-write_csv(sms_list_unique, "clean-data/sms-unique-list.csv")
+sms_list=rbind(SMS_List_0111_Group_1_SQL_Gift_,SMS_List_0111_Group_2_CW_Gift_,SMS_List_0111_Group_3_No_Gift_)
+
+# sms_list_unique <- sms_list |> 
+#   distinct(Phone, .keep_all = TRUE)
+# 
+# # duplicate phone numbers 46420
+# # unique total = 88525
+# 
+# 
+# sms_list_unique <- sms_list_unique %>%
+#   mutate(Is10Digits = if_else(nchar(Phone) == 10, TRUE, FALSE)) |> 
+#   filter(Is10Digits== TRUE) |> 
+#   select(-Is10Digits)
+# 
+# ## usable phone 85524
+
+write_csv(sms_list, "clean-data/sms-list.csv",na="")
 
 marketing_nurture_queue <- read_csv("data/copy_of_marketing_nurture_queue.csv", 
                                             col_types = cols(MobilePrimary = col_character())) |> 
@@ -104,8 +112,8 @@ marketing_nurture_queue_sms_list <- marketing_nurture_queue |>
 
   
 
-write_csv(marketing_nurture_queue,"clean-data/marketing_nurture_queue.csv")
-write_csv(marketing_nurture_queue_sms_list,"clean-data/marketing_nurture_queue_sms_list.csv")
+write_csv(marketing_nurture_queue,"clean-data/marketing_nurture_queue.csv", na = "")
+write_csv(marketing_nurture_queue_sms_list,"clean-data/marketing_nurture_queue_sms_list.csv",na = "")
 
 
 
