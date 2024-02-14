@@ -1,0 +1,14 @@
+library(tidyverse)
+
+folder_path <- '~/PerformanceMarketing/SMS/2024/sms-feb/Data'
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+combo_data <- purrr::map_df(filenames, 
+                            ~read.csv(.x, stringsAsFactors = FALSE) %>% mutate(filename = .x))
+
+combo_data <- combo_data |> 
+  mutate(filename = as.character(filename))  |> 
+  mutate(phone_number = sub("^1", "", combo_data$phone_number)) |> 
+  filter(open_count>0&device!='bot') |> 
+  distinct(phone_number, .keep_all = TRUE)
+  

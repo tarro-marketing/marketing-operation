@@ -1,0 +1,87 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(purrr)
+```
+
+```{r}
+folder_path <- '~/Performance Analysis/SMS/SMS Analysis(01-24-24~01-28-24)/Raw-Data-Jan-SMS/list' 
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+sms_combo_data <- purrr::map_df(filenames, 
+              ~read.csv(.x, stringsAsFactors = FALSE) %>% mutate(filename = .x))
+```
+
+```{r}
+
+list_whole <- sms_combo_data |> 
+  mutate(filename = str_replace(filename, '^C:/Users/skt/Documents/Performance Analysis/SMS/SMS Analysis(01-24-24~01-28-24)/Raw-Data-Jan-SMS/list/', '')) |> 
+  mutate(filename = str_replace(filename,'\\(2\\)\\.csv$','')) |> 
+  mutate(filename = str_replace(filename,'.csv$','')) |> 
+  mutate(list_name = case_when( str_detect(filename, 'Brizo') ~ 'Brizo',
+                                str_detect(filename, 'Master') ~ 'Masterlist',
+                                str_detect(filename, 'Print Shop') ~ 'Printshop',
+                                TRUE ~ 'FALSE'
+                                )) |> 
+  mutate(copy_name = case_when( str_detect(filename, 'A') ~ 'Copy A',
+                                str_detect(filename,'B')~'Copy B',
+                                TRUE ~ 'FALSE')) |> 
+  mutate(phone_number = sub("^1", "", phone_number))
+
+
+```
+
+```{r}
+sms_combo_data |> 
+  mutate(filename = str_replace(filename, '^C:/Users/skt/Documents/Performance Analysis/SMS/SMS Analysis\\(01-03-24~01-07-24\\)/Raw-Data-Jan-SMS/list/', '')) |> 
+  mutate(filename = str_replace(filename,'\\(2\\)\\.csv$','')) |> 
+  mutate(filename = str_replace(filename,'.csv$','')) -> sms_combo_data
+
+
+library(dplyr)
+
+sms_combo_data <- sms_combo_data |> 
+  mutate(list_name = case_when( str_detect(filename, 'Brizo') ~ 'Brizo',
+                                str_detect(filename, 'Masterlist') ~ 'Masterlist',
+                                str_detect(filename, 'PrintShop') ~ 'Printshop',
+                                TRUE ~ 'FALSE'
+                                )) |> 
+  mutate(copy_name = case_when( str_detect(filename, 'A$') ~ 'Copy A',
+                                str_detect(filename,'B$')~'Copy B',
+                                TRUE ~ 'FALSE'
+    
+  ))
+
+
+  
+```
+
+```{r}
+
+sms_combo_data |> 
+  filter(device!='bot') |> 
+  group_by(list_name) |> 
+  summarise(counts=n()) |> 
+  arrange(counts)
+  
+```
+
+```{r}
+sms_combo_data$phone_number <- sub("^1", "", sms_combo_data$phone_number)
+
+
+sms_combo_data |> 
+    filter(device!='bot') -> sms_combo_data
+
+write_csv(sms_combo_data, "click_combo_data.csv", na="")
+```
+

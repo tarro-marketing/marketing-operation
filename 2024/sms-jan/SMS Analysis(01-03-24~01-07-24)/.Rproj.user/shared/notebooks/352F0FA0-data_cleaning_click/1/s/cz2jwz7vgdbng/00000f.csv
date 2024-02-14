@@ -1,0 +1,5 @@
+"0","folder_path <- '~/Performance Analysis/SMS/SMS Analysis(01-03-24~01-07-24)/Raw-Data-Jan-SMS/list_all' "
+"0","filenames <- list.files(folder_path, pattern = ""\\.csv$"", full.names = TRUE)"
+"0",""
+"0","list_whole <- purrr::map_df(filenames, "
+"0","              ~read.csv(.x, stringsAsFactors = FALSE) %>% mutate(filename = .x))"

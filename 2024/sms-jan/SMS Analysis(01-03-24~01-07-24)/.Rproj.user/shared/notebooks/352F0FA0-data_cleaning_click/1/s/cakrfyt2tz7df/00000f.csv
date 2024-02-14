@@ -1,0 +1,7 @@
+"0","sms_combo_data$phone_number <- sub(""^1"", """", sms_combo_data$phone_number)"
+"0",""
+"0",""
+"0","sms_combo_data |> "
+"0","    filter(device!='bot') -> sms_combo_data"
+"0",""
+"0","write_csv(sms_combo_data, ""click_combo_data.csv"")"
