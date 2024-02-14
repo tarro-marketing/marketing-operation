@@ -1,6 +1,0 @@
-"0",""
-"0","sms_combo_data |> "
-"0","  filter(device!='bot') |> "
-"0","  group_by(list_name) |> "
-"0","  summarise(counts=n()) |> "
-"0","  arrange(counts)"
