@@ -1,4 +1,8 @@
 library(tidyverse)
+library(salesforcer)
+library(yaml)
+library(httr)
+
 
 
 sfdc_lead <- read_csv("~/PerformanceMarketing/direct-mail-2023/funnel_update/clean-data/final_campaign_sfdc_lead.csv")
