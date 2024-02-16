@@ -2,6 +2,21 @@ setwd("C:/Users/skt/Documents/PerformanceMarketing/direct-mail-2023")
 
 library(tidyverse)
 
+library(salesforcer)
+library(yaml)
+library(httr)
+# 
+# config <- yaml::read_yaml("config.yml")
+# 
+# sf_auth(username = config$salesforce$username,
+#         password = config$salesforce$password,
+#         security_token   = config$salesforce$security_token)
+# 
+# 
+# my_report_id <- "00OUo0000017dX8MAI"
+# marketing_mel_mql_report <- sf_run_report(my_report_id)
+# my_report_id2 <- "00OUo0000017gpxMAA"
+# contact_campaign_report <- sf_run_report(my_report_id2)
 
 contact_campaign_report <- read_csv("funnel_update/contact_campaign_report.csv")
 marketing_mel_mql_report <- read_csv("funnel_update/marketing_mel_mql_report.csv")
