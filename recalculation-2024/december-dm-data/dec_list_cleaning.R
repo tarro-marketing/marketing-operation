@@ -42,9 +42,6 @@ brizo_us_zh <- brizo_us_zh |>
 brizo <- rbind(brizo_can, brizo_us_eng, brizo_us_zh)
 rm(brizo_can, brizo_us_eng, brizo_us_zh)
 
-brizo <- brizo |>
-  mutate(Drop = "Drop 1")
-
 ################################ Print Shop ####################################
 
 printshop_us <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Print Shop - US (Chinese 56184-80086)")
@@ -117,7 +114,8 @@ oldlist_can2 <- oldlist_can %>%
     Phone_Number = "Phone Number",
     ZipCode = Zip,
     Ethnicity_Description = "CBE Vendor Ethnicity Description",
-    Restaurant_Name = Name)
+    Restaurant_Name = Name) |> 
+  mutate(Country = "Canada")
 
 oldlist_us2 <- oldlist_us %>%
   rename(
@@ -131,8 +129,8 @@ oldlist_us2 <- oldlist_us %>%
     Restaurant_Name=`Restaurant Name`,
     Category = "Ethnic Code Desc",
     ZipCode = `Zip Code`
-    
-  )
+  ) |> 
+  mutate(Country = "United States")
 
 rm(oldlist_can, oldlist_us)
 
@@ -183,34 +181,38 @@ brizo2 <- brizo %>%
     LastName = `Last Name`,
     PhoneNumber = Phone,  
     Email = `Most Common Email`,
-    `Established` = `Year Established`
   ) %>%
   mutate(
     `Dupe (Y/N)` = NA,  
-    `Match Address` = NA   
+    `Match Address` = NA,
+    PhoneNumber = as.character(PhoneNumber)
   ) |> 
   select(-c("Contact Email","Contact Phone"))
 
-
-brizo2 <- brizo |> 
-  rename(`Established` = `Year Established`) |> 
-  
 
 # Renaming for 'printshop'
 printshop2 <- printshop %>%
   rename(
     RestaurantName = `Restaurant Name`,
     ZipCode = Zipcode,
-    PhoneNumber = Phone1  # Assuming the primary phone number is 'Phone1'
+    PhoneNumber = Phone1  
   ) %>%
   mutate(
     FirstName = NA,
     LastName = NA,
     Email = NA,
-    `Year Established` = NA  # Adding missing columns for alignment
+    `Established` = NA,
+    `Cuisines (Regional)`= NA, 
+    `Price Range`= NA, 
+    `Languge`= NA, 
+    `Format`= NA, 
+    `Drop`= NA,
+    Languge = NA,
+    Format = "3D Card",
+    ID = NA,
+    PhoneNumber = as.character(PhoneNumber)
   )
 
-# Renaming for 'oldlist'
 oldlist2 <- oldlist %>%
   rename(
     RestaurantName = Restaurant_Name,
@@ -220,35 +222,28 @@ oldlist2 <- oldlist %>%
     EthnicityDescription = Ethnicity_Description
   ) %>%
   mutate(
-    `Dupe (Y/N)` = NA,  # Assuming to add for alignment
+    `Dupe (Y/N)` = NA,  
     `Match Address` = NA,
-    Email = NA  # Assuming 'oldlist' doesn't have an email column
+    Email = NA,
+    `Cuisines (Regional)`= NA, 
+    `Price Range`= NA, 
+    `Languge`= NA, 
+    `Format`= NA, 
+    `Drop`= NA,
+    Languge = NA,
+    Format = "3D Card",
+    ID = NA,
+    Established = NA
   )
 
-# Aligning column order of 'printshop' and 'oldlist' to 'brizo'
-printshop_aligned <- printshop %>% select(names(brizo))
-oldlist_aligned <- oldlist %>% select(names(brizo))
+
+printshop_aligned <- printshop2 %>% select(names(brizo2))
+oldlist_aligned <- oldlist2 %>% select(names(brizo2))
 
   
-combined_dataset <- bind_rows(brizo, printshop_aligned, oldlist_aligned)
+sam_list <- bind_rows(brizo2, printshop_aligned, oldlist_aligned)
 
 
 
-
-
-
-# remember to group drop
-Old_List_US_a |>
-  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
-  mutate(List = "Old List") -> Old_List_US_a
-
-Print_Shop_US_a |>
-  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
-  mutate(List = "Printshop") -> Print_Shop_US_a
-
-List_Brizo_US_a |>
-  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
-  mutate(List = "Brizo") -> List_Brizo_US_a
-
-
+write_csv(sam_list, "recalculation-2024/december-dm-data/sam_list_december.csv")
 
