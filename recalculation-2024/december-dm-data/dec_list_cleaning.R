@@ -10,29 +10,35 @@ cols_brizo_us_eng <- colnames(brizo_us_eng)
 cols_brizo_can <- colnames(brizo_can)
 common_cols <- Reduce(intersect, list(cols_brizo_us_zh, cols_brizo_can))
 
-rm(cols_brizo_us_zh,cols_brizo_us_eng,cols_brizo_can,common_cols)
+rm(cols_brizo_us_zh, cols_brizo_us_eng, cols_brizo_can, common_cols)
 
-brizo_us_eng <- brizo_us_eng |> 
-  rename(Phone=`Business Phone`) |> 
-  select("Snowball Map","ID","Name","Street","City/Town","State/Province Code","Zip/Postal Code","Country","First Name","Last Name","Contact Email","Contact Phone","Established","Phone","Most Common Email","Cuisines (Regional)","Price Range") |> 
-  mutate(Languge = "English",
-         Format = "Tridfold")
+brizo_us_eng <- brizo_us_eng |>
+  rename(Phone = `Business Phone`) |>
+  select("Snowball Map", "ID", "Name", "Street", "City/Town", "State/Province Code", "Zip/Postal Code", "Country", "First Name", "Last Name", "Contact Email", "Contact Phone", "Established", "Phone", "Most Common Email", "Cuisines (Regional)", "Price Range") |>
+  mutate(
+    Languge = "English",
+    Format = "Tridfold"
+  )
 
-brizo_can <- brizo_can |> 
-  select("Snowball Map","ID","Name","Street","City/Town","State/Province Code","Zip/Postal Code","Country","First Name","Last Name","Contact Email","Contact Phone","Established","Phone","Most Common Email","Cuisines (Regional)","Price Range") |> 
-  mutate(Languge = NA,
-         Format = "3D Card")
+brizo_can <- brizo_can |>
+  select("Snowball Map", "ID", "Name", "Street", "City/Town", "State/Province Code", "Zip/Postal Code", "Country", "First Name", "Last Name", "Contact Email", "Contact Phone", "Established", "Phone", "Most Common Email", "Cuisines (Regional)", "Price Range") |>
+  mutate(
+    Languge = NA,
+    Format = "3D Card"
+  )
 
-brizo_us_zh <- brizo_us_zh |> 
-  select("Snowball Map","ID","Name","Street","City/Town","State/Province Code","Zip/Postal Code","Country","First Name","Last Name","Contact Email","Contact Phone","Established","Phone","Most Common Email","Cuisines (Regional)","Price Range") |> 
-  mutate(Languge = "Chinese",
-         Format = "3D Card")
+brizo_us_zh <- brizo_us_zh |>
+  select("Snowball Map", "ID", "Name", "Street", "City/Town", "State/Province Code", "Zip/Postal Code", "Country", "First Name", "Last Name", "Contact Email", "Contact Phone", "Established", "Phone", "Most Common Email", "Cuisines (Regional)", "Price Range") |>
+  mutate(
+    Languge = "Chinese",
+    Format = "3D Card"
+  )
 
 
-brizo <- rbind(brizo_can,brizo_us_eng,brizo_us_zh)
-rm(brizo_can,brizo_us_eng,brizo_us_zh)
+brizo <- rbind(brizo_can, brizo_us_eng, brizo_us_zh)
+rm(brizo_can, brizo_us_eng, brizo_us_zh)
 
-brizo <- brizo |> 
+brizo <- brizo |>
   mutate(Drop = "Drop 1")
 
 ## Print Shop
@@ -63,14 +69,14 @@ print(common_cols)
 
 
 # remember to group drop
-Old_List_US_a |> 
-  select("Snowball Map",	"Restaurant Name",	"Address",	"City",	"Zipcode",	"State",	"Phone") |> 
-  mutate(List = "Old List")->Old_List_US_a
+Old_List_US_a |>
+  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
+  mutate(List = "Old List") -> Old_List_US_a
 
-Print_Shop_US_a |> 
-  select("Snowball Map",	"Restaurant Name",	"Address",	"City",	"Zipcode",	"State",	"Phone") |> 
-  mutate(List = "Printshop")->Print_Shop_US_a
+Print_Shop_US_a |>
+  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
+  mutate(List = "Printshop") -> Print_Shop_US_a
 
-List_Brizo_US_a |> 
-  select("Snowball Map",	"Restaurant Name",	"Address",	"City",	"Zipcode",	"State",	"Phone") |> 
-  mutate(List = "Brizo")->List_Brizo_US_a
+List_Brizo_US_a |>
+  select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
+  mutate(List = "Brizo") -> List_Brizo_US_a

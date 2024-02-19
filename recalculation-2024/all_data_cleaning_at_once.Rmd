@@ -9,10 +9,10 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-	echo = TRUE,
-	message = FALSE,
-	warning = FALSE,
-	results = "hide"
+  echo = TRUE,
+  message = FALSE,
+  warning = FALSE,
+  results = "hide"
 )
 ```
 
@@ -22,7 +22,6 @@ knitr::opts_chunk$set(
 -   [DM Salesfroce Lead Report](https://wondersco.lightning.force.com/lightning/r/Report/00OUo000000x6z3MAA/view?queryScope=userFolders)
 
 ```{r echo=TRUE}
-
 library(tidyverse)
 
 library(salesforcer)
@@ -31,45 +30,47 @@ library(httr)
 
 config <- yaml::read_yaml("../../../API/config.yml")
 
-sf_auth(username = config$salesforce$username,
-        password = config$salesforce$password,
-        security_token   = config$salesforce$security_token)
+sf_auth(
+  username = config$salesforce$username,
+  password = config$salesforce$password,
+  security_token = config$salesforce$security_token
+)
 
 
 my_report_id <- "00OUo000000x6z3MAA"
 marketing_mel_mql_report <- sf_run_report(my_report_id)
 
 
-  
+
 my_report_id2 <- "00OUo0000017gpxMAA"
 contact_campaign_report <- sf_run_report(my_report_id2)
 
-rm(my_report_id, my_report_id2,config)
+rm(my_report_id, my_report_id2, config)
 
 # contact_campaign_report <- read_csv("funnel_update/contact_campaign_report.csv")
 # marketing_mel_mql_report <- read_csv("funnel_update/marketing_mel_mql_report.csv")
 
-contact_campaign_report <- contact_campaign_report  |> 
-  mutate(`Mobile - Primary`= str_replace_all(`Mobile - Primary`, "[^\\d]", "")) |> 
-  rename_with(~str_replace_all(.,"[:punct:]","")) |>
-  rename_with(~ str_replace_all(., " ", "_"))  |>
-  rename_with(~ paste0(., "_Contact_Report"))  
+contact_campaign_report <- contact_campaign_report |>
+  mutate(`Mobile - Primary` = str_replace_all(`Mobile - Primary`, "[^\\d]", "")) |>
+  rename_with(~ str_replace_all(., "[:punct:]", "")) |>
+  rename_with(~ str_replace_all(., " ", "_")) |>
+  rename_with(~ paste0(., "_Contact_Report"))
 
-marketing_mel_mql_report <- marketing_mel_mql_report |> 
-  mutate(`Mobile - Primary`= str_replace_all(`Mobile - Primary`, "[^\\d]", "")) |> 
-  rename_with(~str_replace_all(.,"[:punct:]","")) |>
-  rename_with(~ str_replace_all(., " ", "_"))  |>
+marketing_mel_mql_report <- marketing_mel_mql_report |>
+  mutate(`Mobile - Primary` = str_replace_all(`Mobile - Primary`, "[^\\d]", "")) |>
+  rename_with(~ str_replace_all(., "[:punct:]", "")) |>
+  rename_with(~ str_replace_all(., " ", "_")) |>
   rename_with(~ paste0(., "_SFDC"))
 
-lead_na_counts <- map_df(marketing_mel_mql_report, ~sum(is.na(.))) |> 
-  pivot_longer( cols = everything(), names_to = "column_name", values_to = "counts")
-lead_ducplicates <- map_df(marketing_mel_mql_report, ~sum(duplicated(.))) |> 
-  pivot_longer( cols = everything(), names_to = "column_name", values_to = "counts")
+lead_na_counts <- map_df(marketing_mel_mql_report, ~ sum(is.na(.))) |>
+  pivot_longer(cols = everything(), names_to = "column_name", values_to = "counts")
+lead_ducplicates <- map_df(marketing_mel_mql_report, ~ sum(duplicated(.))) |>
+  pivot_longer(cols = everything(), names_to = "column_name", values_to = "counts")
 
-camp_rep_na_counts <- map_df(contact_campaign_report, ~sum(is.na(.))) |> 
-  pivot_longer( cols = everything(), names_to = "column_name", values_to = "counts")
-camp_rep_duplicates <- map_df(contact_campaign_report, ~sum(duplicated(.))) |> 
-  pivot_longer( cols = everything(), names_to = "column_name", values_to = "counts")
+camp_rep_na_counts <- map_df(contact_campaign_report, ~ sum(is.na(.))) |>
+  pivot_longer(cols = everything(), names_to = "column_name", values_to = "counts")
+camp_rep_duplicates <- map_df(contact_campaign_report, ~ sum(duplicated(.))) |>
+  pivot_longer(cols = everything(), names_to = "column_name", values_to = "counts")
 
 
 rm(lead_ducplicates)
@@ -77,44 +78,48 @@ rm(lead_na_counts)
 rm(camp_rep_na_counts)
 rm(camp_rep_duplicates)
 
-campaign_report_join <- contact_campaign_report |> 
-  select(Campaign_Name_Contact_Report, Mobile__Primary_Contact_Report, Account_ID_Contact_Report) |> 
+campaign_report_join <- contact_campaign_report |>
+  select(Campaign_Name_Contact_Report, Mobile__Primary_Contact_Report, Account_ID_Contact_Report) |>
   distinct(Account_ID_Contact_Report, .keep_all = TRUE)
 
-no_latest_campaign <- marketing_mel_mql_report |> 
-  filter(Latest_Campaign_SFDC=="-") |> 
-  left_join(campaign_report_join, 
-            by = c("Account_ID_SFDC" = "Account_ID_Contact_Report",
-                   "Mobile__Primary_SFDC" = "Mobile__Primary_Contact_Report")) |> 
+no_latest_campaign <- marketing_mel_mql_report |>
+  filter(Latest_Campaign_SFDC == "-") |>
+  left_join(campaign_report_join,
+    by = c(
+      "Account_ID_SFDC" = "Account_ID_Contact_Report",
+      "Mobile__Primary_SFDC" = "Mobile__Primary_Contact_Report"
+    )
+  ) |>
   mutate(campaign_name = coalesce(Latest_Campaign_SFDC, Campaign_Name_Contact_Report))
 
 has_latest_campaign <- marketing_mel_mql_report |>
-  filter(Latest_Campaign_SFDC!="-") |> 
-  mutate(Campaign_Name_Contact_Report = "",
-         campaign_name = Latest_Campaign_SFDC)
+  filter(Latest_Campaign_SFDC != "-") |>
+  mutate(
+    Campaign_Name_Contact_Report = "",
+    campaign_name = Latest_Campaign_SFDC
+  )
 
-final_campaign_sfdc_lead = rbind(no_latest_campaign,has_latest_campaign)
-  
+final_campaign_sfdc_lead <- rbind(no_latest_campaign, has_latest_campaign)
+
 write_csv(final_campaign_sfdc_lead, "clean_data/final_campaign_sfdc_lead.csv")
 
 #########################
 
 
 duplicated_ids <- contact_campaign_report %>%
-  filter(duplicated(Account_ID_Contact_Report) | 
-           duplicated(Account_ID_Contact_Report, fromLast = TRUE)) %>%
+  filter(duplicated(Account_ID_Contact_Report) |
+    duplicated(Account_ID_Contact_Report, fromLast = TRUE)) %>%
   pull(Account_ID_Contact_Report) %>%
   unique()
 
 # Step 2: Filter the original dataframe to only include rows with duplicated Account_ID_Contact_Report
 duplicate_ids_contact <- contact_campaign_report %>%
   filter(Account_ID_Contact_Report %in% duplicated_ids)
- 
+
 rm(campaign_report_join, contact_campaign_report, marketing_mel_mql_report)
 
 
 write_csv(duplicate_ids_contact, "clean_data/duplicate_ids_contact.csv")
-
 ```
 
 # 2. Cleaning inbound call and group them
@@ -123,7 +128,6 @@ write_csv(duplicate_ids_contact, "clean_data/duplicate_ids_contact.csv")
 -   [Inbound Call Copy (Linked Original)](https://docs.google.com/spreadsheets/d/1WPDjz4PYMIpy278YNE3zScqtFnFdYivP3AXAtEalpnA/edit#gid=671250877)
 
 ```{r echo=TRUE}
-
 library(tidyverse)
 library(googlesheets4)
 
@@ -134,50 +138,54 @@ gs4_auth_configure(path = "C:/Users/skt/Documents/API/client_secret_106310109124
 inbound_call <- read_sheet("1WPDjz4PYMIpy278YNE3zScqtFnFdYivP3AXAtEalpnA", sheet = "Inbound Call Notes - Raw Data (Linked)")
 
 
-inboundcall <- inbound_call |> 
-  mutate(Date=as.character(Date)) |> 
-  filter(str_count(Date)==10) |> 
-  mutate(Date = as.POSIXct(as.numeric(Date), origin = "1970-01-01", tz = "UTC")) |> 
-  filter(Date >= as.POSIXct("2023-10-01", tz = "UTC") & Date <= as.POSIXct("2024-02-15", tz = "UTC")) |> 
-  mutate(Date = format(Date, "%m-%d-%Y"),
-         Date = mdy(Date)) |> 
+inboundcall <- inbound_call |>
+  mutate(Date = as.character(Date)) |>
+  filter(str_count(Date) == 10) |>
+  mutate(Date = as.POSIXct(as.numeric(Date), origin = "1970-01-01", tz = "UTC")) |>
+  filter(Date >= as.POSIXct("2023-10-01", tz = "UTC") & Date <= as.POSIXct("2024-02-15", tz = "UTC")) |>
+  mutate(
+    Date = format(Date, "%m-%d-%Y"),
+    Date = mdy(Date)
+  ) |>
   arrange(desc(Date))
 
 rm(inbound_call)
 
-inboundcall <- inboundcall |> 
-  filter((str_detect(`Extension Channel`,"DM") | str_detect(`Channel Collected`,"DM")) & `Lead Status`!= "Internal") |> 
-  mutate(Campaign_by_Month = case_when(
-    Date >= mdy("10-01-2023") & Date <= mdy("10-17-2023") ~ "oct-drop1",
-    Date >= mdy("10-18-2023") & Date <= mdy("11-04-2023") ~ "oct-drop2",
-    Date >= mdy("11-05-2023") & Date <= mdy("11-22-2023") ~ "nov-drop1",
-    Date >= mdy("11-23-2023") & Date <= mdy("12-04-2023") ~ "nov-drop1",
-    Date >= mdy("12-05-2023") & Date <= mdy("12-13-2023") ~ "dec-drop1",
-    Date >= mdy("12-14-2023") & Date <= mdy("12-27-2023") ~ "dec-drop2",
-    Date >= mdy("12-28-2023") & Date <= mdy("01-31-2024") ~ "January",
-    Date >= mdy("02-01-2024") & Date <= mdy("02-15-2024") ~ "Febuary",
-    TRUE ~ NA_character_
-  ),
-  Campaign_Tags = case_when(
-    str_detect(`Campaign Sent`, "October") ~ "oct_freetrail",
-    str_detect(`Campaign Sent`, "AirfryerEnvelope") ~ "nov-drop1env",
-    str_detect(`Campaign Sent`, "AirfryerV6") ~ "nov-drop2",
-    # Repeated condition for "AirfryerV6" removed
-    str_detect(`Campaign Sent`, "Airfryer") ~ "nov-drop1tridfold",
-    str_detect(`Campaign Sent`, "ChristmasUSDrop1") ~ "dec-Drop1",
-    str_detect(`Campaign Sent`, "ChristmasUSDrop2") ~ "dec-Drop2", # Presumably meant dec-Drop2
-    str_detect(`Campaign Sent`, "ChristmasV2") ~ "dec-drop1can",
-    str_detect(`Campaign Sent`, "DecemberEng") ~ "dec-drop1eng",
-    str_detect(`Campaign Sent`, "JanV1") ~ "jan_brizo_us",
-    str_detect(`Campaign Sent`, "JanV2") ~ "jan_oldlist_us",
-    str_detect(`Campaign Sent`, "JanV3") ~ "jan_printshop_us",
-    str_detect(`Campaign Sent`, "JanV4") ~ "jan_brizo_can",
-    str_detect(`Campaign Sent`, "JanV5") ~ "jan_oldlist_can",
-    str_detect(`Campaign Sent`, "JanV6") ~ "jan_print_can",
-    TRUE ~ NA_character_)) |> 
+inboundcall <- inboundcall |>
+  filter((str_detect(`Extension Channel`, "DM") | str_detect(`Channel Collected`, "DM")) & `Lead Status` != "Internal") |>
+  mutate(
+    Campaign_by_Month = case_when(
+      Date >= mdy("10-01-2023") & Date <= mdy("10-17-2023") ~ "oct-drop1",
+      Date >= mdy("10-18-2023") & Date <= mdy("11-04-2023") ~ "oct-drop2",
+      Date >= mdy("11-05-2023") & Date <= mdy("11-22-2023") ~ "nov-drop1",
+      Date >= mdy("11-23-2023") & Date <= mdy("12-04-2023") ~ "nov-drop1",
+      Date >= mdy("12-05-2023") & Date <= mdy("12-13-2023") ~ "dec-drop1",
+      Date >= mdy("12-14-2023") & Date <= mdy("12-27-2023") ~ "dec-drop2",
+      Date >= mdy("12-28-2023") & Date <= mdy("01-31-2024") ~ "January",
+      Date >= mdy("02-01-2024") & Date <= mdy("02-15-2024") ~ "Febuary",
+      TRUE ~ NA_character_
+    ),
+    Campaign_Tags = case_when(
+      str_detect(`Campaign Sent`, "October") ~ "oct_freetrail",
+      str_detect(`Campaign Sent`, "AirfryerEnvelope") ~ "nov-drop1env",
+      str_detect(`Campaign Sent`, "AirfryerV6") ~ "nov-drop2",
+      # Repeated condition for "AirfryerV6" removed
+      str_detect(`Campaign Sent`, "Airfryer") ~ "nov-drop1tridfold",
+      str_detect(`Campaign Sent`, "ChristmasUSDrop1") ~ "dec-Drop1",
+      str_detect(`Campaign Sent`, "ChristmasUSDrop2") ~ "dec-Drop2", # Presumably meant dec-Drop2
+      str_detect(`Campaign Sent`, "ChristmasV2") ~ "dec-drop1can",
+      str_detect(`Campaign Sent`, "DecemberEng") ~ "dec-drop1eng",
+      str_detect(`Campaign Sent`, "JanV1") ~ "jan_brizo_us",
+      str_detect(`Campaign Sent`, "JanV2") ~ "jan_oldlist_us",
+      str_detect(`Campaign Sent`, "JanV3") ~ "jan_printshop_us",
+      str_detect(`Campaign Sent`, "JanV4") ~ "jan_brizo_can",
+      str_detect(`Campaign Sent`, "JanV5") ~ "jan_oldlist_can",
+      str_detect(`Campaign Sent`, "JanV6") ~ "jan_print_can",
+      TRUE ~ NA_character_
+    )
+  ) |>
   select(Date, `Extension Channel`, `Channel Collected`, `Campaign Sent`, Campaign_by_Month, Campaign_Tags, `Extension Number`, Phone, everything())
 
 
 write_csv(inboundcall, "clean_data/inbound_call.csv")
-
 ```
