@@ -1,10 +1,13 @@
 library(tidyverse)
+library(googlesheets4)
+
+
+gs4_auth_configure(path = "C:/Users/skt/Documents/API/client_secret_1063101091245-a8k1e24l8h2aukvjthrbq0gbneu878su.apps.googleusercontent.com.json")
 
 ## Brizo
-brizo_us_zh <- read_csv("december-dm-2023/raw-data/list source/Brizo - US (Chinese 1-41968).csv")
-brizo_us_eng <- read_csv("december-dm-2023/raw-data/list source/New folder/Brizo - US (English 49079-56183).csv")
-brizo_can <- read_csv("december-dm-2023/raw-data/list source/New folder/Brizo - CAN (Chinese 41969-49078).csv")
-
+brizo_us_zh <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - US (Chinese 1-41968)")
+brizo_us_eng <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - US (English 49079-56183)")
+brizo_can <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - CAN (Chinese 41969-49078)")
 cols_brizo_us_zh <- colnames(brizo_us_zh)
 cols_brizo_us_eng <- colnames(brizo_us_eng)
 cols_brizo_can <- colnames(brizo_can)
@@ -41,9 +44,16 @@ rm(brizo_can, brizo_us_eng, brizo_us_zh)
 brizo <- brizo |>
   mutate(Drop = "Drop 1")
 
-## Print Shop
-printshop_us <- read_csv("december-dm-2023/raw-data/list source/Print Shop - US (Chinese 56184-80086).csv")
-printshop_can <- read_csv("december-dm-2023/raw-data/list source/New folder/Print Shop - CAN (80087-80422).csv")
+######## Print Shop ##############
+
+
+
+
+
+printshop_us <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Print Shop - US (Chinese 56184-80086)")
+printshop_can <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Print Shop - CAN (80087-80422)")
+
+
 
 cols_printshop_us <- colnames(printshop_us)
 cols_printshop_can <- colnames(printshop_can)
@@ -53,8 +63,23 @@ common_cols <- Reduce(intersect, list(cols_printshop_can, cols_printshop_us))
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 oldlist_can <- read_csv("december-dm-2023/raw-data/list source/New folder/Old List - CAN (96270-101360).csv")
 oldlist_us <- read_csv("december-dm-2023/raw-data/list source/Old List - US (80423-96269).csv")
+oldlist_can <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Old List - CAN (96270-101360)")
+oldlist_us <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Old List - US (80423-96269)")
 
 ##
 cols_oldlist_can <- colnames(oldlist_can)
@@ -65,6 +90,10 @@ common_cols <- Reduce(intersect, list(cols_brizo_us_zh, cols_brizo_us_eng, cols_
 
 # Print the common column names
 print(common_cols)
+
+
+
+
 
 
 
@@ -80,3 +109,6 @@ Print_Shop_US_a |>
 List_Brizo_US_a |>
   select("Snowball Map", "Restaurant Name", "Address", "City", "Zipcode", "State", "Phone") |>
   mutate(List = "Brizo") -> List_Brizo_US_a
+
+
+
