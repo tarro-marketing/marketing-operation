@@ -4,7 +4,8 @@ library(googlesheets4)
 
 gs4_auth_configure(path = "C:/Users/skt/Documents/API/client_secret_1063101091245-a8k1e24l8h2aukvjthrbq0gbneu878su.apps.googleusercontent.com.json")
 
-## Brizo
+################################## Brizo #######################################
+
 brizo_us_zh <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - US (Chinese 1-41968)")
 brizo_us_eng <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - US (English 49079-56183)")
 brizo_can <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Brizo - CAN (Chinese 41969-49078)")
@@ -44,11 +45,7 @@ rm(brizo_can, brizo_us_eng, brizo_us_zh)
 brizo <- brizo |>
   mutate(Drop = "Drop 1")
 
-######## Print Shop ##############
-
-
-
-
+################################ Print Shop ####################################
 
 printshop_us <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Print Shop - US (Chinese 56184-80086)")
 printshop_can <- read_sheet("1KrqQVRliHxPxnyELyejgy7_2ZvHsPdDglLoPOwksEIs", sheet = "Print Shop - CAN (80087-80422)")
@@ -61,20 +58,32 @@ cols_printshop_can <- colnames(printshop_can)
 common_cols <- Reduce(intersect, list(cols_printshop_can, cols_printshop_us))
 
 
+printshop_can |> 
+  rename(Phone2 ="...12",Phone3 ="...13",
+         Phone4 ="...14",Phone5 ="...15",
+         Phone6 ="...16",Phone7 ="...17",
+         Phone8 ="...18",Phone9 ="...19",
+         Phone1 = `Phone Number(s)`)|> 
+  select(-c(Phone2,Phone3,Phone4,Phone5,Phone6,Phone7,Phone8,Phone9)) -> printshop_can
+
+printshop_us |> 
+  rename(Phone1 = `Phone Number(s)`) |> 
+  mutate(Zipcode = as.character(Zipcode)) -> printshop_us
 
 
+common_cols <- Reduce(intersect, list(printshop_can, printshop_us))
 
+rm(cols_printshop_can, cols_printshop_us, common_cols)
 
+printshop <-  rbind(printshop_can, printshop_us)
 
+rm(printshop_can, printshop_us)
 
+printshop <- printshop |> 
+  mutate(Country = recode(Country, CAN = "Canada",
+                           US = "United States"))
 
-
-
-
-
-
-
-
+############################## old list ########################################
 
 oldlist_can <- read_csv("december-dm-2023/raw-data/list source/New folder/Old List - CAN (96270-101360).csv")
 oldlist_us <- read_csv("december-dm-2023/raw-data/list source/Old List - US (80423-96269).csv")
