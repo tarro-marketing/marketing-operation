@@ -16,7 +16,9 @@ sfdc_lead__final <- final_campaign_sfdc_lead |>
     Created_By_SFDC == "JotForm Integration User" ~ "jotform",
     Created_By_SFDC == "Carlito Academia" ~ "qr scan",
     TRUE ~ "inbound call"
-  )) ### create mql, sql, cw label
+  ))  |> 
+  mutate(across(where(is.character), ~recode(., "-" = NA_character_)))
+
 
 rm(final_campaign_sfdc_lead)
 
@@ -65,27 +67,16 @@ sfdc_leads_c <- sfdc_leads |>
       Created_Date_SFDC >= mdy("12-05-2023") & Created_Date_SFDC <= mdy("12-13-2023") ~ "dec-drop1",
       Created_Date_SFDC >= mdy("12-14-2023") & Created_Date_SFDC <= mdy("12-27-2023") ~ "dec-drop2",
       Created_Date_SFDC >= mdy("12-28-2023") & Created_Date_SFDC <= mdy("01-31-2024") ~ "January",
-      Created_Date_SFDC >= mdy("02-01-2024") & Created_Date_SFDC <= mdy("02-15-2024") ~ "Febuary",
+      Created_Date_SFDC >= mdy("02-01-2024") & Created_Date_SFDC <= mdy("02-19-2024") ~ "Febuary",
       TRUE ~ NA_character_
     ),
-    Campaign_Tags = case_when(
-      str_detect(Latest_Campaign_SFDC, "October") ~ "oct_freetrail",
-      str_detect(Latest_Campaign_SFDC, "AirfryerEnvelope") ~ "nov-drop1env",
-      str_detect(Latest_Campaign_SFDC, "AirfryerV6") ~ "nov-drop2",
-      # Repeated condition for "AirfryerV6" removed
-      str_detect(Latest_Campaign_SFDC, "Airfryer") ~ "nov-drop1tridfold",
-      str_detect(Latest_Campaign_SFDC, "ChristmasUSDrop1") ~ "dec-Drop1",
-      str_detect(Latest_Campaign_SFDC, "ChristmasUSDrop2") ~ "dec-Drop2", # Presumably meant dec-Drop2
-      str_detect(Latest_Campaign_SFDC, "ChristmasV2") ~ "dec-drop1can",
-      str_detect(Latest_Campaign_SFDC, "DecemberEng") ~ "dec-drop1eng",
-      str_detect(Latest_Campaign_SFDC, "JanV1") ~ "jan_brizo_us",
-      str_detect(Latest_Campaign_SFDC, "JanV2") ~ "jan_oldlist_us",
-      str_detect(Latest_Campaign_SFDC, "JanV3") ~ "jan_printshop_us",
-      str_detect(Latest_Campaign_SFDC, "JanV4") ~ "jan_brizo_can",
-      str_detect(Latest_Campaign_SFDC, "JanV5") ~ "jan_oldlist_can",
-      str_detect(Latest_Campaign_SFDC, "JanV6") ~ "jan_print_can",
-      TRUE ~ NA_character_
-    )
-  )
+    Latest_Campaign_SFDC = recode(Latest_Campaign_SFDC,
+                                  "-" = NA_character_),
+    Campaign_Tags = coalesce(Latest_Campaign_SFDC, Campaign_Name_Contact_Report, Campaign_by_Month)) |> 
+  drop_na(Campaign_Tags)
+
 
 rm(sfdc_leads)
+
+write_csv(sfdc_leads_c, "clean_data/final_campaign_sfdc_lead_v2.csv")
+
