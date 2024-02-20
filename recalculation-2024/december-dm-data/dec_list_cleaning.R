@@ -55,37 +55,43 @@ cols_printshop_can <- colnames(printshop_can)
 common_cols <- Reduce(intersect, list(cols_printshop_can, cols_printshop_us))
 
 
-printshop_can |> 
-  rename(Phone2 ="...12",Phone3 ="...13",
-         Phone4 ="...14",Phone5 ="...15",
-         Phone6 ="...16",Phone7 ="...17",
-         Phone8 ="...18",Phone9 ="...19",
-         Phone1 = `Phone Number(s)`) -> printshop_can
+printshop_can |>
+  rename(
+    Phone2 = "...12", Phone3 = "...13",
+    Phone4 = "...14", Phone5 = "...15",
+    Phone6 = "...16", Phone7 = "...17",
+    Phone8 = "...18", Phone9 = "...19",
+    Phone1 = `Phone Number(s)`
+  ) -> printshop_can
 
-printshop_us |> 
-  rename(Phone1 = `Phone Number(s)`) |> 
-  mutate(Zipcode = as.character(Zipcode),
-         Phone2 = NA,
-         Phone3 = NA,
-         Phone4 = NA,
-         Phone5 = NA,
-         Phone6 = NA,
-         Phone7 = NA,
-         Phone8 = NA,
-         Phone9 = NA ) -> printshop_us
+printshop_us |>
+  rename(Phone1 = `Phone Number(s)`) |>
+  mutate(
+    Zipcode = as.character(Zipcode),
+    Phone2 = NA,
+    Phone3 = NA,
+    Phone4 = NA,
+    Phone5 = NA,
+    Phone6 = NA,
+    Phone7 = NA,
+    Phone8 = NA,
+    Phone9 = NA
+  ) -> printshop_us
 
 
 common_cols <- Reduce(intersect, list(printshop_can, printshop_us))
 
 rm(cols_printshop_can, cols_printshop_us, common_cols)
 
-printshop <-  rbind(printshop_can, printshop_us)
+printshop <- rbind(printshop_can, printshop_us)
 
 rm(printshop_can, printshop_us)
 
-printshop <- printshop |> 
-  mutate(Country = recode(Country, CAN = "Canada",
-                           US = "United States"))
+printshop <- printshop |>
+  mutate(Country = recode(Country,
+    CAN = "Canada",
+    US = "United States"
+  ))
 
 ############################## old list ########################################
 
@@ -110,11 +116,12 @@ oldlist_can2 <- oldlist_can %>%
   rename(
     Last_Name = "CBE Contact Last Name",
     First_Name = "CBE Contact First Name",
-    Address = Street,  # Assuming "Street" should match "Mailing Address"
+    Address = Street, # Assuming "Street" should match "Mailing Address"
     Phone_Number = "Phone Number",
     ZipCode = Zip,
     Ethnicity_Description = "CBE Vendor Ethnicity Description",
-    Restaurant_Name = Name) |> 
+    Restaurant_Name = Name
+  ) |>
   mutate(Country = "Canada")
 
 oldlist_us2 <- oldlist_us %>%
@@ -126,10 +133,10 @@ oldlist_us2 <- oldlist_us %>%
     Zip_Code = `Zip Code`,
     Ethnicity_Description = `Ethnic Code Desc`,
     City = `City Name`,
-    Restaurant_Name=`Restaurant Name`,
+    Restaurant_Name = `Restaurant Name`,
     Category = "Ethnic Code Desc",
     ZipCode = `Zip Code`
-  ) |> 
+  ) |>
   mutate(Country = "United States")
 
 rm(oldlist_can, oldlist_us)
@@ -140,11 +147,13 @@ oldlist_can3 <- oldlist_can2 %>%
 
 # Assuming 'CBE Location Employment Size Description' is only in oldlist_can and needs to be added to oldlist_us
 oldlist_us3 <- oldlist_us2 %>%
-  mutate(`CBE Location Employment Size Description` = NA,
-         Price = NA,
-         Ethnicity_Description = Category,
-         Restaurant_Name = as.character(Restaurant_Name),
-         ZipCode = as.character(ZipCode))
+  mutate(
+    `CBE Location Employment Size Description` = NA,
+    Price = NA,
+    Ethnicity_Description = Category,
+    Restaurant_Name = as.character(Restaurant_Name),
+    ZipCode = as.character(ZipCode)
+  )
 
 rm(oldlist_can2, oldlist_us2)
 
@@ -152,21 +161,21 @@ oldlist_us4 <- oldlist_us3 %>% select(names(oldlist_can3))
 
 oldlist <- bind_rows(oldlist_can3, oldlist_us4)
 
-rm(oldlist_can3, oldlist_us3,oldlist_us4)
+rm(oldlist_can3, oldlist_us3, oldlist_us4)
 
 
 
 ########################### lists combined - sam list ##########################
 
-  
-cols_brizo = colnames(brizo)
-cols_printshop = colnames(printshop)
-cols_list = colnames(oldlist)
-  
-  
-commom_cols = Reduce(intersect, list(cols_brizo, cols_printshop, cols_list))
-  
-  
+
+cols_brizo <- colnames(brizo)
+cols_printshop <- colnames(printshop)
+cols_list <- colnames(oldlist)
+
+
+commom_cols <- Reduce(intersect, list(cols_brizo, cols_printshop, cols_list))
+
+
 library(dplyr)
 
 # Renaming for 'brizo'
@@ -179,15 +188,15 @@ brizo2 <- brizo %>%
     ZipCode = `Zip/Postal Code`,
     FirstName = `First Name`,
     LastName = `Last Name`,
-    PhoneNumber = Phone,  
+    PhoneNumber = Phone,
     Email = `Most Common Email`,
   ) %>%
   mutate(
-    `Dupe (Y/N)` = NA,  
+    `Dupe (Y/N)` = NA,
     `Match Address` = NA,
     PhoneNumber = as.character(PhoneNumber)
-  ) |> 
-  select(-c("Contact Email","Contact Phone"))
+  ) |>
+  select(-c("Contact Email", "Contact Phone"))
 
 
 # Renaming for 'printshop'
@@ -195,18 +204,18 @@ printshop2 <- printshop %>%
   rename(
     RestaurantName = `Restaurant Name`,
     ZipCode = Zipcode,
-    PhoneNumber = Phone1  
+    PhoneNumber = Phone1
   ) %>%
   mutate(
     FirstName = NA,
     LastName = NA,
     Email = NA,
     `Established` = NA,
-    `Cuisines (Regional)`= NA, 
-    `Price Range`= NA, 
-    `Languge`= NA, 
-    `Format`= NA, 
-    `Drop`= NA,
+    `Cuisines (Regional)` = NA,
+    `Price Range` = NA,
+    `Languge` = NA,
+    `Format` = NA,
+    `Drop` = NA,
     Languge = NA,
     Format = "3D Card",
     ID = NA,
@@ -222,14 +231,14 @@ oldlist2 <- oldlist %>%
     EthnicityDescription = Ethnicity_Description
   ) %>%
   mutate(
-    `Dupe (Y/N)` = NA,  
+    `Dupe (Y/N)` = NA,
     `Match Address` = NA,
     Email = NA,
-    `Cuisines (Regional)`= NA, 
-    `Price Range`= NA, 
-    `Languge`= NA, 
-    `Format`= NA, 
-    `Drop`= NA,
+    `Cuisines (Regional)` = NA,
+    `Price Range` = NA,
+    `Languge` = NA,
+    `Format` = NA,
+    `Drop` = NA,
     Languge = NA,
     Format = "3D Card",
     ID = NA,
@@ -240,10 +249,9 @@ oldlist2 <- oldlist %>%
 printshop_aligned <- printshop2 %>% select(names(brizo2))
 oldlist_aligned <- oldlist2 %>% select(names(brizo2))
 
-  
+
 sam_list <- bind_rows(brizo2, printshop_aligned, oldlist_aligned)
 
 
 
 write_csv(sam_list, "recalculation-2024/december-dm-data/sam_list_december.csv")
-
