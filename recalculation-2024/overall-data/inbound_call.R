@@ -62,10 +62,12 @@ inboundcall <- inboundcall |>
   mutate(Phone = na_if(Phone, "")) |> 
   mutate(`Extension Number` = as.character(`Extension Number`),
     `Extension Number` = recode(`Extension Number`, 
-                                     "NULL" = NA_character_))
+                                     "NULL" = NA_character_)) |> 
+  mutate(Campaign_Tags = case_when(is.na(Campaign_Tags) ~ Campaign_by_Month,
+                                   TRUE ~ Campaign_Tags))
   
 
   
 
 
-write_csv(inboundcall, "recalculation-2024/clean_data/inbound_call.csv")
+write_csv(inboundcall, "recalculation-2024/clean_data/inbound_call.csv", na ="")
