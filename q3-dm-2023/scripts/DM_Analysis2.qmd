@@ -1,0 +1,312 @@
+---
+title: "DM Analysis"
+author:  Yuka Chen
+ <center>  Marketing Operation Inter @ Wonders<center> 
+format: pdf
+editor: visual
+---
+
+# Direct Mail Analysis
+
+
+## 1. Objective
+The objective of this project is to understand the target audience's reasons for not filling out the information after scanning the QR code. Since the data set is limited in size for each campaign, I have combined all data from all campaign who have scanned the QR code and group based on they fill the information form or not.
+
+## 2. Limitation
+
+As the data sources for June and July used three different formats, it was quite challenging to clean and combine the data. Moreover, it seems that most utm_id values do not match with our Snowball_ID.
+
+## 3. Highlights of the report
+
+- People in California, Colorado, Illinois, Indiana, and Wisconsin are more likely to fill in information than people living in other states.
+- Individuals who own or manage Asian Fusion and Chinese restaurants are more likely to fill in the information than those associated with other types of restaurants.
+- The role of the target audience does not have any significant relationship with filling in the information.
+
+## 4. Take
+
+People in certain demography do have some kind of relationship to do with their decision on filling the information after they scanned our QR code.
+
+
+## 5. What's Next?
+- **Find out the data transformation discrepancy (why not match) so we can predict clients behavior better**
+- Run other machine learning model to see if we can get better predictions
+- Run the prediction models by campaigns (i.e. June/July audience info contains Gender, Owner Ethnicity)
+- Clean/Maintain the data well so we can run a model better - better prediction. We could calculate the possibility of a person to fill the information by their personal background and restaurants information.
+- find out pattern on people who didn't scan vs scanned (break the first barrier)
+
+
+```{r, include=FALSE , warning=FALSE }
+
+#### load package
+
+library(tidyverse)
+library(kableExtra)
+library(janitor)
+library(broom)
+library(plotly)
+library(sjPlot)
+library(sjmisc)
+library(sjlabelled)
+library(stargazer)
+library(modelsummary)
+#041741
+#1f64b1
+#d9f1fb
+#80cef4
+#ddf5fd
+#95d3f4
+#041443
+#1e64b1
+
+```
+
+```{r , include=FALSE , warning=FALSE }
+test <- read_csv("final_data/test.csv")
+```
+
+# Analysis 
+## 6. Data Summary Table and Visualization
+
+```{r echo=FALSE , warning=FALSE }
+## plot theme to match company color
+theme_background =   theme(panel.background = element_rect(fill = "#041741"),
+        panel.grid.major = element_blank(),
+        legend.position="none",
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
+```
+
+### State
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  filter(Country=="USA") |> 
+  group_by(State, fill_info) |> 
+  summarise(count = n(), .groups = "drop" )-> fillinfo_state
+
+fillinfo_state |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(`Didn't Fill`)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() %>%
+  kable_styling()
+```
+
+
+
+
+
+```{r echo=FALSE , warning=FALSE }
+fillinfo_state |> 
+  filter(count > 4) |> 
+  arrange(desc(count)) |> 
+ggplot(aes(x = reorder(State, count),  y = count, fill = State)) +
+  geom_col(color = 'white', fill = 'white')+
+  theme_background +
+  coord_flip()+
+  facet_grid(~fill_info)+
+   labs(fill = "Recipients' Ethnicity",
+       title = "Recipients who scanned the QR code but didn't fill up the information",
+       subtitle = "State",
+       y = "Counts",
+       x = "States")
+```
+
+
+### Categorty
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(New_Category, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+```
+
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(New_Category) |> 
+  ggplot(aes(x = reorder(factor(New_Category), New_Category, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+  theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = " by Restaurant Category", 
+       x = "", 
+       y = "Counts")+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_grid(~fill_info)
+
+
+```
+
+By plot, we can see that Cajun Seafood and Japanese restaurants scanned the QR code, but didn't fill in the information. 
+
+### Contact_Title
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(Contact_Title, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+```
+
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(Contact_Title) |> 
+  filter(Contact_Title!= "Unknown") |> 
+ggplot(aes(reorder(factor(Contact_Title), Contact_Title, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+ theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = "by Contact_Title",
+            x = "", 
+       y = "Counts") +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_grid(~fill_info)
+
+
+```
+
+
+### Information Source
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(InfoSource, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+```
+
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(InfoSource) |> 
+  ggplot(aes(x = reorder(factor(InfoSource), InfoSource, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+  theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = " by Information Source", 
+       x = "Information Source", 
+       y = "Counts")+
+  facet_grid(~fill_info)
+
+
+```
+
+## 7. Models
+
+I ran logistic regression to predict which group are more likely to fill up the information. Unfortunately I had issues when I run a model with all variables and wasn't able to debug it. So instead I ran model separately. The downside of doing it is that we can not consider the possibilities of when all information happened overrall.
+
+### 7.1 predicting by State
+```{r echo=FALSE , warning=FALSE }
+
+State_model <- glm(fill_info_num ~ State, data = test, family = binomial(logit))
+summary(State_model)
+```
+##### Interpretation
+
+- **CA, CO, IL, IN, WI has a positive coefficient with a small p-value ( <0.05, *), which suggests that people in these states have higher log-odds of the response variable compared to the reference state.**
+
+
+- The coefficients for each state (e.g., AL, AR, AZ, etc.) indicate how much the likelihood of people filling in information in that specific state differs from the baseline state.
+
+- For example, in the case of CA, it has a positive coefficient of approximately 1.21924, and a p-value of 0.0323 (*), suggesting that people in California are more likely to fill in information after scanning the QR code compared to the baseline state.
+
+- Conversely, for IL, it has a positive coefficient of approximately 1.74297, and a p-value of 0.0274 (*), indicating that people in Illinois are also more likely to fill in information compared to the baseline state.
+
+- MS has a positive coefficient of approximately 3.17805, and a p-value of 0.0124 (*), implying that people in Mississippi have a significantly higher likelihood of filling in information compared to the baseline state.
+
+- CO, IN, NC, and WI also have positive coefficients with p-values less than 0.05 (*), suggesting that people in these states are more likely to fill in information compared to the baseline.
+
+- On the other hand, some states like AZ, CT, DE, IA, KS, KY, NM, ND, ON, OR, TX, UT, VT, and WY have coefficients with p-values greater than 0.05, indicating that there is no statistically significant difference in the likelihood of people filling in information in these states compared to the baseline state.
+
+- Overall, this analysis examines how the state variable relates to the likelihood of people filling in information after scanning a QR code, with positive coefficients suggesting a higher likelihood, and negative coefficients suggesting a lower likelihood, compared to the baseline state (which is not explicitly mentioned in the output).
+
+### 7.2 predicting by Established Years
+```{r echo=FALSE , warning=FALSE }
+Year_Established_model <- glm(fill_info_num ~ Year_Established, data = test, family = binomial(logit))
+summary(Year_Established_model)
+```
+##### Interpretation
+- The result shows the restaurant established years are not statistically significant for our data (target audiences). It could due to lack of data points.
+
+
+
+### 7.3 predicting by Employee_Size (*)
+```{r echo=FALSE , warning=FALSE }
+
+Employee_Size_model <- glm(fill_info_num ~ Employee_Size, data = test, family = binomial(logit))
+summary(Employee_Size_model)
+```
+##### Interpretation
+
+- The coefficient for Employee_Size is approximately -0.01194, and it has a relatively high p-value (0.74), indicating that there is no statistically significant relationship between the number of employees in a restaurant and the likelihood of people filling in information after scanning the QR code. The p-value is greater than the conventional significance level (0.05), suggesting that the variable "Employee_Size" does not have a significant impact on the outcome.
+
+- Overall, based on this analysis, the number of employees in a restaurant does not appear to be a significant predictor of whether people will fill in information after scanning the QR code, at least when considering data excluding cases.
+
+
+### 7.4 predicting by restaurant types
+```{r echo=FALSE , warning=FALSE }
+New_Category_model <- glm(fill_info_num ~ New_Category, data = test[test$New_Category!="Unknown", ], family = binomial(logit))
+summary(New_Category_model)
+```
+##### Interpretation
+
+- In this logistic regression analysis, the "Intercept" represents the baseline likelihood of people filling in information after scanning a QR code when the New_Category is Asian Fusion.
+
+- The coefficient for Asian Fusion is  -2.1848, and it has a low p-value (***), indicating that when the restaurant's category is Asian Fusion, there is a statistically significant decrease in the likelihood of people filling in information compared to other types of restaurants.
+
+- The coefficient for Chinese is 1.5482, and it has a low p-value (***), indicating that when the restaurant's category is Chinese, there is a statistically significant increase in the likelihood of people filling in information compared to the baseline "Asian Fusion" category.
+
+- Other New_Category coefficients, such as "Cajun Seafood,Japanese, Sichuan, Szechuan, Taiwanese, and Unknown, do not show a statistically significant influence on the likelihood of people filling in information, as their p-values are higher than the conventional significance level (0.05).
+
+- Overall, the type of restaurant category, specifically "Chinese," appears to be associated with a statistically significant increase in the likelihood of people filling in information after scanning the QR code, compared to the baseline category, "Asian Fusion."
+
+
+```{r echo=FALSE , warning=FALSE }
+Contact_Title_model <- glm(fill_info_num ~ Contact_Title, data = test[test$Contact_Title!="Unknown", ], family = binomial(logit))
+summary(Contact_Title_model)
+```
+
+- The *Intercept* represents the baseline likelihood of filling in information when all other factors are zero. It's not statistically significant, indicating that the baseline likelihood is not significantly different from zero.
+
+- The coefficients for different Contact_Title categories show how each category influences the likelihood of filling in information compared to a reference category (which is not explicitly mentioned). However, the p-values for most coefficients are very high, indicating that these categories don't significantly impact the likelihood of filling in information.
+
+- **Overall, the Contact_Title variable, as included in the model, doesn't appear to have a statistically significant influence on whether people fill in information after scanning the QR code.**
+
+```{r echo=FALSE , warning=FALSE }
+Campaign_model <- glm(fill_info_num ~ Campaign, data = test, family = binomial(logit))
+summary(Campaign_model) 
+```
+##### Interpretation
+
+- The model used Iphone campaign as a base line, meaning the intercept, and the estimated coefficient is -2.4587. It is statistically significant (p-value < 0.001), suggesting that this campaign has a significant negative impact on the log-odds of fill_info_num. As the coefficient is negative, being part of the Iphone campaign is associated with lower odds of fill_info_num being 1.
+
+- For the Free Trail campaign, the estimated coefficient is -0.5617. However, it is not statistically significant (p-value = 0.454), indicating that this campaign does not have a significant impact on the log-odds of fill_info_num.
+
+- **For the Mooncake campaign, the estimated coefficient is 2.1813. It is statistically significant (p-value < 0.001), suggesting that this campaign has a significant positive impact on the log-odds of fill_info_num. As the coefficient is positive, being part of the Mooncake campaign is associated with higher odds of fill_info_num being 1.**
+
+- For the New Restaurant campaign, the estimated coefficient is -14.1074. However, it is not statistically significant (p-value = 0.977), indicating that this campaign does not have a significant impact on the log-odds of fill_info_num.
+
+- For the Summer campaign, the estimated coefficient is -0.8184. However, it is not statistically significant (p-value = 0.273), indicating that this campaign does not have a significant impact on the log-odds of fill_info_num.
+
+
+Overall, the Mooncake campaign appears to have a significant positive impact on the likelihood of people filling the information form (= fill_info_num being 1), while the other campaigns do not seem to have a significant effect based on their p-values
+

@@ -1,0 +1,774 @@
+fill_info,State,Contact_Title,Year_Established,Employee_Size,Country,Campaign_Name,New_Category
+No,DC,Unkown,1970,9,USA,Apple,Unknown
+No,DC,Unkown,1970,9,USA,Apple,Unknown
+Yes,NJ,Unknown,1988,4,USA,Apple,Unknown
+No,CA,Unkown,1988,9,USA,Apple,Unknown
+No,MA,Unkown,1994,9,USA,Apple,Unknown
+No,MA,Unkown,1994,9,USA,Apple,Unknown
+No,NY,Unknown,1996,4,USA,Apple,Unknown
+No,NY,Unkown,1997,9,USA,Apple,Unknown
+No,CA,Unkown,2000,4,USA,Apple,Unknown
+No,GA,Unknown,2002,4,USA,Apple,Unknown
+Yes,OH,Unknown,2003,4,USA,Apple,Unknown
+No,FL,Unkown,2003,4,USA,Apple,Unknown
+No,UT,Unkown,2007,9,USA,Apple,Unknown
+No,NV,Unknown,2008,9,USA,Apple,Unknown
+No,TX,Unkown,2009,19,USA,Apple,Unknown
+No,IL,Unkown,2012,9,USA,Apple,Unknown
+No,MN,Unkown,2013,4,USA,Apple,Unknown
+No,TX,Unkown,2015,19,USA,Apple,Unknown
+No,TX,Unknown,2016,9,USA,Apple,Unknown
+No,FL,Unkown,2017,9,USA,Apple,Unknown
+No,FL,Unkown,2017,9,USA,Apple,Unknown
+No,FL,Unkown,2017,9,USA,Apple,Unknown
+No,FL,Unknown,2018,4,USA,Apple,Unknown
+No,NV,Unknown,2021,9,USA,Apple,Unknown
+No,CA,Unknown,NA,1,USA,Apple,Chinese
+No,NJ,Unknown,NA,1,USA,Apple,Japanese
+No,LA,Unknown,NA,1,USA,Apple,Japanese
+No,MI,Unknown,NA,2,USA,Apple,Japanese
+No,OR,Unknown,NA,2,USA,Apple,Chinese
+No,OR,Unknown,NA,2,USA,Apple,Chinese
+No,NJ,Unknown,NA,2,USA,Apple,Cajun_Seafood
+No,CA,Unkown,NA,2,USA,Apple,Chinese
+No,SC,Unknown,NA,2,USA,Apple,Chinese
+No,FL,Unknown,NA,2,USA,Apple,Chinese
+No,CA,Unknown,NA,3,USA,Apple,Japanese
+No,DE,Unknown,NA,3,USA,Apple,Chinese
+No,VA,Unknown,NA,3,USA,Apple,Asian_Fusion
+No,AB,Unkown,NA,4,Canada,Apple,Chinese
+No,ON,Unkown,NA,4,Canada,Apple,Chinese
+No,ON,Unkown,NA,4,Canada,Apple,Chinese
+No,ON,Unkown,NA,4,Canada,Apple,Japanese
+No,ON,Unkown,NA,4,Canada,Apple,Japanese
+No,ON,Unkown,NA,4,Canada,Apple,Japanese
+No,ON,Unkown,NA,4,Canada,Apple,Chinese
+No,AB,Unkown,NA,4,Canada,Apple,Chinese
+Yes,BC,Unkown,NA,4,Canada,Apple,Chinese
+No,BC,Unkown,NA,4,Canada,Apple,Chinese
+No,BC,Unkown,NA,4,Canada,Apple,Chinese
+No,ND,Unkown,NA,4,USA,Apple,Unknown
+No,IN,Unkown,NA,4,USA,Apple,Unknown
+No,OH,Unkown,NA,4,USA,Apple,Unknown
+No,TX,Unkown,NA,4,USA,Apple,Unknown
+No,NY,Unknown,NA,4,USA,Apple,Unknown
+No,MO,Unknown,NA,4,USA,Apple,Unknown
+No,LA,Unknown,NA,4,USA,Apple,Unknown
+No,IN,Unknown,NA,4,USA,Apple,Unknown
+No,NJ,Unknown,NA,4,USA,Apple,Unknown
+No,PA,Unknown,NA,4,USA,Apple,Unknown
+Yes,GA,Unknown,NA,4,USA,Apple,Unknown
+No,VA,Unknown,NA,4,USA,Apple,Unknown
+Yes,NC,Unkown,NA,4,USA,Apple,Unknown
+No,CA,Unkown,NA,4,USA,Apple,Unknown
+No,NY,Unknown,NA,4,USA,Apple,Unknown
+No,TN,Unkown,NA,4,USA,Apple,Japanese
+No,OH,Unkown,NA,4,USA,Apple,Cajun_Seafood
+No,CA,Unknown,NA,4,USA,Apple,Chinese
+No,GA,Unkown,NA,4,USA,Apple,Unknown
+No,TX,Unkown,NA,4,USA,Apple,Unknown
+Yes,FL,Unkown,NA,4,USA,Apple,Unknown
+No,NY,Unkown,NA,4,USA,Apple,Unknown
+No,FL,Unkown,NA,4,USA,Apple,Unknown
+No,CA,Unkown,NA,4,USA,Apple,Unknown
+No,NY,Unkown,NA,4,USA,Apple,Unknown
+No,CA,Unkown,NA,4,USA,Apple,Unknown
+No,VA,Unkown,NA,4,USA,Apple,Unknown
+No,IN,Unkown,NA,4,USA,Apple,Unknown
+No,FL,Unkown,NA,4,USA,Apple,Unknown
+No,FL,Unkown,NA,4,USA,Apple,Unknown
+No,NV,Unkown,NA,4,USA,Apple,Unknown
+Yes,NY,Unkown,NA,4,USA,Apple,Unknown
+No,PA,Unkown,NA,4,USA,Apple,Unknown
+No,MO,Unkown,NA,4,USA,Apple,Unknown
+No,MA,Unkown,NA,4,USA,Apple,Unknown
+No,OK,Unkown,NA,4,USA,Apple,Unknown
+No,OK,Unkown,NA,4,USA,Apple,Unknown
+No,MI,Unkown,NA,4,USA,Apple,Unknown
+No,NY,Unkown,NA,4,USA,Apple,Unknown
+No,MI,Unkown,NA,4,USA,Apple,Unknown
+No,AZ,Unknown,NA,5,USA,Apple,Chinese
+No,MA,Unknown,NA,5,USA,Apple,Chinese
+No,MA,Unknown,NA,5,USA,Apple,Chinese
+No,MA,Unknown,NA,5,USA,Apple,Chinese
+No,CA,Unknown,NA,5,USA,Apple,Japanese
+No,NY,Unkown,NA,5,USA,Apple,Chinese
+No,OH,Unknown,NA,6,USA,Apple,Cajun_Seafood
+No,SC,Unknown,NA,6,USA,Apple,Japanese
+No,TN,Unknown,NA,6,USA,Apple,Chinese
+Yes,FL,Unknown,NA,6,USA,Apple,Cajun_Seafood
+No,CA,Unkown,NA,6,USA,Apple,Chinese
+No,CA,Unkown,NA,6,USA,Apple,Japanese
+No,NY,Unknown,NA,7,USA,Apple,Cajun_Seafood
+No,NY,Unknown,NA,7,USA,Apple,Cajun_Seafood
+No,VA,Unknown,NA,7,USA,Apple,Japanese
+No,CA,Unknown,NA,7,USA,Apple,Japanese
+No,CA,Unkown,NA,7,USA,Apple,Japanese
+Yes,CA,Unknown,NA,7,USA,Apple,Japanese
+No,OR,Unknown,NA,7,USA,Apple,Japanese
+No,NJ,Unknown,NA,7,USA,Apple,Japanese
+No,AZ,Unknown,NA,7,USA,Apple,Chinese
+Yes,CA,Unknown,NA,7,USA,Apple,Chinese
+Yes,CA,Unknown,NA,7,USA,Apple,Chinese
+Yes,CA,Unknown,NA,7,USA,Apple,Chinese
+Yes,CA,Unknown,NA,7,USA,Apple,Chinese
+No,CA,Unknown,NA,7,USA,Apple,Japanese
+No,CA,Unknown,NA,7,USA,Apple,Japanese
+No,MS,Unknown,NA,7,USA,Apple,Cajun_Seafood
+No,NY,Unknown,NA,7,USA,Apple,Japanese
+No,NY,Unknown,NA,7,USA,Apple,Chinese
+No,CA,Unkown,NA,7,USA,Apple,Chinese
+No,VA,Unknown,NA,7,USA,Apple,Japanese
+No,UT,Unkown,NA,7,USA,Apple,Japanese
+No,WA,Unknown,NA,7,USA,Apple,Japanese
+No,CA,Unknown,NA,7,USA,Apple,Chinese
+No,CA,Unkown,NA,7,USA,Apple,Chinese
+No,MA,Unkown,NA,8,USA,Apple,Japanese
+Yes,UT,Unknown,NA,8,USA,Apple,Japanese
+No,AZ,Unknown,NA,8,USA,Apple,Japanese
+No,CA,Unknown,NA,8,USA,Apple,Chinese
+No,KS,Unkown,NA,8,USA,Apple,Japanese
+No,KS,Unkown,NA,8,USA,Apple,Japanese
+No,CA,Unknown,NA,8,USA,Apple,Chinese
+No,CA,Unknown,NA,8,USA,Apple,Chinese
+No,CA,Unknown,NA,8,USA,Apple,Japanese
+No,MA,Unkown,NA,8,USA,Apple,Japanese
+No,MA,Unkown,NA,8,USA,Apple,Japanese
+No,MA,Unkown,NA,8,USA,Apple,Japanese
+No,TX,Unknown,NA,8,USA,Apple,Asian_Fusion
+No,GA,Unknown,NA,8,USA,Apple,Chinese
+No,ON,Unkown,NA,9,Canada,Apple,Chinese
+No,ON,Unknown,NA,9,Canada,Apple,Japanese
+Yes,AB,Unknown,NA,9,Canada,Apple,Chinese
+Yes,AB,Unknown,NA,9,Canada,Apple,Chinese
+Yes,AB,Unknown,NA,9,Canada,Apple,Chinese
+No,BC,Unknown,NA,9,Canada,Apple,Japanese
+No,BC,Unknown,NA,9,Canada,Apple,Japanese
+No,BC,Unkown,NA,9,Canada,Apple,Japanese
+No,BC,Unkown,NA,9,Canada,Apple,Chinese
+No,BC,Unkown,NA,9,Canada,Apple,Chinese
+No,BC,Unkown,NA,9,Canada,Apple,Chinese
+No,ON,Unkown,NA,9,Canada,Apple,Chinese
+No,ON,Unkown,NA,9,Canada,Apple,Chinese
+No,ON,Unkown,NA,9,Canada,Apple,Chinese
+No,ON,Unkown,NA,9,Canada,Apple,Chinese
+No,SK,Unkown,NA,9,Canada,Apple,Chinese
+No,NY,Unknown,NA,9,USA,Apple,Unknown
+No,FL,Unknown,NA,9,USA,Apple,Unknown
+No,TN,Unknown,NA,9,USA,Apple,Unknown
+No,TN,Unknown,NA,9,USA,Apple,Unknown
+No,TN,Unknown,NA,9,USA,Apple,Unknown
+No,TN,Unknown,NA,9,USA,Apple,Unknown
+No,TN,Unknown,NA,9,USA,Apple,Unknown
+No,WA,Unknown,NA,9,USA,Apple,Unknown
+No,OK,Unknown,NA,9,USA,Apple,Unknown
+No,PA,Unknown,NA,9,USA,Apple,Unknown
+No,TX,Unknown,NA,9,USA,Apple,Unknown
+No,FL,Unknown,NA,9,USA,Apple,Unknown
+No,FL,Unknown,NA,9,USA,Apple,Chinese
+No,CA,Unknown,NA,9,USA,Apple,Japanese
+No,CA,Unkown,NA,9,USA,Apple,Chinese
+No,SC,Unknown,NA,9,USA,Apple,Japanese
+No,CA,Unkown,NA,9,USA,Apple,Japanese
+No,AL,Unkown,NA,9,USA,Apple,Cajun_Seafood
+No,CA,Unkown,NA,9,USA,Apple,Japanese
+No,OH,Unkown,NA,9,USA,Apple,Cajun_Seafood
+No,CO,Unknown,NA,9,USA,Apple,Chinese
+No,VA,Unkown,NA,9,USA,Apple,Unknown
+No,VA,Unkown,NA,9,USA,Apple,Unknown
+No,CO,Unkown,NA,9,USA,Apple,Unknown
+No,FL,Unkown,NA,9,USA,Apple,Unknown
+No,FL,Unkown,NA,9,USA,Apple,Unknown
+No,FL,Unkown,NA,9,USA,Apple,Unknown
+No,FL,Unkown,NA,9,USA,Apple,Unknown
+No,LA,Unkown,NA,9,USA,Apple,Unknown
+No,CA,Unkown,NA,9,USA,Apple,Unknown
+No,VA,Unkown,NA,9,USA,Apple,Unknown
+No,GA,Unkown,NA,9,USA,Apple,Unknown
+No,IL,Unkown,NA,9,USA,Apple,Unknown
+No,TX,Unkown,NA,9,USA,Apple,Unknown
+No,PA,Unkown,NA,9,USA,Apple,Unknown
+No,CA,Unkown,NA,9,USA,Apple,Unknown
+No,CA,Unkown,NA,9,USA,Apple,Unknown
+No,FL,Unkown,NA,9,USA,Apple,Unknown
+No,VA,Unknown,NA,10,USA,Apple,Chinese
+No,OR,Unknown,NA,10,USA,Apple,Japanese
+No,OR,Unknown,NA,10,USA,Apple,Japanese
+No,CA,Unknown,NA,10,USA,Apple,Asian_Fusion
+No,NJ,Unkown,NA,10,USA,Apple,Chinese
+No,NE,Unknown,NA,10,USA,Apple,Chinese
+No,NJ,Unkown,NA,10,USA,Apple,Chinese
+No,LA,Unknown,NA,10,USA,Apple,Cajun_Seafood
+No,SC,Unknown,NA,11,USA,Apple,Japanese
+No,CA,Unknown,NA,11,USA,Apple,Chinese
+No,WV,Unknown,NA,11,USA,Apple,Japanese
+No,FL,Unknown,NA,11,USA,Apple,Chinese
+No,TX,Unkown,NA,12,USA,Apple,Chinese
+No,TX,Unknown,NA,12,USA,Apple,Japanese
+No,NJ,Unkown,NA,12,USA,Apple,Japanese
+No,FL,Unknown,NA,12,USA,Apple,Japanese
+No,NC,Unknown,NA,13,USA,Apple,Japanese
+No,CA,Unknown,NA,13,USA,Apple,Chinese
+No,IN,Unknown,NA,13,USA,Apple,Japanese
+Yes,TX,Unknown,NA,15,USA,Apple,Chinese
+No,IA,Unknown,NA,17,USA,Apple,Japanese
+No,PA,Unknown,NA,18,USA,Apple,Chinese
+No,AZ,Unkown,NA,18,USA,Apple,Japanese
+No,BC,Unknown,NA,19,Canada,Apple,Chinese
+No,ON,Unkown,NA,19,Canada,Apple,Chinese
+No,BC,Unkown,NA,19,Canada,Apple,Chinese
+No,VA,Unknown,NA,19,USA,Apple,Unknown
+No,MI,Unkown,NA,19,USA,Apple,Unknown
+No,MI,Unkown,NA,19,USA,Apple,Unknown
+No,NE,Unkown,NA,19,USA,Apple,Unknown
+No,VA,Unkown,NA,19,USA,Apple,Unknown
+No,TX,Unkown,NA,19,USA,Apple,Unknown
+Yes,IL,Unknown,NA,20,USA,Apple,Chinese
+No,IN,Unknown,NA,28,USA,Apple,Japanese
+No,CA,Unknown,NA,28,USA,Apple,Asian_Fusion
+No,MA,Unknown,NA,33,USA,Apple,Japanese
+No,PA,Unknown,NA,35,USA,Apple,Japanese
+No,NS,Unkown,NA,49,Canada,Apple,Chinese
+No,BC,Unkown,NA,49,Canada,Apple,Chinese
+No,MA,Unkown,NA,49,USA,Apple,Unknown
+No,MA,Unkown,NA,49,USA,Apple,Unknown
+No,ON,Unknown,NA,99,Canada,Apple,Chinese
+No,MN,Unkown,NA,49,USA,Apple,Unknown
+No,SC,Unkown,NA,49,USA,Apple,Unknown
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+Yes,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Japanese
+Yes,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Japanese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,ON,Unknown,NA,NA,Canada,Apple,Chinese
+No,MB,Unknown,NA,NA,Canada,Apple,Chinese
+No,AB,Unknown,NA,NA,Canada,Apple,Chinese
+No,AB,Unknown,NA,NA,Canada,Apple,Cajun Seafood
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Chinese
+No,AB,Unknown,NA,NA,Canada,Apple,Chinese
+No,AB,Unknown,NA,NA,Canada,Apple,Cajun Seafood
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,AB,Unknown,NA,NA,Canada,Apple,Japanese
+No,BC,Unknown,NA,NA,Canada,Apple,Chinese
+No,BC,Unknown,NA,NA,Canada,Apple,Chinese
+No,BC,Unknown,NA,NA,Canada,Apple,Japanese
+No,BC,Unknown,NA,NA,Canada,Apple,Japanese
+No,BC,Unknown,NA,NA,Canada,Apple,Japanese
+No,BC,Unknown,NA,NA,Canada,Apple,Chinese
+Yes,BC,Unknown,NA,NA,Canada,Apple,Chinese
+No,BC,Unknown,NA,NA,Canada,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Unknown
+No,MI,Unknown,NA,NA,USA,Apple,Unknown
+Yes,CO,Unknown,NA,NA,USA,Apple,Unknown
+No,WA,Unknown,NA,NA,USA,Apple,Unknown
+Yes,FL,Unknown,NA,NA,USA,Apple,Unknown
+No,OH,Unknown,NA,NA,USA,Apple,Unknown
+No,VT,Unknown,NA,NA,USA,Apple,Unknown
+No,CO,Unknown,NA,NA,USA,Apple,Unknown
+No,VA,Unknown,NA,NA,USA,Apple,Unknown
+No,VA,Unknown,NA,NA,USA,Apple,Unknown
+No,FL,Unknown,NA,NA,USA,Apple,Unknown
+No,CA,Unknown,NA,NA,USA,Apple,Unknown
+No,MA,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+Yes,ME,Unknown,NA,NA,USA,Apple,Chinese
+No,CT,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,NJ,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,NJ,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,NJ,Unknown,NA,NA,USA,Apple,Chinese
+Yes,NY,Unknown,NA,NA,USA,Apple,Chinese
+No,PA,Unknown,NA,NA,USA,Apple,Unknown
+No,PA,Unknown,NA,NA,USA,Apple,Japanese
+No,PA,Unknown,NA,NA,USA,Apple,Japanese
+No,PA,Unknown,NA,NA,USA,Apple,Japanese
+No,PA,Unknown,NA,NA,USA,Apple,Japanese
+No,PA,Unknown,NA,NA,USA,Apple,Japanese
+No,DE,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,MD,Unknown,NA,NA,USA,Apple,Unknown
+No,MD,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,MD,Unknown,NA,NA,USA,Apple,Unknown
+No,VA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,NC,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,NC,Unknown,NA,NA,USA,Apple,Japanese
+No,GA,Unknown,NA,NA,USA,Apple,Japanese
+No,GA,Unknown,NA,NA,USA,Apple,Japanese
+No,GA,Unknown,NA,NA,USA,Apple,Japanese
+No,FL,Unknown,NA,NA,USA,Apple,Japanese
+No,FL,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,FL,Unknown,NA,NA,USA,Apple,Chinese
+No,FL,Unknown,NA,NA,USA,Apple,Japanese
+No,FL,Unknown,NA,NA,USA,Apple,Japanese
+No,OH,Unknown,NA,NA,USA,Apple,Japanese
+No,OH,Unknown,NA,NA,USA,Apple,Japanese
+Yes,OH,Unknown,NA,NA,USA,Apple,Japanese
+No,OH,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,MI,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,MT,Unknown,NA,NA,USA,Apple,Japanese
+No,MT,Unknown,NA,NA,USA,Apple,Japanese
+No,MT,Unknown,NA,NA,USA,Apple,Japanese
+No,KS,Unknown,NA,NA,USA,Apple,Japanese
+No,LA,Unknown,NA,NA,USA,Apple,Japanese
+No,AR,Unknown,NA,NA,USA,Apple,Japanese
+No,AR,Unknown,NA,NA,USA,Apple,Japanese
+No,OK,Unknown,NA,NA,USA,Apple,Japanese
+No,TX,Unknown,NA,NA,USA,Apple,Japanese
+Yes,TX,Unknown,NA,NA,USA,Apple,Chinese
+No,TX,Unknown,NA,NA,USA,Apple,Unknown
+No,CO,Unknown,NA,NA,USA,Apple,Japanese
+No,UT,Unknown,NA,NA,USA,Apple,Japanese
+No,UT,Unknown,NA,NA,USA,Apple,Japanese
+No,NM,Unknown,NA,NA,USA,Apple,Unknown
+No,CA,Unknown,NA,NA,USA,Apple,Unknown
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+Yes,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Chinese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,CA,Unknown,NA,NA,USA,Apple,Japanese
+No,OR,Unknown,NA,NA,USA,Apple,Japanese
+No,OR,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+No,OR,Unknown,NA,NA,USA,Apple,Japanese
+No,OR,Unknown,NA,NA,USA,Apple,Japanese
+No,Unknown,Unknown,NA,NA,USA,Apple,Unknown
+No,NY,Unkown,NA,NA,USA,Apple,Unknown
+Didn't Fill,NJ,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,DC,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,FL,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,FL,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,MI,Unkown,2007,NA,USA,New_Restaurants,Unknown
+Didn't Fill,TX,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,CA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,CA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,NY,Unknown,2012,NA,USA,New_Restaurants,Unknown
+Didn't Fill,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,PA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,WA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,MN,Unkown,2016,NA,USA,New_Restaurants,Unknown
+Didn't Fill,MD,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,WY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+Didn't Fill,CA,Unkown,2019,NA,USA,New_Restaurants,Unknown
+Filled,QC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,MB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,NS,Unkown,1985,NA,Canada,Summer,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,NS,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,SK,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,BC,Unkown,2017,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,2014,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,NB,Unkown,2017,NA,Canada,Summer,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Filled,SK,Unkown,1985,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Summer,Asian Fusion
+Didn't Fill,QC,Unkown,1991,NA,Canada,Summer,Chinese
+Didn't Fill,NS,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Summer,Japanese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Summer,Chinese
+Didn't Fill,NL,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,NB,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,NB,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,QC,Unkown,2015,NA,Canada,Free_Trail,Japanese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,QC,Unkown,2017,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,QC,Unkown,2016,NA,Canada,Free_Trail,Japanese
+Didn't Fill,QC,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Filled,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,ON,Unkown,2014,NA,Canada,Free_Trail,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,1999,NA,Canada,Free_Trail,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,SK,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,SK,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,SK,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,SK,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,AB,Unkown,2018,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,BC,Unkown,2016,NA,Canada,Free_Trail,Asian Fusion
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Filled,BC,Unkown,NA,NA,Canada,Free_Trail,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Free_Trail,Japanese
+Didn't Fill,AL,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,AL,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,AR,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,CA,Unkown,2006,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,CA,Unkown,1996,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,1991,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,2010,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2018,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,1996,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2007,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Szechuan
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2002,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2007,NA,United States,Mooncake,Japanese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2005,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,1966,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,2012,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,CO,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,CO,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CO,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,DC,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,DC,Unkown,2005,NA,United States,Mooncake,Chinese
+Didn't Fill,FL,Unkown,2000,NA,United States,Mooncake,Chinese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,FL,Unkown,2016,NA,United States,Mooncake,Japanese
+Filled,FL,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,FL,Unkown,2019,NA,United States,Mooncake,Chinese
+Filled,FL,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,FL,Unkown,2007,NA,United States,Mooncake,Chinese
+Filled,FL,Unkown,2016,NA,United States,Mooncake,Japanese
+Didn't Fill,GA,Unkown,2010,NA,United States,Mooncake,Japanese
+Didn't Fill,IL,Unkown,1998,NA,United States,Mooncake,Japanese
+Didn't Fill,IL,Unkown,1999,NA,United States,Mooncake,Japanese
+Didn't Fill,IL,Unkown,2020,NA,United States,Mooncake,Japanese
+Filled,IL,Unkown,1991,NA,United States,Mooncake,Chinese
+Filled,IN,Unkown,1995,NA,United States,Mooncake,Chinese
+Filled,IN,Unkown,2003,NA,United States,Mooncake,Chinese
+Filled,IN,Unkown,2012,NA,United States,Mooncake,Japanese
+Didn't Fill,KY,Unkown,2021,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,LA,Unkown,1972,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,LA,Unkown,1918,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,LA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,LA,Unkown,2001,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,LA,Unkown,2004,NA,United States,Mooncake,Japanese
+Didn't Fill,LA,Unkown,1950,NA,United States,Mooncake,Asian Fusion
+Filled,LA,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,MD,Unkown,1989,NA,United States,Mooncake,Chinese
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,MD,Unkown,1990,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,MI,Unkown,1977,NA,United States,Mooncake,Chinese
+Didn't Fill,MI,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,MI,Unkown,2011,NA,United States,Mooncake,Chinese
+Didn't Fill,MI,Unkown,2004,NA,United States,Mooncake,Chinese
+Filled,MI,Unkown,2006,NA,United States,Mooncake,Chinese
+Filled,MN,Unkown,1994,NA,United States,Mooncake,Chinese
+Didn't Fill,MO,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,MO,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,MO,Unkown,1993,NA,United States,Mooncake,Chinese
+Filled,MS,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,MS,Unkown,2013,NA,United States,Mooncake,Japanese
+Filled,NC,Unkown,2004,NA,United States,Mooncake,Chinese
+Filled,NC,Unkown,2001,NA,United States,Mooncake,Chinese
+Filled,NC,Unkown,2007,NA,United States,Mooncake,Japanese
+Filled,NV,Unkown,1996,NA,United States,Mooncake,Chinese
+Didn't Fill,OH,Unkown,2014,NA,United States,Mooncake,Japanese
+Didn't Fill,OH,Unkown,2005,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,OH,Unkown,1985,NA,United States,Mooncake,Chinese
+Filled,OH,Unkown,2009,NA,United States,Mooncake,Chinese
+Filled,OH,Unkown,2012,NA,United States,Mooncake,Japanese
+Didn't Fill,OK,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,OR,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,OR,Unkown,1988,NA,United States,Mooncake,Chinese
+Didn't Fill,PA,Unkown,2012,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,2003,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,PA,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,PA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,PA,Unkown,2015,NA,United States,Mooncake,Chinese
+Didn't Fill,PA,Unkown,2001,NA,United States,Mooncake,Chinese
+Filled,SC,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,SC,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,TN,Unkown,2010,NA,United States,Mooncake,Japanese
+Filled,TN,Unkown,2007,NA,United States,Mooncake,Chinese
+Filled,TN,Unkown,2002,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,2001,NA,United States,Mooncake,Chinese
+Filled,TX,Unkown,2002,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,1993,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,TX,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,TX,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,2018,NA,United States,Mooncake,Japanese
+Didn't Fill,UT,Unkown,2010,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,UT,Unkown,2016,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,UT,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,VA,Unkown,2000,NA,United States,Mooncake,Asian Fusion
+Filled,VA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,VA,Unkown,2009,NA,United States,Mooncake,Chinese
+Filled,VA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,WA,Unkown,1995,NA,United States,Mooncake,Chinese
+Didn't Fill,WA,Unkown,2018,NA,United States,Mooncake,Chinese
+Didn't Fill,WA,Unkown,2015,NA,United States,Mooncake,Asian Fusion
+Filled,WA,Unkown,1990,NA,United States,Mooncake,Chinese
+Filled,AL,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,AL,Unkown,1993,NA,United States,Mooncake,Chinese
+Didn't Fill,AL,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,AL,Unkown,2001,NA,United States,Mooncake,Chinese
+Didn't Fill,AL,Unkown,2007,NA,United States,Mooncake,Japanese
+Filled,AR,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,AR,Unkown,2005,NA,United States,Mooncake,Cajun
+Filled,CA,Unkown,1987,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,2018,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,2004,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,2021,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,1989,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,2021,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Sichuan
+Didn't Fill,CA,Unkown,1994,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,2010,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,2019,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,CA,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,CA,Unkown,2020,NA,United States,Mooncake,Chinese
+Filled,CA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,CO,Unkown,2007,NA,United States,Mooncake,Chinese
+Didn't Fill,DC,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,DE,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,FL,Unkown,2020,NA,United States,Mooncake,Japanese
+Filled,FL,Unkown,2007,NA,United States,Mooncake,Chinese
+Didn't Fill,FL,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,FL,Unkown,2010,NA,United States,Mooncake,Chinese
+Filled,GA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,GA,Unkown,2010,NA,United States,Mooncake,Chinese
+Filled,GA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,GA,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,GA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,IL,Unkown,2007,NA,United States,Mooncake,Chinese
+Filled,IL,Unkown,2012,NA,United States,Mooncake,Japanese
+Filled,IL,Unkown,2017,NA,United States,Mooncake,Chinese
+Didn't Fill,IL,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,IL,Unkown,2002,NA,United States,Mooncake,Chinese
+Filled,IN,Unkown,2000,NA,United States,Mooncake,Chinese
+Filled,IN,Unkown,1994,NA,United States,Mooncake,Chinese
+Didn't Fill,IN,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,LA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,LA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,MD,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,MN,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,MN,Unkown,1989,NA,United States,Mooncake,Chinese
+Filled,MN,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,MO,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,MO,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,MO,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,MO,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,MS,Unkown,2003,NA,United States,Mooncake,Japanese
+Didn't Fill,NC,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,NC,Unkown,2004,NA,United States,Mooncake,Japanese
+Didn't Fill,NC,Unkown,2015,NA,United States,Mooncake,Japanese
+Didn't Fill,NC,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,NC,Unkown,2001,NA,United States,Mooncake,Chinese
+Didn't Fill,NE,Unkown,2017,NA,United States,Mooncake,Japanese
+Filled,NV,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,NV,Unkown,2008,NA,United States,Mooncake,Japanese
+Didn't Fill,NV,Unkown,2015,NA,United States,Mooncake,Japanese
+Didn't Fill,OH,Unkown,2009,NA,United States,Mooncake,Japanese
+Filled,OH,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,OH,Unkown,2007,NA,United States,Mooncake,Chinese
+Didn't Fill,OH,Unkown,1996,NA,United States,Mooncake,Chinese
+Didn't Fill,OH,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,OH,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,OR,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,PA,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Filled,PA,Unkown,1995,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,1994,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,PA,Unkown,2003,NA,United States,Mooncake,Chinese
+Filled,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,PA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,SC,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,TN,Unkown,2012,NA,United States,Mooncake,Chinese
+Didn't Fill,TN,Unkown,2006,NA,United States,Mooncake,Asian Fusion
+Filled,TN,Unkown,2009,NA,United States,Mooncake,Japanese
+Didn't Fill,TX,Unkown,NA,NA,United States,Mooncake,Asian Fusion
+Didn't Fill,TX,Unkown,NA,NA,United States,Mooncake,Cajun
+Didn't Fill,TX,Unkown,2019,NA,United States,Mooncake,Asian Fusion
+Filled,TX,Unkown,NA,NA,United States,Mooncake,Japanese
+Filled,TX,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,2017,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,TX,Unkown,2004,NA,United States,Mooncake,Japanese
+Filled,UT,Unkown,2013,NA,United States,Mooncake,Japanese
+Didn't Fill,UT,Unkown,2008,NA,United States,Mooncake,Asian Fusion
+Filled,VA,Unkown,2002,NA,United States,Mooncake,Chinese
+Filled,VA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,VA,Unkown,2004,NA,United States,Mooncake,Japanese
+Filled,WA,Unkown,2000,NA,United States,Mooncake,Chinese
+Filled,WA,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,WA,Unkown,2008,NA,United States,Mooncake,Japanese
+Didn't Fill,WA,Unkown,1987,NA,United States,Mooncake,Chinese
+Filled,WI,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,WI,Unkown,1999,NA,United States,Mooncake,Asian Fusion
+Filled,WI,Unkown,NA,NA,United States,Mooncake,Japanese
+Didn't Fill,WV,Unkown,1994,NA,United States,Mooncake,Chinese
+Filled,WV,Unkown,NA,NA,United States,Mooncake,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,BC,Unkown,1993,NA,Canada,Mooncake,Japanese
+Didn't Fill,SK,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,SK,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Filled,BC,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Filled,NB,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Taiwanese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,NL,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,MB,Unkown,2018,NA,Canada,Mooncake,Japanese
+Didn't Fill,MB,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Japanese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,BC,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,BC,Unkown,2014,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,NL,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,NL,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,NS,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,2011,NA,Canada,Mooncake,Asian Fusion
+Filled,SK,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,AB,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,NS,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,BC,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,AB,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Filled,SK,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,NS,Unkown,NA,NA,Canada,Mooncake,Chinese
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Asian Fusion
+Filled,ON,Unkown,NA,NA,Canada,Mooncake,Chinese
+Didn't Fill,ON,Unkown,NA,NA,Canada,Mooncake,Japanese
