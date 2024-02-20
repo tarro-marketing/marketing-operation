@@ -249,9 +249,11 @@ oldlist2 <- oldlist %>%
 printshop_aligned <- printshop2 %>% select(names(brizo2))
 oldlist_aligned <- oldlist2 %>% select(names(brizo2))
 
-
+rm( brizo2, printshop, printshop_aligned, printshop2, oldlist, oldlist_aligned, oldlist2, cols_brizo,cols_oldlist_can, cols_printshop, common_cols, commom_cols, brizo,cols_oldlist_us, cols_list)
 sam_list <- bind_rows(brizo2, printshop_aligned, oldlist_aligned)
 
+sam_list <- sam_list |> 
+  mutate(  PhoneNumber= str_replace_all(str_replace_all(PhoneNumber, "-", ""), "[^0-9]", "")) |> 
+  mutate(PhoneNumber = na_if(PhoneNumber, ""))
 
-
-write_csv(sam_list, "recalculation-2024/december-dm-data/sam_list_december.csv")
+write_csv(sam_list, "recalculation-2024/december-dm-data/sam_list_december.csv", na="")
