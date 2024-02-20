@@ -1,0 +1,54 @@
+---
+title: "TEST"
+author: "Yuka Chen"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(broom)
+library(tidyverse)
+library(kableExtra)
+library(janitor)
+
+#041741
+#1f64b1
+#d9f1fb
+#80cef4
+#ddf5fd
+#95d3f4
+#041443
+#1e64b1
+```
+
+
+```{r}
+test <- read_csv("final_data/test.csv")
+
+```
+```{r}
+model <- glm(fill_info_num ~ State, data = test, family = binomial(logit))
+summary(model) 
+model <- glm(fill_info_num ~ Year_Established, data = test, family = binomial(logit))
+summary(model) 
+model <- glm(fill_info_num ~ Employee_Size, data = test, family = binomial(logit))
+summary(model) 
+model <- glm(fill_info_num ~ Country, data = test, family = binomial(logit))
+summary(model) 
+model <- glm(fill_info_num ~ New_Category, data = test, family = binomial(logit))
+summary(model) 
+
+
+model <- glm(fill_info_num ~ InfoSource, data = test, family = binomial(logit))
+summary(model) 
+```
+
+
+```{r}
+
+```
+

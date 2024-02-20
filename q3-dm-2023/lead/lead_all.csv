@@ -1,0 +1,556 @@
+LEAD_ID,LEAD_SOURCE,LEAD_CHANNEL,CHANNEL_PHONE_NUMBER,MOBILE_PRIMARY,FIRST_NAME,LAST_NAME,COMPANY,MENU_TYPE,STATE,COUNTRY,CREATED_DATE,LAST_MODIFIED_DATE,LEAD_STATUS,UNQUALIFIED_REASON,REJECTED_REASON,CONVERTED_DATE,OPPORTUNITY_ID,STAGE
+00Q8b000024H3fwEAC,Marketing Inbound,Chinese Website;DM;Redbook,,(202) 834-8211,,Angela 王,House Dynasty,Chinese,VA,,2023-08-11T15:08:29Z,2023-08-22T04:30:52Z,Converted,,,2023-08-12,0068b00001SPb0tAAD,
+00Q8b000025AvAxEAK,Marketing Inbound,DM,,(164) 501-8958,,江,Sushi Station,Chinese;Japanese,ON,Canada,2023-09-18T21:13:17Z,2023-09-18T21:16:07Z,New,,,,,
+00Q8b000025AuFDEA0,Marketing Inbound,DM,,(164) 750-1895,,江,Unknown,Chinese;Japanese,ON,Canada,2023-09-18T21:16:51Z,2023-09-18T21:16:52Z,New,,,,,
+00Q8b000025AusZEAS,Marketing Inbound,DM,,(647) 501-8958,,江,Sushi Station (all you can eat),Chinese;Japanese,ON,Canada,2023-09-18T20:54:32Z,2023-09-19T03:44:14Z,Converted,,,2023-09-18,0068b00001T9ushAAB,
+00Q8b000025BF1sEAG,Marketing Inbound,DM,,(416) 882-8781,,Yanuna,Unknown,Chinese;Japanese;Other,ON,Canada,2023-09-20T04:31:19Z,2023-09-20T20:53:44Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000025BaTyEAK,Marketing Inbound,DM,,,,Unknown,No 1 House,Chinese,NY,United States,2023-09-21T21:31:40Z,2023-09-21T21:31:51Z,New,,,,,
+00Q8b000025BaZSEA0,Marketing Inbound,DM,,,,Unknown,dragons cafe,Japanese,NY,United States,2023-09-21T21:34:16Z,2023-09-21T21:34:29Z,New,,,,,
+00Q8b000025BYBeEAO,Marketing Inbound,DM,,(672) 833-9488,,Oscar,Unknown,Japanese,BC,Canada,2023-09-21T18:49:46Z,2023-09-21T21:46:36Z,SDR Working,,,,,Not sure if Ideal Client Profile
+00Q8b000025BaSxEAK,Marketing Inbound,DM,,(204) 470-2246,,朱,Peking Chinese Restaurant,Chinese,MB,Canada,2023-09-21T21:52:33Z,2023-09-22T14:17:39Z,Converted,,,2023-09-22,0068b00001TANiRAAX,
+00Q8b000025BlGpEAK,Marketing Inbound,DM,,,,Unknown,Tokyo Hibachi Express,Japanese,MO,United States,2023-09-22T17:37:09Z,2023-09-22T17:37:27Z,New,,,,,
+00Q8b000025B5tVEAS,Marketing Inbound,DM,,(506) 645-0895,,Emily,Golden Chinese Restaurant,Chinese,NB,Canada,2023-09-19T16:40:20Z,2023-09-22T18:57:53Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000025Bx1vEAC,Marketing Inbound,DM,,(716) 691-8880,,Xiaoxia,Unknown,Chinese,NY,United States,2023-09-23T15:17:31Z,2023-09-25T19:19:58Z,SDR Working,,,,,Did not pick up
+00Q8b000025BXfoEAG,Marketing Inbound,DM,,,Lean,Tan,Mamak Asian Street Food,Chinese,FL,United States,2023-09-21T17:52:41Z,2023-09-25T19:20:07Z,SDR Assigned,,,,,
+00Q8b000025BXg7EAG,Marketing Inbound,DM,,,Billy,T,RESTAURANT TAKASHI SUSHI GRILL & TAPAS,Japanese,QC,Canada,2023-09-21T17:52:41Z,2023-09-25T19:24:43Z,SDR Assigned,,,,,
+00Q8b000025BjDtEAK,Marketing Inbound,DM,,,,Unknown,Bashu Sichuan Cuisine,Chinese,ON,Canada,2023-09-22T15:09:02Z,2023-09-25T19:26:03Z,SDR Assigned,,,,,
+00Q8b000025BXfgEAG,Marketing Inbound,DM,,,Dunyong,Chen,Chen's Brother,Chinese,NJ,United States,2023-09-21T17:52:41Z,2023-09-25T19:35:40Z,SDR Assigned,,,,,
+00Q8b000025BXfhEAG,Marketing Inbound,DM,,,Yue Z.,Ou,King Wok Chinese Restaurant,Chinese,NJ,United States,2023-09-21T17:52:41Z,2023-09-25T19:36:52Z,SDR Assigned,,,,,
+00Q8b000025BZ0DEAW,Marketing Inbound,DM,,,,Unknown,Hutaoli,Chinese,NY,United States,2023-09-21T19:37:21Z,2023-09-25T19:40:03Z,SDR Assigned,,,,,
+00Q8b000025BjSnEAK,Marketing Inbound,DM,,,,Unknown,Mr Teriyaki & Miss Sushi,Japanese,BC,Canada,2023-09-22T15:16:16Z,2023-09-25T19:41:32Z,SDR Assigned,,,,,
+00Q8b000025BjTCEA0,Marketing Inbound,DM,,,,Unknown,Sushi a La Carte,Japanese,FL,United States,2023-09-22T15:16:56Z,2023-09-25T19:41:45Z,SDR Assigned,,,,,
+00Q8b000025BXg6EAG,Marketing Inbound,DM,,,Richard,du,Szechuan Restaurant,Chinese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T19:41:53Z,SDR Assigned,,,,,
+00Q8b000025BjU5EAK,Marketing Inbound,DM,,,,Unknown,La Perla Ceviches & Rolls,Japanese,FL,United States,2023-09-22T15:18:45Z,2023-09-25T19:42:04Z,SDR Assigned,,,,,
+00Q8b000025BXg5EAG,Marketing Inbound,DM,,,John,Louie,New Garden Restaurant,Chinese,ON,Canada,2023-09-21T17:52:41Z,2023-09-25T19:42:16Z,SDR Assigned,,,,,
+00Q8b000025BjXEEA0,Marketing Inbound,DM,,,,Unknown,Cheam Sushi,Japanese,BC,Canada,2023-09-22T15:21:26Z,2023-09-25T19:43:44Z,SDR Assigned,,,,,
+00Q8b000025BjZPEA0,Marketing Inbound,DM,,,,Unknown,Oh Bombay Hakka (Toronto),Chinese,ON,Canada,2023-09-22T15:23:56Z,2023-09-25T19:44:10Z,SDR Assigned,,,,,
+00Q8b000025BZ6aEAG,Marketing Inbound,DM,,,,Unknown,Kim Wei Kitchens,Chinese,NY,United States,2023-09-21T19:46:20Z,2023-09-25T19:44:30Z,SDR Assigned,,,,,
+00Q8b000025BjfIEAS,Marketing Inbound,DM,,,,Unknown,Seattle Lotus Vegetarian Restaurant,Chinese,WA,United States,2023-09-22T15:29:51Z,2023-09-25T19:45:12Z,SDR Assigned,,,,,
+00Q8b000025BXfqEAG,Marketing Inbound,DM,,,Michael,E. Turney,Papa Turney's Old Fashion BBQ,Japanese,TN,United States,2023-09-21T17:52:41Z,2023-09-25T19:47:00Z,SDR Assigned,,,,,
+00Q8b000025BXg4EAG,Marketing Inbound,DM,,,Sum,Cheng,New Dragon City Chinese Restaurant,Chinese,ON,Canada,2023-09-21T17:52:41Z,2023-09-25T19:47:43Z,SDR Assigned,,,,,
+00Q8b000025BXfpEAG,Marketing Inbound,DM,,,Hwan S.,Kim,Natural Market,Japanese,FL,United States,2023-09-21T17:52:41Z,2023-09-25T19:47:56Z,SDR Assigned,,,,,
+00Q8b000025BXg3EAG,Marketing Inbound,DM,,,Jianrong,Deng,May Gold Village,Chinese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T19:48:17Z,SDR Assigned,,,,,
+00Q8b000025Ba9eEAC,Marketing Inbound,DM,,,,Unknown,Ask Sushi,Japanese,NY,United States,2023-09-21T21:10:03Z,2023-09-25T19:48:26Z,SDR Assigned,,,,,
+00Q8b000025BjKQEA0,Marketing Inbound,DM,,,,Unknown,Four Seasons Brother's Chamorro & Soul Cuisine,Japanese,OR,United States,2023-09-22T15:37:46Z,2023-09-25T19:49:21Z,SDR Assigned,,,,,
+00Q8b000025BjyyEAC,Marketing Inbound,DM,,,,Unknown,lunchbox,Japanese,KY,United States,2023-09-22T15:43:57Z,2023-09-25T19:50:51Z,SDR Assigned,,,,,
+00Q8b000025BXfrEAG,Marketing Inbound,DM,,,Tina,Boling,Oriental Steakhouse,Japanese,KY,United States,2023-09-21T17:52:41Z,2023-09-25T19:52:45Z,SDR Assigned,,,,,
+00Q8b000025BXfiEAG,Marketing Inbound,DM,,,Chi Wai,Lau,Long River,Chinese,NY,United States,2023-09-21T17:52:41Z,2023-09-25T19:54:30Z,SDR Assigned,,,,,
+00Q8b000025BXg2EAG,Marketing Inbound,DM,,,Xiaolei,Wang,Tang Collection,Chinese,CA,United States,2023-09-21T17:52:41Z,2023-09-25T19:55:18Z,SDR Assigned,,,,,
+00Q8b000025BXftEAG,Marketing Inbound,DM,,,Chad,Lovan,Lemon Grass,Chinese,IA,United States,2023-09-21T17:52:41Z,2023-09-25T19:56:06Z,SDR Assigned,,,,,
+00Q8b000025BkxxEAC,Marketing Inbound,DM,,,,Unknown,Yoso Modern Japanese,Chinese,IA,United States,2023-09-22T17:09:36Z,2023-09-25T19:57:01Z,SDR Assigned,,,,,
+00Q8b000025BXfuEAG,Marketing Inbound,DM,,,Andy,Chen,China Max,Chinese,WI,United States,2023-09-21T17:52:41Z,2023-09-25T19:57:11Z,SDR Assigned,,,,,
+00Q8b000025BXfvEAG,Marketing Inbound,DM,,,Ying,Zheng,Uptown China / RongHua,Chinese,WI,United States,2023-09-21T17:52:41Z,2023-09-25T19:57:44Z,SDR Assigned,,,,,
+00Q8b000025BaREEA0,Marketing Inbound,DM,,,,Unknown,Albany War Room Tavern,Japanese,NY,United States,2023-09-21T21:29:09Z,2023-09-25T19:57:45Z,SDR Assigned,,,,,
+00Q8b000025BXfwEAG,Marketing Inbound,DM,,,Raj,Dhonbiyal,Indian Bistro,Chinese,IL,United States,2023-09-21T17:52:41Z,2023-09-25T20:02:09Z,SDR Assigned,,,,,
+00Q8b000025BXfxEAG,Marketing Inbound,DM,,,Seigi,Sakuma,Sakuma's Japanese Restaurant,Japanese,IL,United States,2023-09-21T17:52:41Z,2023-09-25T20:04:33Z,SDR Assigned,,,,,
+00Q8b000025BXfyEAG,Marketing Inbound,DM,,,Ray,Cho,China House,Chinese,IL,United States,2023-09-21T17:52:41Z,2023-09-25T20:05:12Z,SDR Assigned,,,,,
+00Q8b000025BXfjEAG,Marketing Inbound,DM,,,Subhash,Sethi,Taj Mahal Pittsburgh,Chinese,PA,United States,2023-09-21T17:52:41Z,2023-09-25T20:05:49Z,SDR Assigned,,,,,
+00Q8b000025BkiBEAS,Marketing Inbound,DM,,,,Unknown,Dayu Japanese Sushi & Grill,Japanese,LA,United States,2023-09-22T17:38:43Z,2023-09-25T20:05:57Z,SDR Assigned,,,,,
+00Q8b000025BXfkEAG,Marketing Inbound,DM,,,Qi,Lin,Lin Garden Chinese Restaurant,Chinese,PA,United States,2023-09-21T17:52:41Z,2023-09-25T20:07:25Z,SDR Assigned,,,,,
+00Q8b000025Bhg3EAC,Marketing Inbound,DM,,,,Unknown,Sushi Sapporo,Japanese,NB,Canada,2023-09-22T13:13:15Z,2023-09-25T20:07:50Z,SDR Assigned,,,,,
+00Q8b000025BXflEAG,Marketing Inbound,DM,,,Ji,Yang,Hing Wah Restaurant,Chinese,PA,United States,2023-09-21T17:52:41Z,2023-09-25T20:08:38Z,SDR Assigned,,,,,
+00Q8b000025Bla9EAC,Marketing Inbound,DM,,,,Unknown,The Orangehouse shrimp,Cajun,,,2023-09-22T17:44:55Z,2023-09-25T20:08:49Z,SDR Assigned,,,,,
+00Q8b000025BhjvEAC,Marketing Inbound,DM,,,,Unknown,Sunshine Cafe,Chinese,BC,Canada,2023-09-22T13:18:33Z,2023-09-25T20:09:00Z,SDR Assigned,,,,,
+00Q8b000025BlAQEA0,Marketing Inbound,DM,,,,Unknown,Coco3,Chinese,CA,United States,2023-09-22T17:11:04Z,2023-09-25T20:09:13Z,SDR Assigned,,,,,
+00Q8b000025BlAREA0,Marketing Inbound,DM,,,,Unknown,Grab and Go Seafood,Cajun,CA,United States,2023-09-22T17:18:11Z,2023-09-25T20:09:26Z,SDR Assigned,,,,,
+00Q8b000025BlGnEAK,Marketing Inbound,DM,,,,Unknown,Jasmine Thai,Chinese,MN,United States,2023-09-22T17:18:19Z,2023-09-25T20:09:35Z,SDR Assigned,,,,,
+00Q8b000025BlXPEA0,Marketing Inbound,DM,,,,Unknown,Cajun Daiquiri and Cafe,Cajun,LA,United States,2023-09-22T17:40:57Z,2023-09-25T20:09:50Z,SDR Assigned,,,,,
+00Q8b000025BXg1EAG,Marketing Inbound,DM,,,Brandon,Lee,Teriyaki Chicken Combo,Japanese,NM,United States,2023-09-21T17:52:41Z,2023-09-25T20:10:00Z,SDR Assigned,,,,,
+00Q8b000025BhniEAC,Marketing Inbound,DM,,,,unknown,"Jing Wu Ya Bo Kung Fu Duck, Northtown Way, North York, ON",Chinese,ON,Canada,2023-09-22T13:22:25Z,2023-09-25T20:10:21Z,SDR Assigned,,,,,
+00Q8b000025BhqcEAC,Marketing Inbound,DM,,,,Unknown,Guang Zhou Restaurant,,SK,Canada,2023-09-22T13:25:17Z,2023-09-25T20:10:32Z,SDR Assigned,,,,,
+00Q8b000025BhuAEAS,Marketing Inbound,DM,,,,Unknown,JIA Vietnamese and Chinese Eatery,Chinese,SK,Canada,2023-09-22T13:30:26Z,2023-09-25T20:10:47Z,SDR Assigned,,,,,
+00Q8b000025BXfzEAG,Marketing Inbound,DM,,,Kermoit,Mogilles,McHardy's Chicken & Fixin',Cajun,LA,United States,2023-09-21T17:52:41Z,2023-09-25T20:10:54Z,SDR Assigned,,,,,
+00Q8b000025BhnjEAC,Marketing Inbound,DM,,,,Unknown,Mini Japan,Japanese,BC,Canada,2023-09-22T13:33:11Z,2023-09-25T20:10:56Z,SDR Assigned,,,,,
+00Q8b000025BlaAEAS,Marketing Inbound,DM,,,,Unknown,Grab Protein Bowl Express (720 W Highland Ave),Japanese,AZ,United States,2023-09-22T17:47:41Z,2023-09-25T20:11:08Z,SDR Assigned,,,,,
+00Q8b000025Bi1aEAC,Marketing Inbound,DM,,,,Unknown,PokeAye,Japanese,BC,Canada,2023-09-22T13:37:28Z,2023-09-25T20:11:22Z,SDR Assigned,,,,,
+00Q8b000025BXg0EAG,Marketing Inbound,DM,,,Floyd,Foti,"The Fruitstand, Inc",Cajun,LA,United States,2023-09-21T17:52:41Z,2023-09-25T20:11:29Z,SDR Assigned,,,,,
+00Q8b000025Bi3REAS,Marketing Inbound,DM,,,,Unknown,Taste of China Seafood Restaurant,Chinese,ON,Canada,2023-09-22T13:40:28Z,2023-09-25T20:11:33Z,SDR Assigned,,,,,
+00Q8b000025BldXEAS,Marketing Inbound,DM,,,,Unknown,Number One Thai Fusion,Japanese,UT,United States,2023-09-22T17:50:48Z,2023-09-25T20:11:52Z,SDR Assigned,,,,,
+00Q8b000025BlcGEAS,Marketing Inbound,DM,,,,Unknown,Baileys Fried Chicken & Fish,Cajun,LA,United States,2023-09-22T17:52:32Z,2023-09-25T20:12:14Z,SDR Assigned,,,,,
+00Q8b000025Bi5rEAC,Marketing Inbound,DM,,,,Unknown,Oishidesu Ramen Shack - Lacombe,Japanese,AB,Canada,2023-09-22T13:43:49Z,2023-09-25T20:12:28Z,SDR Assigned,,,,,
+00Q8b000025Bi8WEAS,Marketing Inbound,DM,,,,Unknown,Sushi Terrace,Japanese,MB,Canada,2023-09-22T13:47:29Z,2023-09-25T20:12:38Z,SDR Assigned,,,,,
+00Q8b000025BXgKEAW,Marketing Inbound,DM,,,Henry,Tam,Dragon Fort,Chinese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:12:51Z,SDR Assigned,,,,,
+00Q8b000025BiArEAK,Marketing Inbound,DM,,,,Unknown,Super Japan,Japanese,MD,United States,2023-09-22T13:50:42Z,2023-09-25T20:13:06Z,SDR Assigned,,,,,
+00Q8b000025BXgJEAW,Marketing Inbound,DM,,,Keshav,C,Dosa Factory,Chinese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:13:24Z,SDR Assigned,,,,,
+00Q8b000025BXffEAG,Marketing Inbound,DM,,,Teng,Jiang,Cajun Boiled Seafood,Cajun,CT,United States,2023-09-21T17:52:41Z,2023-09-25T20:13:32Z,SDR Assigned,,,,,
+00Q8b000025BXgIEAW,Marketing Inbound,DM,,,Yong Yao,Zheng,Honi Honi,Japanese,QC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:13:43Z,SDR Assigned,,,,,
+00Q8b000025BiE0EAK,Marketing Inbound,DM,,,,Unknown,MOKO SUSHI,Japanese,MD,United States,2023-09-22T13:54:12Z,2023-09-25T20:13:55Z,SDR Assigned,,,,,
+00Q8b000025BmhHEAS,Marketing Inbound,DM,,,,Unknown,Golden Garden,Chinese,OK,United States,2023-09-22T19:05:53Z,2023-09-25T20:14:02Z,SDR Assigned,,,,,
+00Q8b000025BiEoEAK,Marketing Inbound,DM,,,,Unknown,Pho Com Tam 168 Vietnamese Cuisines,Chinese,ON,Canada,2023-09-22T13:55:11Z,2023-09-25T20:14:04Z,SDR Assigned,,,,,
+00Q8b000025BhPnEAK,Marketing Inbound,DM,,,,Unknown,Asian Delight,Chinese,MD,United States,2023-09-22T13:59:01Z,2023-09-25T20:14:14Z,SDR Assigned,,,,,
+00Q8b000025BiJVEA0,Marketing Inbound,DM,,,,Unknown,Sapporo Restaurant,Chinese,BC,Canada,2023-09-22T14:00:22Z,2023-09-25T20:14:27Z,SDR Assigned,,,,,
+00Q8b000025BiE1EAK,Marketing Inbound,DM,,,,Unknown,Hibachi Express Japanese Grill,Japanese,MD,United States,2023-09-22T14:01:58Z,2023-09-25T20:14:39Z,SDR Assigned,,,,,
+00Q8b000025BiMFEA0,Marketing Inbound,DM,,,,Unknown,AsianWagon,Japanese,ON,Canada,2023-09-22T14:02:55Z,2023-09-25T20:15:02Z,SDR Assigned,,,,,
+00Q8b000025BXgHEAW,Marketing Inbound,DM,,,Hanna,Park,Touhenboku Ramen,Japanese,ON,Canada,2023-09-21T17:52:41Z,2023-09-25T20:15:25Z,SDR Assigned,,,,,
+00Q8b000025BiPsEAK,Marketing Inbound,DM,,,,Unknown,Heng Ji HengJi,Chinese,ON,Canada,2023-09-22T14:07:04Z,2023-09-25T20:15:37Z,SDR Assigned,,,,,
+00Q8b000025BiQMEA0,Marketing Inbound,DM,,,,Unknown,Soul N' Vinegar,Cajun,VA,United States,2023-09-22T14:07:15Z,2023-09-25T20:15:50Z,SDR Assigned,,,,,
+00Q8b000025Bi5EEAS,Marketing Inbound,DM,,,,Unknown,Tabemashou,Japanese,ON,Canada,2023-09-22T14:09:28Z,2023-09-25T20:16:15Z,SDR Assigned,,,,,
+00Q8b000025BiXNEA0,Marketing Inbound,DM,,,,Unknown,Miss Fu In Chengdu (North York) Fu Xiao Jie Zai Cheng Du,Chinese,ON,Canada,2023-09-22T14:13:13Z,2023-09-25T20:16:39Z,SDR Assigned,,,,,
+00Q8b000025BYq8EAG,Marketing Inbound,DM,,,,Unknown,Nichinan,Japanese,NH,United States,2023-09-21T19:27:27Z,2023-09-25T20:17:14Z,SDR Assigned,,,,,
+00Q8b000025BXgGEAW,Marketing Inbound,DM,,,Gary,Poloz,Bobby Chao's Chinese Cuisine & Dim Sum,Chinese,AB,Canada,2023-09-21T17:52:41Z,2023-09-25T20:18:04Z,SDR Assigned,,,,,
+00Q8b000025BXgFEAW,Marketing Inbound,DM,,,Chung Lee,Tam,Lee's Snack & Confectionery,Chinese,NL,Canada,2023-09-21T17:52:41Z,2023-09-25T20:18:19Z,SDR Assigned,,,,,
+00Q8b000025BXfmEAG,Marketing Inbound,DM,,,Bunny,Hoffman,Bill's Hot Dog Stand,Chinese,NC,United States,2023-09-21T17:52:41Z,2023-09-25T20:19:49Z,SDR Assigned,,,,,
+00Q8b000025BiXOEA0,Marketing Inbound,DM,,,,Unknown,Northern Style Chinese Restaurant,Chinese,BC,Canada,2023-09-22T14:17:39Z,2023-09-25T20:20:03Z,SDR Assigned,,,,,
+00Q8b000025BXgEEAW,Marketing Inbound,DM,,,Frank,Teshima,Suisha Gardens Japanese Restaurant,Japanese,ON,Canada,2023-09-21T17:52:41Z,2023-09-25T20:20:44Z,SDR Assigned,,,,,
+00Q8b000025BXg8EAG,Marketing Inbound,DM,,,Zia,Jamal,Zen Japanese Restaurant,Japanese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:22:26Z,SDR Assigned,,,,,
+00Q8b000025BjKPEA0,Marketing Inbound,DM,,,,Unknown,Yonge Sushi,Japanese,ON,Canada,2023-09-22T15:06:05Z,2023-09-25T20:22:36Z,SDR Assigned,,,,,
+00Q8b000025BjGIEA0,Marketing Inbound,DM,,,,Unknown,China Garden,Chinese,FL,United States,2023-09-22T15:01:04Z,2023-09-25T20:22:53Z,SDR Assigned,,,,,
+00Q8b000025BjFFEA0,Marketing Inbound,DM,,,,Unknown,Sushi 4 Saisons,Japanese,QC,Canada,2023-09-22T15:00:07Z,2023-09-25T20:23:03Z,SDR Assigned,,,,,
+00Q8b000025BjDsEAK,Marketing Inbound,DM,,,,Unknown,Pine Tree Garden Restaurant,Chinese,ON,Canada,2023-09-22T14:58:28Z,2023-09-25T20:23:10Z,SDR Assigned,,,,,
+00Q8b000025BXfnEAG,Marketing Inbound,DM,,,Tammy,Cavagnaro,Fuji Express,Japanese,GA,United States,2023-09-21T17:52:41Z,2023-09-25T20:23:16Z,SDR Assigned,,,,,
+00Q8b000025BjBmEAK,Marketing Inbound,DM,,,,Unknown,Ramen Gaoh,Japanese,BC,Canada,2023-09-22T14:56:03Z,2023-09-25T20:23:22Z,SDR Assigned,,,,,
+00Q8b000025Bj22EAC,Marketing Inbound,DM,,,,Unknown,Nam Dae Moon Rice Cake Nan Da Men,Chinese,BC,Canada,2023-09-22T14:53:49Z,2023-09-25T20:23:42Z,SDR Assigned,,,,,
+00Q8b000025BiUkEAK,Marketing Inbound,DM,,,,Unknown,Bibab Express,Japanese,ON,Canada,2023-09-22T14:21:26Z,2023-09-25T20:23:49Z,SDR Assigned,,,,,
+00Q8b000025BXg9EAG,Marketing Inbound,DM,,,Hyeon,Lee,Sushi TE,Japanese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:23:55Z,SDR Assigned,,,,,
+00Q8b000025Bj5UEAS,Marketing Inbound,DM,,,,Unknown,Golden Crown,Chinese,ON,Canada,2023-09-22T14:49:25Z,2023-09-25T20:24:06Z,SDR Assigned,,,,,
+00Q8b000025Bj21EAC,Marketing Inbound,DM,,,,Unknown,Bombay Bar & Grill,Chinese,ON,Canada,2023-09-22T14:45:10Z,2023-09-25T20:24:15Z,SDR Assigned,,,,,
+00Q8b000025BiynEAC,Marketing Inbound,DM,,,,Unknown,Saigon,Japanese,QC,Canada,2023-09-22T14:41:25Z,2023-09-25T20:24:22Z,SDR Assigned,,,,,
+00Q8b000025Bik7EAC,Marketing Inbound,DM,,,,Unknown,Sushi House,Japanese,SK,Canada,2023-09-22T14:24:31Z,2023-09-25T20:24:29Z,SDR Assigned,,,,,
+00Q8b000025BXgDEAW,Marketing Inbound,DM,,,Cheol,Kim,Sushi House Japanese Restaurant,Japanese,BC,Canada,2023-09-21T17:52:41Z,2023-09-25T20:24:50Z,SDR Assigned,,,,,
+00Q8b000025BiprEAC,Marketing Inbound,DM,,,,Unknown,Cafe Osmo x Marusan,Japanese,QC,Canada,2023-09-22T14:36:00Z,2023-09-25T20:25:03Z,SDR Assigned,,,,,
+00Q8b000025BXgCEAW,Marketing Inbound,DM,,,,Rituraj,Swagat India Bar & Bistro,Chinese,AB,Canada,2023-09-21T17:52:41Z,2023-09-25T20:25:04Z,SDR Assigned,,,,,
+00Q8b000025BXgAEAW,Marketing Inbound,DM,,,Kenny,Wong,Egg Roll King Restaurant Inc,Chinese,NS,Canada,2023-09-21T17:52:41Z,2023-09-25T20:25:28Z,SDR Assigned,,,,,
+00Q8b000025Bie5EAC,Marketing Inbound,DM,,,,Unknown,Gourmet on the Go,Chinese,NB,Canada,2023-09-22T14:32:11Z,2023-09-25T20:25:36Z,SDR Assigned,,,,,
+00Q8b000025BXgBEAW,Marketing Inbound,DM,,,Won Young,He,Markham Sushi,Japanese,ON,Canada,2023-09-21T17:52:41Z,2023-09-25T20:25:37Z,SDR Assigned,,,,,
+00Q8b000025BoKtEAK,Marketing Inbound,DM,,(253) 848-4899,,Unknown,House of Kee,Chinese,WA,United States,2023-09-22T21:19:00Z,2023-09-25T20:30:01Z,SDR Assigned,,,,,
+00Q8b000025BoHaEAK,Marketing Inbound,DM,,(937) 252-2999,,Unknown,Rice Chinese Restaurant,Chinese,OH,United States,2023-09-22T21:15:04Z,2023-09-25T20:30:19Z,SDR Assigned,,,,,
+00Q8b000025BXfsEAG,Marketing Inbound,DM,,,Jin,le Liu,Rice Chinese Restaurant,Chinese,OH,United States,2023-09-21T17:52:41Z,2023-09-25T20:30:33Z,SDR Assigned,,,,,
+00Q8b000025BoGmEAK,Marketing Inbound,DM,,(727) 642-6365,,Unknown,Wild Blue Seafood,Cajun,FL,United States,2023-09-22T21:12:19Z,2023-09-25T20:30:42Z,SDR Assigned,,,,,
+00Q8b000025BoElEAK,Marketing Inbound,DM,,(786) 818-1397,,Unknown,Temaki Miami,Japanese,FL,United States,2023-09-22T21:09:49Z,2023-09-25T20:30:52Z,SDR Assigned,,,,,
+00Q8b000025BoD9EAK,Marketing Inbound,DM,,(770) 558-4555,,Unknown,Wang Ser Bang,Chinese,GA,United States,2023-09-22T21:07:10Z,2023-09-25T20:31:00Z,SDR Assigned,,,,,
+00Q8b000025BoAoEAK,Marketing Inbound,DM,,(610) 369-5550,,Unknown,Golden Dragon Chinese,Chinese,PA,United States,2023-09-22T21:03:45Z,2023-09-25T20:31:08Z,SDR Assigned,,,,,
+00Q8b000025Bml0EAC,Marketing Inbound,DM,,,,Unknown,Hashi Japanese Kitchen,Japanese,TX,United States,2023-09-22T19:16:39Z,2023-09-25T20:31:15Z,SDR Assigned,,,,,
+00Q8b000025BmpGEAS,Marketing Inbound,DM,,,,Unknown,Ginger Thai Cuisine,Japanese,TX,United States,2023-09-22T19:15:52Z,2023-09-25T20:31:23Z,SDR Assigned,,,,,
+00Q8b000025Bml4EAC,Marketing Inbound,DM,,,,Unknown,China Buffet,Chinese,TX,United States,2023-09-22T19:11:04Z,2023-09-25T20:31:49Z,SDR Assigned,,,,,
+00Q8b000022rAsdEAE,Marketing Inbound,DM,,(929) 318-2222,,翁,翁buffet来取,Chinese,NA,,2023-06-01T19:26:04Z,2023-06-26T19:31:57Z,New,,,,,
+00Q8b000022srlYEAQ,Marketing Inbound,DM,,(438) 226-7952,,服务咨询预约表,Unknown,,Montreal,Canada,2023-06-09T22:17:10Z,2023-07-25T16:30:13Z,New,,,,,
+00Q8b000022syKBEAY,Marketing Inbound,DM,,(902) 748-1599,,Ma,9027481599 - 加拿大,,NA,Canada,2023-06-10T19:16:54Z,2023-07-27T15:50:59Z,New,,,,,
+00Q8b000022sfWNEAY,Marketing Inbound,DM,(917) 285-2220,(917) 686-6770,,Mr.方,Unknown,Japanese,NJ,,2023-06-08T20:19:49Z,2023-07-27T16:26:51Z,New,,,,,
+00Q8b000022rWOhEAM,Marketing Inbound,DM,,(760) 207-5944,,ss,#1 CHINESE KITCHEN,,CA,,2023-06-04T01:19:41Z,2023-07-27T16:37:46Z,New,,,,,
+00Q8b000022rOA9EAM,Marketing Inbound,DM,(917) 285-2220,(604) 954-1558,,Shirley,Shirley @6049541558 (公司電話),Chinese,Vancouver,Canada,2023-06-03T01:10:38Z,2023-07-27T16:40:44Z,New,,,,,
+00Q8b000022rqCUEAY,Marketing Inbound,DM,,(646) 249-7783,jenny,li,china gourmet,,Florida,,2023-06-06T01:27:43Z,2023-07-28T16:30:04Z,New,,,,,
+00Q8b000022sRLMEA2,Marketing Inbound,DM,,(510) 424-5244,hongming,wang,yummy house,,California,,2023-06-07T23:57:20Z,2023-07-28T16:30:04Z,New,,,,,
+00Q8b000022sRuoEAE,Marketing Inbound,DM,,(236) 332-1303,Simranjit,Kaur,Asian spice,,Alabama,,2023-06-08T00:44:50Z,2023-07-29T16:30:03Z,New,,,,,
+00Q8b000022tbWxEAI,Marketing Inbound,DM,,(604) 521-1872,keven,Ma,CHina,Chinese,AL,,2023-06-13T00:48:47Z,2023-07-29T16:30:03Z,New,,,,,
+00Q8b000022srlhEAA,Marketing Inbound,DM,,(419) 378-2381,,服务咨询预约表,Unknown,,OH,USA,2023-06-09T22:17:10Z,2023-07-30T16:30:02Z,New,,,,,
+00Q8b000022wTJwEAM,Marketing Inbound,DM,(917) 285-2220,(613) 885-9829,,rose,Unknown,Other,CAN,Canada,2023-06-15T17:53:53Z,2023-07-31T17:53:55Z,New,,,,,
+00Q8b000023AzxxEAC,Marketing Inbound,DM,,(832) 914-8340,,Shawn,Shawn @8329148340,,TX,USA,2023-06-13T19:29:04Z,2023-07-31T17:59:07Z,New,,,,,
+00Q8b000022wVNBEA2,Marketing Inbound,DM,(917) 285-2220,(347) 935-6618,,Ms.王,Unknown,Japanese;Other,ID,,2023-06-15T20:32:10Z,2023-07-31T19:27:07Z,New,,,,,
+00Q8b000022srlQEAQ,Marketing Inbound,DM,,(416) 666-4188,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-07-31T19:33:33Z,New,,,,,
+00Q8b000022srlSEAQ,Marketing Inbound,DM,,(647) 873-5669,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-07-31T19:33:45Z,New,,,,,
+00Q8b000022srlbEAA,Marketing Inbound,DM,,(604) 285-3668,,服务咨询预约表,Unknown,,Vancouver,Canada,2023-06-09T22:17:10Z,2023-07-31T19:33:58Z,New,,,,,
+00Q8b000022srldEAA,Marketing Inbound,DM,,(949) 266-7633,,服务咨询预约表,Unknown,,CA,USA,2023-06-09T22:17:10Z,2023-07-31T19:34:15Z,New,,,,,
+00Q8b000022srlkEAA,Marketing Inbound,DM,,(234) 232-3232,,Unkown,Unknown,,OH,USA,2023-06-09T22:17:10Z,2023-07-31T19:34:46Z,New,,,,,
+00Q8b000022rw7REAQ,Marketing Inbound,DM,,(331) 226-2928,Agnelo,Mendes,Bombay Chopsticks,,Illinois,,2023-06-06T17:04:38Z,2023-07-31T19:37:15Z,New,,,,,
+00Q8b000022rcpTEAQ,Marketing Inbound,DM,,(207) 831-6088,Antoinette,Smothers,Toni's Touch Beauty Supply llc,,Maine,,2023-06-05T02:45:37Z,2023-07-31T19:39:26Z,New,,,,,
+00Q8b000022rThYEAU,Marketing Inbound,DM,,(403) 607-5038,Vivian,Kao,Royal Taste,,Alabama,,2023-06-03T17:26:14Z,2023-07-31T19:39:57Z,New,,,,,
+00Q8b000022vxv1EAA,Marketing Inbound,DM,,(347) 399-9231,,lin,111,,NY,,2023-06-14T20:42:34Z,2023-08-02T15:24:48Z,New,,,,,
+00Q8b000022vyNNEAY,Marketing Inbound,DM,,(845) 270-8291,,lin,111,,NY,,2023-06-14T20:44:06Z,2023-08-02T15:25:26Z,New,,,,,
+00Q8b000022xAJiEAM,Marketing Inbound,DM,,(226) 346-0198,,Eason,Unknown,Other,CAN,加拿大,2023-06-20T17:23:45Z,2023-08-05T16:30:07Z,New,,,,,
+00Q8b000022rAz5EAE,Marketing Inbound,DM,,(203) 628-5593,,Ms.林,林中日来取,Chinese;Japanese,CT,,2023-06-01T19:36:13Z,2023-08-06T16:30:06Z,New,,,,,
+00Q8b000024oJASEA2,Marketing Inbound,DM,,(347) 662-6118,,brian.feng,Hibachi Master,Japanese,NY,United States,2023-09-04T15:56:29Z,2023-09-06T15:37:28Z,SDR Complete,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000024ngWaEAI,Marketing Inbound,DM,,(818) 640-7256,,LastNameTestBVersion,Unknown,,NA,,2023-08-30T19:23:26Z,2023-09-01T20:39:24Z,AE Assigned,,,,,
+00Q8b000022vx4QEAQ,Marketing Inbound,DM,(917) 285-2220,(385) 490-5351,,lin,Unknown,Chinese,UT,,2023-06-14T18:56:34Z,2023-08-22T06:51:01Z,Converted,,,2023-08-22,0068b00001SQdTXAA1,
+00Q8b000024o8DyEAI,Marketing Inbound,DM,,(248) 990-6772,,Chen,陈来取,Chinese,MI,,2023-09-02T18:49:06Z,2023-09-04T18:12:56Z,Converted,,,2023-09-04,0068b00001T80wwAAB,
+00Q8b000024ngWUEAY,Marketing Inbound,DM,,(931) 215-4941,,杨,Fujiyama,Japanese,TN,United States,2023-08-30T18:54:31Z,2023-09-06T21:37:14Z,SDR Complete,Duplicate,,,,Unqualified
+00Q8b000024nybHEAQ,Marketing Inbound,DM,,(574) 386-2730,,Chris Chen,Mandarin House,Chinese,IN,United States,2023-09-01T15:35:23Z,2023-09-25T10:59:35Z,AE Assigned,,Contact info incorrect,,,Rejected
+00Q8b000023QUCSEA4,Marketing Inbound,DM,(917) 285-2220,(709) 986-0609,,Mr.杨,Unknown,,NA,,2023-07-05T15:19:55Z,2023-08-20T16:30:16Z,New,,,,,
+00Q8b000024nfweEAA,Marketing Inbound,DM,,(917) 861-2225,,郑老板娘,Zen Sushi,Japanese,NC,United States,2023-08-30T18:15:33Z,2023-08-31T17:33:55Z,Converted,,,2023-08-31,0068b00001T7ckoAAB,
+00Q8b000022sch0EAA,Marketing Inbound,DM,(917) 285-2220,(506) 292-1693,,Mr.张,Jerry送餐,Chinese,NA,Canada,2023-06-08T15:37:01Z,2023-08-22T04:30:52Z,Converted,,,2023-06-20,0068b00001RdPIuAAN,
+00Q8b000024o1KYEAY,Marketing Inbound,DM,,(818) 640-5555,,LastNameTestBVersion,Unknown,,,,2023-09-01T20:42:42Z,2023-09-01T20:56:13Z,New,,,,,
+00Q8b000024oXUZEA2,Marketing Inbound,DM,,(864) 941-6418,,林,Unknown,Chinese,SC,USA,2023-09-05T20:27:14Z,2023-09-05T21:24:10Z,Converted,,,2023-09-05,0068b00001T890cAAB,
+00Q8b000024ns7qEAA,Marketing Inbound,DM,,(850) 736-7275,James,郑,Unknown,Chinese,FL,USA,2023-08-31T21:52:15Z,2023-09-01T02:23:36Z,Converted,,,2023-08-31,0068b00001T7fPrAAJ,
+00Q8b000024olmjEAA,Marketing Inbound,DM,,(306) 570-8002,,Leilei,Sr kitchenSr kitchen,Chinese,Canada,,2023-09-06T23:17:51Z,2023-09-07T21:05:49Z,Converted,,,2023-09-07,0068b00001T8N0iAAF,
+00Q8b000024IYjAEAW,Marketing Inbound,DM,,(347) 896-2602,,林老板娘,WOK 28,Chinese,NY,United States,2023-08-19T14:47:29Z,2023-08-22T04:30:52Z,Converted,,,2023-08-21,0068b00001SQY1zAAH,
+00Q8b000024JDXVEA4,Marketing Inbound,DM,,(402) 906-1887,,张,Unknown,Chinese,NE,USA,2023-08-23T19:11:59Z,2023-08-23T20:40:39Z,Converted,,,2023-08-23,0068b00001SQp4NAAT,
+00Q8b000024IW5fEAG,Marketing Inbound,DM,,(402) 609-8470,,江,Cris,Chinese,NE,,2023-08-19T02:09:27Z,2023-08-22T04:30:52Z,Converted,,,2023-08-21,0068b00001SQYSzAAP,
+00Q8b000022srlWEAQ,Marketing Inbound,DM,,(438) 941-6067,,服务咨询预约表,Unknown,,Montreal,Canada,2023-06-09T22:17:10Z,2023-08-25T03:13:38Z,New,,,,,
+00Q8b000022srlNEAQ,Marketing Inbound,DM,,(335) 624-0981,,服务咨询预约表,Unknown,,AL,USA,2023-06-09T22:17:10Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000022srlgEAA,Marketing Inbound,DM,,(646) 244-6657,,服务咨询预约表,Unknown,,NY,USA,2023-06-09T22:17:10Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000022srllEAA,Marketing Inbound,DM,,(917) 214-9279,,Unkown,Unknown,,NY,USA,2023-06-09T22:17:10Z,2023-08-22T05:26:34Z,AE Assigned,,,,,
+00Q8b000022srlUEAQ,Marketing Inbound,DM,,(780) 803-5383,,王,Unknown,Chinese,Alberta,Canada,2023-06-09T22:17:10Z,2023-08-22T06:51:09Z,Converted,,,2023-08-22,0068b00001SQdTdAAL,
+00Q8b000024ohXkEAI,Marketing Inbound,DM,,(317) 626-1271,,lin,林送餐,Chinese,IN,,2023-09-06T16:57:23Z,2023-09-06T18:04:34Z,Converted,,,2023-09-06,0068b00001T8Fi5AAF,
+00Q8b000024okkzEAA,Marketing Inbound,DM,,(917) 655-8676,,Ms.刘,刘来取,Chinese;Japanese,LA,,2023-09-06T21:42:47Z,2023-09-06T22:22:12Z,Converted,,,2023-09-06,0068b00001T8HDkAAN,
+00Q8b000024olG9EAI,Marketing Inbound,DM,,(626) 922-0236,,Chen,Mr Dragon Noodle House,Chinese,CA,United States,2023-09-06T22:25:31Z,2023-09-07T14:09:27Z,SDR Complete,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000024oJ7EEAU,Marketing Inbound,DM,,(330) 596-9036,,barry lin,Panda Garden,Chinese,OH,United States,2023-09-04T15:51:13Z,2023-09-06T15:37:53Z,SDR Complete,Duplicate,,,,Unqualified
+00Q8b000024ngsFEAQ,Marketing Inbound,DM,,(646) 359-0765,,陈老板,Chin Chin Chinese Restaurant,Chinese,NC,United States,2023-08-30T19:36:53Z,2023-08-30T22:01:19Z,Converted,,,2023-08-30,0068b00001SRZx3AAH,
+00Q8b000024HVI6EAO,Marketing Inbound,DM,,(917) 515-9908,,Mr.郑,Moon Star,Chinese,WI,USA,2023-08-14T16:09:45Z,2023-08-22T04:30:52Z,Converted,,,2023-08-14,0068b00001SPnKNAA1,
+00Q8b000024oLcvEAE,Marketing Inbound,DM,,(917) 588-8108,,郑,Unknown,Chinese,FL,USA,2023-09-04T19:53:42Z,2023-09-04T21:14:36Z,Converted,,,2023-09-04,0068b00001T81h9AAB,
+00Q8b000024HVreEAG,Marketing Inbound,DM,,(570) 651-2939,,Mr王 & Mrs 陈,Lan's Wok,Chinese,PA,USA,2023-08-14T16:41:31Z,2023-08-22T04:30:52Z,Converted,,,2023-08-15,0068b00001SPsF5AAL,
+00Q8b000024o9E3EAI,Marketing Inbound,DM,,(717) 263-9893,,lin,Panda Buffet,Chinese,PA,United States,2023-09-02T22:03:43Z,2023-09-06T19:00:27Z,SDR Complete,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000024JQiBEAW,Marketing Inbound,DM,,(905) 348-8888,,江,Unknown,Chinese;Japanese,Ontario,Canada,2023-08-25T00:15:19Z,2023-08-25T16:02:33Z,Converted,,,2023-08-25,0068b00001SR2PDAA1,
+00Q8b000024o9r0EAA,Marketing Inbound,DM,,(646) 421-5871,,邹,China Sing,Chinese,NY,,2023-09-03T00:17:19Z,2023-09-07T15:49:27Z,Converted,,,2023-09-07,0068b00001T8LfIAAV,
+00Q8b000024K7aaEAC,Marketing Inbound,DM,,(917) 376-8933,,邱老板,邱老板,Japanese,TN,,2023-08-29T17:35:45Z,2023-09-07T14:44:22Z,Converted,,,2023-09-07,0068b00001T8LENAA3,
+00Q8b000024HpDMEA0,Marketing Inbound,DM,,(917) 573-2113,,李小姐,Unknown,,,,2023-08-15T22:05:56Z,2023-08-16T00:31:39Z,New,,,,,
+00Q8b000024nuOHEAY,Marketing Inbound,DM,,(905) 358-1389,,阮,Golden Dragon Palace,Chinese,ON,Canada,2023-09-01T00:17:06Z,2023-09-01T00:57:00Z,Converted,,,2023-08-31,0068b00001T7fFAAAZ,
+00Q8b000024o1VkEAI,Marketing Inbound,DM,,(818) 640-7256,,LastNameTestAAAVersion,Unknown,,,,2023-09-01T20:39:53Z,2023-09-01T20:40:25Z,New,,,,,
+00Q8b000024or8fEAA,Marketing Inbound,DM,,(408) 806-5002,,Mr.刘,Mandarin Gourmet,Chinese,CA,United States,2023-09-07T15:44:15Z,2023-09-07T22:47:15Z,New,,,,,
+00Q8b000024oIzoEAE,Marketing Inbound,DM,,(646) 642-3114,,李,Unknown,Chinese,NJ,USA,2023-09-04T16:44:15Z,2023-09-05T08:06:17Z,Converted,,,2023-09-05,0068b00001T84zZAAR,
+00Q8b000024o1gSEAQ,Marketing Inbound,DM,,(818) 640-7256,,LastNameTestBVersion,Unknown,,,,2023-09-01T20:57:29Z,2023-09-01T20:58:28Z,New,,,,,
+00Q8b000024o9o6EAA,Marketing Inbound,DM,,(646) 203-3750,,陈,重复,,FL,,2023-09-03T00:04:00Z,2023-09-05T14:30:50Z,New,,,,,
+00Q8b000024osMhEAI,Marketing Inbound,DM,,(415) 361-0508,,Yuklin Tam,Dimdoduc,Chinese,CA,United States,2023-09-07T18:26:48Z,2023-09-08T00:58:43Z,SDR Complete,Cannot Service Cuisine/Menu,,,,Unqualified
+00Q8b000024HxCQEA0,Marketing Inbound,DM,,(919) 699-9760,,陈,Wok Grille,Chinese,NC,United States,2023-08-16T16:05:40Z,2023-08-22T04:30:52Z,Converted,,,2023-08-17,0068b00001SQ5h3AAD,
+00Q8b000024orjVEAQ,Marketing Inbound,DM,,(919) 308-7027,,Ms.郑,China Wok,Chinese,NC,United States,2023-09-07T16:26:05Z,2023-09-07T22:50:12Z,New,,,,,
+00Q8b000024oUosEAE,Marketing Inbound,DM,,333333213445,,LastNameTestBVersion,Unknown,,,,2023-09-05T17:40:11Z,2023-09-05T17:41:48Z,New,,,,,
+00Q8b000024Il8qEAC,Marketing Inbound,DM,,(352) 593-1255,,Ms.林,老板娘,Chinese,FL,,2023-08-21T01:24:34Z,2023-08-22T06:49:57Z,Converted,,,2023-08-22,0068b00001SQdSSAA1,
+00Q8b000024I3MGEA0,Marketing Inbound,DM,,(917) 846-7832,,林,Unknown,Chinese,NA,USA,2023-08-17T00:24:48Z,2023-08-22T06:50:04Z,Converted,,,2023-08-22,0068b00001SQdSbAAL,
+00Q8b000024HFAREA4,Marketing Inbound,DM,,(757) 288-8885,,江,Mr. 江@7572888885,Chinese,FL,USA,2023-08-12T16:12:01Z,2023-08-22T06:50:06Z,Converted,,,2023-08-22,0068b00001SQdSdAAL,
+00Q8b000024nzcqEAA,Marketing Inbound,DM,,(734) 604-9092,,ying,LUCKY GARDEN,Chinese,MI,United States,2023-09-01T18:19:42Z,2023-09-06T20:38:34Z,Converted,,,2023-09-06,0068b00001T8GgsAAF,
+00Q8b000024nsEREAY,Marketing Inbound,DM,,(319) 243-0578,,Kinly 李老板,Dragon King Restaurant,Chinese,CA,United States,2023-08-31T20:57:43Z,2023-09-01T06:09:06Z,Converted,,,2023-09-01,0068b00001T7hQKAAZ,
+00Q8b000024JOVDEA4,Marketing Inbound,DM,,(914) 226-0114,,孟,Unknown,Chinese,NY,USA,2023-08-24T20:13:39Z,2023-08-24T21:38:38Z,Converted,,,2023-08-24,0068b00001SQxYWAA1,
+00Q8b000024JE6lEAG,Marketing Inbound,DM,,(904) 335-8495,,KiMi Liu,Unknown,Other,Florida,,2023-08-23T20:09:15Z,2023-08-23T20:15:48Z,AE Assigned,,,,,
+00Q8b000024JjBdEAK,Marketing Inbound,DM,,(781) 298-1062,wentao,黄,Unknown,Chinese,MA,USA,2023-08-27T01:47:25Z,2023-09-01T22:46:13Z,AE Assigned,,,,,
+00Q8b000022tXmvEAE,Marketing Inbound,DM,(917) 285-2220,(816) 585-3831,,Ms.柯,柯来取,Chinese,MI,,2023-06-12T18:36:52Z,2023-08-22T04:30:52Z,Converted,,,2023-06-17,0068b00001RDz3cAAD,
+00Q8b000022sod2EAA,Marketing Inbound,DM,(917) 285-2220,(917) 226-4606,,Chen,Unknown,Chinese,NY,,2023-06-09T17:48:41Z,2023-08-22T06:51:13Z,Converted,,,2023-08-22,0068b00001SQdTgAAL,
+00Q8b000022taqPEAQ,Marketing Inbound,DM,(917) 285-2220,(646) 409-5395,,Mr. 郭,Golden City III,Chinese,VA,,2023-06-12T21:48:36Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-15,0068b00001RDoe4AAD,Unqualified
+00Q8b000022rN12EAE,Marketing Inbound,DM,,(626) 879-8988,Isha,Chiu,Dim Sum Box,,California,,2023-06-02T22:25:32Z,2023-08-21T16:30:13Z,New,,,,,
+00Q8b000022suuKEAQ,Marketing Inbound,DM,,(646) 330-8373,,fei,#1 CHINESE KITCHEN,Chinese,NY,,2023-06-10T15:26:33Z,2023-08-22T06:51:06Z,Converted,,,2023-08-22,0068b00001SQdTbAAL,
+00Q8b000022rDsWEAU,Marketing Inbound,DM,,(919) 916-9956,jing,xu,new panda,Chinese,North Carolina,,2023-06-01T23:51:59Z,2023-08-22T06:51:16Z,Converted,,,2023-08-22,0068b00001SQdTjAAL,
+00Q8b000022rAPlEAM,Marketing Inbound,DM,(917) 285-2220,(830) 392-6277,,Mr.郑,郑日餐来取,Japanese,FL,,2023-06-01T18:41:21Z,2023-08-31T18:19:34Z,AE Assigned,,,,,
+00Q8b000022ss3IEAQ,Marketing Inbound,DM,(888) 896-8962,(385) 444-0471,,lin,Oishi Ramen,Japanese,TX,United States,2023-06-09T22:50:04Z,2023-08-22T06:51:07Z,Converted,,,2023-08-22,0068b00001SQdTcAAL,
+00Q8b000022swEPEAY,Marketing Inbound,DM,,(917) 981-5232,,lin,Hong Kong,Chinese,IL,United States,2023-06-10T15:50:40Z,2023-08-22T04:30:52Z,Converted,,,2023-08-02,0068b00001SOSnZAAX,
+00Q8b000022tnAbEAI,Marketing Inbound,DM,,(415) 939-5600,Roy,Lam,Alley Kitchena,,CA,,2023-06-13T04:31:44Z,2023-08-11T16:30:03Z,New,,,,,
+00Q8b000023B5BFEA0,Marketing Inbound,DM,,(415) 988-2956,Baili,Cao,功夫点心,Other,CA,,2023-06-14T00:00:41Z,2023-08-22T07:45:50Z,SDR Complete,Cannot Service Cuisine/Menu,,,,Unqualified
+00Q8b000022xsBKEAY,Marketing Inbound,DM,,(778) 866-4584,,Mr.Song,Song日韩,Japanese;Other,NA,Canada,2023-06-23T16:49:45Z,2023-08-11T16:30:03Z,New,,,,,
+00Q8b000022sOvZEAU,Marketing Inbound,DM,(917) 285-2220,(780) 874-6677,Tiger,王,Shangri-La - 加拿大,Chinese,AB,Canada,2023-06-07T21:06:05Z,2023-08-22T04:30:52Z,Converted,,,2023-06-09,0068b00001R8eJmAAJ,
+00Q8b000023AxIVEA0,Marketing Inbound,DM,(917) 285-2220,(646) 206-1898,,Jiang,SHIKI SAKURA,Chinese;Japanese,AL,USA,2023-06-13T15:59:51Z,2023-08-22T06:51:02Z,Converted,,,2023-08-22,0068b00001SQdTYAA1,
+00Q8b000022sg8rEAA,Marketing Inbound,DM,(917) 285-2220,(646) 359-3118,,Mr.胡,Cucumber,Chinese;Japanese,NJ,,2023-06-08T21:55:58Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-19,0068b00001RdKKcAAN,Unqualified
+00Q8b000022vzpSEAQ,Marketing Inbound,DM,,(626) 328-6200,,Lester,Wokcano,Chinese;Japanese,CA,United States,2023-06-14T23:00:48Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-06-21,0068b00001RdXCVAA3,Unqualified
+00Q8b000022tZnHEAU,Marketing Inbound,DM,(917) 285-2220,(646) 577-9026,,Ms.林,林来取,Chinese,GA,,2023-06-12T20:51:15Z,2023-09-06T19:45:36Z,AE Assigned,,,,,
+00Q8b000022seUzEAI,Marketing Inbound,DM,(917) 285-2220,(631) 871-1418,,Mr.陈,China One,Chinese,PA,,2023-06-08T18:31:41Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-23,0068b00001RdoFuAAJ,Unqualified
+00Q8b000022sgZCEAY,Marketing Inbound,DM,,(914) 236-9986,are,testa,abc,,Alabama,,2023-06-08T22:05:40Z,2023-08-11T16:30:03Z,New,,,,,
+00Q8b000023Qi52EAC,Marketing Inbound,DM,(917) 285-2220,(215) 688-1909,,Liu,Unknown,Chinese;Japanese,PA,,2023-07-06T21:12:58Z,2023-08-22T06:50:55Z,Converted,,,2023-08-22,0068b00001SQdTSAA1,
+00Q8b000023QeSoEAK,Marketing Inbound,DM,,(815) 839-3173,,Anna,EGG ROLL EXPRESS,Chinese,MI,United States,2023-07-06T15:37:22Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-07-06,0068b00001Rkbp9AAB,Unqualified
+00Q8b000023QoGyEAK,Marketing Inbound,DM,,(703) 659-7107,,zheng,ASIAN CUISINE&SEAFOOD,Chinese;Wings;Cajun,MD,,2023-07-07T17:13:10Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-07-13,0068b00001S2kWBAAZ,Unqualified
+00Q8b000023RUijEAG,Marketing Inbound,DM,,(646) 327-3532,,CH,China King,Chinese,PA,United States,2023-07-12T01:23:56Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-07-15,0068b00001S2xQBAAZ,Unqualified
+00Q8b000023RQjTEAW,Marketing Inbound,DM,,(347) 291-5893,阿敏,邱,SUSHI Q,Japanese,MD,United States,2023-07-11T19:54:52Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-07-11,0068b00001RlGtCAAV,Unqualified
+00Q8b000023RSCOEA4,Marketing Inbound,DM,,(813) 505-4090,,shupan,#1 CHINESE KITCHEN,Chinese,NY,,2023-07-11T21:41:03Z,2023-08-22T06:50:47Z,Converted,,,2023-08-22,0068b00001SQdTKAA1,
+00Q8b000023j0bIEAQ,Marketing Inbound,DM,,(856) 580-3912,,陳,Mr. 陳@8565803912 -11 月用,Chinese,MA,,2023-07-14T18:36:07Z,2023-08-22T06:50:41Z,Converted,,,2023-08-22,0068b00001SQdTEAA1,
+00Q8b000023illOEAQ,Marketing Inbound,DM,,(317) 960-9325,denson,Yang,Mori Sushi,,ID,,2023-07-13T22:24:48Z,2023-09-06T21:17:10Z,SDR Complete,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000023kGfxEAE,Marketing Inbound,DM,,(314) 757-3996,,林、,Wok Express,Chinese,MO,United States,2023-07-21T18:27:42Z,2023-08-22T04:30:52Z,Converted,,,2023-08-14,0068b00001SPirMAAT,
+00Q8b000023kGAHEA2,Marketing Inbound,DM,,(954) 425-2009,,CHEN,NA,Chinese,FL,,2023-07-21T17:37:46Z,2023-08-22T06:50:33Z,Converted,,,2023-08-22,0068b00001SQdT6AAL,
+00Q8b000023jgcsEAA,Marketing Inbound,DM,(917) 285-2220,(217) 840-5692,,CHULKEE,CHULKEE 韩餐,Other,IL,,2023-07-18T18:47:38Z,2023-08-22T07:45:50Z,SDR Complete,Cannot Service Cuisine/Menu,,,,Unqualified
+00Q8b000023jBPrEAM,Marketing Inbound,DM,(917) 285-2220,(646) 384-9195,,郑,Unknown,Chinese,NY,,2023-07-15T20:17:41Z,2023-08-22T06:50:38Z,Converted,,,2023-08-22,0068b00001SQdTAAA1,
+00Q8b000022sxD3EAI,Marketing Inbound,DM,,(314) 428-6266,Jingbo,Cheng,Big l chop suey R83969,,MO,,2023-06-10T16:31:45Z,2023-08-22T07:45:54Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000023jQgZEAU,Marketing Inbound,DM,(917) 285-2220,(302) 509-7018,,Lin,Unknown,Chinese,NY,,2023-07-17T17:22:31Z,2023-08-22T06:50:36Z,Converted,,,2023-08-22,0068b00001SQdT9AAL,
+00Q8b000022sx3DEAQ,Marketing Inbound,DM,,(347) 247-1387,Harmandeep singh,Multani,Mint li & skybar,,NY,,2023-06-10T16:08:01Z,2023-09-04T06:12:56Z,New,,,,,Check Back in 1 to 3 months
+00Q8b000023W4yREAS,Marketing Inbound,DM,(888) 898-8389,(303) 669-2562,,Mr.伍,Jasmine Asian Cafe,Chinese,CO,United States,2023-06-27T20:25:45Z,2023-08-22T04:30:52Z,Converted,,,2023-08-07,0068b00001SP2teAAD,
+00Q8b000022x0aVEAQ,Marketing Inbound,DM,,(646) 703-3017,Mandy,Lin,Lucky garden,Chinese,NY,,2023-06-19T18:40:48Z,2023-09-06T21:14:10Z,Converted,,,2023-09-06,0068b00001T8GuYAAV,
+00Q8b000022yIZLEA2,Marketing Inbound,DM,(917) 285-2220,(702) 521-5219,Trina,张,China Wan Wan,Chinese,NV,USA,2023-06-26T19:53:03Z,2023-08-22T08:09:28Z,AE Assigned,Current Client,,2023-07-01,0068b00001RefdlAAB,Unqualified
+00Q8b000023W51iEAC,Marketing Inbound,DM,,(252) 702-6342,,Ms.郑,郑来取,Chinese,MD,,2023-06-27T19:22:26Z,2023-08-22T04:30:52Z,Converted,,,2023-06-30,0068b00001ReczgAAB,
+00Q8b000022yB3yEAE,Marketing Inbound,DM,(917) 285-2220,(347) 881-5987,,Mr.林,China Wok,Chinese,SD,,2023-06-26T02:44:56Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-27,0068b00001ReBSTAA3,Unqualified
+00Q8b000022xKgsEAE,Marketing Inbound,DM,,(215) 880-8746,,Mr.施,施JP来取,Japanese,PA,,2023-06-21T15:48:43Z,2023-09-04T06:12:56Z,New,,,,,Check Back in 1 to 3 months
+00Q8b000023W1yrEAC,Marketing Inbound,DM,(917) 285-2220,(646) 464-3077,,Mr.李,李送餐,Chinese,CT,,2023-06-27T16:03:07Z,2023-08-22T04:30:52Z,Converted,,,2023-07-06,0068b00001RkcZJAAZ,
+00Q8b000022xjZJEAY,Marketing Inbound,DM,(917) 285-2220,(915) 613-7381,,Mr.王,Lucky Panda,Chinese,LA,,2023-06-22T19:30:44Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-26,0068b00001Re3byAAB,Unqualified
+00Q8b000022yHOOEA2,Marketing Inbound,DM,(917) 285-2220,(608) 335-6123,,Ms.林,Chang Jiang,Chinese,WI,,2023-06-26T18:18:23Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-07-09,0068b00001RkyPxAAJ,Unqualified
+00Q8b000022xCa1EAE,Marketing Inbound,DM,,(647) 997-6363,Mayin,Uddin,"Compass group Canada (George Brown College, Casa Loma Campus)",,CA,,2023-06-20T19:25:58Z,2023-08-11T16:30:03Z,New,,,,,
+00Q8b000022y1rIEAQ,Marketing Inbound,DM,,(979) 446-2543,Yanping,Yu,JJ China diner,,TX,,2023-06-24T17:18:34Z,2023-08-11T16:30:03Z,New,,,,,
+00Q8b000022yHK9EAM,Marketing Inbound,DM,(917) 285-2220,(437) 268-8068,,Vivian,Unknown,,Toronto,Canada,2023-06-26T18:12:25Z,2023-08-22T05:26:29Z,AE Assigned,,,,,
+00Q8b000023l9MWEAY,Marketing Inbound,DM,(917) 285-2220,(236) 990-9610,,林,Ms. 林@2369909610 - 加拿大,,N/A,Canada,2023-07-26T23:51:24Z,2023-08-22T05:26:43Z,AE Assigned,,,,,
+00Q8b0000231PO1EAM,Marketing Inbound,DM,,(647) 355-0388,,Winny,Winny,Chinese,Toronto,,2023-07-30T00:52:50Z,2023-08-22T06:50:23Z,Converted,,,2023-08-22,0068b00001SQdSwAAL,
+00Q8b00002328HuEAI,Marketing Inbound,DM,,(929) 294-5224,,林,HAPPY CHINA,Chinese,Georgia,,2023-08-03T15:44:17Z,2023-08-22T04:30:52Z,Converted,,,2023-08-03,0068b00001SOciuAAD,
+00Q8b0000232NUqEAM,Marketing Inbound,DM,,(917) 822-7887,,董,董@9178227887,Chinese,PA,USA,2023-08-04T22:57:30Z,2023-09-06T04:05:47Z,Converted,,,2023-09-06,0068b00001T8AVuAAN,
+00Q8b0000232E94EAE,Marketing Inbound,DM,,(626) 525-1728,,Lu,Unknown,Chinese;Japanese,Ohio,,2023-08-04T00:40:36Z,2023-08-22T06:50:18Z,Converted,,,2023-08-22,0068b00001SQdSrAAL,
+00Q8b0000232AU4EAM,Marketing Inbound,DM,,(618) 558-2154,,chen,Unknown,Chinese,Minnesota,,2023-08-03T18:43:40Z,2023-08-22T06:50:19Z,Converted,,,2023-08-22,0068b00001SQdSsAAL,
+00Q8b0000231GFAEA2,Marketing Inbound,DM,,(720) 781-7945,Jeremy,吴,亚洲餐,Chinese;Japanese,VA,,2023-07-29T16:48:23Z,2023-08-22T06:50:26Z,Converted,,,2023-08-22,0068b00001SQdSyAAL,
+00Q8b0000231zcoEAA,Marketing Inbound,DM,,(718) 801-2826,,陈,China Palace,Chinese,FL,USA,2023-08-02T21:12:08Z,2023-08-22T04:30:52Z,Converted,,,2023-08-04,0068b00001SOgoOAAT,
+00Q8b00002320hiEAA,Marketing Inbound,DM,,(917) 803-0898,,杨老板,Emperor's Kitchen,Chinese,IL,United States,2023-08-02T21:52:35Z,2023-08-27T18:18:57Z,Converted,,,2023-08-27,0068b00001SRCOmAAP,
+00Q8b00002322gJEAQ,Marketing Inbound,DM,,(626) 257-4930,,王在成,Panda House & Grill China Express,Chinese,FL,United States,2023-08-02T22:48:31Z,2023-08-22T04:30:52Z,Converted,,,2023-08-05,0068b00001SOmeWAAT,
+00Q8b0000232Tl1EAE,Marketing Inbound,DM,,(917) 302-8137,,Avy Zhang (老板女儿）,Mr Sze Chinese Restaurant,Chinese,GA,United States,2023-08-05T18:47:02Z,2023-08-22T04:30:52Z,Converted,,,2023-08-05,0068b00001SOngcAAD,
+00Q8b0000232UmFEAU,Marketing Inbound,DM,,(718) 666-1301,,Lin,Dragon's Spring,Chinese,CA,USA,2023-08-05T21:33:29Z,2023-08-22T04:30:52Z,Converted,,,2023-08-06,0068b00001SOqbsAAD,
+00Q8b000022srlmEAA,Marketing Inbound,DM,,(848) 241-7455,,Unkown,Unknown,,NJ,USA,2023-06-09T22:17:10Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000024nytaEAA,Marketing Inbound,DM,,(917) 488-8589,,mingyanhuang,Szechuan House,Chinese,MO,United States,2023-09-01T16:12:00Z,2023-09-25T10:59:36Z,AE Assigned,,Contact info incorrect,,,Rejected
+00Q8b000022ssAnEAI,Marketing Inbound,DM,,(638) 318-3368,,服务咨询预约表,Unknown,,Puerto Penasco,,2023-06-09T23:06:08Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000022srxAEAQ,Marketing Inbound,DM,,,,LIj,#1 CHINESE KITCHEN,Chinese,NY,,2023-06-09T22:38:23Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b0000231dx9EAA,Marketing Inbound,DM,,302368724,,郑,Unknown,Chinese,Massachusetts,,2023-07-31T19:36:05Z,2023-09-25T10:59:38Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b0000232U0fEAE,Marketing Inbound,DM,,(954) 673-1638,,Jenny,"Jenny -幫她老闆問, 有2家店",Chinese,FL,USA,2023-08-05T19:29:03Z,2023-08-22T06:50:17Z,Converted,,,2023-08-22,0068b00001SQdSpAAL,
+00Q8b000024GUSqEAO,Marketing Inbound,DM,,(646) 388-1179,,陈,Unknown,Chinese,IL,USA,2023-08-08T17:34:28Z,2023-08-22T06:50:13Z,Converted,,,2023-08-22,0068b00001SQdSlAAL,
+00Q8b000024GLSIEA4,Marketing Inbound,DM,,(917) 669-0176,,董,Unknown,Chinese,NC,USA,2023-08-07T21:23:15Z,2023-08-22T04:30:52Z,Converted,,,2023-08-08,0068b00001SP6hPAAT,
+00Q8b000024GoBiEAK,Marketing Inbound,DM,,(619) 379-6511,,王,Unknown,Chinese,CA,USA,2023-08-10T01:58:12Z,2023-08-22T06:50:09Z,Converted,,,2023-08-22,0068b00001SQdShAAL,
+00Q8b000024GxCFEA0,Marketing Inbound,DM,,(917) 868-9869,,Mr.陈,一兰,Japanese,GA,,2023-08-10T22:31:01Z,2023-08-22T06:50:08Z,Converted,,,2023-08-22,0068b00001SQdSfAAL,
+00Q8b000024GyWZEA0,Marketing Inbound,DM,,(646) 240-5253,,Ms.黄,No.1 China,Chinese,SC,,2023-08-11T00:32:48Z,2023-08-22T04:30:52Z,Converted,,,2023-08-11,0068b00001SPRDFAA5,
+00Q8b000024ovkIEAQ,Marketing Inbound,DM,,(256) 441-1453,,Quan Zeng,Golden China,Chinese,AL,United States,2023-09-07T17:56:24Z,2023-09-08T17:23:40Z,New,,,,,
+00Q8b000024pBdEEAU,Marketing Inbound,DM,,(917) 517-6780,,连,连来取,Chinese,OH,USA,2023-09-08T19:05:29Z,2023-09-08T19:40:19Z,Converted,,,2023-09-08,0068b00001T8T8YAAV,
+00Q8b000024pHcUEAU,Marketing Inbound,DM,,(267) 312-9605,,Liu,Unknown,Other,NV,,2023-09-09T05:02:56Z,2023-09-10T03:49:26Z,Converted,,,2023-09-09,0068b00001T8ZwWAAV,
+00Q8b000024pN4vEAE,Marketing Inbound,DM,,(215) 989-3420,阿娟,刘小姐,Unknown,Chinese,PA,,2023-09-09T19:34:56Z,2023-09-11T15:25:27Z,Converted,,,2023-09-11,0068b00001T8hSwAAJ,
+00Q8b000024pWWkEAM,Marketing Inbound,DM,,(647) 978-8858,,张,Unknown,Japanese,NA,Canada,2023-09-10T23:56:37Z,2023-09-11T19:11:25Z,Converted,,,2023-09-11,0068b00001T8irgAAB,
+00Q8b00002319y0EAA,Marketing Inbound,DM,,(912) 996-1870,,Mr.杨,Mr.杨,Chinese,GA,,2023-07-28T20:17:41Z,2023-09-11T20:49:22Z,AE Assigned,,,,,
+00Q8b000024pDxaEAE,Marketing Inbound,DM,,(209) 889-2638,,劉,Unknown,Chinese,CA,United States,2023-09-08T21:04:27Z,2023-09-12T02:21:44Z,Converted,,,2023-09-11,0068b00001T8kjvAAB,
+00Q8b000024pCktEAE,Marketing Inbound,DM,,(647) 922-5385,,李,Unknown,Chinese,ON,Canada,2023-09-08T19:40:18Z,2023-09-12T02:55:36Z,Converted,,,2023-09-11,0068b00001T8koAAAR,
+00Q8b000024pP0CEAU,Marketing Inbound,DM,,(647) 342-5666,,Karen,Unknown,Chinese,ON,Canada,2023-09-09T23:34:07Z,2023-09-12T14:58:12Z,Converted,,,2023-09-12,0068b00001T8or1AAB,
+00Q8b0000231xlPEAQ,Marketing Inbound,DM,,(407) 967-2888,,郑,Super 8,Chinese;Japanese,FL,United States,2023-08-02T18:36:32Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000023R2D4EAK,Marketing Inbound,DM,,(330) 704-4572,Jason,Sun,Maki house,,OH,,2023-07-09T16:21:59Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000023jvdqEAA,Marketing Inbound,DM,,(917) 593-2966,,Xie,HH,Chinese,Arizona,,2023-07-19T21:36:56Z,2023-09-12T18:01:38Z,SDR Complete,,Cannot contact lead,,,Rejected
+00Q8b000024JFzMEAW,Marketing Inbound,DM,,(862) 400-6668,,wang,Unknown,Chinese,New Jersey,,2023-08-23T23:23:25Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024JhQbEAK,Marketing Inbound,DM,,(917) 855-8881,,David,Chinese Restaurant,Chinese;Japanese,DE,,2023-08-26T20:25:28Z,2023-09-12T18:01:38Z,AE Assigned,,Not a decision maker,,,Rejected
+00Q8b000024nfoyEAA,Marketing Inbound,DM,,(618) 218-4798,,renlingui,Unknown,Chinese,IL,United States,2023-08-30T17:43:02Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024ng1YEAQ,Marketing Inbound,DM,,(301) 658-8398,,H U i Feng,Unknown,Chinese,MD,United States,2023-08-30T18:06:00Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nhEVEAY,Marketing Inbound,DM,,(646) 355-9660,,Zhang,Hibachi Boy,Japanese,SC,United States,2023-08-30T20:16:17Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024nhHoEAI,Marketing Inbound,DM,,(917) 361-0185,,Chen,Unknown,Chinese,TN,United States,2023-08-30T20:21:48Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nhbPEAQ,Marketing Inbound,DM,,(612) 423-6249,,William,bills garden chinese gourmet,Chinese,MN,United States,2023-08-30T20:52:35Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024o1QpEAI,Marketing Inbound,DM,,(917) 660-8913,,jerry,Okeno Sushi,Japanese,NY,United States,2023-09-01T20:28:40Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024o8MWEAY,Marketing Inbound,DM,,(989) 845-4888,,Tina Chen,China King,Chinese,MI,United States,2023-09-02T19:11:55Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024o92qEAA,Marketing Inbound,DM,,(678) 790-7666,,li,Tokyo Sushi and Hibachi,Japanese,MS,United States,2023-09-02T21:21:45Z,2023-09-12T18:01:38Z,SDR Complete,,Cannot contact lead,,,Rejected
+00Q8b000024okk7EAA,Marketing Inbound,DM,,(641) 966-3589,,Zhenghua Jin,Incheon House,Japanese,ON,Canada,2023-09-06T22:23:41Z,2023-09-12T18:01:38Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000024on3ZEAQ,Marketing Inbound,DM,,(540) 577-2118,,mao lin,Blacksburg No. 1,Chinese,VA,United States,2023-09-07T01:40:15Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024ovjZEAQ,Marketing Inbound,DM,,(415) 731-8110,,Jenny,General Wow's Chinese by Chang's Kitchen,Chinese,CA,United States,2023-09-07T17:55:00Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024ow7CEAQ,Marketing Inbound,DM,,(626) 620-3647,,kana,U&I BBQ,Chinese,CO,United States,2023-09-07T18:32:29Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024oyXBEAY,Marketing Inbound,DM,,(530) 301-9996,,You,Tasty Buffet,Chinese,CA,United States,2023-09-07T22:18:34Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024ozLfEAI,Marketing Inbound,DM,,(628) 233-0094,,Alex Mai,Beijing Chinese Restaurant,Chinese,CA,United States,2023-09-07T23:40:55Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024p16oEAA,Marketing Inbound,DM,,(720) 232-5741,,王以習,Pho 38,Other,CO,United States,2023-09-08T04:41:20Z,2023-09-12T18:01:38Z,SDR Complete,,Cannot contact lead,,,Rejected
+00Q8b000024p8LKEAY,Marketing Inbound,DM,,(416) 873-4727,,Hui xia zhou,Yummy Chow,Chinese,ON,Canada,2023-09-08T17:08:23Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pDVAEA2,Marketing Inbound,DM,,(818) 699-3478,,柳,Unknown,Chinese;Japanese,UT,United States,2023-09-08T20:30:29Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pEsiEAE,Marketing Inbound,DM,,(415) 696-2822,,Cristal,Unknown,Chinese;Japanese,CA,United States,2023-09-08T22:30:15Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pHcZEAU,Marketing Inbound,DM,,(215) 681-1607,,Lin,Unknown,Chinese,PA,United States,2023-09-09T05:03:40Z,2023-09-12T18:01:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pP2rEAE,Marketing Inbound,DM,,(509) 823-3333,,Chen,Unknown,Chinese,WA,United States,2023-09-09T23:39:49Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024pPOYEA2,Marketing Inbound,DM,,(442) 234-4699,,张大禹,Unknown,Chinese,CA,United States,2023-09-10T00:35:49Z,2023-09-12T18:01:38Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024pqptEAA,Marketing Inbound,DM,,(306) 242-1351,,Saigon rose,Unknown,Chinese,SK,Canada,2023-09-12T17:11:28Z,2023-09-12T20:02:06Z,New,,,,,
+00Q8b000024oKw6EAE,Marketing Inbound,DM,,17189023323,Jon,Jiang,China City （Duplicate),Chinese,FL,United States,2023-09-04T18:51:10Z,2023-09-12T20:08:16Z,AE Assigned,Duplicate,,,,Unqualified
+00Q8b000024pTSrEAM,Marketing Inbound,DM,,(437) 262-0889,,胡,Unknown,Chinese,ON,Canada,2023-09-10T16:42:37Z,2023-09-12T22:27:11Z,AE Assigned,Not a Restaurant,,,,Unqualified
+00Q8b000024pcAcEAI,Marketing Inbound,DM,,(147) 241-0869,,linchengen,Unknown,Chinese,WV,United States,2023-09-11T15:54:19Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000024obTnEAI,Marketing Inbound,DM,,(646) 981-3920,,Ye 不接,Kung-Ho Chinese Restaurant,Chinese,WA,United States,2023-09-06T01:09:01Z,2023-09-25T16:05:54Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024nqZIEAY,Marketing Inbound,DM,,13127092927,,ben chen,Sake Sushi & Grill,Japanese,IL,United States,2023-08-31T17:38:11Z,2023-09-25T19:36:55Z,SDR Complete,,Cannot contact lead,,,Rejected
+00Q8b000024oFECEA2,Marketing Inbound,DM,,(929) 331-8001,,Zhang,China House,Chinese,PA,United States,2023-09-03T23:12:38Z,2023-09-25T19:37:08Z,SDR Complete,,Cannot contact lead,,,Rejected
+00Q8b000024og64EAA,Marketing Inbound,DM,,(570) 850-9991,,邱良香,Star Garden,Chinese,PA,United States,2023-09-06T15:08:47Z,2023-09-25T19:37:36Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024nrjrEAA,Marketing Inbound,DM,,(917) 216-9951,,林,Unknown,Chinese,NY,USA,2023-08-31T19:40:23Z,2023-09-25T10:59:35Z,AE Assigned,,Contact info incorrect,,,Rejected
+00Q8b000024o7VXEAY,Marketing Inbound,DM,,(646) 510-4914,,Hui Mei Qiu,King Buffet,Chinese,PA,United States,2023-09-02T16:48:07Z,2023-09-20T22:25:01Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nuoeEAA,Marketing Inbound,DM,,(775) 778-5858,,He,Teppanyaki,Japanese,NV,United States,2023-09-01T01:27:54Z,2023-09-20T22:21:54Z,Converted,,,2023-09-20,0068b00001TAAnFAAX,
+00Q8b000024nyuOEAQ,Marketing Inbound,DM,,(573) 442-8383,,YuChengweng,Kojaba Bar Korean Japanese BBQ,Japanese,MO,United States,2023-09-01T16:13:14Z,2023-09-21T00:17:08Z,AE Assigned,,,,,Dead
+00Q8b000024o81dEAA,Marketing Inbound,DM,,19179660307,,Jason,Chairman Sun,Chinese,NY,United States,2023-09-02T18:18:39Z,2023-09-20T22:27:28Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nuRzEAI,Marketing Inbound,DM,,912512358,,倪周明,Ichiban Buffet,Japanese,MS,United States,2023-09-01T00:27:44Z,2023-09-20T22:16:17Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nx7hEAA,Marketing Inbound,DM,,(929) 302-1259,,Liu,China Express,Chinese,FL,United States,2023-09-01T13:04:55Z,2023-09-20T22:57:42Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000022tb7uEAA,Marketing Inbound,DM,(917) 285-2220,(701) 651-1190,,Ms.林,林buffet来取,Chinese,ND,,2023-06-12T22:18:20Z,2023-09-20T19:30:53Z,SDR Complete,,,,,Dead
+00Q8b000022sqV6EAI,Marketing Inbound,DM,,(702) 771-7999,XINFENG,Shen,湘浙汇,Japanese,Texas,,2023-06-09T20:42:39Z,2023-09-20T19:29:12Z,SDR Complete,,,,,Dead
+00Q8b000022sOfqEAE,Marketing Inbound,DM,,(306) 881-6030,,梁,Chef Express -Mr. 梁@3068816030 -加拿大,Chinese,SK,Canada,2023-06-08T00:39:35Z,2023-09-20T17:58:09Z,SDR Complete,,,,,Dead
+00Q8b000024nrwREAQ,Marketing Inbound,DM,,(646) 651-8859,,郑,Yamato's Steakhouse of Japan,Japanese,IN,United States,2023-08-31T20:05:37Z,2023-09-21T14:18:02Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nzNLEAY,Marketing Inbound,DM,,(917) 436-8542,,Gao Huiying,Jin Mei Dumpling,,NY,United States,2023-09-01T17:05:00Z,2023-09-21T19:55:53Z,SDR Complete,Agent Language Limitation,,,,Unqualified
+00Q8b000024npr7EAA,Marketing Inbound,DM,,(646) 764-3668,,陈,Unknown,Chinese,OH,United States,2023-08-31T16:31:54Z,2023-09-21T14:12:33Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024oE5TEAU,Marketing Inbound,DM,,(347) 221-5690,,杨武,New Ming Garden Buffet and Grill,Chinese,VA,United States,2023-09-03T20:10:00Z,2023-09-21T14:25:07Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024nf4dEAA,Marketing Inbound,DM,,(317) 966-6055,,邱浩,Unknown,Chinese,IN,United States,2023-08-30T16:28:38Z,2023-09-21T17:25:03Z,Converted,,,2023-09-21,0068b00001TAHOPAA5,
+00Q8b000024npuLEAQ,Marketing Inbound,DM,,(312) 532-4257,,lin,Lucky Wok Chinese Restaurant,Chinese,IL,United States,2023-08-31T16:35:10Z,2023-09-21T14:15:58Z,Converted,,,2023-09-21,0068b00001TAFpiAAH,
+00Q8b000024ntZxEAI,Marketing Inbound,DM,,(917) 244-1149,,li,Fuji Japanese Express,Japanese,MS,United States,2023-08-31T22:14:52Z,2023-09-21T14:20:30Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024nuAjEAI,Marketing Inbound,DM,,(616) 525-6705,,林达,Yamato West,Japanese,OH,United States,2023-08-31T23:43:18Z,2023-09-21T14:20:58Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024nuFKEAY,Marketing Inbound,DM,,(757) 639-4489,,Chunlin,New Number 1 Chinese Restaurant,Chinese,VA,United States,2023-08-31T23:55:58Z,2023-09-21T14:23:22Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024pBiSEAU,Marketing Inbound,DM,,(343) 998-7178,,郑,Dumpling Bowl,Chinese,ON,Canada,2023-09-08T19:14:45Z,2023-09-21T19:07:29Z,AE Assigned,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000024oUoTEAU,Marketing Inbound,DM,,(415) 823-2568,,jieyang,Meet Qin Noodle,Chinese,CA,United States,2023-09-05T17:39:47Z,2023-09-21T14:25:51Z,Converted,,,2023-09-21,0068b00001TAFpjAAH,
+00Q8b000024o47BEAQ,Marketing Inbound,DM,,(917) 517-0582,,Yijin zhang,Huang's Mister Wok,Chinese,PA,United States,2023-09-02T01:47:18Z,2023-09-21T10:21:06Z,AE Assigned,Duplicate,,,,Unqualified
+00Q8b000024o2rlEAA,Marketing Inbound,DM,,(646) 286-1836,,陈,Peking Restaurant,Chinese,GA,United States,2023-09-01T22:58:40Z,2023-09-21T18:51:19Z,AE Assigned,Current Client,,,,Unqualified
+00Q8b000024psg3EAA,Marketing Inbound,DM,,(204) 963-7968,,Bod,Mr.Bod,Japanese,N/A,,2023-09-12T19:59:22Z,2023-09-13T15:59:01Z,Converted,,,2023-09-13,0068b00001T8znJAAR,
+00Q8b000024oypUEAQ,Marketing Inbound,DM,,(559) 788-7532,,譚,Mei Wah Chinese Restaurant,Chinese,CA,United States,2023-09-07T22:33:31Z,2023-09-13T17:32:06Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024olDUEAY,Marketing Inbound,DM,,,,Unknown,Wonders Chicken,Chinese,,,2023-09-06T22:21:32Z,2023-09-13T21:08:08Z,New,,,,,
+00Q8b000024pdG2EAI,Marketing Inbound,DM,,(503) 887-8848,,甄,Lucky Dragon Chinese Restaurant,Chinese,OR,United States,2023-09-11T17:19:12Z,2023-09-13T21:36:14Z,Converted,,,2023-09-13,0068b00001T92Q2AAJ,
+00Q8b000024o9GiEAI,Marketing Inbound,DM,,(703) 609-9642,,May,Khin's Sushi,Japanese,DC,United States,2023-09-02T22:10:48Z,2023-09-14T15:21:46Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000022y7nXEAQ,Marketing Inbound,DM,,(347) 781-0180,,林太太,Golden China,Chinese,NC,,2023-06-25T16:32:00Z,2023-09-14T17:10:03Z,AE Assigned,Current Client,,2023-07-06,0068b00001RkbbLAAR,Unqualified
+00Q8b000024ntJzEAI,Marketing Inbound,DM,,(646) 267-9297,,liming,Fujiyama Japanese Hibachi & Sushi,Japanese,FL,,2023-08-31T21:38:02Z,2023-09-14T19:10:45Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024K7REEA0,Marketing Inbound,DM,,(646) 510-0768,,林老板娘,林老板娘,Chinese,OH,,2023-08-29T17:22:32Z,2023-09-19T18:22:56Z,Converted,,,2023-09-19,0068b00001T9yrYAAR,
+00Q8b000024nph9EAA,Marketing Inbound,DM,,(504) 326-0802,,钟,钟老板娘,Cajun,LA,,2023-08-31T16:30:14Z,2023-09-19T20:04:40Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000023RT5WEAW,Marketing Inbound,DM,,(626) 542-8118,,un,#1 CHINESE KITCHEN,Thai,NY,,2023-07-11T22:58:54Z,2023-09-20T00:18:50Z,SDR Complete,Not a Restaurant,,,,Unqualified
+00Q8b000023km30EAA,Marketing Inbound,DM,,(626) 675-6695,,Jibinjin,zingzingzingzing,Chinese,Alabama,,2023-07-25T04:29:45Z,2023-09-20T00:20:40Z,SDR Working,,,,,
+00Q8b000023ky1UEAQ,Marketing Inbound,DM,(917) 285-2220,(917) 977-1366,,Mr.陈,陈来取,Chinese,VA,,2023-07-26T02:45:02Z,2023-09-19T23:52:03Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000023lMjhEAE,Marketing Inbound,DM,,(646) 617-2388,,Ji Yang,Unknown,Chinese,Pennsylvania,,2023-07-27T21:02:15Z,2023-09-20T00:21:13Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000023kjpyEAA,Marketing Inbound,DM,(917) 285-2220,(415) 816-1638,,Simom,Sweet's Grill and Bar,Other,CA,,2023-07-24T23:15:08Z,2023-09-14T22:05:10Z,SDR Assigned,,,,,
+00Q8b0000232E5HEAU,Marketing Inbound,DM,,(415) 658-1296,,冯,成都味道,Chinese,州,,2023-08-04T00:33:44Z,2023-09-14T22:05:13Z,SDR Assigned,Agent Language Limitation,,,,Unqualified
+00Q8b000024K7sFEAS,Marketing Inbound,DM,,(216) 396-6245,,Li,TJ Hibachi & Sushi (Middleburg),Japanese,OH,,2023-08-29T18:00:52Z,2023-09-14T22:05:13Z,SDR Assigned,,,,,
+00Q8b0000251usVEAQ,Marketing Inbound,DM,,(646) 894-8926,,Liang,Ruby Thai at Arden Fair Mall,Chinese;Japanese;Thai,CA,United States,2023-09-13T22:47:29Z,2023-09-14T22:45:26Z,AE Assigned,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b0000251gaIEAQ,Marketing Inbound,DM,,,Fatchin,Chung,Wing Shing,Japanese,NY,United States,2023-09-13T21:32:21Z,2023-09-14T22:59:09Z,New,,,,,
+00Q8b0000251gabEAA,Marketing Inbound,DM,,,Stephen,Katsu,Ebisu,,CA,United States,2023-09-13T21:32:21Z,2023-09-14T23:01:27Z,New,,,,,
+00Q8b000024ngReEAI,Marketing Inbound,DM,,(312) 480-6839,,chen,Nori Sushi and Grill - E Wash,Japanese,WI,United States,2023-08-30T18:44:04Z,2023-09-14T23:39:50Z,AE Assigned,Current Client,,,,Unqualified
+00Q8b0000251gawEAA,Marketing Inbound,DM,,,,[not provided],Nori Sushi and Grill - E Wash,,WI,United States,2023-09-13T21:32:21Z,2023-09-14T23:40:35Z,New,,,,,
+00Q8b0000251uT3EAI,Marketing Inbound,DM,,(604) 726-8099,,May,蜜桃餐廳 Peaches cafe,Chinese,BC,Canada,2023-09-13T22:16:26Z,2023-09-15T22:16:53Z,Converted,,,2023-09-15,0068b00001T9N3mAAF,
+00Q8b000025ALlYEAW,Marketing Inbound,DM,,(306) 581-7288,,Alice,Rose Garden - 2hrs time diff,Chinese,SK,Canada,2023-09-15T15:52:54Z,2023-09-16T17:32:45Z,AE Assigned,,,,,
+00Q8b000025AhHBEA0,Marketing Inbound,DM,,(519) 884-8929,,Unknown,Sandy's Kitchen Chinese Cuisine,Chinese,ON,Canada,2023-09-17T18:06:43Z,2023-09-17T18:07:22Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pss8EAA,Marketing Inbound,DM,,(306) 262-1586,,王,Unknown,Chinese,SK,Canada,2023-09-12T19:37:59Z,2023-09-17T18:07:59Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000025AhutEAC,Marketing Inbound,DM,,(585) 383-6088,,女老板,Unknown,Thai,NY,USA,2023-09-17T18:11:34Z,2023-09-17T18:12:14Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b0000231ri2EAA,Marketing Inbound,DM,,(516) 508-8858,Cathy,张,Unknown - 奶茶店,Other,NY,USA,2023-08-02T01:39:34Z,2023-09-17T19:28:18Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024GTMkEAO,Marketing Inbound,DM,,(646) 932-4346,,陈,Unknown - 帮朋友咨询,Chinese,Toronto,Canada,2023-08-08T15:53:25Z,2023-09-17T19:28:56Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024GoBjEAK,Marketing Inbound,DM,,(626) 391-1131,,Unknown,Unknown,Chinese,OR,USA,2023-08-10T02:00:28Z,2023-09-17T19:29:04Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024IKqtEAG,Marketing Inbound,DM,,(514) 573-9669,,张老板娘,张老板娘,Japanese,ON,,2023-08-18T16:33:31Z,2023-09-17T19:29:59Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024HWPCEA4,Marketing Inbound,DM,,(919) 308-3968,,前台,前台,Chinese,VA,,2023-08-14T18:01:30Z,2023-09-17T19:30:08Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b0000232KCcEAM,Marketing Inbound,DM,,(917) 969-8268,,Mrs.朱,朱,Chinese;Japanese,IN,,2023-08-04T17:31:20Z,2023-09-17T19:30:25Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024pcP3EAI,Marketing Inbound,DM,,(956) 215-9101,,黄,Unknown,Chinese;Japanese,CO,United States,2023-09-11T16:10:47Z,2023-09-17T20:09:58Z,New,,,,,
+00Q8b000023kfHwEAI,Marketing Inbound,DM,,(917) 495-7599,,Mr.陈,Unknown,Chinese,NY,,2023-07-24T17:45:20Z,2023-09-17T20:15:27Z,SDR Assigned,,,,,
+00Q8b000024nsTuEAI,Marketing Inbound,DM,,(718) 559-9202,,赵,Unknown,Japanese,Indiana,,2023-08-31T21:04:37Z,2023-09-18T20:39:27Z,Converted,,,2023-09-18,0068b00001T9tvPAAR,
+00Q8b000025ARizEAG,Marketing Inbound,DM,,(917) 588-6168,,liu,Unknown,Chinese,NY,United States,2023-09-16T00:38:09Z,2023-09-18T13:48:37Z,AE Assigned,Lead Does Not Have Phone Ordering Business,,,,Unqualified
+00Q8b000022rImIEAU,Marketing Inbound,DM,,(626) 417-8567,,吳,6264178567 -Ms. 吳-,Chinese;Japanese,UT,United States,2023-06-02T17:03:27Z,2023-09-19T19:15:28Z,SDR Working,,,,,Did not pick up
+00Q8b000023juk3EAA,Marketing Inbound,DM,,17186661301,linda,lin,dragon spring,,NY,,2023-07-19T20:19:55Z,2023-09-19T21:15:21Z,AE Assigned,Duplicate,,,,Unqualified
+00Q8b000024pbfjEAA,Marketing Inbound,DM,,(310) 691-0981,Jessica,Zhuang,Unknown,,N/A,,2023-09-11T15:15:55Z,2023-09-19T20:49:47Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000022seFfEAI,Marketing Inbound,DM,(917) 285-2220,(276) 252-3722,,Mr.张,Unknown,Chinese,PA,,2023-06-08T18:06:22Z,2023-09-21T01:01:44Z,SDR Complete,,,,,Dead
+00Q8b000022sfEnEAI,Marketing Inbound,DM,(917) 285-2220,(647) 986-2655,,Mr.陈,IVAN SUSHI & TEA,Japanese,Ontario,Canada,2023-06-08T19:48:27Z,2023-09-21T01:02:35Z,SDR Working,,,,,Did not pick up
+00Q8b000022srleEAA,Marketing Inbound,DM,,(330) 774-0376,,服务咨询预约表,Unknown,Chinese,OH,USA,2023-06-09T22:17:10Z,2023-09-21T01:21:25Z,SDR Working,,,,,Did not pick up
+00Q8b000023ilXhEAI,Marketing Inbound,DM,,(917) 547-1010,,Ms.林,林来取要开店,Chinese,NY,,2023-07-13T22:12:25Z,2023-09-20T22:12:22Z,SDR Complete,Not a Restaurant,,,,Unqualified
+00Q8b000023ksb5EAA,Marketing Inbound,DM,(917) 285-2220,(702) 286-2829,,Ellen,Ellen CJ来取,Chinese;Japanese,NV,,2023-07-25T18:43:34Z,2023-09-21T00:04:19Z,Converted,,,2023-09-20,0068b00001TABI8AAP,
+00Q8b000024GTmjEAG,Marketing Inbound,DM,,(646) 468-8812,,Ms.董,董来取,Chinese,AL,USA,2023-08-08T16:31:51Z,2023-09-20T22:10:47Z,SDR Complete,,,,,Dead
+00Q8b000024H4tPEAS,Marketing Inbound,DM,,(416) 473-9780,,老板,加拿大日餐铁板,Japanese,ON,Canada,2023-08-11T17:00:28Z,2023-09-20T21:30:48Z,SDR Complete,,,,,Dead
+00Q8b0000231FCpEAM,Marketing Inbound,DM,,(917) 442-2875,,lin,Unknown,Chinese,Ohio,,2023-07-29T14:49:29Z,2023-09-21T00:29:57Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000025AhwVEAS,Marketing Inbound,DM,,(412) 888-6867,,男老板,Unknown,Chinese,PA,USA,2023-09-17T18:15:19Z,2023-09-20T19:47:39Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000024JntmEAC,Marketing Inbound,DM,,(401) 595-9205,,何,Unknown,Chinese,RI,USA,2023-08-27T20:29:48Z,2023-09-20T19:36:40Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b0000251xeOEAQ,Marketing Inbound,DM,,,,Sharon,Koto Sushi Izakaya,Japanese,BC,Canada,2023-09-14T01:20:59Z,2023-09-22T00:01:00Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000023jmaxEAA,Marketing Inbound,DM,,,,qing,Happy Kitchen,,AZ,US,2023-07-19T06:30:44Z,2023-09-21T17:04:50Z,AE Assigned,Duplicate,,,,Unqualified
+00Q8b000023jWopEAE,Marketing Inbound,DM,,(418) 590-0161,binghua,huang,Kenwong restaurant,,QC,Canada,2023-07-18T00:35:03Z,2023-09-21T17:48:29Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024ptemEAA,Marketing Inbound,DM,,(905) 805-2578,,Steven,China Star Canada,Chinese,ON,Canada,2023-09-12T20:49:58Z,2023-09-21T19:03:46Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b0000231n1ZEAQ,Marketing Inbound,DM,,(857) 230-8445,,丁,Szechuan Chinese Restaurant,Chinese,MA,United States,2023-08-01T17:18:13Z,2023-09-21T22:22:14Z,AE Assigned,Agent Language Limitation,,,,Unqualified
+00Q8b000024peP3EAI,Marketing Inbound,DM,,(917) 348-9396,,李 Mandy,Golden Kitchen,Chinese;Other,NY,USA,2023-09-11T18:44:58Z,2023-09-22T00:22:43Z,Converted,,,2023-09-21,0068b00001TAK87AAH,
+00Q8b000024oUrxEAE,Marketing Inbound,DM,,(910) 463-8886,,李,Stir Fry- R88236,Chinese,VA,United States,2023-09-05T18:01:38Z,2023-09-22T19:40:55Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000024HPImEAO,Marketing Inbound,DM,,(647) 581-0183,,kyle zhang,Unknown,Japanese,Ontario,,2023-08-13T21:57:02Z,2023-09-22T21:26:34Z,New,,,,,
+00Q8b0000231ALEEA2,Marketing Inbound,DM,,(917) 887-0858,,Mrs.陈,Mrs.chen,Chinese,NY,,2023-07-28T20:57:33Z,2023-09-22T15:24:32Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024pDDqEAM,Marketing Inbound,DM,,(626) 425-7170,,王,Unknown,Chinese;Japanese,UT,United States,2023-09-08T20:28:54Z,2023-09-22T22:21:38Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000022sFsWEAU,Marketing Inbound,DM,(917) 285-2220,(978) 476-6298,,李,Unknown,Chinese;Japanese,MA,USA,2023-06-07T16:18:39Z,2023-09-22T20:46:29Z,AE Assigned,,,,,
+00Q8b000022wnenEAA,Marketing Inbound,DM,,(801) 997-6667,alex,shi,kim house sushi bar,Japanese,UT,,2023-06-17T21:12:38Z,2023-09-22T22:32:46Z,SDR Working,,,,,Did not pick up
+00Q8b000022ruaTEAQ,Marketing Inbound,DM,(917) 285-2220,(617) 818-8689,,Unknown,Unknown,Chinese,NY,,2023-06-06T15:57:00Z,2023-09-22T20:49:04Z,SDR Complete,,,,,Dead
+00Q8b000024pxYUEAY,Marketing Inbound,DM,,(510) 541-3332,,Jung,Unknown,Chinese;Japanese,CA,United States,2023-09-13T01:32:04Z,2023-09-22T22:27:16Z,SDR Complete,,No Interest to talk to sales,,,Rejected
+00Q8b000022srljEAA,Marketing Inbound,DM,,(201) 963-0240,,服务咨询预约表,Unknown,,NJ,USA,2023-06-09T22:17:10Z,2023-09-27T20:36:00Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlVEAQ,Marketing Inbound,DM,,(431) 373-9106,,服务咨询预约表,Unknown,,Manitoba,Canada,2023-06-09T22:17:10Z,2023-09-27T20:36:21Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlMEAQ,Marketing Inbound,DM,,(647) 879-6878,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-09-27T20:36:44Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlOEAQ,Marketing Inbound,DM,,(724) 880-7152,,服务咨询预约表,Unknown,,PA,USA,2023-06-09T22:17:10Z,2023-09-27T20:37:11Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlfEAA,Marketing Inbound,DM,,(417) 887-8188,,服务咨询预约表,Unknown,,MO,USA,2023-06-09T22:17:10Z,2023-09-27T20:37:34Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlXEAQ,Marketing Inbound,DM,,(647) 997-9757,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-09-27T20:44:41Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlZEAQ,Marketing Inbound,DM,,(647) 873-5669,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-09-27T20:45:01Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlPEAQ,Marketing Inbound,DM,,(250) 202-9981,,服务咨询预约表,Unknown,,British Columbia,Canada,2023-06-09T22:17:10Z,2023-09-27T20:45:38Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlREAQ,Marketing Inbound,DM,,(647) 866-6222,,服务咨询预约表,Unknown,,Ontario,Canada,2023-06-09T22:17:10Z,2023-09-27T20:47:06Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlaEAA,Marketing Inbound,DM,,(604) 868-0667,,服务咨询预约表,Unknown,,Vancouver,Canada,2023-06-09T22:17:10Z,2023-09-27T20:46:46Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlcEAA,Marketing Inbound,DM,,(707) 716-3335,,服务咨询预约表,Unknown,,CA,USA,2023-06-09T22:17:10Z,2023-09-27T20:46:22Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022srlTEAQ,Marketing Inbound,DM,,(980) 349-2610,,服务咨询预约表,Unknown,,NC,USA,2023-06-09T22:17:10Z,2023-09-27T20:45:59Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024HOgKEAW,Marketing Inbound,DM,,(718) 415-7220,,杨,Unknown,Chinese,Georgia,,2023-08-13T20:12:06Z,2023-09-27T19:03:11Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022rc0dEAA,Marketing Inbound,DM,,(231) 360-1891,William,Wang,Fu Hua,Chinese,Michigan,,2023-06-04T21:44:58Z,2023-09-27T19:04:27Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000023lB0QEAU,Marketing Inbound,DM,,(312) 929-6023,,Huang,Chinese Kitchen and SushiChinese Kitchen and Sushi,Chinese,Illinois,,2023-07-27T02:14:26Z,2023-09-27T20:39:51Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022sfXwEAI,Marketing Inbound,DM,(917) 285-2220,(312) 451-4100,,Mr.朱,Unknown,Japanese;Other,IL,,2023-06-08T20:34:30Z,2023-09-27T20:20:24Z,SDR Complete,,,,,Dead
+00Q8b000022wSjREAU,Marketing Inbound,DM,(917) 285-2220,(510) 965-2302,,Jimmy,Unknown,Japanese;Other,CA,,2023-06-15T17:26:14Z,2023-09-27T20:10:27Z,SDR Working,,,,,Did not pick up
+00Q8b000022yIwTEAU,Marketing Inbound,DM,(917) 285-2220,(206) 779-3897,,Ms.陈,Unknown,Chinese,WA,,2023-06-26T19:53:04Z,2023-09-27T19:02:33Z,SDR Complete,,,,,Dead
+00Q8b000022vxlFEAQ,Marketing Inbound,DM,(917) 285-2220,(929) 253-6669,,Unknown,Sakura,Japanese,OK,,2023-06-14T19:55:49Z,2023-09-27T15:51:13Z,SDR Working,,,,,Check Back in 1 to 3 months
+00Q8b0000231BAHEA2,Marketing Inbound,DM,,(610) 698-2872,,Mr.陈,陈,Chinese,PA,,2023-07-28T22:33:41Z,2023-09-27T19:05:34Z,SDR Working,,,,,Did not pick up
+00Q8b000023klVhEAI,Marketing Inbound,DM,(917) 285-2220,(414) 817-2245,,Mr.梁,Panda Gourmet,Chinese,IL,,2023-07-25T02:22:02Z,2023-09-27T19:07:16Z,SDR Complete,,,,,Dead
+00Q8b000024HYjuEAG,Marketing Inbound,DM,,(226) 883-0187,,Julie,Unknown,Chinese;Other,Toronto,Canada,2023-08-14T17:53:32Z,2023-09-27T20:08:37Z,SDR Working,,,,,Did not pick up
+00Q8b000024ni7VEAQ,Marketing Inbound,DM,,(626) 321-1460,,Susan,Unknown,Chinese,AZ,USA,2023-08-30T21:46:15Z,2023-09-27T16:12:52Z,Converted,,,2023-09-27,0068b00001TAzgvAAD,
+00Q8b000022tmlqEAA,Marketing Inbound,DM,,(917) 362-1590,,Ms.陈,陈来取,Chinese,KY,,2023-06-13T02:40:54Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b0000251gaCEAQ,Marketing Inbound,DM,,,,[not provided],River Sushi,Japanese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T19:44:01Z,SDR Assigned,,,,,
+00Q8b0000251gaBEAQ,Marketing Inbound,DM,,,,[not provided],Sichuan Restaurant,Chinese,NJ,United States,2023-09-13T21:32:21Z,2023-09-25T19:44:09Z,SDR Assigned,,,,,
+00Q8b0000251gaAEAQ,Marketing Inbound,DM,,,Nicole,Marengo,Water Lily Japanese Cuisine,Japanese,NJ,United States,2023-09-13T21:32:21Z,2023-09-25T19:44:17Z,SDR Assigned,,,,,
+00Q8b0000251gaLEAQ,Marketing Inbound,DM,,,,[not provided],Sing Siu Zai Min,Japanese,CA,United States,2023-09-13T21:32:21Z,2023-09-25T19:51:08Z,SDR Assigned,,,,,
+00Q8b0000251gaDEAQ,Marketing Inbound,DM,,,,[not provided],Wonderful 713,Chinese,NJ,United States,2023-09-13T21:32:21Z,2023-09-25T19:51:20Z,SDR Assigned,,,,,
+00Q8b0000251gaEEAQ,Marketing Inbound,DM,,,,[not provided],Venz Shanghai,Chinese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T19:51:28Z,SDR Assigned,,,,,
+00Q8b0000251gaFEAQ,Marketing Inbound,DM,,,Ben,L,Gu Japanese Fusion Sushi & Bar,Japanese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T19:51:36Z,SDR Assigned,,,,,
+00Q8b0000251gaHEAQ,Marketing Inbound,DM,,,Dyanne,Iandoli,The Reel Kitchen,Japanese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T19:51:51Z,SDR Assigned,,,,,
+00Q8b0000251gaJEAQ,Marketing Inbound,DM,,,D.,Johnny Angel,Brooklyn Dumpling Shop,Chinese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:05Z,SDR Assigned,,,,,
+00Q8b0000251gaKEAQ,Marketing Inbound,DM,,,Amy,G,Yummy Yummy,Chinese,CA,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:14Z,SDR Assigned,,,,,
+00Q8b0000251gaMEAQ,Marketing Inbound,DM,,,Leonard,Fries,Lenny,Chinese,FL,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:21Z,SDR Assigned,,,,,
+00Q8b0000251gaNEAQ,Marketing Inbound,DM,,,,[not provided],Tokyo,Japanese,GA,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:31Z,SDR Assigned,,,,,
+00Q8b0000251gaOEAQ,Marketing Inbound,DM,,,,[not provided],Local Food Hall,Chinese,IL,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:40Z,SDR Assigned,,,,,
+00Q8b0000251gaPEAQ,Marketing Inbound,DM,,,Dorothy,Domilise,Domilise's Po-Boys,Cajun,LA,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:48Z,SDR Assigned,,,,,
+00Q8b0000251gaQEAQ,Marketing Inbound,DM,,,Terrell,Leboeuf,Frankie & Johnny's,Cajun,LA,United States,2023-09-13T21:32:21Z,2023-09-25T19:52:56Z,SDR Assigned,,,,,
+00Q8b0000251gaREAQ,Marketing Inbound,DM,,,Chong,Sze,Bamboo Buffet,Chinese,MD,United States,2023-09-13T21:32:21Z,2023-09-25T19:53:05Z,SDR Assigned,,,,,
+00Q8b0000251gaSEAQ,Marketing Inbound,DM,,,Wen,Chen,Chop Chop Wok,Chinese,NV,United States,2023-09-13T21:32:21Z,2023-09-25T19:53:13Z,SDR Assigned,,,,,
+00Q8b0000251gaTEAQ,Marketing Inbound,DM,,,Michael,Newman,Spicy Hop,Chinese,OH,United States,2023-09-13T21:32:21Z,2023-09-25T19:53:21Z,SDR Assigned,,,,,
+00Q8b0000251gaUEAQ,Marketing Inbound,DM,,,Sam,Cheng,Jumbo Super Buffet,Chinese,TX,United States,2023-09-13T21:32:21Z,2023-09-25T19:54:19Z,SDR Assigned,,,,,
+00Q8b0000251gaVEAQ,Marketing Inbound,DM,,,Jeremy,Wang,Chinatown,Chinese,TX,United States,2023-09-13T21:32:21Z,2023-09-25T19:54:31Z,SDR Assigned,,,,,
+00Q8b0000251gaWEAQ,Marketing Inbound,DM,,,Bryan,Pritchard,Garage Grill,Japanese,UT,United States,2023-09-13T21:32:21Z,2023-09-25T19:54:41Z,SDR Assigned,,,,,
+00Q8b0000251gaXEAQ,Marketing Inbound,DM,,,,[not provided],Yama Sushi House,Japanese,AZ,United States,2023-09-13T21:32:21Z,2023-09-25T19:54:52Z,SDR Assigned,,,,,
+00Q8b0000251gaYEAQ,Marketing Inbound,DM,,,,[not provided],Dashiwa Ramen,Japanese,CA,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:03Z,SDR Assigned,,,,,
+00Q8b0000251gaZEAQ,Marketing Inbound,DM,,,Daniel,L,Sushi Run,Japanese,CA,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:12Z,SDR Assigned,,,,,
+00Q8b0000251gaaEAA,Marketing Inbound,DM,,,Tiffany,L,Gourmet House,Chinese,CA,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:21Z,SDR Assigned,,,,,
+00Q8b0000251gacEAA,Marketing Inbound,DM,,,Kin,Kong,New China City,Chinese,CO,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:29Z,SDR Assigned,,,,,
+00Q8b0000251gadEAA,Marketing Inbound,DM,,,,[not provided],Ninja Sushi,Japanese,CO,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:36Z,SDR Assigned,,,,,
+00Q8b0000251gaeEAA,Marketing Inbound,DM,,,,[not provided],Ramen Kumamoto,Japanese,DE,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:45Z,SDR Assigned,,,,,
+00Q8b0000251gafEAA,Marketing Inbound,DM,,,Xin,Y. Lin,Lin's Garden,Chinese,GA,United States,2023-09-13T21:32:21Z,2023-09-25T19:55:52Z,SDR Assigned,,,,,
+00Q8b0000251gaiEAA,Marketing Inbound,DM,,,,[not provided],Jin Jin Chinese Restaurant,Chinese,NC,United States,2023-09-13T21:32:21Z,2023-09-25T19:56:00Z,SDR Assigned,,,,,
+00Q8b0000251gajEAA,Marketing Inbound,DM,,,Dan,Mulligan,Chai's Asian Bistro,Japanese,NC,United States,2023-09-13T21:32:21Z,2023-09-25T19:56:07Z,SDR Assigned,,,,,
+00Q8b0000251ganEAA,Marketing Inbound,DM,,,,[not provided],Diaz Kitchen & Sushi Bar,Japanese,NM,United States,2023-09-13T21:32:21Z,2023-09-25T19:56:15Z,SDR Assigned,,,,,
+00Q8b0000251gamEAA,Marketing Inbound,DM,,,LI,C,Yamato Sushi,Japanese,NE,United States,2023-09-13T21:32:21Z,2023-09-25T19:56:24Z,SDR Assigned,,,,,
+00Q8b0000251gaoEAA,Marketing Inbound,DM,,,Helen,He,Teppanyaki,Japanese,NV,United States,2023-09-13T21:32:21Z,2023-09-25T19:57:27Z,SDR Assigned,,,,,
+00Q8b0000251gaqEAA,Marketing Inbound,DM,,,,[not provided],Neko Sushi,Japanese,OR,United States,2023-09-13T21:32:21Z,2023-09-25T19:57:45Z,SDR Assigned,,,,,
+00Q8b0000251gapEAA,Marketing Inbound,DM,,,Huynh,Hue,China Jade,Chinese,OH,United States,2023-09-13T21:32:21Z,2023-09-25T19:57:57Z,SDR Assigned,,,,,
+00Q8b0000251garEAA,Marketing Inbound,DM,,,,[not provided],St. Oner's,Chinese,PA,United States,2023-09-13T21:32:21Z,2023-09-25T19:58:05Z,SDR Assigned,,,,,
+00Q8b0000251gasEAA,Marketing Inbound,DM,,,Lin,Fusheng,Red Central Chinese Restaurant,Chinese,PA,United States,2023-09-13T21:32:21Z,2023-09-25T19:58:14Z,SDR Assigned,,,,,
+00Q8b0000251gatEAA,Marketing Inbound,DM,,,,[not provided],Salt N Pepper Indian Restaurant,Chinese,TX,United States,2023-09-13T21:32:21Z,2023-09-25T19:58:23Z,SDR Assigned,,,,,
+00Q8b0000251gavEAA,Marketing Inbound,DM,,,Tadashi,Yamaguchi,Kobe Japanese Steak & Sushi,Japanese,VA,United States,2023-09-13T21:32:21Z,2023-09-25T19:58:30Z,SDR Assigned,,,,,
+00Q8b0000251gauEAA,Marketing Inbound,DM,,,Xiubing,Zheng,Panda Cafe,Chinese,VA,United States,2023-09-13T21:32:21Z,2023-09-25T19:58:37Z,SDR Assigned,,,,,
+00Q8b0000251gaxEAA,Marketing Inbound,DM,,,Alan,Wong,Shabusen,Japanese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T19:58:48Z,SDR Assigned,,,,,
+00Q8b0000251gayEAA,Marketing Inbound,DM,,,Ken,Yu,Blue Diamond Restaurant,Chinese,AB,Canada,2023-09-13T21:32:21Z,2023-09-25T19:58:57Z,SDR Assigned,,,,,
+00Q8b0000251gb0EAA,Marketing Inbound,DM,,,Philip,Chen,Tai Sun Chinese Restaurant,Chinese,NL,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:05Z,SDR Assigned,,,,,
+00Q8b0000251gb2EAA,Marketing Inbound,DM,,,Guo,Yu,Jack Lee's Tavern Restaurant,Chinese,ON,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:22Z,SDR Assigned,,,,,
+00Q8b0000251gb3EAA,Marketing Inbound,DM,,,,[not provided],Sukoshi,Japanese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:27Z,SDR Assigned,,,,,
+00Q8b0000251gb4EAA,Marketing Inbound,DM,,,Wenli,Chen,Bojo's Restaurant,Chinese,NL,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:35Z,SDR Assigned,,,,,
+00Q8b0000251gb5EAA,Marketing Inbound,DM,,,Ricardo,Arcilla,Loma House,Chinese,AB,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:42Z,SDR Assigned,,,,,
+00Q8b0000251gb6EAA,Marketing Inbound,DM,,,Lisa,Q,Bamboo Inn Restaurant,Chinese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:49Z,SDR Assigned,,,,,
+00Q8b0000251gb7EAA,Marketing Inbound,DM,,,,[not provided],Matoi Sushi,Japanese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:56Z,SDR Assigned,,,,,
+00Q8b0000251gb8EAA,Marketing Inbound,DM,,,,[not provided],RedBeef Noodle Kitchen,Chinese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T20:00:04Z,SDR Assigned,,,,,
+00Q8b0000251gb9EAA,Marketing Inbound,DM,,,,[not provided],Huang's Restaurant,Chinese,NS,Canada,2023-09-13T21:32:21Z,2023-09-25T20:00:13Z,SDR Assigned,,,,,
+00Q8b0000251gbAEAQ,Marketing Inbound,DM,,,Gian,Baenliu,Mark's Chop Suey,Chinese;Thai,ON,Canada,2023-09-13T21:32:21Z,2023-09-25T20:02:54Z,SDR Assigned,,,,,
+00Q8b0000251gbBEAQ,Marketing Inbound,DM,,,,[not provided],Morning Cafe,Chinese,ON,Canada,2023-09-13T21:32:21Z,2023-09-25T20:03:00Z,SDR Assigned,,,,,
+00Q8b0000251gbCEAQ,Marketing Inbound,DM,,,,[not provided],Peaceful Loft,Chinese,NL,Canada,2023-09-13T21:32:21Z,2023-09-25T20:03:08Z,SDR Assigned,,,,,
+00Q8b0000251gbDEAQ,Marketing Inbound,DM,,,Nathaniel,Klein,The Kosher Gourmet,Chinese,ON,Canada,2023-09-13T21:32:21Z,2023-09-25T20:03:17Z,SDR Assigned,,,,,
+00Q8b0000251gbEEAQ,Marketing Inbound,DM,,,Marisol Simoes,Jailed,Kinki Lounge & Kitchen,Japanese,ON,Canada,2023-09-13T21:32:21Z,2023-09-25T20:03:23Z,SDR Assigned,,,,,
+00Q8b000023RSutEAG,Marketing Inbound,DM,,,,un,#1 CHINESE KITCHEN,Chinese,NY,,2023-07-11T22:57:26Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b0000251gaGEAQ,Marketing Inbound,DM,,,,[not provided],Amituofo Vegan Cuisine,Chinese,NY,United States,2023-09-13T21:32:21Z,2023-09-25T20:03:30Z,SDR Assigned,,,,,
+00Q8b0000251gagEAA,Marketing Inbound,DM,,,,[not provided],Cuisine Thai & Sushi,Japanese;Thai,MN,United States,2023-09-13T21:32:21Z,2023-09-25T20:03:51Z,SDR Assigned,,,,,
+00Q8b0000251gahEAA,Marketing Inbound,DM,,,Ai,Ni,Ichiban Buffet,Japanese,MS,United States,2023-09-13T21:32:21Z,2023-09-25T19:43:52Z,SDR Assigned,,,,,
+00Q8b0000251galEAA,Marketing Inbound,DM,,,Tommy,Tong,Lin's Kitchen,Chinese,NC,United States,2023-09-13T21:32:21Z,2023-09-25T20:03:58Z,SDR Assigned,,,,,
+00Q8b0000251gazEAA,Marketing Inbound,DM,,,Kyoko,Nakano,Teppan Village,Japanese,BC,Canada,2023-09-13T21:32:21Z,2023-09-25T19:43:40Z,SDR Assigned,,,,,
+00Q8b0000251gb1EAA,Marketing Inbound,DM,,,,[not provided],GaiJin Izakaya,Japanese,MB,Canada,2023-09-13T21:32:21Z,2023-09-25T19:59:12Z,SDR Assigned,,,,,
+00Q8b000022rT8JEAU,Marketing Inbound,DM,(917) 285-2220,(772) 214-9246,,Unknown,Unknown,Chinese,NY,,2023-06-03T16:09:40Z,2023-09-24T19:38:30Z,SDR Complete,,,,,Dead
+00Q8b000023WVMtEAO,Marketing Inbound,DM,(917) 285-2220,(416) 315-4057,,Mr.江,江来取,Chinese,Canada,,2023-06-29T19:43:59Z,2023-09-24T17:39:01Z,SDR Complete,,,,,Dead
+00Q8b000023XCKLEA4,Marketing Inbound,DM,(917) 285-2220,(205) 240-1806,,Mr.张,张送餐,Chinese,PA,,2023-07-04T18:29:03Z,2023-09-24T17:38:22Z,SDR Complete,,,,,Dead
+00Q8b0000250Ks0EAE,Marketing Inbound,DM,,(587) 930-3388,,雷,Unknown,Chinese,AB,Canada,2023-09-13T17:53:16Z,2023-09-22T20:07:02Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024pbaaEAA,Marketing Inbound,DM,,(647) 949-3899,,汤,Good lucky 168 Chinese Restaurant,Chinese,ON,Canada,2023-09-11T15:08:36Z,2023-09-22T20:04:34Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b0000232AjFEAU,Marketing Inbound,DM,,(617) 816-8786,,陈,Unknown,Chinese;Japanese,MA,USA,2023-08-03T19:32:09Z,2023-09-24T01:43:59Z,SDR Working,,,,,Hang Up Immediately
+00Q8b000022rEncEAE,Marketing Inbound,DM,,(917) 476-1349,,Mr.林,US DELI,Subway,CA,,2023-06-02T02:43:37Z,2023-09-25T17:17:45Z,Converted,,,2023-09-25,0068b00001TAhUbAAL,
+00Q8b0000231BDUEA2,Marketing Inbound,DM,,(267) 884-8688,,Mrs.黄,黄老板,Chinese,MI,,2023-07-28T22:39:18Z,2023-09-26T19:59:27Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000022vz7REAQ,Marketing Inbound,DM,(917) 285-2220,(510) 631-8741,,Unknown,Unknown,Chinese,CA,,2023-06-14T22:30:25Z,2023-09-21T23:02:23Z,SDR Working,,,,,Did not pick up
+00Q8b000022srlLEAQ,Marketing Inbound,DM,,(519) 432-1124,,wang,Unknown,Chinese,Ontario,Canada,2023-06-09T22:17:10Z,2023-09-26T22:02:09Z,SDR Working,,,,,Not sure if Ideal Client Profile
+00Q8b000022x56XEAQ,Marketing Inbound,DM,,(416) 525-6283,Michael,Jiang,Taiga Ichiban,Japanese,AL,Canada,2023-06-20T01:12:24Z,2023-09-26T11:32:06Z,SDR Complete,,Contact info incorrect,,,Rejected
+00Q8b000022xiz1EAA,Marketing Inbound,DM,(917) 285-2220,(864) 905-6177,,Mr.赵,Unknown,Japanese,FL,,2023-06-22T18:36:38Z,2023-09-27T01:25:35Z,SDR Working,,,,,Check Back in 1 to 3 months
+00Q8b000022xu2HEAQ,Marketing Inbound,DM,(888) 856-9583,(732) 803-2970,,Unknown,Unknown,Other,NJ,,2023-06-23T18:43:23Z,2023-09-26T22:02:22Z,SDR Complete,Cannot Service Cuisine/Menu,,,,Unqualified
+00Q8b00002317oqEAA,Marketing Inbound,DM,,(347) 536-0688,,林,Unknown,Chinese,Colorado,,2023-07-28T17:33:09Z,2023-09-26T21:28:53Z,SDR Working,,,,,Did not pick up
+00Q8b000023k3Q1EAI,Marketing Inbound,DM,(917) 285-2220,(502) 380-7377,,Ms.周,Unknown,Japanese;Cajun,KY,,2023-07-20T15:34:49Z,2023-09-26T18:47:07Z,SDR Working,,,,,Did not pick up
+00Q8b000023k6D8EAI,Marketing Inbound,DM,,(347) 260-3331,,Ms.江,Unknown,Japanese,NC,,2023-07-20T19:29:09Z,2023-09-26T18:43:48Z,SDR Working,,,,,Did not pick up
+00Q8b000024J27JEAS,Marketing Inbound,DM,,(804) 349-7075,,李老板,李,Chinese,VA,,2023-08-22T16:52:19Z,2023-09-26T21:38:02Z,SDR Complete,,,,,Dead
+00Q8b000024okQ6EAI,Marketing Inbound,DM,,(818) 640-7256,,LastNameTest,Unknown,,CA,,2023-09-06T21:06:48Z,2023-09-26T11:53:36Z,AE Assigned,,,,,Unqualified
+00Q8b0000232SV7EAM,Marketing Inbound,DM,,(260) 330-8152,,Mike,Unknown,Chinese,Indiana,,2023-08-05T15:42:29Z,2023-09-27T20:49:32Z,SDR Complete,,,,,Dead
+00Q8b000025LLyvEAG,Marketing Inbound,DM,,(917) 302-5398,,Lisa林,Unknown,Chinese,Boston,,2023-09-27T19:39:05Z,2023-09-27T20:43:19Z,AE Assigned,,,,,
+00Q8b000025LLLqEAO,Marketing Inbound,DM,,(604) 721-3888,,Unknown,Unknown,Chinese,BC,Canada,2023-09-27T19:08:14Z,2023-09-27T19:08:34Z,New,,,,,
+00Q8b000025LKiPEAW,Marketing Inbound,DM,,,,Gee,Unknown,Chinese,,,2023-09-27T18:36:32Z,2023-09-27T18:36:32Z,New,,,,,
+00Q8b000025BPtdEAG,Marketing Inbound,DM;Client Referral,,(315) 416-0886,,张,Unknown,Chinese,NY,USA,2023-09-21T01:47:16Z,2023-09-21T16:42:59Z,Converted,,,2023-09-21,0068b00001TAH1PAAX,SDL
+00Q8b000025ChYjEAK,Marketing Inbound,DM;Client Referral,,(302) 212-7207,,郑,Mr. 鄭＠3022127207,Chinese,DE,US,2023-09-26T20:31:25Z,2023-09-27T01:53:04Z,AE Assigned,,,,,
+00Q8b000023QwAaEAK,Marketing Inbound,DM;Client Referral,(917) 285-2220,(917) 815-5988,,邱,China Garden,Chinese,FL,USA,2023-07-08T17:00:43Z,2023-08-22T08:09:28Z,AE Assigned,Current Client,,2023-07-08,0068b00001RkvkpAAB,Unqualified
+00Q8b000024IKTLEA4,Marketing Inbound,DM;Client Referral,,(347) 335-8931,,陈老板娘,陈,Chinese,DC,,2023-08-18T16:01:12Z,2023-08-22T04:30:52Z,Converted,,,2023-08-18,0068b00001SQKc1AAH,
+00Q8b000024osL3EAI,Marketing Inbound,DM;Client Referral,,(347) 536-0841,,Mr.朱,Super Wok,Chinese,VA,USA,2023-09-07T17:15:33Z,2023-09-08T00:10:48Z,Converted,,,2023-09-07,0068b00001T8NTxAAN,
+00Q8b000022rHoPEAU,Marketing Inbound,DM;Client Referral,(917) 285-2220,(917) 285-6118,,林,9172856118 -Mr. 林 -幫父母問,Chinese,NY,USA,2023-06-02T14:45:17Z,2023-08-22T06:51:15Z,Converted,,,2023-08-22,0068b00001SQdTiAAL,
+00Q8b000023RP8KEAW,Marketing Inbound,DM;Client Referral,(917) 285-2220,(646) 726-0152,,Fung,Unknown,Chinese,FL,United States,2023-07-11T18:07:39Z,2023-08-22T08:09:22Z,AE Assigned,Current Client,,2023-07-13,0068b00001S2ljqAAB,Unqualified
+00Q8b000023j00sEAA,Marketing Inbound,DM;Client Referral,(917) 285-2220,(707) 592-6287,,叶,叶小姐@7075926287 -幫老闆諮詢,Chinese,TX,USA,2023-07-14T17:53:30Z,2023-08-22T06:50:42Z,Converted,,,2023-08-22,0068b00001SQdTGAA1,
+00Q8b000024INZyEAO,Marketing Inbound,DM;Client Referral,,(917) 650-1032,,李老板娘,李老板娘,Chinese,VA,,2023-08-18T20:49:28Z,2023-08-22T04:30:52Z,Converted,,,2023-08-21,0068b00001SQYB5AAP,
+00Q8b000023WJL0EAO,Marketing Inbound,DM;Client Referral,(888) 235-3619,(646) 309-1862,,董,Ms. 董@6463091862,,CT,USA,2023-06-28T20:45:11Z,2023-08-13T16:30:04Z,New,,,,,
+00Q8b000023WgP6EAK,Marketing Inbound,DM;Client Referral,(917) 285-2220,(714) 812-9988,,Danny,Unknown,Chinese,OH,USA,2023-06-30T18:30:33Z,2023-09-04T06:12:56Z,New,,,,,Check Back in 1 to 3 months
+00Q8b000023krWeEAI,Marketing Inbound,DM;Client Referral,,(626) 505-3666,,Mr.邓,Golden Leaf,Chinese;Thai,CO,,2023-07-25T17:17:46Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-07-31,0068b00001SO6ZsAAL,Unqualified
+00Q8b0000231eAqEAI,AE Sourced,DM;Client Referral,,(626) 242-7878,,邱,Ms. 邱@6262427878,Cajun,FL,USA,2023-07-31T19:56:30Z,2023-08-22T08:09:32Z,AE Assigned,Current Client,,2023-08-01,0068b00001SOGB6AAP,Unqualified
+00Q8b0000232OUeEAM,Marketing Inbound,DM;Client Referral,,(917) 518-7292,,陈,Mr. 陈@ 9175187292,Chinese,PA,,2023-08-05T00:11:17Z,2023-08-22T04:30:52Z,Converted,,,2023-08-09,0068b00001SPFbQAAX,
+00Q8b000024GJDgEAO,Marketing Inbound,DM;Client Referral,,(646) 651-2905,,李,Unknown,Chinese,MI,USA,2023-08-07T18:08:52Z,2023-08-22T04:30:52Z,Converted,,,2023-08-14,0068b00001SPiphAAD,
+00Q8b000024GgivEAC,Marketing Inbound,DM;Client Referral,,(917) 637-9875,,张,Unknown,Chinese,CT,USA,2023-08-09T16:40:08Z,2023-08-22T06:50:11Z,Converted,,,2023-08-22,0068b00001SQdSjAAL,
+00Q8b000024GhxIEAS,Marketing Inbound,DM;Client Referral,,(631) 406-3731,,郑,Ms. 鄭@6314063731 - PT,Chinese,NY,USA,2023-08-09T18:16:20Z,2023-08-22T06:50:10Z,Converted,,,2023-08-22,0068b00001SQdSiAAL,
+00Q8b000022wqWIEAY,Marketing Inbound,DM;Client Referral,,(718) 552-7222,,Mr.郑,Lucky Star,Chinese,NY,,2023-06-18T16:30:45Z,2023-09-14T17:10:03Z,AE Assigned,Current Client,,2023-06-20,0068b00001RdNp3AAF,Unqualified
+00Q8b000024IeD0EAK,Marketing Inbound,DM;Client Referral,,(862) 452-9670,,李,李老板,Chinese,NJ,,2023-08-20T01:40:06Z,2023-08-22T06:49:58Z,Converted,,,2023-08-22,,
+00Q8b000022wkrYEAQ,Marketing Inbound,DM;Client Referral,(917) 285-2220,(954) 682-1851,,Mr.李,李来取,Chinese,FL,,2023-06-17T15:40:08Z,2023-09-24T17:40:10Z,SDR Complete,,,,,Dead
+00Q8b000022yGqFEAU,Marketing Inbound,DM;Client Referral,(917) 285-2220,(646) 961-9481,,Mr.温,Unknown,Chinese,NY,,2023-06-26T17:31:52Z,2023-09-27T20:07:10Z,SDR Complete,,,,,Dead
+00Q8b000023Ax4iEAC,Marketing Inbound,DM;Client Referral;GetSKT.com Mobile,,(609) 903-6913,,郑,New Great Wall,Chinese,Ohio,USA,2023-06-13T15:42:22Z,2023-08-22T08:09:28Z,AE Assigned,Current Client,,2023-06-13,0068b00001R91BwAAJ,Unqualified
+00Q8b000024nuLsEAI,Telemarketer,DM;Client Referral;Telemarketer,,(862) 666-0225,,鄭,unknow,Chinese,NJ,USA,2023-09-01T00:12:48Z,2023-09-01T02:58:37Z,Converted,,,2023-08-31,0068b00001T7fU3AAJ,
+00Q8b000023Vw78EAC,Telemarketer,DM;Client Referral;Telemarketer,(917) 285-2220,(917) 535-0791,,Mr.翁,Chef Wok,Chinese;Other,LA,,2023-06-27T02:34:50Z,2023-08-28T19:12:34Z,Converted,,,2023-06-27,0068b00001ReCaxAAF,
+00Q8b000022whvhEAA,Marketing Inbound,DM;Client Referral;WeChat - Other,,(954) 401-5222,David,蔣,David @9544015222,Chinese,FL,USA,2023-06-17T02:42:59Z,2023-09-04T06:12:56Z,New,,,,,
+00Q8b000024J1nkEAC,Marketing Inbound,DM;Douyin,,(929) 258-9541,,张,张老板,Chinese,NY,,2023-08-22T17:05:04Z,2023-08-22T18:29:51Z,Converted,,,2023-08-22,0068b00001SQgioAAD,
+00Q8b000024o85VEAQ,Marketing Inbound,DM;GetSKT.com Mobile,,(917) 991-6819,,陈,陈老板娘@9179916819,Chinese,SC,,2023-09-02T18:30:52Z,2023-09-02T21:58:40Z,AE Assigned,,,,,
+00Q8b000022xhSEEAY,Marketing Inbound,DM;GetSKT.com Mobile,,(574) 333-6865,qi,Mr.刘,Sushi Garden,Japanese,IN,,2023-06-22T16:21:38Z,2023-09-20T20:31:47Z,SDR Working,,,,,Hang Up Immediately
+00Q8b000023WgkTEAS,Marketing Inbound,DM;Marketing Referral;WeChat - Other,,(908) 502-2828,,卓,King Chef,Chinese,IN,USA,2023-06-30T19:10:31Z,2023-08-22T08:09:28Z,AE Assigned,Current Client,,2023-06-30,0068b00001RebCXAAZ,Unqualified
+00Q8b000022xA3YEAU,Telemarketer,DM;Telemarketer,(917) 285-2220,(347) 345-8090,,Mr.林,New World American Kitchen,Chinese,NY,,2023-06-20T16:29:13Z,2023-08-22T08:09:17Z,AE Assigned,Current Client,,2023-06-20,0068b00001RdQx3AAF,Unqualified
+00Q8b000022xv1WEAQ,Marketing Inbound,DM;Telemarketer,(917) 285-2220,(385) 294-7190,,吴,Unknown,Chinese;Japanese,UT,,2023-06-24T00:32:27Z,2023-08-22T06:50:58Z,Converted,,,2023-08-22,0068b00001SQdTVAA1,
+00Q8b000024I3yUEAS,Marketing Inbound,DM;WeChat - Other,,(917) 340-5101,,林,Unknown,Chinese,NY,USA,2023-08-17T01:45:10Z,2023-08-22T06:50:03Z,Converted,,,2023-08-22,0068b00001SQdSZAA1,
+00Q8b000022t6iDEAQ,Marketing Inbound,DM;Youtube - Ads,(917) 285-2220,(917) 838-3676,,Henry,Unknown,Japanese,NY,,2023-06-11T19:42:23Z,2023-09-14T22:05:10Z,SDR Assigned,,,,,
+00Q8b000025LBjaEAG,Marketing Inbound,Google;DM,,(408) 838-6383,,周,Unknown,Chinese,CA,,2023-09-27T01:58:19Z,2023-09-27T20:05:42Z,AE Assigned,,,,,
+00Q8b000023WoMSEA0,Marketing Inbound,Google;DM,,(347) 618-8818,海霞,秦,绿龙烧烤店 Green Drgon BBQ Restaurant,Chinese,NJ,United States,2023-07-01T20:53:02Z,2023-08-22T06:50:56Z,Converted,,,2023-08-22,0068b00001SQdTTAA1,
+00Q8b000024H4etEAC,Marketing Inbound,Google;DM,,(917) 330-1859,,Tan老板娘,老板娘,Chinese,IL,,2023-08-11T16:36:31Z,2023-08-22T06:50:07Z,Converted,,,2023-08-22,0068b00001SQdSeAAL,
+00Q8b000024pctnEAA,Marketing Inbound,Google;DM,,(317) 665-5272,,陈,unknown,Chinese,IN,USA,2023-09-11T17:21:55Z,2023-09-20T19:32:21Z,AE Assigned,,Cannot contact lead,,,Rejected
+00Q8b000024oXzsEAE,Marketing Inbound,Google;DM,,(917) 517-1205,,林,Unknown,Chinese,IL,USA,2023-09-05T21:10:15Z,2023-09-22T14:35:06Z,AE Assigned,,No Interest to talk to sales,,,Rejected
+00Q8b000024JVYrEAO,Marketing Inbound,SMS;DM,,(405) 430-1131,,Eric,Eric,Chinese,OK,,2023-08-25T16:11:52Z,2023-09-08T00:20:54Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000024JVfTEAW,Marketing Inbound,SMS;DM,,(929) 340-5935,,林,林老板,Chinese,NY,,2023-08-25T16:15:50Z,2023-09-07T20:20:36Z,SDR Complete,Current Client,,,,Unqualified
+00Q8b000024IaCDEA0,Marketing Inbound,SMS;DM,,(423) 838-8308,,董,RICE BOX,Chinese;Japanese;Thai,TN,,2023-08-19T18:13:52Z,2023-08-22T06:49:59Z,Converted,,,2023-08-22,0068b00001SQdSUAA1,
+00Q8b000024GsmqEAC,Marketing Inbound,SMS;DM,,(646) 492-3287,,Mr.邹,周美式中餐,Chinese,NY,,2023-08-10T16:50:50Z,2023-08-22T06:50:09Z,Converted,,,2023-08-22,0068b00001SQdSgAAL,
+00Q8b000024osZoEAI,Marketing Inbound,SMS;DM,,(917) 207-0314,,谭,Unknown,Japanese,CT,USA,2023-09-07T17:33:44Z,2023-09-21T18:38:49Z,Converted,,,2023-09-21,0068b00001TAHyLAAX,
+00Q8b000024JXpEEAW,Marketing Inbound,SMS;DM,,(929) 488-2373,,李,李,Chinese,SC,,2023-08-25T19:27:15Z,2023-09-27T19:49:16Z,Converted,,,2023-09-27,0068b00001TB280AAD,
+00Q8b0000231w6UEAQ,Marketing Inbound,SMS;DM,,(412) 620-8018,,黄,Unknown,Chinese,PA,USA,2023-08-02T15:48:45Z,2023-09-14T22:05:13Z,SDR Assigned,,,,,
+00Q8b000023AyYeEAK,Marketing Inbound,SMS;DM;Client Referral,(888) 896-8962,(252) 558-5358,,楊,Mr. 楊@2525585358,Chinese,MD,USA,2023-06-13T17:47:52Z,2023-09-25T10:59:40Z,SDR Complete,,Contact info incorrect,,,Rejected
