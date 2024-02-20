@@ -107,5 +107,14 @@ sam_list <- bind_rows(brizo, printshop)
 rm(brizo, printshop)
 
 
-write_csv(sam_list, "recalculation-2024/sam-list/sam_list_november.csv")
+map_df(sam_list,~sum(is.na(.))) |> 
+  pivot_longer(cols = everything(), names_to = "NA_Counts", values_to = "Counts" ) -> x
+
+rm(x)
+sam_list <- sam_list |> 
+  mutate( `Business Phone`= str_replace_all(str_replace_all(`Business Phone`, "-", ""), "[^0-9]", "")) |> 
+  mutate(`Business Phone` = na_if(`Business Phone`, "")) |> 
+  select(-c(`Contact Count`,`Estimated Employees`,`Opening Hours`, `Established`))
+
+write_csv(sam_list, "recalculation-2024/november-dm-data/sam_list_november.csv", na="")
 
