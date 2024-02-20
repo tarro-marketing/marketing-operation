@@ -9,5 +9,6 @@
 **branch name format**
 <br/>
 - new campaign data: `new/<month>-<channel>-data` <br/>
+- new campaign data: `new/<project>-data` <br/>
 - update campaign data: `update/<month>-<channel>-data` <br/>
 - troubleshoot: `fix/<month>-<channel>-data`
