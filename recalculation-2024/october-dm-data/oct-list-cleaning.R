@@ -12,4 +12,9 @@ sam_list_oct <- bind_rows(brizo_canada, brizo_us)
 
 rm(brizo_canada, brizo_us)
 
+
+sam_list_oct <- sam_list_oct |> 
+  select(-c("Address Check", "Name + City Check", "Contact Count", "Website Technology Vendors")) |> 
+  drop_na("Snowball Map"  )
+
 write_csv(sam_list_oct, "recalculation-2024/sam-list/sam_list_october.csv")
