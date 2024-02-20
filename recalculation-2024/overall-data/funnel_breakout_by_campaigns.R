@@ -107,9 +107,9 @@ rm(inboundcall_c, sfdc_leads_c)
 
 
 
-write_csv(december_leads, "recalculation-2024/december-dm-data/december_leads.csv")
+write_csv(december_leads, "recalculation-2024/december-dm-data/december_leads.csv", na = "")
 
-write_csv(november_leads, "recalculation-2024/november-dm-data/november_leads.csv")
+write_csv(november_leads, "recalculation-2024/november-dm-data/november_leads.csv", na = "")
 
-write_csv(october_leads, "recalculation-2024/october-dm-data/october_leads.csv")
+write_csv(october_leads, "recalculation-2024/october-dm-data/october_leads.csv", na = "")
 
