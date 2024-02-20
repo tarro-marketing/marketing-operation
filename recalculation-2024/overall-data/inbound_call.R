@@ -57,5 +57,15 @@ inboundcall <- inboundcall |>
   ) |>
   select(Date, `Extension Channel`, `Channel Collected`, `Campaign Sent`, Campaign_by_Month, Campaign_Tags, `Extension Number`, Phone, everything())
 
+inboundcall <- inboundcall |> 
+  mutate(Phone = str_replace_all(Phone, "[^\\d]", "")) |> 
+  mutate(Phone = na_if(Phone, "")) |> 
+  mutate(`Extension Number` = as.character(`Extension Number`),
+    `Extension Number` = recode(`Extension Number`, 
+                                     "NULL" = NA_character_))
+  
+
+  
+
 
 write_csv(inboundcall, "recalculation-2024/clean_data/inbound_call.csv")
