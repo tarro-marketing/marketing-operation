@@ -1,12 +1,12 @@
 library(tidyverse)
 
-sfdc_leads <- read_csv("recalculation-2024/clean_data/final_campaign_sfdc_lead_v2.csv",
+sfdc_leads <- read_csv("recalculation-2024/clean-data/final_campaign_sfdc_lead_v2.csv",
   col_types = cols(
     Mobile__Primary_SFDC = col_character(),
     Business_Phone_SFDC = col_character()
   )
 )
-inboundcall <- read_csv("recalculation-2024/clean_data/inbound_call.csv",
+inboundcall <- read_csv("recalculation-2024/clean-data/inbound_call.csv",
   col_types = cols(
     `Extension Number` = col_character(),
     Phone = col_character()
@@ -55,11 +55,23 @@ october_leads <- sfdc_leads_c |>
 
 rm(sam_list_october, inboundcall_oct)
 
+
+october_leads_v2 <- october_leads |> 
+  mutate(dm_drop = case_when(Created_Date_SFDC<=mdy("10/18/2023") ~ "DM1",
+                                      TRUE ~ "DM2")) |>   
+  select( "Campaign_Group", "dm_drop", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
+
+
+
+write_csv(october_leads, "recalculation-2024/october-dm-data/october_leads.csv", na = "")
+write_csv(october_leads_v2, "recalculation-2024/october-dm-data/october_leads_v2.csv", na = "")
+
+
 ############# november ###################
 
 inboundcall_nov <- inboundcall_c |>
   filter(str_detect(Campaign_Tags_IB_Call, "nov")) |> 
-  distinct(Phone_IB_Call, .keep= TRUE)
+  distinct(Phone_IB_Call, .keep_all = TRUE)
 
 sam_list_november <- read_csv("recalculation-2024/november-dm-data/sam_list_november.csv")
 
@@ -78,11 +90,19 @@ november_leads <- sfdc_leads_c |>
 
 rm(sam_list_november, inboundcall_nov)
 
+november_leads <- november_leads |> 
+  select( "Campaign_Group", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
+
+
+write_csv(november_leads, "recalculation-2024/november-dm-data/november_leads.csv", na = "")
+
+
+
 ############# december ###################
 
 inboundcall_dec <- inboundcall_c |>
   filter(str_detect(Campaign_Tags_IB_Call, "dec")) |> 
-  distinct(Phone_IB_Call, .keep= TRUE)
+  distinct(Phone_IB_Call, .keep_all = TRUE)
 
 sam_list_december <- read_csv("recalculation-2024/december-dm-data/sam_list_december.csv")
 
@@ -109,7 +129,5 @@ rm(inboundcall_c, sfdc_leads_c)
 
 write_csv(december_leads, "recalculation-2024/december-dm-data/december_leads.csv", na = "")
 
-write_csv(november_leads, "recalculation-2024/november-dm-data/november_leads.csv", na = "")
 
-write_csv(october_leads, "recalculation-2024/october-dm-data/october_leads.csv", na = "")
 
