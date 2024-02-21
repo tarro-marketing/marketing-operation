@@ -56,16 +56,17 @@ october_leads <- sfdc_leads_c |>
 rm(sam_list_october, inboundcall_oct)
 
 
-october_leads_v2 <- october_leads |> 
-  mutate(dm_drop = case_when(Created_Date_SFDC<=mdy("10/18/2023") ~ "DM1",
-                                      TRUE ~ "DM2")) |>   
-  select( "Campaign_Group", "dm_drop", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
+october_leads <- october_leads |> 
+  mutate(Drop_Group = case_when(Created_Date_SFDC<=mdy("10/18/2023") ~ "DM1",
+                                      TRUE ~ "DM2"),
+         Campaign_Group = "October Leads") |>   
+  select( "Campaign_Group", "Drop_Group", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
 
 
 
 write_csv(october_leads, "recalculation-2024/october-dm-data/october_leads.csv", na = "")
-write_csv(october_leads_v2, "recalculation-2024/october-dm-data/october_leads_v2.csv", na = "")
 
+rm(october_leads)
 
 ############# november ###################
 
@@ -91,13 +92,19 @@ november_leads <- sfdc_leads_c |>
 rm(sam_list_november, inboundcall_nov)
 
 november_leads <- november_leads |> 
-  select( "Campaign_Group", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
+  mutate(Campaign_Group = "November Leads")
+
+november_leads <- november_leads |> 
+  mutate(Drop_Group = case_when(Created_Date_SFDC<=mdy("10/17/2023") ~ "DM1",
+                                TRUE ~ "DM2"),
+         Campaign_Group = "November Leads") |>   
+  select( "Campaign_Group", "Drop_Group", "flow", "types", "CW", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
 
 
 write_csv(november_leads, "recalculation-2024/november-dm-data/november_leads.csv", na = "")
 
 
-
+rm(november_leads)
 ############# december ###################
 
 inboundcall_dec <- inboundcall_c |>
@@ -118,6 +125,11 @@ december_leads <- sfdc_leads_c |>
   ) |>
   left_join(inboundcall_dec, by = c("Mobile__Primary_SFDC" = "Phone_IB_Call"))
 
+december_leads <- december_leads |> 
+  mutate(Campaign_Group = "December Leads")
+
+
+
 rm(sam_list_december, inboundcall_dec)
 
 
@@ -125,9 +137,10 @@ rm(sam_list_december, inboundcall_dec)
 rm(inboundcall_c, sfdc_leads_c)
 
 
-
+rm(inboundcall_dec, inboundcall_nov, inboundcall_oct)
 
 write_csv(december_leads, "recalculation-2024/december-dm-data/december_leads.csv", na = "")
 
+rm(inboundcall_c, sfdc_leads_c)
 
 
