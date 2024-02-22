@@ -14,8 +14,9 @@ inboundcall <- read_csv("recalculation-2024/clean-data/inbound_call.csv",
 )
 
 
-sfdc_leads_c <- sfdc_leads |>
-  select(-campaign_name)
+sfdc_leads_c <- sfdc_leads |> 
+  select("flow", "types", "CW","Onboarded", "SQL", "MQL", "Campaign_Tags","Campaign_by_Month", everything())
+
 
 inboundcall_c <- inboundcall |>
   select(
@@ -133,14 +134,27 @@ december_leads <- december_leads |>
 rm(sam_list_december, inboundcall_dec)
 
 
-
-rm(inboundcall_c, sfdc_leads_c)
-
-
 rm(inboundcall_dec, inboundcall_nov, inboundcall_oct)
 
 write_csv(december_leads, "recalculation-2024/december-dm-data/december_leads.csv", na = "")
 
-rm(inboundcall_c, sfdc_leads_c)
 
+
+
+
+
+############################### january ##############################
+
+inboundcall_jan <- inboundcall_c |>
+  filter(str_detect(Campaign_by_Month_IB_Call,  regex("jan", ignore_case = TRUE))) |> 
+  distinct(Phone_IB_Call, .keep_all = TRUE)
+
+
+january_leads <- sfdc_leads_c |>
+  filter(str_detect(Campaign_Tags, regex("jan", ignore_case = TRUE))) |> 
+  left_join(inboundcall_jan, by = c("Mobile__Primary_SFDC" = "Phone_IB_Call"))
+
+write_csv(january_leads, "../direct-mail-2024/jan-dm-2024/clean_data/january_leads.csv", na = "")
+
+rm(inboundcall_c, sfdc_leads_c)
 
