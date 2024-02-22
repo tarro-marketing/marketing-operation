@@ -101,7 +101,7 @@ has_latest_campaign <- marketing_mel_mql_report |>
 
 final_campaign_sfdc_lead <- rbind(no_latest_campaign, has_latest_campaign)
 
-write_csv(final_campaign_sfdc_lead, "clean_data/final_campaign_sfdc_lead.csv")
+write_csv(final_campaign_sfdc_lead, "clean-data/final_campaign_sfdc_lead.csv")
 
 #########################
 
@@ -119,7 +119,7 @@ duplicate_ids_contact <- contact_campaign_report %>%
 rm(campaign_report_join, contact_campaign_report, marketing_mel_mql_report)
 
 
-write_csv(duplicate_ids_contact, "clean_data/duplicate_ids_contact.csv")
+write_csv(duplicate_ids_contact, "clean-data/duplicate_ids_contact.csv")
 ```
 
 # 2. Cleaning inbound call and group them
