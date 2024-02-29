@@ -7,6 +7,9 @@ sms_list <- read_csv("clean-data/sms-list.csv",
 marketing_nurture_queue <- read_csv("clean-data/marketing_nurture_queue.csv", 
                                     col_types = cols(Phone = col_character()))
 
+sms_list <- sms_list |> 
+  mutate(Phone = map_chr(str_extract_all(Phone, "\\d"), ~ paste(unlist(.x), collapse = "")))
+
 marketing_nurture_queue |> 
   mutate(Phone=as.character(Phone))-> marketing_nurture_queue
 

@@ -5,65 +5,6 @@ setwd("~/PerformanceMarketing/list-matching/marketing-nurture-queue")
 us_area_code <-read_csv("~/PerformanceMarketing/list-matching/us-area-code/area_code.csv",
                         col_types = cols(`Area_Code` = col_character())) 
   
-
-brizo <- read_csv("data/Brizo.csv", 
-                  col_types = cols(Phone = col_character(), 
-                                   PhoneBrizoDM = col_character(),
-                                   `Area Code` = col_character())) |> 
-  filter(Country=="United States") |> 
-  mutate(list_source = "brizo") |> 
-  rename(State = state_group,
-         State_Name = State) |> 
-  select(list_source, Phone, `Area Code`, State) 
-
-inbound_call_sms_follow_up<- read_csv("data/Inbound-Call-SMS-Follow-Up.csv", 
-                                       col_types = cols(phone = col_character(), 
-                                                        `Area Code` = col_character())) |> 
-  filter(Country == "United States") |> 
-  mutate(list_source = "inbound-call-sms-follow-up") |>
-  rename(State = `State Abbreviation`,
-         State_name = State,
-         Phone = phone) |> 
-  select(list_source, Phone, `Area Code`, State)
-  
-masterlist <- read_csv("data/masterlist.csv", 
-                       col_types = cols(Phone = col_character(), 
-                                        `Area Code` = col_character())) |> 
-  filter(Country == "United States") |> 
-  mutate(list_source = "masterlist") |>
-  select(list_source, Phone, `Area Code`, State)
-
-
-printshop <- read_csv("data/Print-Shop.csv", 
-                       col_types = cols(phone = col_character(), 
-                                        `Area Code` = col_character(), date_updated = col_double())) |> 
-  filter(Country == "United States") |> 
-  mutate(list_source = "printshop") |>
-  rename(State = `State Abbreviation`,
-         State_name = State,
-         Phone = phone) |> 
-  select(list_source, Phone, `Area Code`, State)
-
-wonders_lead_queue <- read_csv("data/wonders_lead_queue.csv", 
-                               col_types = cols(BusinessPhone = col_character(), 
-                                                Phone = col_character(),
-                               `Lead Channel` = col_character(), 
-                               `Zip/Postal Code` = col_character()))
-wonders_lead_queue <- wonders_lead_queue|> 
-  filter(Country == "United States") |> 
-  mutate(list_source="wonders-lead-queue",
-         `Area Code` = str_extract(Phone,"^\\d{3}")) |> 
-  rename(State = `State/Province (text only)`) |> 
-  drop_na(Phone) |> 
-  left_join(us_area_code, by = c("Area Code"= "Area_Code")) |>
-  mutate(State = case_when(is.na(State) ~ State_Area,
-         TRUE ~ State)) |> 
-  select(Phone, State, list_source,`Area Code`)  
-  
-# sms_list <- rbind(brizo, inbound_call_sms_follow_up, masterlist, printshop, wonders_lead_queue)
-
-
-
 SMS_List_0111_Group_1_SQL_Gift_ <- read_csv("data/SMS List 0111 - Group 1 (SQL Gift).csv")
 SMS_List_0111_Group_2_CW_Gift_ <- read_csv("data/SMS List 0111 - Group 2 (CW Gift).csv")
 SMS_List_0111_Group_3_No_Gift_ <- read_csv("data/SMS List 0111 - Group 3 (No Gift).csv")
@@ -86,17 +27,18 @@ sms_list=rbind(SMS_List_0111_Group_1_SQL_Gift_,SMS_List_0111_Group_2_CW_Gift_,SM
 
 write_csv(sms_list, "clean-data/sms-list.csv",na="")
 
-marketing_nurture_queue <- read_csv("data/copy_of_marketing_nurture_queue.csv", 
-                                            col_types = cols(MobilePrimary = col_character())) |> 
-  rename(Phone=MobilePrimary)
+marketing_nurture_queue <- read_csv("data/marketing-nurture-queue-new.csv", 
+                                        col_types = cols(MobilePrimary = col_character(), 
+                                                         BusinessPhone = col_character()))
 
 marketing_nurture_queue <- marketing_nurture_queue  |> 
-  drop_na(Phone) |> 
+  drop_na(MobilePrimary) |> 
   mutate(list_source="wonders-lead-queue",
-         `Area Code` = str_extract(Phone,"^\\d{3}"),
-         Is10Digits = if_else(nchar(Phone) == 10, TRUE, FALSE)) |> 
+         `Area Code` = str_extract(MobilePrimary,"^\\d{3}"),
+         Is10Digits = if_else(nchar(MobilePrimary) == 10, TRUE, FALSE)) |> 
   filter(Is10Digits==TRUE) |> 
-  left_join(us_area_code, by =c("Area Code"="Area_Code"))
+  left_join(us_area_code, by =c("Area Code"="Area_Code")) |> 
+  rename(Phone=MobilePrimary) 
 
 marketing_nurture_queue <- marketing_nurture_queue |> 
   mutate(State = case_when(is.na(`State/Province (text only)`) ~ State_Area,
