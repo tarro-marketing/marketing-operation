@@ -4,7 +4,7 @@ library(yaml)
 library(httr)
 
 #################### Loading Data ##########################
-config <- yaml::read_yaml("../../API/config.yml")
+config <- yaml::read_yaml("C:/Users/skt/Documents/API/config.yml")
 
 sf_auth(
   username = config$salesforce$username,
@@ -132,9 +132,11 @@ rm(campaign_lead_report_join, contact_report_join, has_latest_campaign, no_lates
 
 rm(dm_lead, campaign_lead_report, contact_campaign_report)
 
+final_campaign_sfdc_lead <- final_campaign_sfdc_lead |> 
+  select(flow, types, MQL, SQL, CW, Onboarded, campaign_name, Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead, Campaign_Name_Contact_Report, StateProvince_text_only_SFDC ,everything())
 
 
-write_csv(final_campaign_sfdc_lead, "overall-data/final_sfdc_lead.csv")
+write_csv(final_campaign_sfdc_lead, "overall-data/final_sfdc_lead.csv", na = "")
 
 
 
