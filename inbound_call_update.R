@@ -48,6 +48,21 @@ campaign_channel <- campaign_channel |>
     End_Date = as.Date(`End Date`)
   )
 
+ended_campaign_gsheet <- read_sheet("1y-5z_omCFu9lTkCasqopOE5B8icQzqmsKijnZQsqlZc",
+                                      sheet = "Ended Campaigns",
+                                      range = "A:I"
+)
+
+ended_campaign <- ended_campaign_gsheet |>
+  filter(Channel != "N/A") |>
+  drop_na(`Extension Number`) |>
+  mutate(`Extension Number` = str_split(`Extension Number`, "\\s+")) |>
+  unnest(`Extension Number`)|>
+  mutate(
+    Start_Date = as.Date(`Start Date`),
+    End_Date = as.Date(`End Date`)
+  )
+
 
 phone_mapping <- bind_rows(campaign_channel, ended_campaign)
 
@@ -69,7 +84,7 @@ channel <- channel_gsheet |>
   mutate(`Extension Number` = str_split(`Extension Number`, "\\s+")) |>
   unnest(`Extension Number`)
 
-rm(channel_gsheet, config, campaign_channel_gsheet)
+rm(channel_gsheet, config, campaign_channel_gsheet,ended_campaign_gsheet)
 
 
 channel <- channel |>
@@ -93,6 +108,8 @@ inbound_call_tracker_data <- inbound_call |>
     `Start Date` = as_date(`Start Date`),
     `End Date` = as_date(`End Date`)
   )
+
+rm(inbound_call, campaign_channel, ended_campaign)
 
 not_na <- inbound_call_tracker_data |>
   filter(!is.na(Channel))
@@ -124,7 +141,7 @@ phone_mapping_sorted <- phone_mapping %>%
 phone_mapping_filtered <- phone_mapping_sorted %>%
   group_by(`Extension Number`) %>%
   slice_min(order_by = `Start Date`)
-
+rm(phone_mapping, channel)
 
 is.na2 <- is_na |>
   filter(is.na(Channel)) |>
@@ -148,6 +165,6 @@ is_na_no_na <- is_na |>
 ring_dna_tracker <- bind_rows(not_na, is_na_no_na, is.na2)
 
 
-
+rm(phone_mapping_filtered, phone_mapping_sorted,not_na, is_na_no_na, is.na2, is_na, inbound_call_tracker_data)
 
 sheet_write(data = ring_dna_tracker, ss = "1ZSCgZYODPvh3Bw1hoS98PocYr6bLmuDx1wjNZzipb2E", sheet = "data")
