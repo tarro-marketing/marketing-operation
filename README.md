@@ -1,7 +1,7 @@
 # GMV-Statistical-Analysis
 Testing the hypothesis/points from Eric's GMV analysis
 
-## Resources
+## Resources:
 - [GMV Market Signal Analysis](https://docs.google.com/spreadsheets/d/1w0xf-h1rtS60IstyoGUofdY_E7vfj4ebERvbxZHiiPM/edit?usp=sharing)
 - [GMV Statistical Analysis (In Progress)](https://docs.google.com/spreadsheets/d/1G9IzHkkZ7h1NgkXJgRpfNI3VIF_7lANt8FEimhSc3bs/edit?usp=sharing)
 
@@ -36,3 +36,7 @@ Statistical analysis aims to prove the statistical significance of the conclusio
    2. April 3rd, 2024 <br>
    3. April 10th, 2024 <br>
 3. Final Review: April 17th, 2024
+
+## Contributor
+- Project Lead - Eric Wang
+- Data / Statistical Support - Yuka Chen
