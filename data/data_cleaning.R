@@ -145,9 +145,9 @@ valid_us_states <- c("AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "FL", "GA",
 # Filter the dataset to keep only rows where the state column matches one of the valid US states
 final_campaign_sfdc_lead <- final_campaign_sfdc_lead %>%
   filter(StateProvince_text_only_SFDC %in% valid_us_states) |> 
-  rename(state = StateProvince_text_only_SFDC) |> 
+  rename(State = StateProvince_text_only_SFDC) |> 
   mutate(across(where(is.character), ~na_if(., ""))) |> 
-  drop_na(state)
+  drop_na(State)
 
 write_csv(final_campaign_sfdc_lead, "data/final_sfdc_lead.csv", na = "")
 
