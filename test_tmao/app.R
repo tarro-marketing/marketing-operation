@@ -5,6 +5,7 @@ library(sf)
 library(dplyr)
 library(readr)
 library(tigris)
+library(leaflet)
 
 # Load and prepare data
 final_sfdc_lead <- read_csv("../data/final_sfdc_lead.csv")  # Update path as necessary
@@ -49,13 +50,13 @@ server <- function(input, output) {
     } else {
       df <- final_sfdc_lead %>% 
         filter(!!sym(input$metric) == TRUE,
-               str_detect(Lead_Channel_SFDC, input$channel)) %>% 
+               Lead_Channel_SFDC == input$channel) %>% 
         count(State) %>% 
         rename(count = n)
     }
     return(df)
   })
-
+  
   output$stateHeatmap <- renderTmap({
     # Check if data is available to avoid errors during initialization
     req(filtered_data())
@@ -74,7 +75,8 @@ server <- function(input, output) {
         palette = "-Reds",
         border.col = "black",
         border.alpha = 0.5,
-        popup.vars = c("Numbers of Lead: " = "count")
+        popup.vars = c("Numbers of Lead: " = "count"),
+        popup.format=list(count=list(digits=0))
       ) +
       tm_layout(
         legend.title.size = 1,
