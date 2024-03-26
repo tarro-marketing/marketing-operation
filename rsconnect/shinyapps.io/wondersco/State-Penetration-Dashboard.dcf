@@ -1,0 +1,12 @@
+name: State-Penetration-Dashboard
+title: State-Penetration-Dashboard
+username: wondersco
+account: wondersco
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11568777
+bundleId: 8422236
+url: https://wondersco.shinyapps.io/State-Penetration-Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
