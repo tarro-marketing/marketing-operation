@@ -11,13 +11,18 @@ library(bslib)
 library(tidyverse)
 library(shinyWidgets)
 
+################################################################################
+
+# source("data/salesforce_data_via_api.R")
 
 #################################################################################
-final_sfdc_lead <- read_csv("data/final_sfdc_lead.csv") 
+sfdc_lead <- read_csv("data/sfdc_leads_us_state.csv")
 
-lead_channel_list <- unique(final_sfdc_lead$lead_channel)
+lead_channel_list <- unique(sfdc_lead$Lead_Channel)
 
-state <- unique(final_sfdc_lead$State)
+state <- unique(sfdc_lead$State)
+
+sfdc_opportunity <- read_csv("data/sfdc_opportunity.csv")
 
 
 states_sf <- states(cb = TRUE, resolution = "20m") |>
@@ -26,9 +31,9 @@ states_sf <- states(cb = TRUE, resolution = "20m") |>
 ################################# ui ##############################################
 
 # Define UI for application
-ui <- navbarPage( 
+ui <- navbarPage(
   title = "State Penetration Dashboard",
-  theme = bslib::bs_theme(bootswatch = "flatly"), 
+  theme = bslib::bs_theme(bootswatch = "flatly"),
 
   ################################# map ##########################################
   tabPanel(
@@ -36,15 +41,15 @@ ui <- navbarPage(
     sidebarLayout(
       sidebarPanel(
         dateRangeInput("month_range_map",
-                       label = "Select Month Range",
-                       start = Sys.Date() - 30, # Default start date
-                       end = Sys.Date(), # Default end date
-                       min = "2022-01-01", # The earliest selectable date
-                       max = "2024-12-31", # The latest selectable date
-                       format = "yyyy-mm",
-                       startview = "year",
-                       language = "en",
-                       separator = " - "
+          label = "Select Month Range",
+          start = Sys.Date() - 30, # Default start date
+          end = Sys.Date(), # Default end date
+          min = "2022-01-01", # The earliest selectable date
+          max = "2024-12-31", # The latest selectable date
+          format = "yyyy-mm",
+          startview = "year",
+          language = "en",
+          separator = " - "
         ), # date range
         selectInput("metric_map", "Metric:",
           choices = c("MEL", "MQL", "SQL", "CW", "Onboarded")
@@ -75,15 +80,15 @@ ui <- navbarPage(
     sidebarLayout(
       sidebarPanel(
         dateRangeInput("monthRange",
-                       label = "Select Month Range",
-                       start = Sys.Date() - 30, # default start date
-                       end = Sys.Date(), # default end date
-                       min = "2022-01-01", # the earliest selectable date
-                       max = "2024-12-31", # the latest selectable date
-                       format = "yyyy-mm",
-                       startview = "year",
-                       language = "en",
-                       separator = " - "
+          label = "Select Month Range",
+          start = Sys.Date() - 30, # default start date
+          end = Sys.Date(), # default end date
+          min = "2022-01-01", # the earliest selectable date
+          max = "2024-12-31", # the latest selectable date
+          format = "yyyy-mm",
+          startview = "year",
+          language = "en",
+          separator = " - "
         ), # date range
         pickerInput("state_trend", "States:",
           choices = state,
@@ -133,24 +138,51 @@ ui <- navbarPage(
     "Links",
     tabPanel("Marketing Funnel Performance Tracker", tags$iframe(style = "height:600px;width:100%", src = "https://docs.google.com/spreadsheets/d/1YdoQ3ffIxyMW066WrISdyknUD11unx917G-JLZjkT44/edit?usp=sharing")),
     tabPanel("Shiny", tags$iframe(style = "height:600px;width:100%", src = "https://shiny.posit.co"))
-  
   )
-  
 ) # ui navbarPage ends
 
 ###################################### server ######################################
 
 server <- function(input, output) {
-  ################################################ heat map ###########################
+################################################ heat map ###########################
   filtered_data <- reactive({
-    df <- final_sfdc_lead |>
+    df <- sfdc_lead |>
       filter(
-        Created_Date_SFDC >= input$month_range_map[1] & Created_Date_SFDC <= input$month_range_map[2],
-        lead_channel %in% input$channel_map
+        Created_Date >= input$month_range_map[1] & Created_Date <= input$month_range_map[2],
+        Lead_Channel %in% input$channel_map
       )
     return(df)
   })
-
+# 
+#   filtered_data <- reactive({
+#     # Filter sfdc_lead for MEL and MQL
+#     df_lead <- sfdc_lead %>%
+#       filter(
+#         Created_Date >= input$month_range_map[1] & Created_Date <= input$month_range_map[2],
+#         Lead_Channel %in% input$channel_map
+#       ) %>%
+#       mutate(Stage = if_else(Lead_Channel %in% 'criteria_for_MQL', 'MQL', 'MEL'))
+#     
+#     # Filter sfdc_opportunity for SQL, CW, and Onboarded
+#     df_opportunity <- sfdc_opportunity %>%
+#       filter(
+#         (Created_Date >= input$month_range_map[1] & Created_Date <= input$month_range_map[2]) |
+#           (Placeholder_Live_Date >= input$month_range_map[1] & Placeholder_Live_Date <= input$month_range_map[2]) |
+#           (Close_Date >= input$month_range_map[1] & Close_Date <= input$month_range_map[2])
+#       ) %>%
+#       mutate(Stage = case_when(
+#         Created_Date >= input$month_range_map[1] & Created_Date <= input$month_range_map[2] ~ 'SQL',
+#         Placeholder_Live_Date >= input$month_range_map[1] & Placeholder_Live_Date <= input$month_range_map[2] ~ 'CW',
+#         Close_Date >= input$month_range_map[1] & Close_Date <= input$month_range_map[2] ~ 'Onboarded'
+#       ))
+#     
+#     # Combine and return
+#     return(bind_rows(df_lead, df_opportunity))
+#   })
+#   
+  
+  
+  
   state_heat_map_count <- reactive({
     req(filtered_data())
     df <- filtered_data() |>
@@ -172,7 +204,7 @@ server <- function(input, output) {
       tm_polygons(
         col = "Total_Lead_Credit",
         title = "Number of Leads",
-        textNA = "No Leads", 
+        textNA = "No Leads",
         palette = "-Blues",
         border.col = "black",
         border.alpha = 0.5,
@@ -186,15 +218,15 @@ server <- function(input, output) {
       ) +
       tm_view(set.view = c(lon = -96.9, lat = 37.8, zoom = 3.5))
 
-    tm 
+    tm
   })
-  
-################################# conversation rate ########################################
+
+  ################################# conversation rate ########################################
 
   state_conversion_rates <- reactive({
     req(filtered_data())
-    
-      state_filtered <- filtered_data() %>%
+
+    state_filtered <- filtered_data() %>%
       group_by(State) %>%
       summarise(
         MEL = n(),
@@ -209,31 +241,35 @@ server <- function(input, output) {
         "SQL→CW" = (CW / SQL) * 100,
         "SQL→Onboarded" = (Onboarded / SQL) * 100
       ) %>%
-      mutate(across(c("MEL→MQL", "MQL→SQL", "SQL→CW", "SQL→Onboarded"), 
-                    ~ifelse(is.nan(.) | is.infinite(.), "0%", paste0(round(., 0), "%")))) %>%
+      mutate(across(
+        c("MEL→MQL", "MQL→SQL", "SQL→CW", "SQL→Onboarded"),
+        ~ ifelse(is.nan(.) | is.infinite(.), "0%", paste0(round(., 0), "%"))
+      )) %>%
       select(State, MEL, MQL, "MEL→MQL", SQL, "MQL→SQL", CW, Onboarded, "SQL→CW", "SQL→Onboarded")
-    
-      
-      
+
+
+
     return(state_filtered)
-      
   })
-  
-  output$stateConversionTable <- renderDataTable({
-    req(state_conversion_rates())  
-    state_conversion_rates()  
-  }, options = list(pageLength = 10))  # number of row shows
-  
-  
-  
+
+  output$stateConversionTable <- renderDataTable(
+    {
+      req(state_conversion_rates())
+      state_conversion_rates()
+    },
+    options = list(pageLength = 10)
+  ) # number of row shows
+
+
+
 
   ################################# plot - trend  ##########################################
 
   filtered_data_trend <- reactive({
-    df <- final_sfdc_lead |>
+    df <- sfdc_lead |>
       filter(
-        lead_channel %in% input$channel_trend,
-        Created_Date_SFDC >= input$monthRange[1] & Created_Date_SFDC <= input$monthRange[2],
+        Lead_Channel %in% input$channel_trend,
+        Created_Date >= input$monthRange[1] & Created_Date <= input$monthRange[2],
         State %in% input$state_trend
       )
     print(df)
@@ -255,18 +291,24 @@ server <- function(input, output) {
 
 
     metric_expressions <- lapply(input$metric_trend, function(metric) {
-
-            expr(sum(ifelse(!!sym(metric) == TRUE, Lead_Credit, 0), na.rm = TRUE))
+      # Check if the current metric is "MEL". If so, sum all Lead_Credit values.
+      # Otherwise, proceed with the original logic.
+      if (metric == "MEL") {
+        expr(sum(Lead_Credit, na.rm = TRUE))
+      } else {
+        expr(sum(ifelse(!!sym(metric) == TRUE, Lead_Credit, 0), na.rm = TRUE))
+      }
     })
     names(metric_expressions) <- paste0(input$metric_trend, "_Credit")
 
 
-        if (!is.null(metric_expressions) && length(metric_expressions) > 0) {
+
+    if (!is.null(metric_expressions) && length(metric_expressions) > 0) {
       monthly_summary <- filtered_data_trend() %>%
-        group_by(Month = floor_date(Created_Date_SFDC, "week")) %>%
+        group_by(Month = floor_date(Created_Date, "week")) %>%
         summarise(!!!metric_expressions) %>%
         pivot_longer(
-          cols = ends_with("_Credit"), 
+          cols = ends_with("_Credit"),
           names_to = "Stage",
           values_to = "Credit",
           names_prefix = "_Credit"
@@ -309,13 +351,14 @@ server <- function(input, output) {
         "SQL→CW" = (CW / SQL) * 100,
         "SQL→Onboarded" = (Onboarded / SQL) * 100
       ) %>%
-      mutate(across(c("MEL→MQL", "MQL→SQL", "SQL→CW", "SQL→Onboarded"), 
-                    ~ifelse(is.nan(.) | is.infinite(.), "0%", paste0(round(., 0), "%")))) %>%
+      mutate(across(
+        c("MEL→MQL", "MQL→SQL", "SQL→CW", "SQL→Onboarded"),
+        ~ ifelse(is.nan(.) | is.infinite(.), "0%", paste0(round(., 0), "%"))
+      )) %>%
       select(State, MEL, MQL, "MEL→MQL", SQL, "MQL→SQL", CW, Onboarded, "SQL→CW", "SQL→Onboarded")
-    
-    
+
+
     print(conversion_data)
-    
   })
 
   output$conversionTable <- renderDataTable(
