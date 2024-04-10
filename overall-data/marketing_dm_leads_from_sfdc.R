@@ -2,9 +2,14 @@ library(tidyverse)
 library(salesforcer)
 library(yaml)
 library(httr)
+library(googlesheets4)
+
+#################### loading config ########################
+config <- yaml::read_yaml("C:/Users/skt/Documents/API/config.yml")
+
+gs4_auth_configure(path = "C:/Users/skt/Documents/API/client_secret_1063101091245-a8k1e24l8h2aukvjthrbq0gbneu878su.apps.googleusercontent.com.json")
 
 #################### Loading Data ##########################
-config <- yaml::read_yaml("C:/Users/skt/Documents/API/config.yml")
 
 sf_auth(
   username = config$salesforce$username,
@@ -133,12 +138,13 @@ rm(campaign_lead_report_join, contact_report_join, has_latest_campaign, no_lates
 rm(dm_lead, campaign_lead_report, contact_campaign_report)
 
 final_campaign_sfdc_lead <- final_campaign_sfdc_lead |> 
-  select(flow, types, MQL, SQL, CW, Onboarded, campaign_name, Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead, Campaign_Name_Contact_Report, StateProvince_text_only_SFDC ,everything())
+  select(flow, types, MQL, SQL, CW, Onboarded, campaign_name, Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead, Campaign_Name_Contact_Report, StateProvince_text_only_SFDC ,everything()) |> 
+  arrange(desc(Created_Date_SFDC))
 
 
 write_csv(final_campaign_sfdc_lead, "overall-data/final_sfdc_lead.csv", na = "")
 
-
+range_write(data=final_campaign_sfdc_lead, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "SFDC Leads + Campaigns", range = "A2")
 
 
 ######################### Archived #########################################################
