@@ -7,6 +7,8 @@ library(googlesheets4)
 
 #################### Loading Data ############################
 
+
+
 salesforce_username <- "youjia.chen@wondersco.com"
 salesforce_password <- keyring::key_get(service = "salesforce", username = "password")
 salesforce_security_token <- keyring::key_get(service = "salesforce", username = "security_token")
@@ -164,6 +166,7 @@ final_campaign_lead <- leads_cleaning |>
 priority_order <- c("Direct Mail", "SMS", "Paid Search (Google)", "Facebook/Newspaper/Radio", "Email", "SEO - Chinese (Getskt.com)", "SEO - English (Wondersco.com)", "Wechat/Wecom", "Redbook/Douyin/YouTube Channel/Influencer", "Referral", "Others(inc. Direct/Legacy Channel)")
 
 gs4_auth_configure(path = "pw/client_secret_1063101091245-a8k1e24l8h2aukvjthrbq0gbneu878su.apps.googleusercontent.com.json")
+gs4_auth(email = "youjia.chen@wondersco.com", cache = TRUE)
 
 google_sheet_grouping <- read_sheet(ss = "1T29Vg97cuI2lX5FzEki51IsnbYTzjHse36Xfzl4It64", sheet = "Lead Channel Category")
 
@@ -190,13 +193,13 @@ credited_sfdc_leads <- final_campaign_lead |>
   ungroup()
 
 
-summary_by_state <- credited_sfdc_leads |> 
-  group_by(State) |> 
+summary_by_state <- credited_sfdc_leads |>
+  group_by(State) |>
   summarise(total = sum(Lead_Credit))
-  
+
 grand_total <- sum(summary_by_state$total)
 
-  
+
 write_csv(credited_sfdc_leads, "data/sfdc_leads_us_state.csv")
 
 
@@ -206,7 +209,6 @@ write_csv(credited_sfdc_leads, "data/sfdc_leads_us_state.csv")
 ############################## opportunity table ##################################################
 ###################################################################################################
 
-## I do not have access to lead channel/lead_source__c so used account.lead_source__c instead (not ideal though)
 soql_query_oppt <- "SELECT CreatedDate, Id, Account_Name__c, Name, Product_Name__c, Lead_First_Touch_Date__c,
                     Lead_Created_Date__c, StageName, CloseDate, Live_Date__c, Lead_Type__c,Lead_Source__c,
                     Restaurant_ID__c, Lead_Category__c, Account.BillingState, Account.BillingCountry, Promotions__c
@@ -218,23 +220,25 @@ opportunity_alltime <- sf_query(soql_query_oppt)
 
 # opportunity_description <- sf_describe_object_fields("Opportunity") # checking the variables/fileds in Opportunity API
 
-opportunity_alltime <- opportunity_alltime |> 
-  rename("Created Date" ="CreatedDate", 
-         "Opportunity ID" ="Id", 
-         "Account Name" ="Account_Name__c", 
-         "Opportunity Name" ="Name", 
-         "Product Name" ="Product_Name__c", 
-         "Lead First Touch Date" ="Lead_First_Touch_Date__c", 
-         "Lead Created Date" ="Lead_Created_Date__c", 
-         "Stage" ="StageName", "Close Date" ="CloseDate", 
-         "Placeholder Live Date" ="Live_Date__c", 
-         "Lead Source" ="Lead_Type__c", 
-         "Lead Channel" ="Lead_Source__c", 
-         "Restaurant ID" ="Restaurant_ID__c", 
-         "Lead Category" ="Lead_Category__c", 
-         "Billing State/Province (text only)" ="Account.BillingState", 
-         "Billing Country (text only)" ="Account.BillingCountry", 
-         "Promotions" ="Promotions__c")
+opportunity_alltime <- opportunity_alltime |>
+  rename(
+    "Created Date" = "CreatedDate",
+    "Opportunity ID" = "Id",
+    "Account Name" = "Account_Name__c",
+    "Opportunity Name" = "Name",
+    "Product Name" = "Product_Name__c",
+    "Lead First Touch Date" = "Lead_First_Touch_Date__c",
+    "Lead Created Date" = "Lead_Created_Date__c",
+    "Stage" = "StageName", "Close Date" = "CloseDate",
+    "Placeholder Live Date" = "Live_Date__c",
+    "Lead Source" = "Lead_Type__c",
+    "Lead Channel" = "Lead_Source__c",
+    "Restaurant ID" = "Restaurant_ID__c",
+    "Lead Category" = "Lead_Category__c",
+    "Billing State/Province (text only)" = "Account.BillingState",
+    "Billing Country (text only)" = "Account.BillingCountry",
+    "Promotions" = "Promotions__c"
+  )
 
 rm(soql_query_oppt)
 
@@ -242,15 +246,12 @@ rm(soql_query_oppt)
 
 
 
-opportunity <- opportunity_alltime |> 
-  mutate(SQL = TRUE,
-         CW = if_else(Stage == "Closed Won", TRUE,FALSE),
-         Onboarded = if_else(Stage == "Onboarded",TRUE,FALSE)
+opportunity <- opportunity_alltime |>
+  mutate(
+    SQL = TRUE,
+    CW = if_else(Stage == "Closed Won", TRUE, FALSE),
+    Onboarded = if_else(Stage == "Onboarded", TRUE, FALSE)
   )
-
-opportunity |> 
-  
-
 
 write_csv(opportunity, "data/sfdc_opportunity.csv")
 
@@ -260,13 +261,14 @@ opportunity_us_state <- opportunity |>
   rename(State = `Billing State/Province (text only)`) |>
   mutate(across(where(is.character), ~ na_if(., "")))
 
-opportunity_us_state <-opportunity_us_state |>  
+
+credited_sfdc_opportunity <- opportunity_us_state |>
   separate_rows(`Lead Channel`, sep = ";") |>
-  mutate("Lead Channel" = str_replace("Lead Channel", "^\\s+", "")) |>
+  mutate("Lead Channel" = str_replace(`Lead Channel`, "^\\s+", "")) |>
   left_join(google_sheet_grouping, by = c("Lead Channel" = "lead_source")) |>
   mutate(
     Channel_Rank = match(lead_channel, priority_order),
-    Lead_Channel = ifelse(is.na(Channel_Rank), "Others", Lead_Channel)
+    `Lead Channel` = ifelse(is.na(Channel_Rank), "Others", `Lead Channel`)
   ) |>
   arrange(`Opportunity ID`, Channel_Rank) |>
   group_by(`Opportunity ID`) |>
@@ -278,19 +280,10 @@ opportunity_us_state <-opportunity_us_state |>
   ungroup()
 
 
-summary_by_state <- opportunity_us_state |> 
-  group_by(State) |> 
-  summarise(total = sum(Lead_Credit))
 
-grand_total <- sum(summary_by_state$total)
-
-
-write_csv(opportunity_us_state, "data/sfdc_opportunity_us_state.csv")
+write_csv(credited_sfdc_opportunity, "data/sfdc_opportunity_us_state.csv")
 
 
 
 
 rm(list = setdiff(ls(), c("credited_sfdc_leads", "opportunity_us_state")))
-
-
-

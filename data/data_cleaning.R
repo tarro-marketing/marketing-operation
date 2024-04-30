@@ -4,6 +4,7 @@ library(yaml)
 library(httr)
 library(keyring) # save config and password
 library(googlesheets4)
+
 #################### Loading Data ############################
 
 salesforce_username <- "youjia.chen@wondersco.com" 
@@ -19,8 +20,7 @@ sf_auth(
 opportunity_report <- "00OUo000001agjJMAQ"
 opportunity <- sf_run_report(opportunity_report)
 
-
-all_leads <- read_csv("data/all_leads.csv")
+lead <- read_csv("data/sfdc_leads_us_state.csv")
 
 
 #################### Cleaning Data ##########################
