@@ -8,6 +8,7 @@ library(keyring) # save config and password
 #################### loading config ########################
 
 gs4_auth_configure(path = "C:/Users/skt/Documents/API/client_secret_1063101091245-a8k1e24l8h2aukvjthrbq0gbneu878su.apps.googleusercontent.com.json")
+gs4_auth(email = "youjia.chen@wondersco.com", cache = TRUE)
 
 
 salesforce_username <- "youjia.chen@wondersco.com"
@@ -29,8 +30,8 @@ soql_query24 <- paste(
   "WHERE CreatedDate = THIS_YEAR",
   "AND lead_source__c INCLUDES ('DM')",
   "AND (",
-  "(lead_type__c = 'AE Sourced' AND lead_source__c INCLUDES ('Marketing Referral'))",
-  "OR (lead_type__c = 'Marketing Inbound')",
+  "(lead_source__c = 'Marketing Referral' OR  lead_source__c = '')",
+  "OR (LATEST_CAMPAIGN__r.Name !='')",
   ")",
   sep = " "
 )
@@ -44,8 +45,8 @@ soql_query23 <- paste(
   "WHERE CreatedDate = LAST_YEAR",
   "AND lead_source__c INCLUDES ('DM')",
   "AND (",
-  "(lead_type__c = 'AE Sourced' AND lead_source__c INCLUDES ('Marketing Referral'))",
-  "OR (lead_type__c = 'Marketing Inbound')",
+  "(lead_source__c = 'Marketing Referral' OR  lead_source__c = '')",
+  "OR (LATEST_CAMPAIGN__r.Name !='')",
   ")",
   sep = " "
 )
@@ -56,8 +57,8 @@ soql_query22 <- paste(
   "WHERE CALENDAR_YEAR(CreatedDate) = 2022",
   "AND lead_source__c INCLUDES ('DM')",
   "AND (",
-  "(lead_type__c = 'AE Sourced' AND lead_source__c INCLUDES ('Marketing Referral'))",
-  "OR (lead_type__c = 'Marketing Inbound')",
+  "(lead_source__c = 'Marketing Referral' OR  lead_source__c = '')",
+  "OR (LATEST_CAMPAIGN__r.Name !='')",
   ")",
   sep = " "
 )
@@ -238,19 +239,17 @@ has_latest_campaign <- dm_lead |>
 
 final_campaign_sfdc_lead <- rbind(no_latest_campaign, has_latest_campaign)
 
-rm(campaign_lead_report_join, contact_report_join, has_latest_campaign, no_latest_campaign, campaign_lead_report, contact_campaign_report, dm_lead)
-
-
-rm(dm_lead, campaign_lead_report, contact_campaign_report)
 
 final_campaign_sfdc_lead <- final_campaign_sfdc_lead |> 
   select(flow, types,MEL, MQL, SQL, CW, Onboarded, campaign_name, Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead, Campaign_Name_Contact_Report, StateProvince_text_only_SFDC ,everything()) |> 
-  arrange(desc(Created_Date_SFDC))
+  arrange(desc(Created_Date_SFDC)) |> 
+  mutate(Created_Date_SFDC = as_date(ymd_hms(Created_Date_SFDC)))
+
 
 
 write_csv(final_campaign_sfdc_lead, "overall-data/final_sfdc_lead.csv", na = "")
 
-range_write(data=final_campaign_sfdc_lead, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "SFDC Leads + Campaigns", range = "A1")
+write_sheet(final_campaign_sfdc_lead, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "SFDC Leads + Campaigns")
 
 rm(list = setdiff(ls(), c("final_campaign_sfdc_lead")))
 
