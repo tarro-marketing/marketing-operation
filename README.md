@@ -1,4 +1,9 @@
-# direct-mail
+# DM Monthly Campaign Analysis 2024
+- A/B Test Doc
+- Data
+- Campaign Doc
+- Cost
+- Promo
 
 | Month     | Tasks                                             | Status        |
 |-----------|---------------------------------------------------|---------------|
@@ -22,6 +27,8 @@
 - [x] QR scans
 - [x] Jotform
 - [x] Cost
+- [x] Netnew / Rengaged
+- [x] Update Summary Tab
 - [x] Check conversion rate (too high/ too low)
 - [x] 3 insights
 - [x] Quick Conclusion
@@ -32,6 +39,8 @@
 - [x] QR scans
 - [x] Jotform
 - [x] Cost
+- [x] Netnew / Rengaged
+- [x] Update Summary Tab
 - [x] Check conversion rate (too high/ too low)
 - [x] 3 insights
 - [x] Quick Conclusion
@@ -42,6 +51,8 @@
 - [x] QR scans
 - [x] Jotform
 - [x] Cost
+- [x] Netnew / Rengaged
+- [x] Update Summary Tab
 - [x] Check conversion rate (too high/ too low)
 - [x] 3 insights
 - [x] Quick Conclusion
@@ -52,6 +63,8 @@
 - [x] QR scans
 - [x] Jotform
 - [x] Cost
+- [x] Netnew / Rengaged
+- [x] Update Summary Tab
 - [x] Check conversion rate (too high/ too low)
 - [x] 3 insights
 - [x] Quick Conclusion
@@ -62,6 +75,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -72,6 +87,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -82,6 +99,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -92,6 +111,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -102,6 +123,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -112,6 +135,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -122,6 +147,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
@@ -132,6 +159,8 @@
 - [ ] QR scans
 - [ ] Jotform
 - [ ] Cost
+- [ ] Netnew / Rengaged
+- [ ] Update Summary Tab
 - [ ] Check conversion rate (too high/ too low)
 - [ ] 3 insights
 - [ ] Quick Conclusion
