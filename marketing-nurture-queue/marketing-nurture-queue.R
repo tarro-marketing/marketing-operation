@@ -17,33 +17,49 @@ mailable <- bind_rows(A_Postcard_51744_70910_, B_Bifold_70911_91230_)
 
 rm("A_Postcard_51744_70910_", "B_Bifold_70911_91230_")
 
-mnq <- read_csv("marketing-nurture-queue/mnq.csv")
+mnq <- read_csv("marketing-nurture-queue/report1717695306989.csv")
 
 mnq <- mnq |>
-  drop_na(Street) |> 
-  mutate(Street2 = str_remove_all(Street, "\\s"),
-         `Company2` = str_remove_all(`Company / Account`, "\\s")) 
+  drop_na(Street) |>
+  mutate(
+    Street2 = str_remove_all(Street, "\\s"),
+    `Company2` = str_remove_all(`Company / Account`, "\\s")
+  )
 
-mailable <- mailable |> 
-  mutate(Street2 = str_remove_all(Street, "\\s"),
-         `Company2` = str_remove_all(`Company / Account`, "\\s")) |> 
+mailable <- mailable |>
+  mutate(
+    Street2 = str_remove_all(Street, "\\s"),
+    `Company2` = str_remove_all(`Company / Account`, "\\s")
+  ) |>
   drop_na(Street)
 
-match <- mnq |> 
+match <- mnq |>
   semi_join(mailable, by = "Street2")
 
-matchmatch <- match |> 
-  semi_join(mailable, by = "Company2") |> 
-  select(-c(Street2, Company2))
+matchmatch <- match |>
+  semi_join(mailable, by = "Company2") |>
+  select(-c(Street2, Company2)) |>
+  mutate(`State Group` = case_when(
+    `State/Province (text only)` %in% c("CA", "NJ", "PA", "GA", "VA", "LA", "OH", "MI", "CO", "SC", 
+                 "IN", "NV", "MN", "WI", "OK", "KY", "MS", "KS", "NM", "NH", 
+                 "NE", "ID", "ME", "DE", "WY") ~ "Group A",
+    `State/Province (text only)` %in% c("NY", "TX", "FL", "IL", "WA", "NC", "MA", "MD", "OR", "AZ", 
+                 "TN", "MO", "CT", "AL", "UT", "AR", "IA", "RI", "DC", "WV", 
+                 "MT", "VT", "SD", "ND") ~ "Group B",
+    TRUE ~ "Unknown"
+  ))
 
-# nomatch <- matchmatch |> 
+# nomatch <- matchmatch |>
 #   anti_join(mailable, by = "Company2")
-# 
-# no <- mailable |> 
+#
+# no <- mailable |>
 #   anti_join(match, by = "Street2")
-# 
-# matchmatch <- mailable |> 
+#
+# matchmatch <- mailable |>
 #   semi_join(match, by = "Street2")
 
 rm(mailable, match, mnq, client_secret_path, email)
+
+
+
 write_csv(matchmatch, "marketing-nurture-queue/mkt-nurture-que.csv")

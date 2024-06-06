@@ -32,7 +32,8 @@ mnq_rejcted_date_90_days <- mnq %>%
          `Create Date` = mdy(`Create Date`, tz = "America/New_York")) |> 
   mutate(datediff_rejected_date = round(as.numeric(difftime(today(), `Rejected Time`, units = "days"))),
          datediff_created_date =  round(as.numeric(difftime(today(), `Create Date`, units = "days")))) |> 
-  select(`State Group`, datediff_rejected_date, datediff_created_date, everything()) 
+  select(`State Group`, datediff_rejected_date, datediff_created_date, everything())
+  # select(-c(`Exclusion Mapping`, `Exclusion Business`, `Exclusion Mobile`, `Exclusion Menu`, `Exclusion Brizo`, `Keep?`))
 
 
 rejected_reason_summary <- mnq_rejcted_date_90_days |> 
@@ -45,10 +46,33 @@ sumaary <- rejected_reason_summary |>
 
 
 
+# 
+# sheet_append(sumaary, ss = "1KYKqlVJ-ZFEteVgX4B7ycsSqwOIcU7gEH2mGjlzBEzg", sheet = "Summary")
+# 
+# 
+# write_sheet(rejected_reason_summary, ss = "1XU-Ndmtf54w5IAg6E_7eeGCJ_t2e-Q-J16DK8LafUPg",sheet ="MNQ - ALL (Updated)")
+# 
+# write_csv(rejected_reason_summary,"marketing-nurture-queue/mnq.csv", na = "")
+# 
+# 
 
-sheet_append(sumaary, ss = "1KYKqlVJ-ZFEteVgX4B7ycsSqwOIcU7gEH2mGjlzBEzg", sheet = "Summary")
 
 
-write_sheet(mnq_rejcted_date_90_days, ss = "1XU-Ndmtf54w5IAg6E_7eeGCJ_t2e-Q-J16DK8LafUPg",sheet ="MNQ - ALL (Updated)")
 
-write_csv(mnq_rejcted_date_90_days,"marketing-nurture-queue/mnq.csv")
+GroupA <- rejected_reason_summary |> 
+  filter(`State Group` == "Group A")
+
+
+GroupB <- rejected_reason_summary |> 
+  filter(`State Group` == "Group B")
+
+write_csv(GroupA,"marketing-nurture-queue/mnq-a.csv", na = "")
+write_csv(GroupB,"marketing-nurture-queue/mnq-b.csv", na = "")
+
+dead <- rejected_reason_summary |> 
+  group_by(`Lead Stage`) |> 
+  summarize(counts=n()) |> 
+  arrange(desc(counts))
+
+sheet_append(dead, ss = "1KYKqlVJ-ZFEteVgX4B7ycsSqwOIcU7gEH2mGjlzBEzg", sheet = "Summary")
+
