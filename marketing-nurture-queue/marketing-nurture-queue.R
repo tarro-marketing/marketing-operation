@@ -17,7 +17,8 @@ mailable <- bind_rows(A_Postcard_51744_70910_, B_Bifold_70911_91230_)
 
 rm("A_Postcard_51744_70910_", "B_Bifold_70911_91230_")
 
-mnq <- read_csv("marketing-nurture-queue/report1717695306989.csv")
+mnq <- read_csv("marketing-nurture-queue/report1717697433761.csv")
+
 
 mnq <- mnq |>
   drop_na(Street) |>
@@ -60,6 +61,8 @@ matchmatch <- match |>
 
 rm(mailable, match, mnq, client_secret_path, email)
 
+final_mnq <- matchmatch |> 
+  mutate(`Queue Enter Date` = coalesce(`Rejected Time`,`Dead Date`)) |> 
+  select(`State Group`, `Queue Enter Date`, `Rejected Time`, `Dead Date`, `Create Date`, everything())
 
-
-write_csv(matchmatch, "marketing-nurture-queue/mkt-nurture-que.csv")
+write_csv(final_mnq, "marketing-nurture-queue/mkt-nurture-que.csv", na = "")
