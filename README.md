@@ -1,9 +1,11 @@
 # DM Monthly Campaign Analysis 2024
-- A/B Test Doc
-- Data
-- Campaign Doc
-- Cost
-- Promo
+- [A/B Test Doc](https://docs.google.com/spreadsheets/d/1K1AdF_tAXYgF0dRyg3J1_MJ1BVARU9ciOX7c46NgZFI/edit#gid=689574764)
+- [DM Campaign Notes](https://docs.google.com/spreadsheets/d/1IYMZ0a-yL7LQUgCsy6EZnSjHLBKXC48P9QRE9Kh8Jzo/edit#gid=1984665710)
+- [Data](https://docs.google.com/spreadsheets/d/18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU/edit#gid=1518902128)
+- [Landing Page Info](https://drive.google.com/drive/folders/1p8O_8ioSzqQiRh9apc1J9sZ-U4x3ON_3)
+- [Campaign Doc](https://docs.google.com/spreadsheets/d/1y-5z_omCFu9lTkCasqopOE5B8icQzqmsKijnZQsqlZc/edit#gid=767056602)
+- [Cost](https://docs.google.com/spreadsheets/d/1srJSO0_RzJPkMNN7WrqOr5qN6JrLlwsqMMgfl0yMuRw/edit#gid=921948315)
+- [Promo](https://docs.google.com/spreadsheets/d/1Y08tqotFjy2_Fc7XRrjXSRyG3gt5nmr9LHDw0YWQpGE/edit?usp=sharing)_
 
 | Month     | Tasks                                             | Status        |
 |-----------|---------------------------------------------------|---------------|
