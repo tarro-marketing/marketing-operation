@@ -1,0 +1,23 @@
+account_chunch <- chunk_vector(account_ids, 200) # Adjust the chunk size as needed
+
+query_results <- list()
+
+for (i in seq_along(account_chunch)) {
+  ids_string <- paste0("'", paste(account_chunch[[i]], collapse = "','"), "'")
+  query_string <- paste0("SELECT Id, Name, Industry FROM Account WHERE Id IN (", ids_string, ")")
+  
+  # Execute query and store results
+  tryCatch({
+    query_result <- sf_query(query_string)
+    query_results[[length(query_results) + 1]] <- query_result
+  }, error = function(e) {
+    message("Error querying Salesforce: ", e$message)
+  })
+}
+
+
+
+accounts_data <- do.call(rbind, query_results)
+
+leads_alltime <- leads_alltime %>%
+  left_join(accounts_data, by = c("Id" = "Id"))
