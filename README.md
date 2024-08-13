@@ -1,1 +1,0 @@
-# cuisine-type-data
