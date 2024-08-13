@@ -1,0 +1,37 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(purrr)
+```
+
+```{r}
+filenames = '~/Performance Analysis/SMS (12-19-23~12-23-23)/Raw Data - SMS Campaign'
+combo_data <- purrr::map_df(filenames, 
+              ~read.csv(.x, stringsAsFactors = FALSE) %>% mutate(filename = .x))
+```
+
+```{r}
+
+combo_data |> 
+  filter(device!='bot') |> 
+  group_by(filename) |> 
+  summarise(counts=n()) |> 
+  arrange(counts)
+  
+```
+
+```{r}
+combo_data$phone_number <- sub("^1", "", combo_data$phone_number)
+
+write_csv(combo_data, "click_combo_data.csv")
+```
+

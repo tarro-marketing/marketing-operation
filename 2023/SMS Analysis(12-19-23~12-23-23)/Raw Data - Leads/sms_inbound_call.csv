@@ -1,0 +1,129 @@
+Date,Lead Status,Rejected Reason,Unqualified Reason,SDR,Phone,Extension Number,Extension Channel,Channel Collected,Owner Name,Restaurant Name,Restaurant Number,Cuisine Type,"Pickup/
+Delivery",State,前台情况,SF Link,Campaign Sent
+Wed  12/20,Abandoned,,,Yannie,2252230879,3806666678,SMS,,,,,,,,"after pick up then hangup,call back say wrong number",,#REF!
+Wed  12/20,Inbound Qualified,,,Yannie,4084382533,3806666678,SMS,SMS,段老板,,,中餐,Pickup,California,"老板名字：段老板
+联系方式：4084382533 (California）
+回拨时间：ASAP
+餐类型：中餐
+电话订单：5-6w
+前台情况：有两个前台
+送餐情况：来取，doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板收到SMS，想了解我们的服务，但是建议要有人到店商谈。  
+","https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FkYREA0/view
+",#REF!
+Wed  12/20,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,7204992295,3806666678,SMS,SMS,,,,,,,老板咨询我们的服务。电话自己接，餐馆有堂吃，电话单不多只有7-8个，网络订单比较多。不适合我们的服务,,#REF!
+Wed  12/20,Unqualified,,Duplicate,Kelvin,9173886533,3806666678,SMS,,,,,,,,老板说他想用我们的服务，之前有联系过我们的经理。可是一直联系不上，让别的经理现在回电,https://wondersco.lightning.force.com/lightning/r/Account/001Uo000000nQB6IAM/view,#REF!
+Wed  12/20,Inbound Qualified,,,Yannie,8327564898,3806666678,SMS,DM,陈老板,,,美式中餐,Pickup,Boston,"老板名字 : 陈老板
+联系方式： 8327564898（Boston）
+回拨时间：ASAP
+餐类型：美式中餐
+电话订单：-
+前台情况：有2个前台
+送餐情况：来取，doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板收到广告想了解我们的服务，之前餐馆停业了现在要再次营业，需要再发广告给新客户，想了解如果不忙的时候能不能暂停送餐的服务，然后让客人在doordash online order ,就暂时不接送餐服务，想了解收费先再看怎么合作。
+",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNf1EAG/view,#REF!
+Wed  12/20,Inbound Qualified,,,Kelvin,7029134139,3806666678,SMS,SMS,Victoria,VeggieEat-Sedona,(702) 913-4139,亚洲餐,Pickup,AR,"老板名字：Victoria
+联系方式： (702) 913-4139 （公司号码，不过可以找到他）
+回拨时间：ASAP
+餐类型：亚洲餐，来取
+电话订单：一天大概20-30
+前台情况：有请ft帮忙
+送餐情况： 都让doordash,ubereat,grubhub送
+客户来源： Inbound
+促销活动： -
+note: 老板娘收到我们的SMS, 没听说过，简单介绍我们服务。有诚意用我们的服务。亚洲餐，有泰餐和越餐，他给了website: https://www.veggieatxpress.com/ 可以看一下能不能接。99%的客人都说英文，说了我们可以中英西班牙。堂吃店，餐馆有68个座位，但是只有一个servant。忙的时候电话都不接，人手不够，也不太喜欢接电话。说了我们能够提供价值，帮忙接电话让生意更多。希望我们先和客人收钱，担心客人不回来取餐。介绍了我们可以代刷信用卡，可以备注以后不接那个客人。有第二家餐馆在sedona,那边也比较需要我们服务，因为没前台。厨房有时还需要帮忙接电话，那边很多的电话都不接，而且也有旅客电话，肯定流失更多的生意。如果做得好，他有打算开第3家，都让我们做。要知道收费，希望2家一起用有折扣。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002zE1iMAE/view,#REF!
+Wed  12/20,Inbound Qualified,,,Yannie,3475067911,3806666678,SMS,Organic - Direct,Andy,JUICY CRAB,(718) 210-1835,中餐+手抓海鲜,Pickup,NY,"老板名字：Andy
+联系方式：3475067911 （NY)
+回拨时间：ASAP
+餐类型：中餐+手抓海鲜
+电话订单：3.5w
+前台情况：有前台
+送餐情况：来取，doordash,ubereat，请司机送
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板看到我们有VP+DE的服务想找我们合作，目前前台要打包又要接电话，想我们帮忙接电话，现在第三方的营业额大概有1w，请司机送一个月大概有3-4w，想咨询收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGIAEA4/view,#REF!
+Wed  12/20,Abandoned,,,Yannie,8482368329,3806666678,SMS,,,,,,,,玩电话，打进来一直konichiwa,,#REF!
+Wed  12/20,Unqualified,,Current Client,Yannie,6464013886,3806666678,SMS,,,EASTERN BISTRO R83378,,,,,老板娘简单咨询送餐的服务，有需要会再联系我们,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17brAAB/view,#REF!
+Wed  12/20,Inbound Qualified,,,Eelin,9173286096,3806666678,SMS,DM,林小姐,Wongs Gourmet,(763) 574-1889,,,,"老板名字：林小姐
+回拨时间; 2点过后
+州：Minnesota
+联系方式：(917) 328-6096
+餐类型：美式中餐 （外卖+堂吃）
+电话订单：40-50
+前台情况：自己+儿子接
+送餐情况： 来取+送餐 （自己外卖员）
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：之前是女儿帮他接电话，女儿现在上大学了，就需要自己接，可是有点接不及，也叫儿子帮忙，可是儿子经验不足，处理得慢。看到我们广告有兴趣了解VP+DE, 虽然老板娘两个都问，可是明显他比较兴趣VP
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKL5dEAG/view
+",,#REF!
+Thu  12/21,Unqualified,,Not a Restaurant,Yannie,7146755596,3806666678,SMS,,,,,,,,按摩院来的，不是餐馆,,#REF!
+Thu  12/21,Unqualified,,Not a Restaurant,Yannie,7146755596,3806666678,SMS,,,,,,,,按摩院来的，不是餐馆,,#REF!
+Thu  12/21,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,9199238780,3806666678,SMS,,,,,,,,"food truck,没有电话单。客人都是微信上点餐。以为我们的服务能够帮忙推广广告给客人。不适合我们的服务。",,#REF!
+Fri  12/22,Unqualified,,Current Client,Yannie,9175248888,3806666678,SMS,,,RAINBOW GARDEN R82863,,,,,"CL request call back regarding the DE service,already inform CSM",,#REF!
+Fri  12/22,Abandoned,,,Yannie,7065752078,3806666678,SMS,,,,,,,,wrong number,,#REF!
+Fri  12/22,Unqualified,,Not a Restaurant,,7065752078,3806666678,SMS,,,,,,,,,,#REF!
+Fri  12/22,Unqualified,,Duplicate,Yannie,8327564898,3806666678,SMS,,,,,,,,说联系了业务经理，现在在驾车，再聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNf1EAG/view,#REF!
+Fri  12/22,Unqualified,,Duplicate,Yannie,8327564898,3806666678,SMS,,,,,,,,找业务经理，让Jessica明天尽快联系老板,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNf1EAG/view,#REF!
+Sat  12/23,Abandoned,,,Yannie,9144822233,3806666678,SMS,SMS,Jack,,,日餐,,NY,"老板名字：Jack
+联系方式：9144822233 (NY)
+回拨时间：ASAP
+餐类型：日餐
+电话订单：-
+前台情况：-
+送餐情况：来取，doordash
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：收到SMS，1月餐馆才开张简单咨询我们的服务，老板有几家餐馆如果这家新的餐馆使用到我们服务不错的话，以后会考虑其他餐馆也用食客通，老板有一个问题就是如果机器突然出现故障，是否可以链接到电脑我们继续接前台电话？ 因为到时候比较忙，也没有时间联系食客通，通常会是怎么处理，需要了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003AhupMAC/view,#REF!
+Tue  12/19,Inbound Qualified,,,Eelin,4084217155,8888968962,SMS,,Cindy,Best Taste Chinese and Sushi Restaurant,4083777666,中日餐,Delivery,ca,"老板名字：Cindy
+回拨时间; 1 小时内
+州：CA
+联系方式：(408) 421-7155
+餐类型：中日餐
+电话订单：10-20
+前台情况：自己+员工
+送餐情况： 来取+送餐（自己送）
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：12/04 联系我们了， jessica 放了rejected. 老板娘打进来说星期六微信jessica 到今天没回复，要求业务经理再回复。他们原本有自己的送餐员的，可是都没做了，目前剩1、2个，他们都没得休息，想说用我们的服务，可以减轻员工负担
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FkY2EAK/view
+",,#REF!
+Tue  12/19,Inbound Qualified,,,Yannie,6267588880,8888968962,SMS,Organic Direct,陈老板,,,拉面店,Pickup,CA,"老板名字：陈老板
+联系方式：6267588880 (CA)
+回拨时间：ASAP
+餐类型：拉面店
+电话订单：-
+前台情况：有前台
+送餐情况：堂吃，来取，doordash,ubereat
+客户来源：Inbound
+促销活动：-
+Notes (痛点等）：老板说有3-4家拉面店，有和老板说了可能接不了，让业务经理联系老板会提供菜单看能不能接。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002v8vlMAA/view,#REF!
+Tue  12/19,Inbound Qualified,,,Kelvin,8326710168,8888968962,SMS,DM,Kelvin,Golden China,2818260574,中餐,Pickup,TX,"老板名字：Kelvin
+联系方式： (832) 671-0168
+回拨时间：ASAP, 5点之前都得空
+餐类型：中餐，来取
+电话订单：一天大概20-30
+前台情况：自己接
+送餐情况： doordash,ubereat 网络平台送
+客户来源： Inbound
+促销活动： 30 Days Free Trial for VP+DE
+note: 有自己的website。简单介绍我们的服务。老板想要做多一点生意。以前咨询过说我们按照小时收费，解释了是按照单子。说了打印机租$6.99/month, 购买$99。介绍了pt服务可以挑忙的时间，说了需要最少4.5小时。说了收费6.99%, 对送餐有兴趣，说了需要绑定电话服务。说了需要看平均单和送餐距离。老板想知道送餐收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002vHSpMAM/view,#REF!
+Thu  12/21,Inbound Qualified,,,Yannie,6466373333,8888968962,SMS,Organic - Direct,陈老板,,,,Pickup,NY,"老板名字：陈老板
+联系方式：6466373333 (NY) 
+回拨时间：ASAP
+餐类型：日餐
+电话订单：-
+前台情况：有前台
+送餐情况：来取，doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板打上来咨询VP+DE的服务，简单说了怎么操作，老板想知道收费先。
+",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOMsEAO/view,#REF!
+Thu  12/21,Rejected,Is ICP but Interested in DE Only,,Yannie,8052378888,8888968962,SMS,,,,,,,,只是想了解送餐服务，不需要接电话服务,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000020hwYJEAY/view,#REF!
+Thu  12/21,Rejected,Cannot contact lead,,Yannie,6265008968,8888968962,SMS,,,,,,,,未接来电，打回去老板说在忙，过后再联系我们,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FlYSEA0/view,#REF!
+Thu  12/21,Rejected,No interest to talk to sales,,Kelvin,6265008968,8888968962,SMS,"Telemarketer, DM",余老板,HONG KONG EXPRESS CHINESE FOOD,7146398889,中餐快餐,Pickup,CA,余老板，中餐快餐，来取，说了6.99%，网络订单qmenu而已，前台自己接，一天电话大概20-30，周末没开因为太忙了，来不及做。说了我们能够提供价值，周末帮忙接多一点增加生意。简单介绍我们的操作和服务。说了可以代刷信用卡。老板说他会考虑，留了号码，发了短信，需要可以联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FlYSEA0/view,#REF!
+Thu  12/21,Unqualified,,Current Client,Yannie,6464312582,8888968962,SMS,,,NEW CHOI HEE R81587,,,,,老板想咨询送餐服务，已slack CSM联系老板,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17KdAAJ/view,#REF!
