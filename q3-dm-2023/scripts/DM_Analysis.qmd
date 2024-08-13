@@ -1,0 +1,280 @@
+---
+title: "DM Analysis"
+author: "Yuka Chen"
+subtitle: " Marketing Operation Intern"
+format: pdf
+editor: visual
+---
+
+# DM Analysis
+
+
+## Objective
+This project is to understand the target audiences to understand what can contribute the reason audiences didn't fill up the information though they have scanned the QR code. Since the limited data size, I combined all data who have scanned the QR code. 
+
+## Limitation
+As the sources for June-July used three different, it was quite challenging to clean/combine the data. Moreover, it seems the most `utm_id` do not match with our Snowball_ID. 
+
+
+```{r, include=FALSE , warning=FALSE }
+
+#### load package
+
+library(tidyverse)
+library(kableExtra)
+library(janitor)
+library(broom)
+#041741
+#1f64b1
+#d9f1fb
+#80cef4
+#ddf5fd
+#95d3f4
+#041443
+#1e64b1
+
+```
+
+
+
+
+```{r , include=FALSE , warning=FALSE }
+test <- read_csv("final_data/test.csv")
+```
+
+
+## Data Summary Table and Visualization
+
+```{r echo=FALSE , warning=FALSE }
+## plot theme to match company color
+theme_background =   theme(panel.background = element_rect(fill = "#041741"),
+        panel.grid.major = element_blank(),
+        legend.position="none",
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
+```
+
+### State (* - find out the default)
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  filter(Country=="USA") |> 
+  group_by(State, fill_info) |> 
+  summarise(count = n(), .groups = "drop" )-> fillinfo_state
+
+fillinfo_state |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(`Didn't Fill`)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() %>%
+  kable_styling()
+```
+
+
+
+
+
+```{r echo=FALSE , warning=FALSE }
+fillinfo_state |> 
+  filter(count > 4) |> 
+  arrange(desc(count)) |> 
+ggplot(aes(x = reorder(State, count),  y = count, fill = State)) +
+  geom_col(color = 'white', fill = 'white')+
+  theme_background +
+  coord_flip()+
+  facet_grid(~fill_info)+
+   labs(fill = "Recipients' Ethnicity",
+       title = "Recipients who scanned the QR code but didn't fill up the information",
+       subtitle = "State",
+       y = "Counts",
+       x = "States") |> 
+  ggplotly()
+```
+
+
+### Categorty
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(New_Category, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+```
+
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(New_Category) |> 
+  ggplot(aes(x = reorder(factor(New_Category), New_Category, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+  theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = " by Restaurant Category", 
+       x = "", 
+       y = "Counts")+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_grid(~fill_info)
+```
+
+By plot, we can see that Cajun Seafood restaurants scanned the QR code, but didn't fill the information. Possibility is that Cajun Seafood restaurants has no ne
+
+
+
+
+
+
+
+### Contact_Title
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(Contact_Title, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+
+
+test |> 
+  drop_na(Contact_Title) |> 
+  filter(Contact_Title!= "Unknown") |> 
+ggplot(aes(reorder(factor(Contact_Title), Contact_Title, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+ theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = "by Contact_Title",
+            x = "", 
+       y = "Counts") +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_grid(~fill_info)
+  
+```
+
+
+### Information Source
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  group_by(InfoSource, fill_info) |> 
+  summarise(count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = fill_info, values_from = count) |> 
+  arrange(desc(Filled)) |> 
+  mutate(total = `Didn't Fill`+ Filled) |> 
+  adorn_totals("row") |> 
+  kable() |> 
+  kable_styling()
+```
+
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(InfoSource) |> 
+  ggplot(aes(x = reorder(factor(InfoSource), InfoSource, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+  theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = " by Information Source", 
+       x = "Information Source", 
+       y = "Counts")+
+  facet_grid(~fill_info)
+```
+
+```{r echo=FALSE , warning=FALSE }
+test |> 
+  drop_na(InfoSource) |> 
+  ggplot(aes(x = reorder(factor(InfoSource), InfoSource, length))) + 
+  geom_histogram(stat="count",bins = 20,fill = "white", color = "black") +
+  theme_background+
+  labs(title = "Recipients who scanned the QR code but didn't fill up the information",
+        subtitle = " by Information Source", 
+       x = "Information Source", 
+       y = "Counts")+
+  facet_grid(~fill_info)
+```
+
+
+
+
+
+
+
+## Models
+
+I ran logistic regression to predict which group are more likely to fill up the information. Unfortunately I had issues when I run a model with all variables and wasn't able to debug it. So instead I ran model separately. The downside of doing it is that we can not consider the possibilities of when all information happened overrall.
+
+### predicting by State
+```{r echo=FALSE , warning=FALSE }
+State_model <- glm(fill_info_num ~ State, data = test, family = binomial(logit))
+summary(State_model)
+```
+From the model to predict a person filling information by their state, we can see that people in California, Colorado, Illinos, Indiana, and WI(Wayomin?) are more likely to fill in information than people living in other states, 
+
+### predicting by Established Years
+```{r echo=FALSE , warning=FALSE }
+Year_Established_model <- glm(fill_info_num ~ Year_Established, data = test, family = binomial(logit))
+summary(Year_Established_model)
+```
+
+The result shows the restaurant established years are not statistically significant for our data (target audiences). It could due to lack of data points.
+
+### predicting by Employee_Size (*)
+```{r echo=FALSE , warning=FALSE }
+Employee_Size_model <- glm(fill_info_num ~ Employee_Size, data = test, family = binomial(logit))
+summary(Employee_Size_model)
+```
+
+### predicting by restaurant types
+```{r echo=FALSE , warning=FALSE }
+New_Category_model <- glm(fill_info_num ~ New_Category, data = test, family = binomial(logit))
+summary(New_Category_model)
+```
+
+The result shows people who owns/manages the Asian Fusion and Chinese restaurants are more likely to fill the information than other types of restaurants.
+
+```{r echo=FALSE , warning=FALSE }
+Contact_Title_model <- glm(fill_info_num ~ Contact_Title, data = test, family = binomial(logit))
+summary(Contact_Title_model)
+```
+
+It represents that target audience's role do not have any relationship with filling the information. 
+
+
+```{r echo=FALSE , warning=FALSE }
+Campaign_model <- glm(fill_info_num ~ Campaign, data = test, family = binomial(logit))
+summary(Campaign_model) 
+```
+
+The model shows us that free trail (July) amd mooncake (August) are more successful than other campaign. The reason causes this could be 1) hard to track down the ID (utmID do not match Snowball_ID). 2) simply the campaign meets the audience's need more
+
+```{r echo=FALSE , warning=FALSE, include=FALSE  }
+mooncake_campaign <- read_csv("final_data/mooncake_campaign.csv")
+```
+
+## Mooncake - offer
+```{r echo=FALSE , warning=FALSE }
+mooncake_campaign = mooncake_campaign |> 
+  mutate(fill_info_num = ifelse(fill_info=="No", 0, 1)) 
+Campaign_model <- glm(fill_info_num ~ group, data = mooncake_campaign, family = binomial(logit))
+summary(Campaign_model) 
+```
+
+For the Offer A and B, it seems that Offer A is more statistical significant than Offer B. In other words, we can say Offer A has statistical evidence to show it gives some kind of influences on people's deciding to fill the information. 
+
+## multi variable models (nothing)
+```{r echo=FALSE , warning=FALSE }
+model <- glm(fill_info_num ~ State + Year_Established + Employee_Size , data = test, family = binomial(logit))
+summary(model) 
+```
+
+
+
+
