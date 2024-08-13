@@ -1,0 +1,372 @@
+---
+title: "GMV Statistical Analysis"
+format:
+  pdf:
+    fontsize: 10pt
+    code-wrap: true
+    
+---
+
+## 0. loading pacakge
+
+```{r}
+library(tidyverse)
+library(PMCMRplus)
+library(stats)
+```
+
+
+## 1. Income level
+
+```{r}
+
+data <- data.frame(
+  IncomeRange = factor(rep(c("$1 - $60,000 (Low)", "$60,000 - $100,000 (Low-mid)", "$100,001 - $150,000 (Mid)", "$150,001+ (High)"), each = 5)),
+  GMVTier = factor(c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "$50,000 to $99,999", ">$100,000"), 
+                   levels = c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "$50,000 to $99,999", ">$100,000")),
+  Restaurants = c(197, 483, 178, 52, 4, 357, 782, 247, 59, 3, 122, 254, 60, 13, 1, 20, 23, 5, 2, 0)
+)
+
+
+reshape_data <- xtabs(Restaurants ~ IncomeRange + GMVTier, data = data)
+
+# step 3: Run the Chi-Square test
+chi_results <- chisq.test(reshape_data, simulate.p.value = TRUE, B = 2000)
+
+# Print the results
+print(chi_results)
+```
+
+## 2. Population Density
+
+```{r}
+  client_data <- matrix(c(
+    91, 232, 84, 8, 2,    # Rural
+    189, 471, 159, 45, 1, # Rural/Suburban
+    450, 900, 275, 91, 4, # Suburban
+    93, 190, 66, 17, 1    # Urban
+  ), nrow = 4, byrow = TRUE)
+  
+  # Define row and column names for clarity
+  rownames(client_data) <- c("Rural", "Rural/Suburban", "Suburban", "Urban")
+  colnames(client_data) <- c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "> $50,000", ">$100,000")
+  
+  # Conduct the Chi-squared test
+  chi_results <- chisq.test(client_data, simulate.p.value = TRUE, B = 5000)
+  
+  # Print the results
+  print(chi_results)
+  
+```
+
+## 3. Region
+
+```{r}
+
+regions <- c('Northeast', 'Southeast', 'Midwest', 'Southwest', 'West')
+icp_sam <- c(15815, 14859, 8512, 6232, 15065)
+avg_gmv <- c(20839, 20695, 17556, 13318, 12994)
+num_clients <- c(1384, 1151, 609, 115, 120)
+
+regions_numeric <- c(1, 2, 3, 4, 5)  # From Northeast to West
+
+lm_icp <- lm(icp_sam ~ regions_numeric)
+lm_gmv <- lm(avg_gmv ~ regions_numeric)
+lm_clients <- lm(num_clients ~ regions_numeric)
+
+summary(lm_icp)
+summary(lm_gmv)
+summary(lm_clients)
+
+
+```
+
+
+
+##4. School Zone Rating
+
+```{r}
+data <- matrix(c(253, 497, 128, 35, 2,
+                 401, 890, 283, 75, 5,
+                 151, 363, 157, 42, 0,
+                 18, 41, 16, 8, 1), 
+               nrow = 4, ncol = 5, byrow = TRUE)
+
+rownames(data) <- c("A (Excellent)", "B (Good)", "C (Average)", "D (Poor)")
+colnames(data) <- c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "$50,000 to $99,999", ">$100,000")
+
+chisq_result <- chisq.test(data, simulate.p.value = TRUE, B = 2000)
+
+print(chisq_result)
+
+```
+
+## 5. Cuisine
+
+```{r}
+GMV_data <- matrix(c(
+    524, 1445, 521, 136, 8,   # Chinese
+    110, 63, 11, 3, 0,        # Japanese
+    6, 4, 3, 1, 0,            # Cajun
+    18, 22, 6, 3, 0,          # American
+    18, 20, 3, 1, 0,          # Korean
+    3, 3, 0, 0, 0,            # Thai
+    4, 6, 1, 1, 0             # Others
+), byrow = TRUE, nrow = 5, 
+dimnames = list(
+    c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000'),
+    c('Chinese', 'Japanese', 'Cajun', 'American', 'Korean', 'Thai', 'Others')
+))
+
+chi_result <- chisq.test(GMV_data, simulate.p.value = TRUE, B=2000)
+
+print(chi_result)
+expected <- chi_result$expected  # The expected frequencies
+residuals <- (GMV_data - expected) / sqrt(expected)  # Standardized residuals
+
+print(residuals)
+
+
+```
+
+## 6. Price Range
+
+```{r}
+# Input the data with all price ranges
+GMV_data_all <- matrix(c(
+    396, 1146, 427, 120, 7,     # $ restaurants
+    279, 396, 111, 23, 0,       # $$ restaurants
+    3, 4, 0, 0, 0,              # $$$ restaurants
+    1, 1, 0, 0, 0               # $$$$ restaurants
+), nrow = 5, byrow = TRUE, 
+dimnames = list(
+    c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000'),
+    c('$', '$$', '$$$', '$$$$')
+))
+
+# View the data
+GMV_data_all
+
+```
+
+```{r}
+# Perform the Chi-square test
+chisq_result_all <- chisq.test(GMV_data_all)
+chisq_result_all
+```
+
+```{r}
+chisq_result_all <- chisq.test(GMV_data_all, simulate.p.value = TRUE, B = 2000)
+
+chisq_result_all
+
+```
+
+## 7. year in business
+
+```{r}
+# Load necessary library
+library(MASS)
+
+# Your data
+data <- data.frame(
+  FirstSeen = factor(rep(c("Pre-2020", "2020", "2021", "2022", "2023", "Now"), each = 5), 
+                     levels = c("Now", "2023", "2022", "2021", "2020", "Pre-2020")),
+  GMVTier = factor(rep(c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "$50,000 to $99,999", ">$100,000"), times = 6),
+                   levels = c("< $10,000", "$10,000 to $29,999", "$30,000 to $49,999", "$50,000 to $99,999", ">$100,000")),
+  NumClients = c(332, 1204, 472, 128, 7, 10, 17, 6, 1, 1, 19, 19, 7, 1, 0, 14, 19, 5, 1, 0, 24, 28, 3, 0, 0, 3, 1, 0, 0, 0)
+)
+
+# Display the first few rows of the data
+head(data)
+
+# Create a contingency table
+table_data <- xtabs(NumClients ~ FirstSeen + GMVTier, data = data)
+
+# Conduct chi-square test
+chisq_result_all <- chisq.test(table_data, simulate.p.value = TRUE, B = 2000)
+
+# Display the result
+chisq_result_all
+
+
+```
+
+
+
+
+## 8. review by month
+
+```{r}
+set.seed(12356)
+client_counts <- matrix(c(
+    332, 1204, 472, 128, 7,   # Pre-2020
+    10, 17, 6, 1, 1,          # 2020
+    19, 19, 7, 1, 0,          # 2021
+    14, 19, 5, 1, 0,          # 2022
+    24, 28, 3, 0, 0,          # 2023
+    3, 1, 0, 0, 0             # Now (2025 onwards)
+), byrow = TRUE, nrow = 6,
+dimnames = list(
+    'FirstSeen' = c('Pre-2020', '2020', '2021', '2022', '2023', 'Now'),
+    'GMVTier' = c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000')
+))
+
+print(client_counts)
+
+chi_test_result <- chisq.test(client_counts, simulate.p.value = TRUE, B=2000)
+
+# View the results
+print(chi_test_result)
+
+```
+
+```{r}
+# Creating the contingency table
+review_gmv <- matrix(c(
+    271, 702, 291, 87, 4,   # 1 - 49 reviews
+    204, 427, 127, 31, 3,   # 50 - 299 reviews
+    50, 116, 29, 8, 0,      # 300 - 999 reviews
+    2, 8, 2, 0, 0           # 1000+ reviews
+), byrow = TRUE, nrow = 4,
+dimnames = list(
+    'MonthlyReviewVolume' = c('1 - 49', '50 - 299', '300 - 999', '1000+'),
+    'GMVTier' = c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000')
+))
+
+# Viewing the contingency table
+print(review_gmv)
+```
+
+```{r}
+set.seed(12356)
+# Perform the Chi-square test
+chi_result <- chisq.test(review_gmv, simulate.p.value = TRUE, B = 2000)
+
+# View the results
+print(chi_result)
+
+```
+
+```{r}
+# Assuming you have your 'review_gmv' contingency table already
+chi_result <- chisq.test(review_gmv, simulate.p.value = TRUE, B = 2000)
+
+# Now, extract standardized residuals
+std_residuals <- chi_result$stdres  # This gets the standardized residuals from your test result
+
+# View the standardized residuals
+print(std_residuals)
+
+
+# Find and print significantly large residuals
+significant_cells <- which(abs(std_residuals) > 2, arr.ind = TRUE)
+
+for (idx in 1:nrow(significant_cells)) {
+  cell <- significant_cells[idx, ]
+  cat(sprintf("Significant cell at Monthly Review Volume '%s' and GMV Tier '%s': Residual = %.2f\n",
+              rownames(std_residuals)[cell[1]], 
+              colnames(std_residuals)[cell[2]], 
+              std_residuals[cell[1], cell[2]]))
+}
+```
+
+
+## 9. Review - starts
+
+```{r}
+review_gmv <- matrix(c(
+    20, 22, 7, 0, 0,   # 5 Stars
+    403, 919, 276, 65, 6,   # 4.5 Stars
+    210, 484, 207, 65, 2,   # 4 Stars
+    57, 143, 59, 15, 0      # <3 Stars
+), byrow = TRUE, nrow = 4,
+dimnames = list(
+    'AverageReviewScore' = c('5 Stars', '4.5 Stars', '4 Stars', '<3 Stars'),
+    'GMVTier' = c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000')
+))
+
+print(review_gmv)
+
+```
+
+```{r}
+set.seed(12356)
+chi_result <- chisq.test(review_gmv)
+print(chi_result)
+
+
+chi_result_simulated <- chisq.test(review_gmv, simulate.p.value = TRUE, B = 2000)
+print(chi_result_simulated)
+```
+
+## 10. Vatiality score
+
+```{r}
+set.seed(12356)
+data <- data.frame(
+  VitalityScore = factor(rep(c('0 - 25', '26 - 50', '51 - 75', '76 - 100'), each = 5),
+                         levels = c('0 - 25', '26 - 50', '51 - 75', '76 - 100')),
+  GMVTier = rep(c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000'), times = 4),
+  Clients = c(31, 58, 30, 3, 1, 298, 666, 205, 57, 2, 278, 660, 222, 54, 4, 83, 184, 92, 31, 1)
+)
+
+data$GMVTier <- ordered(data$GMVTier, levels = c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000'))
+
+contingency_table <- xtabs(Clients ~ VitalityScore + GMVTier, data = data)
+chi_result <- chisq.test(contingency_table)
+print(chi_result)
+
+chi_result_simulated <- chisq.test(contingency_table, simulate.p.value = TRUE, B =2000)
+print(chi_result_simulated)
+
+```
+
+```{r}
+expected_counts <- chi_result$expected
+print(expected_counts)
+```
+
+## 11. reputation score
+
+```{r}
+# Creating the data frame
+data <- data.frame(
+  ReputationScore = factor(rep(c('<70', '70 - 79', '80 - 90', '90 - 100'), each = 5)),
+  GMVTier = rep(c('< $10,000', '$10,000 to $29,999', '$30,000 to $49,999', '$50,000 to $99,999', '>$100,000'), times = 4),
+  NumberOfClients = c(23, 60, 17, 2, 0, 75, 168, 89, 25, 1, 357, 849, 297, 94, 4, 235, 491, 146, 24, 3)
+)
+
+# Creating the contingency table
+contingency_table <- xtabs(NumberOfClients ~ ReputationScore + GMVTier, data = data)
+
+set.seed(12356)
+# Perform the Chi-square test
+chi_result <- chisq.test(contingency_table,simulate.p.value = TRUE, B = 2000)
+
+# View the results
+print(chi_result)
+
+```
+
+```{r}
+# Assuming chi_result is your Chi-squared test result
+std_residuals <- chi_result$residuals  # Obtain the standardized residuals
+
+# Identifying cells with significant contribution
+sig_cells <- which(abs(std_residuals) > 1.96, arr.ind = TRUE)  # Using 1.96 for approximately a 95% confidence level
+
+# Print out the significant cells and their residuals
+if(length(sig_cells) > 0) {
+  for(idx in 1:nrow(sig_cells)) {
+    cell <- sig_cells[idx, ]
+    cat(sprintf("Significant cell: Reputation Score '%s' and GMV Tier '%s' with Residual = %.2f\n",
+                rownames(std_residuals)[cell[1]], 
+                colnames(std_residuals)[cell[2]], 
+                std_residuals[cell[1], cell[2]]))
+  }
+} else {
+  cat("No cells significantly contribute to the chi-squared statistic beyond the 95% confidence level.\n")
+}
+
+```
