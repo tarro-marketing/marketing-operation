@@ -1,0 +1,123 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-12-27"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(purrr)
+library(dplyr)
+
+```
+
+```{r}
+
+folder_path <- '~/Performance Analysis/Form Submission/elementor'
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
+
+combo_data <- purrr::map_df(filenames, 
+              ~read.csv(.x, stringsAsFactors = FALSE) %>% 
+                mutate_all(as.character) %>% 
+                mutate(filename = .x))
+```
+
+
+```{r}
+combo_data2 <- combo_data %>%
+  mutate(filename = as.character(filename)) %>%
+  mutate(filename = str_remove(filename, "^C:/.*export-"),
+         phone_number = coalesce(`手机号码`, Mobile_Phone,MobilePhone,MobilePhonedDeskTop),
+         phone_number = str_replace_all(phone_number, "-", "") %>% 
+                          str_replace_all("[^0-9]", ""),
+         restaurant_name = coalesce(resturantname, Restaurant_Name, restaurantname,`餐馆菜系`),
+         state1 = coalesce(State,`州`,state),
+         cuisine_type1 = coalesce(menutype,cuisine_type),
+         last_name = coalesce(LastName, `姓氏`)) |> 
+  select(-c(`手机号码`, Mobile_Phone,MobilePhone,MobilePhonedDeskTop,resturantname, Restaurant_Name, restaurantname,`餐馆菜系`,State,`州`,state,menutype,cuisine_type,LastName, `姓氏`, `field_c08bb15`,`field_a8a9f04`,`Prospect_Name`,`field_c671a78` ,`Form.Name..ID.` ,`Submission.ID`, `field_c2ef9e9`, `field_61e3cc5`,, `Terms.and.Conditions`
+, `X.1`,`X`,User.ID,User.Agent)) |> 
+    mutate(
+    channel = case_when(
+      str_detect(Referrer, "(?i)SEM|Blog Pages Contact us|(?i)Google") ~ "SEM",
+      str_detect(Referrer, "(?i)SEO|Contact us|contact-us|	
+Home Page Contact us") ~ "SEO",
+      str_detect(Referrer, "(?i)sMS") ~ "SMS",
+      str_detect(Referrer, "(?i)Brizo|(?i)DM|(?i)DirectMail") ~ "DM")) |> 
+  select(channel, Referrer, utm_id, everything())
+```
+
+```{r}
+write_csv(combo_data2, "combined_all_fsubmit.csv", na="")
+```
+
+
+
+```{r}
+
+sms_form <- 
+  combo_data |> 
+  filter(str_detect(filename, 'SMS'))
+```
+
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "DM")) -> dm_form_submit
+
+write_csv(dm_form_submit, "DM/dm_fsubmit.csv")
+
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SMS")) -> SMS_form_submit
+
+write_csv(SMS_form_submit, "SMS/sms_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SEM")) -> SEM_form_submit
+
+write_csv(SEM_form_submit, "SEM/sem_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "YouTube")) -> YouTube_form_submit
+
+write_csv(YouTube_form_submit, "YouTube/youtube_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "Display")) -> Display_form_submit
+
+write_csv(Display_form_submit, "Display/display_fsubmit.csv")
+```
+ 
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "SEO") | str_detect(Form.Name..ID., "Direct")) -> SEO_Direct_form_submit
+
+write_csv(SEO_Direct_form_submit, "Direct - SEO/seo_direct_fsubmit.csv")
+```
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "DSP")) -> DSP_form_submit
+
+write_csv(DSP_form_submit, "Display/dsp_fsubmit.csv")
+```
+
+
+```{r}
+combo_data |> 
+  filter(str_detect(Form.Name..ID., "2024jan")) -> jan_form_submit
+
+write_csv(jan_form_submit, "DM/2024jan_fsubmit.csv")
+```

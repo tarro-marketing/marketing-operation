@@ -1,0 +1,93 @@
+---
+title: "data_cleaning"
+output: html_document
+date: "2023-01-29"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyverse)
+library(purrr)
+library(dplyr)
+library(rprojroot)
+library(here)
+```
+
+
+```{r}
+folder_path <- here("2024", "july-formfill-2024","raw-data")
+
+print(folder_path)
+```
+
+```{r message=FALSE, warning=FALSE}
+col_types <- cols(
+  `手机号码` = col_character(),
+  `Mobile Number` = col_character(),
+  .default = col_guess()  # This will guess other column types
+)
+
+# Read and combine the files with consistent column types
+combo_data <- purrr::map_df(filenames, 
+                            ~read_csv(.x, col_types = col_types) |> 
+                            mutate(filename = .x))
+```
+
+
+```{r}
+
+combo_data_clean <- combo_data  |> 
+  mutate(
+    name = coalesce(`姓氏`, `Last Name`),
+    phone_number = coalesce(`手机号码`, `Mobile Number`),
+    state = coalesce(`州`, `State`),
+    cuisine_type = coalesce(`餐馆菜系`, `Cuisine Type`)
+  )  |> 
+  rename("email"=`您的邮箱地址`) |> 
+  select(-c(`手机号码`, `Mobile Number`, `州`, `State`, `餐馆菜系`, `Cuisine Type`,`姓氏`, `Last Name`)) |> 
+  select(where(~ !all(is.na(.)))) |> 
+  filter(!str_detect(name, "(?i)marketing|test"))
+
+
+ordered_columns <- c("name", "email", "phone_number", "resturantname", "state", "cuisine_type",
+                     "utm_campaign", "utm_id", "utm_source", "utm_medium",
+                     "Form Name (ID)", "Submission ID", "Created At", "User ID", 
+                     "User Agent", "User IP", "Referrer", "Terms and Conditions", "filename")
+
+combo_data_ordered <- combo_data_clean  |> 
+  select(all_of(ordered_columns))
+
+
+combo_data2 <- combo_data_ordered |>
+  mutate(phone_number = str_replace_all(phone_number, "-", "") |> 
+                          str_replace_all("[^0-9]", "")) |> 
+  mutate(
+    channel = case_when(
+      str_detect(filename, "(?i)SEM|Blog Pages Contact us") | str_detect(utm_source,"(?i)google") ~ "SEM",
+      str_detect(filename, "(?i)SEO|Contact us") ~ "SEO",
+      str_detect(filename, "(?i)SMS") ~ "SMS",
+      str_detect(filename, "(?i)Brizo|(?i)DM") | str_detect(utm_medium,"(?i)DirectMail")~ "DM")) |> 
+  select(channel, everything()) |> 
+  rename(Create_Date = `Created At`) |> 
+  mutate(
+    Create_Date = as_date(Create_Date), # Ensure Create_Date is in Date format
+    week_start = floor_date(Create_Date, "week", week_start = 1),  # Start of the week (Monday)
+    week_end = ceiling_date(Create_Date, "week", week_start = 1) - 1,  # End of the week (Sunday)
+    week = paste(format(week_start, "%m/%d"), "-", format(week_end, "%m/%d"))  # Format as MM/DD-MM/DD
+  )  |> 
+  select(-week_start, -week_end) |> 
+  select(week,channel, everything())
+
+combo_data2 |> 
+  group_by(channel) |> 
+  summarize(form_fill_numbers=n()) |> 
+  arrange(desc(form_fill_numbers)) -> summary_table
+
+sheet_append(log_entry, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "Update Log")
+
+18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE
+
+```
