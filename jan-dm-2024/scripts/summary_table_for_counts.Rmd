@@ -1,0 +1,115 @@
+---
+title: "Summary"
+author: "Yuka Chen"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+form_fill <- read_csv("clean_data/flight_ticket_form_fill.csv")
+inboundcall_dm_jan <- read_csv("clean_data/inboundcall_dm_jan.csv")
+qr_scan <- read_csv("clean_data/qr_scan.csv")
+sfdc_jan_leads <- read_csv("clean_data/sfdc_jan_leads.csv")
+
+desired_order <- c("Brizo_US", "Old_List_US", "Print_Shop_US", "Brizo_CAN", "Oldlist_CAN", "Print_Shop_CAN")
+desired_order2 <- c("Brizo_US", "Old_List_US", "Print_Shop_US", "CAN")
+
+desired_order <- c("Brizo_US", "Old_List_US", "Print_Shop_US", "CAN","Brizo_CAN", "Oldlist_CAN", "Print_Shop_CAN")
+
+```
+
+```{r}
+qr_scan |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+form_fill |>    
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+inboundcall_dm_jan |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order2)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+  filter(mql==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+  filter(sql==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+  filter(cw==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+```
+
+
+```{r}
+qr_scan |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+form_fill |>    
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+  filter(types == "jotform") |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+   filter(types == "jotform") |> 
+  filter(mql==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+   filter(types == "jotform") |> 
+  filter(sql==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+
+sfdc_jan_leads |> 
+   filter(types == "jotform") |> 
+  filter(cw==TRUE) |> 
+  group_by(list_source) |> 
+  summarise(counts=n()) |> 
+  mutate(list_source = factor(list_source, levels = desired_order)) %>% 
+  arrange(list_source)
+```
+
+
