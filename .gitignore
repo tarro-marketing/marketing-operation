@@ -10,4 +10,3 @@ pw/
 /build/
 
 # Ignore specific files
-credentials-api/google_ser_r_credentials.json
