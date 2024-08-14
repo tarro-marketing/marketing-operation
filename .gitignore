@@ -9,5 +9,5 @@ pw/
 # Ignore build directories
 /build/
 
-*credentials-api/google_ser_r_credentials.json
-*credentials-api/google_ser_r_credentials.json:1
+# Ignore specific files
+credentials-api/google_ser_r_credentials.json
