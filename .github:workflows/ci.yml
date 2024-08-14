@@ -1,0 +1,159 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+      - develop
+    paths:
+      - '**.py'
+      - '**.yml'
+      - '**.js'
+  pull_request:
+    branches:
+      - main
+      - develop
+
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - run: echo "💡 The ${{ github.repository }} repository has been cloned to the runner."
+      - run: echo "🖥️ The workflow is now ready to test your code on the runner."
+      
+      - name: List files in the repository
+        run: ls ${{ github.workspace }}
+      
+      - run: echo "🍏 This job's status is ${{ job.status }}."
+
+  # Continuous Integration (CI) Check
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run tests
+        run: |
+          pytest
+
+  # Linting
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install flake8
+      
+      - name: Run linter
+        run: |
+          flake8 .
+
+  # Static Analysis
+  static-analysis:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Run CodeQL analysis
+        uses: github/codeql-action/init@v2
+        with:
+          languages: python
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v2
+
+  # Code Coverage
+  code-coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.8'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install coverage
+
+      - name: Run tests with coverage
+        run: |
+          coverage run -m pytest
+          coverage report
+          coverage xml
+
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v4
+
+  # Dependabot Security Updates
+  dependabot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dependabot Security Updates
+        run: |
+          # Dependabot is managed automatically by GitHub, but you can trigger security updates manually if needed.
+          echo "Dependabot is configured and will automatically create PRs for security updates."
+
+  # Branch Name Validation
+  branch-name-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Validate branch name
+        run: |
+          if [[ ! "${GITHUB_REF##*/}" =~ ^(feature|bugfix|hotfix|update)/[a-z0-9._-]+$ ]]; then
+            echo "Branch name ${GITHUB_REF##*/} is invalid!"
+            exit 1
+          else
+            echo "Branch name ${GITHUB_REF##*/} is valid."
+          fi
+
+  # Commit Message Validation
+  commit-message-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v4
+
+      - name: Validate commit messages
+        run: |
+          if ! git log --format=%s -n 1 | grep -E '^(feat|fix|docs|style|refactor|test|chore): .+'; then
+            echo "Commit message format is invalid!"
+            exit 1
+          else
+            echo "Commit message format is valid."
+          fi
