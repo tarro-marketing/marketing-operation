@@ -7,3 +7,4 @@ node_modules/
 # Ignore build directories
 /build/
 
+credentials-api/google_ser_r_credentials.json
