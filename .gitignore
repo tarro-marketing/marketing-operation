@@ -10,3 +10,4 @@ pw/
 /build/
 
 # Ignore specific files
+.DS_Store
