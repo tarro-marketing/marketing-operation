@@ -2,8 +2,9 @@
 
 **branch name format**
 <br/>
-- `<channel>-<year>`
-- `<task>-<action>`
-- new campaign data: `new/<month>-<channel>-data` <br/>
-- update campaign data: `update/<month>-<channel>-data` <br/>
-- troubleshoot: `fix/<month>-<channel>-data`
+make sure the branch name starts with
+- `feature-<action/channel>-<details>`
+- `bugfix-<action/channel>-<details>`
+- `hotfix-<action/channel>-<details>`
+- `update-<action/channel>-<details>`
+  
