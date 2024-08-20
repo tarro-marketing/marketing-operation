@@ -4,12 +4,18 @@ library(yaml)
 library(httr)
 library(googlesheets4)
 library(keyring)
+library(here)
 
 
 client_secret_path <- keyring::key_get(
   service = "googlesheets4",
   username = "client_secret_path" # path to google developer credential
 )
+
+# keyring::key_set(
+#   service = "googlesheets4",
+#   username = "client_secret_path" # path to google developer credential
+# )
 
 email <- keyring::key_get(service = "googlesheets4", username = "email")
 
@@ -30,8 +36,7 @@ col_types <- cols(
 # Read and combine the files with consistent column types
 combo_data <- purrr::map_df(filenames, 
                             ~read_csv(.x, col_types = col_types) |> 
-                              mutate(filename = .x))
-
+                            mutate(filename = .x))
 
 
 
