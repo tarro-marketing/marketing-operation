@@ -18,8 +18,8 @@ gs4_auth_configure(path = client_secret_path)
 gs4_auth(email = email, cache = TRUE)
 
 
-folder_path <- here("2024", "july-formfill-2024","raw-data")
-
+folder_path <- here("2024", "august-formfill-2024","raw-data")
+filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
 
 col_types <- cols(
   `手机号码` = col_character(),
