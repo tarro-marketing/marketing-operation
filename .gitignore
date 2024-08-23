@@ -11,3 +11,4 @@ pw/
 
 # Ignore specific files
 .DS_Store
+.Rproj.user
