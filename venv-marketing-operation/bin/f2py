@@ -1,4 +1,4 @@
-#!/Users/yukachen/marketing-operation/.venv/bin/python
+#!/Users/yukachen/marketing-operation/venv-marketing-operation/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
