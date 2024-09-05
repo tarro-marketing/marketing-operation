@@ -162,3 +162,4 @@ DM_Lead <- final_campaign_sfdc_lead |>
 write_sheet(DM_Lead, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "SFDC Leads + Campaigns")
 
 rm(list = setdiff(ls(), c("DM_Lead")))
+
