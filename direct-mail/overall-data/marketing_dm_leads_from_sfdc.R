@@ -93,10 +93,7 @@ dm_lead <- dm_lead |>
 
 
 campaign_lead_report2 <- campaign_lead_report |>
-  mutate(
-    `Mobile - Primary` =
-      str_replace_all(`Mobile - Primary`, "[^\\d]", "")
-  ) |>
+  mutate(`Mobile - Primary` = str_replace_all(`Mobile - Primary`, "[^\\d]", "")) |>
   rename_with(~ str_replace_all(., "[:punct:]", "")) |>
   rename_with(~ str_replace_all(., " ", "_")) |>
   rename_with(~ paste0(., "_Campaign_Lead")) |>
@@ -106,14 +103,8 @@ campaign_lead_report2 <- campaign_lead_report |>
   )
 
 contact_campaign_report2 <- contact_campaign_report |>
-  mutate(
-    `Contact: Mobile - Primary` =
-      as.character(`Contact: Mobile - Primary`)
-  ) |>
-  mutate(
-    `Contact: Mobile - Primary` =
-      str_replace_all(`Contact: Mobile - Primary`, "[^\\d]", "")
-  ) |>
+  mutate(`Contact: Mobile - Primary` = as.character(`Contact: Mobile - Primary`)) |>
+  mutate(`Contact: Mobile - Primary` = str_replace_all(`Contact: Mobile - Primary`, "[^\\d]", "")) |>
   rename_with(~ str_replace_all(., "[:punct:]", "")) |>
   rename_with(~ str_replace_all(., " ", "_")) |>
   rename_with(~ paste0(., "_Contact_Report")) |>
@@ -121,11 +112,7 @@ contact_campaign_report2 <- contact_campaign_report |>
     across(where(is.character), ~ recode(., "-" = NA_character_)),
     across(where(is.character), ~ if_else(. == "", NA_character_, .))
   ) |>
-  mutate(
-    Lead_Mobile__Primary_Contact_Report =
-      as.character(Lead_Mobile__Primary_Contact_Report)
-  )
-
+  mutate(Lead_Mobile__Primary_Contact_Report = as.character(Lead_Mobile__Primary_Contact_Report))
 
 
 #################### Joining Data ##########################
@@ -178,8 +165,6 @@ has_latest_campaign <- dm_lead |>
 
 final_campaign_sfdc_lead <- rbind(no_latest_campaign, has_latest_campaign)
 
-colnames(final_campaign_sfdc_lead)
-
 final_campaign_sfdc_lead <- final_campaign_sfdc_lead |>
   select(
     flow, types, MEL, MQL, SQL, CW, Onboarded, campaign_name,
@@ -194,7 +179,6 @@ write_csv(final_campaign_sfdc_lead,
   "overall-data/final_sfdc_lead.csv",
   na = ""
 )
-
 
 DM_Lead <- final_campaign_sfdc_lead |>
   filter(Lead_Channel_SFDC %in% "DM")
