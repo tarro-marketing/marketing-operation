@@ -51,9 +51,15 @@ dm_lead <- dm_lead |>
   mutate(
     across(where(is.character), ~ recode(., "-" = NA_character_)),
     across(where(is.character), ~ if_else(. == "", NA_character_, .)),
-    Business_Phone_SFDC = str_replace_all(str_replace_all(Business_Phone_SFDC, "-", ""), "[^0-9]", ""),
+    Business_Phone_SFDC = str_replace_all(
+      str_replace_all(Business_Phone_SFDC, "-", ""),
+      "[^0-9]", ""
+    ),
     flow = case_when(
-      Created_By_SFDC %in% c("JotForm Integration User", "Carlito Academia") ~ "webflow",
+      Created_By_SFDC %in% c(
+        "JotForm Integration User",
+        "Carlito Academia"
+      ) ~ "webflow",
       TRUE ~ "inbound call"
     ),
     types = case_when(
@@ -63,11 +69,20 @@ dm_lead <- dm_lead |>
     ),
     Onboarded = case_when(Stage_SFDC == "Onboarded" ~ TRUE, TRUE ~ FALSE),
     CW = case_when(Stage_SFDC == "Closed Won" ~ TRUE, TRUE ~ FALSE),
-    SQL = case_when(CW == TRUE ~ TRUE, Opportunity_ID_SFDC != "" ~ TRUE, TRUE ~ FALSE),
+    SQL = case_when(
+      CW == TRUE ~ TRUE, Opportunity_ID_SFDC != "" ~ TRUE,
+      TRUE ~ FALSE
+    ),
     MQL = case_when(
-      SQL == TRUE ~ TRUE, CW == TRUE ~ TRUE, Menu_Type_SFDC != "" & StateProvince_text_only_SFDC != "" &
-        (Created_By_SFDC == "JotForm Integration User" | Lead_Status_SFDC %in% c("Converted", "AE Assigned")
-        ) & !(Unqualified_Reason_SFDC %in% c("Current Client", "Duplicate", "Not a Restaurant")) ~ TRUE,
+      SQL == TRUE ~ TRUE, CW == TRUE ~ TRUE, Menu_Type_SFDC != "" &
+        StateProvince_text_only_SFDC != "" &
+        (Created_By_SFDC == "JotForm Integration User" |
+          Lead_Status_SFDC %in% c("Converted", "AE Assigned")
+        ) & !(Unqualified_Reason_SFDC %in% c(
+        "Current Client",
+        "Duplicate",
+        "Not a Restaurant"
+      )) ~ TRUE,
       TRUE ~ FALSE
     ),
     MEL = case_when(
@@ -100,7 +115,6 @@ contact_campaign_report2 <- contact_campaign_report |>
   mutate(Lead_Mobile__Primary_Contact_Report = as.character(Lead_Mobile__Primary_Contact_Report))
 
 
-
 #################### Joining Data ##########################
 
 campaign_lead_report_join <- campaign_lead_report2 |>
@@ -126,12 +140,19 @@ no_latest_campaign <- dm_lead |>
     "Mobile__Primary_SFDC" = "Mobile__Primary_Campaign_Lead"
   )) |>
   left_join(contact_report_join,
-            by = c(
-              "Account_ID_SFDC" = "Lead_Converted_Account_Account_ID_Contact_Report",
-              "Mobile__Primary_SFDC" = "Lead_Mobile__Primary_Contact_Report"
-            )
+    by = c(
+      "Account_ID_SFDC" = "Lead_Converted_Account_Account_ID_Contact_Report",
+      "Mobile__Primary_SFDC" = "Lead_Mobile__Primary_Contact_Report"
+    )
   ) |>
-  mutate(campaign_name = coalesce(Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead, Campaign_Name_Contact_Report))
+  mutate(
+    campaign_name =
+      coalesce(
+        Latest_Campaign_SFDC,
+        Latest_Campaign_Campaign_Lead,
+        Campaign_Name_Contact_Report
+      )
+  )
 
 
 has_latest_campaign <- dm_lead |>
@@ -144,22 +165,27 @@ has_latest_campaign <- dm_lead |>
 
 final_campaign_sfdc_lead <- rbind(no_latest_campaign, has_latest_campaign)
 
-
 final_campaign_sfdc_lead <- final_campaign_sfdc_lead |>
-  select(flow, types, MEL, MQL, SQL, CW, Onboarded, campaign_name,
-         Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead,
-         Campaign_Name_Contact_Report, StateProvince_text_only_SFDC,
-         everything()) |>
+  select(
+    flow, types, MEL, MQL, SQL, CW, Onboarded, campaign_name,
+    Latest_Campaign_SFDC, Latest_Campaign_Campaign_Lead,
+    Campaign_Name_Contact_Report, StateProvince_text_only_SFDC,
+    everything()
+  ) |>
   arrange(desc(Created_Date_SFDC))
 
 
-write_csv(final_campaign_sfdc_lead, "overall-data/final_sfdc_lead.csv", na = "")
-
+write_csv(final_campaign_sfdc_lead,
+  "overall-data/final_sfdc_lead.csv",
+  na = ""
+)
 
 DM_Lead <- final_campaign_sfdc_lead |>
   filter(Lead_Channel_SFDC %in% "DM")
 
-write_sheet(DM_Lead, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "SFDC Leads + Campaigns")
+write_sheet(DM_Lead,
+  ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU",
+  sheet = "SFDC Leads + Campaigns"
+)
 
 rm(list = setdiff(ls(), c("DM_Lead")))
-
