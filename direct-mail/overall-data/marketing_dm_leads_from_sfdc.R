@@ -22,21 +22,21 @@ contact_campaign_report <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] mkt campaign report",
-    range = "A2:AH"
+    range = "A:AH"
   )
 
 dm_lead <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] Marketing MEL/MQL Report",
-    range = "A2:AK"
+    range = "A:AK"
   )
 
 campaign_lead_report <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] Campaign Lead Report",
-    range = "A2:AC"
+    range = "A:AC"
   )
 
 
@@ -175,17 +175,16 @@ final_campaign_sfdc_lead <- final_campaign_sfdc_lead |>
   arrange(desc(Created_Date_SFDC))
 
 
-write_csv(final_campaign_sfdc_lead,
-  "overall-data/final_sfdc_lead.csv",
-  na = ""
-)
 
 DM_Lead <- final_campaign_sfdc_lead |>
-  filter(Lead_Channel_SFDC %in% "DM")
+  filter(
+    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024"
+               )
+    )
 
 write_sheet(DM_Lead,
   ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU",
-  sheet = "SFDC Leads + Campaigns"
+  sheet = "Lead Data (+Campaign)"
 )
 
 rm(list = setdiff(ls(), c("DM_Lead")))
