@@ -4,7 +4,7 @@ library(yaml)
 library(httr)
 library(googlesheets4)
 library(keyring)
-
+library(janitor)
 
 client_secret_path <- keyring::key_get(
   service = "googlesheets4",
@@ -23,22 +23,24 @@ contact_campaign_report <-
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] mkt campaign report",
     range = "A:AH"
-  )
+  ) |>
+  clean_names()
 
 dm_lead <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] Marketing MEL/MQL Report",
-    range = "A:AK"
-  )
+    range = "A:AM"
+  ) |>
+  clean_names()
 
 campaign_lead_report <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] Campaign Lead Report",
     range = "A:AC"
-  )
-
+  ) |>
+  clean_names()
 
 #################### Cleaning Data ##########################
 
@@ -90,6 +92,36 @@ dm_lead <- dm_lead |>
       TRUE ~ FALSE
     )
   )
+
+# lead_stages <-
+#   lead_opportunity |>
+#   mutate(
+#     is_onboarded = case_when(stage_lead == "Onboarded" ~ TRUE, TRUE ~ FALSE),
+#     is_sql = case_when(
+#       is_onboarded == TRUE ~ TRUE, opportunity_id_lead != "" ~ TRUE,
+#       TRUE ~ FALSE
+#     ),
+#     is_mql = case_when(
+#       is_sql == TRUE ~ TRUE, is_onboarded == TRUE ~ TRUE,
+#       !(is.na(latest_mql_time_stamp_lead)) &
+#         !(unqualified_reason_lead %in%
+#             c(
+#               "Current Client",
+#               "Duplicate",
+#               "Not a Restaurant"
+#             )) ~ TRUE,
+#       TRUE ~ FALSE
+#     ),
+#     is_mel = case_when(
+#       is_sql == TRUE ~ TRUE,
+#       is_onboarded == TRUE ~ TRUE,
+#       is_mql == TRUE ~ TRUE,
+#       !(is.na(first_mel_timestamp_lead)) &
+#         !(unqualified_reason_lead %in% c("Current Client", "Duplicate")) ~ TRUE,
+#       TRUE ~ FALSE
+#     )
+#   )
+
 
 
 campaign_lead_report2 <- campaign_lead_report |>
@@ -178,9 +210,8 @@ final_campaign_sfdc_lead <- final_campaign_sfdc_lead |>
 
 DM_Lead <- final_campaign_sfdc_lead |>
   filter(
-    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024"
-               )
-    )
+    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024")
+  )
 
 write_sheet(DM_Lead,
   ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU",
