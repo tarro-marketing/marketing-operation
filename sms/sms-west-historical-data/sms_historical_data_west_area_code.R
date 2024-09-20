@@ -15,22 +15,19 @@ west_coast_state_area_code <- read_sheet(
   sheet = "west_coast_state_area_code",
   col_types = "cccc"
 ) |>
-  clean_names()
+  clean_names() |>
+  distinct(area_code, .keep_all = TRUE)
 
 west_sms_leads <-
   all_time_leads |>
-  filter(str_detect(lead_channel, ("(?i)sms")) | str_detect(latest_campaign, "(?i)sms")) |>
-  mutate(area_code = str_extract(mobile_primary, "\\d{3}")
-         # mel = ifelse(mel, "\u2713", "\u2717"),
-         # mql = ifelse(mql, "\u2713", "\u2717"),
-         # sql = ifelse(sql, "\u2713", "\u2717"),
-         # onboarded = ifelse(onboarded, "\u2713", "\u2717")
-         # # ✓ is \u2713, ✗ is \u2717
-  ) |>
+  filter((str_detect(lead_channel, "(?i)sms") | str_detect(latest_campaign, "(?i)sms")) &
+           !str_detect(latest_campaign, "(?i)MktOutbound")) |>
+  mutate(area_code = str_extract(mobile_primary, "\\d{3}")) |>
+  distinct(lead_id, .keep_all = TRUE) |>
   rename(state_sfdc = state_province_text_only) |>
-  select(mel, mql, sql, onboarded, area_code, mobile_primary, business_phone, everything()) |>
-  inner_join(west_coast_state_area_code, by = "area_code", relationship = "many-to-many") |>
+  inner_join(west_coast_state_area_code, by = "area_code") |>
   select(mel, mql, sql, onboarded, area_code, mobile_primary, state, state_sfdc, lead_channel, latest_campaign, everything())
+
 
 
 
