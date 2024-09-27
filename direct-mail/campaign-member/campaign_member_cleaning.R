@@ -71,11 +71,11 @@ campaign_member_data <- campaign_member_data %>%
     cw_onboarded_campaign_period = if_else(lead_converted_account_pos_first_order_date <= campaign_end_date, "30D", "60D")
   )
 
-campaign_member_data <- campaign_member_data %>%
+campaign_member_data2 <- campaign_member_data %>%
   select(-campaign_end_date, -month_number)
 
 
-campaign_member_data_c <- campaign_member_data %>%
+campaign_member_data2 <- campaign_member_data %>%
   mutate(
     # create the 'mel' column, treating nas in unqualified_reason as valid
     mel = if_else(!is.na(lead_first_mel_timestamp) &
@@ -101,25 +101,7 @@ campaign_member_data_c <- campaign_member_data %>%
     mel = if_else(mql, TRUE, mel) # if mql is true, mel should be true
   )
 
-
-write_sheet(campaign_member_data_c, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "30D/60D Data")
-
-
-# campaign_member_data_c %>%
-#   group_by(month) %>%
-#   group_walk(~ write_sheet(.x,
-#     ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU",
-#     sheet = paste0("campaign_members_", .y$month)
-#   ))
-
-
-# campaign_member_data_c %>%
-#   group_by(month) %>%
-#   group_walk(~ write.csv(.x, paste0("campaign_members_", .y$month, ".csv"), row.names = FALSE))
-
-
-
-
+write_sheet(campaign_member_data2, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "campaign_member_data2")
 
 campaign_member_data_c <- campaign_member_data_c %>%
   mutate(lead_created_date = as.Date(lead_created_date, format = "%Y-%m-%d")) # Adjust format if necessary
@@ -166,15 +148,14 @@ summary_data <- campaign_member_data_c %>%
   ) %>%
   group_by(month, month_number, subgroup) %>%
   summarize(
-    mel_30d = sum(mel[day <= 30], na.rm = TRUE),
-    mql_30d = sum(mql[day <= 30], na.rm = TRUE),
-    sql_30d = sum(sql[day <= 30], na.rm = TRUE),
-    onboarded_30d = sum(onboarded[day <= 30], na.rm = TRUE),
-    mel_60d = sum(mel[day <= 60], na.rm = TRUE),
-    mql_60d = sum(mql[day <= 60], na.rm = TRUE),
-    sql_60d = sum(sql[day <= 60], na.rm = TRUE),
-    onboarded_60d = sum(onboarded[day <= 60], na.rm = TRUE)
-  ) %>%
+    mel_30d = sum(mel_campaign_period == "30D" & mel == TRUE, na.rm = TRUE),
+    mql_30d = sum(mql_campaign_period == "30D" & mql == TRUE, na.rm = TRUE),
+    sql_30d = sum(sql_campaign_period == "30D" & sql == TRUE, na.rm = TRUE),
+    onboarded_30d = sum(cw_onboarded_campaign_period == "30D" & onboarded == TRUE, na.rm = TRUE),
+    mel_60d = sum(mel == TRUE, na.rm = TRUE),
+    mql_60d = sum(mql == TRUE, na.rm = TRUE),
+    sql_60d = sum(sql == TRUE, na.rm = TRUE),
+    onboarded_60d = sum(onboarded == TRUE, na.rm = TRUE)) %>%
   pivot_longer(
     cols = starts_with("mel_30d") | starts_with("mql_30d") | starts_with("sql_30d") | starts_with("onboarded_30d") |
       starts_with("mel_60d") | starts_with("mql_60d") | starts_with("sql_60d") | starts_with("onboarded_60d"),
@@ -200,3 +181,12 @@ summary_data <- campaign_member_data_c %>%
 print(summary_data)
 
 write_sheet(summary_data, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "30D/60D Summary Campaign Details")
+
+
+rid_data <- campaign_member_data_c |>
+  filter(onboarded == TRUE)
+
+write_sheet(rid_data, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "RID")
+
+
+write_sheet(campaign_member_data_c, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "campaign_member_data_c")
