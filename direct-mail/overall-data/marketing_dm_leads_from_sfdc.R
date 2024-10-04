@@ -5,7 +5,6 @@ library(httr)
 library(googlesheets4)
 library(keyring)
 
-
 client_secret_path <- keyring::key_get(
   service = "googlesheets4",
   username = "client_secret_path"
@@ -18,27 +17,12 @@ gs4_auth(email = email, cache = TRUE)
 
 ################### loading data ###########################
 
-contact_campaign_report <-
-  read_sheet(
-    ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
-    sheet = "[all time] mkt campaign report",
-    range = "A:AH"
-  )
+source("~/marketing-operation/all-time-funnel-data/all_time_leads")
 
-dm_lead <-
-  read_sheet(
-    ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
-    sheet = "[all time] Marketing MEL/MQL Report",
-    range = "A:AK"
+dm_lead_campaign_c <- final_campaign_sfdc_lead |>
+  filter(
+    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024|(?i)Mkt_DM_Snowball_2024")
   )
-
-campaign_lead_report <-
-  read_sheet(
-    ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
-    sheet = "[all time] Campaign Lead Report",
-    range = "A:AC"
-  )
-
 
 #################### Cleaning Data ##########################
 
