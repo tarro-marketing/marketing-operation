@@ -101,12 +101,10 @@ campaign_member_data2 <- campaign_member_data %>%
     mel = if_else(mql, TRUE, mel) # if mql is true, mel should be true
   )
 
-write_sheet(campaign_member_data2, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "campaign_member_data2")
-
-campaign_member_data_c <- campaign_member_data_c %>%
+campaign_member_data_c <- campaign_member_data2 %>%
   mutate(lead_created_date = as.Date(lead_created_date, format = "%Y-%m-%d")) # Adjust format if necessary
 
-campaign_member_data_c <- campaign_member_data_c %>%
+campaign_member_data_c <- campaign_member_data2 %>%
   mutate(
     month = case_when(
       grepl("2024Jan", campaign_name) ~ "January",
@@ -184,7 +182,8 @@ write_sheet(summary_data, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", s
 
 
 rid_data <- campaign_member_data_c |>
-  filter(onboarded == TRUE)
+  filter(onboarded == TRUE) |>
+  select(campaign_name, campaign_keyword, subgroup, lead_converted_opportunity_restaurant_id, flow, campaign_end_date	,mel_campaign_period,	mql_campaign_period	,sql_campaign_period,	cw_onboarded_campaign_period,	mel	,mql,	sql	,onboarded)
 
 write_sheet(rid_data, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "RID")
 

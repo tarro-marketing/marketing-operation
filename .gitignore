@@ -12,3 +12,8 @@ pw/
 # Ignore specific files
 .DS_Store
 .Rproj.user
+.Rhistory
+.Rhistory
+*.pper
+/.Rproj.user/F0D5C8A2/sources/prop
+/.Rproj.user/F0D5C8A2/sources
