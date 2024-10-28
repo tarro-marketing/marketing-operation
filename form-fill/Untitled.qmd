@@ -1,0 +1,102 @@
+---
+title: "matplotlib demo"
+format:
+  html:
+    code-fold: true
+jupyter: python3
+---
+
+
+```{python}
+import requests
+
+# your API token
+api_token = "bb8d1d897bb1b8cbb0dacb56c0dcc6a2b4637dce658e67e95b0b9e64b4170715"
+
+# your site and collection IDs
+site_id = "661d3c78811f575b8b802ff2"
+collection_id = "6627f27fe54ac389f62365f6"
+
+# API endpoint to retrieve items from a collection
+url = f"https://api.webflow.com/collections/{collection_id}/items"
+
+# set up headers for authentication
+headers = {
+    "Authorization": f"Bearer {api_token}",
+    "accept-version": "1.0.0"
+}
+
+# make the GET request to Webflow API
+response = requests.get(url, headers=headers)
+
+# check if the request was successful
+if response.status_code == 200:
+    # parse the JSON response
+    data = response.json()
+    
+    # iterate over each item and print it
+    for item in data["items"]:
+        print(f"Item ID: {item['_id']}, Name: {item['name']}")
+else:
+    print(f"Error {response.status_code}: {response.text}")
+
+```
+```{python}
+import requests
+
+# your API token
+api_token = "bb8d1d897bb1b8cbb0dacb56c0dcc6a2b4637dce658e67e95b0b9e64b4170715"
+
+# your collection ID
+collection_id = "6627f27fe54ac389f62365f6"
+
+# API endpoint to retrieve items from the collection
+url = f"https://api.webflow.com/collections/{collection_id}/items"
+
+# set up headers for authentication
+headers = {
+    "Authorization": f"Bearer {api_token}",
+    "accept-version": "1.0.0"
+}
+
+# make the GET request to Webflow API
+response = requests.get(url, headers=headers)
+
+# check if the request was successful
+if response.status_code == 200:
+    data = response.json()
+    print(data)
+else:
+    print(f"Error {response.status_code}: {response.text}")
+```
+
+```{python}
+import requests
+
+# your API token
+api_token = "bb8d1d897bb1b8cbb0dacb56c0dcc6a2b4637dce658e67e95b0b9e64b4170715"
+
+# your site ID
+site_id = "661d3c78811f575b8b802ff2"
+
+# API endpoint to retrieve all collections
+url = f"https://api.webflow.com/sites/{site_id}/collections"
+
+# set up headers for authentication
+headers = {
+    "Authorization": f"Bearer {api_token}",
+    "accept-version": "1.0.0"
+}
+
+# make the GET request to Webflow API
+response = requests.get(url, headers=headers)
+
+# check if the request was successful
+if response.status_code == 200:
+    data = response.json()
+    print(data)
+else:
+    print(f"Error {response.status_code}: {response.text}")
+
+```
+
