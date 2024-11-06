@@ -1,0 +1,8 @@
+{
+    "r.linting.enable": true,
+    "r.linting.camelCase": false,
+    "r.linting.nameLength": true,
+    "r.linting.snakeCase": false,
+    "r.dependencyChecks": true,
+    "r.linting.maxLineLength": 120
+}
