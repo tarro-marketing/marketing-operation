@@ -18,8 +18,15 @@ email <- keyring::key_get(service = "googlesheets4", username = "email")
 gs4_auth_configure(path = client_secret_path)
 gs4_auth(email = email, cache = TRUE)
 
+###########################################################################
+# update line 28
+# update line 144
+
+###########################################################################
+
+
 setwd("~/marketing-operation")
-folder_path <- here("form-fill", "tarro.com", "2024-11-04")
+folder_path <- here("form-fill", "tarro.com", "2024-11-11")
 filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
 
 
@@ -40,29 +47,30 @@ combo_data <- purrr::map_df(
 file_names <- as.data.frame(colnames(combo_data)) |>
   rename(column_names = `colnames(combo_data)`)
 
+# Define the list of columns to combine for each field
+fields <- list(
+  phone_number_combined = c("Phone Number", "Phone Number 2", "Phone Number 4", 
+                            "Mobile Number", "New Client’s Mobile Number", 
+                            "Prospect’s Mobile Number"),
+  email_combined = c("Email", "Email 6", "Email 8", "Email 10", "Email Address", "邮箱地址"),
+  first_name_combined = c("First Name", "First Name 2", "First Name 4", 
+                          "First Name 5", "First Name 8", "名"),
+  last_name_combined = c("Last Name", "Last Name 2", "Last Name 5", 
+                         "Last Name 7", "Last Name 8", "姓"),
+  cuisine_type_combined = c("Cuisine Type", "Cuisine Type 2", "Cuisine Type 4", 
+                            "Cuisine Type 6", "cuisine-type", "请选餐馆菜系"),
+  restaurant_name_combined = c("Restaurant Name", "Restaurant Name 2", 
+                               "Restaurant Name 3", "Restaurant Name 8", "餐馆名字")
+)
 
+# Loop through each field and use coalesce on available columns
+for (field in names(fields)) {
+  combo_data <- combo_data |>
+    mutate(!!field := coalesce(!!!select(combo_data, any_of(fields[[field]]))))
+}
 
-combo_data__c <- combo_data |>
-  mutate(
-    phone_number_combined = coalesce(
-      `Phone Number`, `Phone Number 2`, `Phone Number 4`, `Mobile Number`,
-      `New Client’s Mobile Number`, `Prospect’s Mobile Number`
-    ),
-    email_combined = coalesce(Email, `Email 6`, `Email 8`, `Email 10`,
-                              `Email Address`, `邮箱地址`),
-    first_name_combined = coalesce(`First Name`, `First Name 2`,
-                                   `First Name 4`,
-                                   `First Name 5`, `First Name 8`, 名),
-    last_name_combined = coalesce(`Last Name`, `Last Name 2`, `Last Name 5`,
-                                  `Last Name 7`, `Last Name 8`, 姓),
-    cuisine_type_combined = coalesce(`Cuisine Type`, `Cuisine Type 2`,
-                                     `Cuisine Type 4`, `Cuisine Type 6`,
-                                     `cuisine-type`, `请选餐馆菜系`),
-    restaurant_name_combined = coalesce(`Restaurant Name`, `Restaurant Name 2`,
-                                        `Restaurant Name 3`,
-                                        `Restaurant Name 8`,
-                                        `餐馆名字`)
-  )
+combo_data__c  <- combo_data
+
 
 # Select the coalesced columns and any additional necessary columns
 final_data <- combo_data__c |>
@@ -73,8 +81,8 @@ final_data <- combo_data__c |>
   )
 
 # keywords that need to be filter out
-email_keywords <- c("youjia", "tarro", "wondersco", "test")
-fname_keywords <- c("test", "marketing")
+email_keywords <- c("youjia", "tarro", "wondersco", "test", "ww@www", "ss@22")
+fname_keywords <- c("test", "marketing", "fffadds", "dfsadf")
 lname_keywords <- c("test", "marketing")
 rname_keywords <- c("marketing", "test", "tarro")
 # reformat the keywords
@@ -90,14 +98,14 @@ final_data_clean <- final_data |>
       str_replace_all(phone_number_combined, "[^\\w-]+", "")
   ) |>
   mutate(
-    channel = str_replace(
+    form_path = str_replace(
                           filename,
                           "^/Users/yukachen/marketing-operation/form-fill/tarro\\.com/\\d{4}-\\d{2}-\\d{2}/",
                           ""),
-    channel = str_replace(channel, "-\\d{4}-\\d{2}-\\d{2}\\.csv$", ""),
+    form_path = str_replace(form_path, "-\\d{4}-\\d{2}-\\d{2}\\.csv$", ""),
     Date = mdy_hms(Date)
   ) |>
-  select(channel, everything()) |>
+  select(form_path, everything()) |>
   select(-filename) |>
   filter(
     !str_detect(email_combined, regex(email_pattern, ignore_case = TRUE)),
@@ -111,12 +119,14 @@ final_data_clean <- final_data |>
   mutate(
     week_start = floor_date(Date, "week", week_start = 1),
     week_end = ceiling_date(Date, "week", week_start = 1) - 1,
-    week = paste0(format(week_start, "%m/%d"), "-", format(week_end, "%m/%d"))
+    week = paste0(format(week_start, "%m/%d"), "-", format(week_end, "%m/%d")),
+    channel = str_remove(form_path, "^[ab]-") |>   # Remove 'a-' or 'b-' at the start
+      str_replace("-form$", " form") |>            # Replace '-form' at the end with ' form'
+      str_replace_all("_", " ")                    # Replace any underscores with spaces if necessary
   ) |>
   select(-week_start, -week_end) |>
-  select(week, channel, phone_number_combined,
+  select(week, channel, form_path, phone_number_combined,
          email_combined, first_name_combined, last_name_combined, everything())
-
 
 
 
@@ -129,13 +139,30 @@ rm(list = setdiff(ls(), "final_data_clean"))
 
 summary_table <- final_data_clean |>
   group_by(week, channel) |>
-  summarize(form_fill_numbers = n()) |>
+  summarize(form_fill_numbers = sum(n()), .groups = "drop") |>
   arrange(desc(week))
+
+# summary_table <- summary_table |>
+#   group_by(week, channel) |>
+#   summarize(value = sum(form_fill_numbers), .groups = "drop")
+
+
 
 sheet_write(final_data_clean,
             ss = "18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE",
-            sheet = "11/4")
+            sheet = "11/11")
 
+## refresh/overwrite from A170 because everytime is exracting all forms
+range_write(
+  final_data_clean,
+  ss = "18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE",
+  sheet = "All Formfills",
+  range = "A170",
+  col_names = TRUE,
+  reformat = FALSE
+)
+
+## refresh/overwrite from A5 because everytime is exracting all forms
 range_write(
   summary_table,
   ss = "18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE",

@@ -103,7 +103,7 @@ campaign_member_data2 <- campaign_member_data %>%
 
 write_sheet(campaign_member_data2, ss = "18viPByX4RQQx6D7PBC7COCnZwQSPB5bEjPBxLEDx8gU", sheet = "campaign_member_data2")
 
-campaign_member_data_c <- campaign_member_data_c %>%
+campaign_member_data_c <- campaign_member_data2 %>%
   mutate(lead_created_date = as.Date(lead_created_date, format = "%Y-%m-%d")) # Adjust format if necessary
 
 campaign_member_data_c <- campaign_member_data_c %>%
