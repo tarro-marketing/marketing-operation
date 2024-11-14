@@ -1,0 +1,24 @@
+Marketing Campaign Members First Associated Date day,Lead ID (SFDC),Marketing Campaign Members Inbound Flow,October Testing Style Group,Marketing Campaign Members Total Marketing Campaign Members,Marketing Campaign Members Total Cohorted Marketing Engaged Leads,Marketing Campaign Members Total Cohorted Marketing Qualified Leads,Marketing Campaign Members Total Cohorted Marketing Sales Qualified Leads,Marketing Campaign Members Total Cohorted Marketing Onboarded Leads,Marketing Campaign Members Lead Channel,Marketing Campaign Members Menu Type,Marketing Campaign Members Unqualified Reasons,Marketing Campaign Members Rejected Reasons,Marketing Campaign Members Lead ID,Marketing Campaign Members Campaign Name,Marketing Campaign Members Lead Source
+2024-10-07,00Q8b00001xKK4z,Call,western,1.00,1.00,0.00,0.00,0.00,Direct Mail,Chinese,,Is ICP but Interested in DE Only,00Q8b00001xKK4zEAG,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-07,00Q8b00001xKO9n,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,,Is ICP but Interested in DE Only,00Q8b00001xKO9nEAG,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-03,00Q8b00001xKO9y,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,,Timing,00Q8b00001xKO9yEAG,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-24,00Q8b00001xKP9T,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese;Japanese,,,00Q8b00001xKP9TEAW,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-08,00Q8b000021Nayk,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,,Not a decision maker,00Q8b000021NaykEAC,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-11-05,00QUo000006viSI,Call,chinese,1.00,1.00,1.00,1.00,0.00,Direct Mail,Japanese,,,00QUo000006viSIMAY,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-09-11,00QUo00000FCGun,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese;Cajun;Pizza,cannot service cuisine,,00QUo00000FCGunMAH,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-09-15,00QUo00000FIZhp,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,lead does not have phone ordering business,,00QUo00000FIZhpMAH,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-09-24,00QUo00000FaYLx,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,,,00QUo00000FaYLxMAN,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-03,00QUo00000FrYJ3,Call,western,1.00,1.00,0.00,0.00,0.00,Direct Mail,Chinese,,,00QUo00000FrYJ3MAN,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-03,00QUo00000FrZ5R,Call,western,1.00,1.00,0.00,0.00,0.00,Direct Mail,Chinese,,,00QUo00000FrZ5RMAV,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-04,00QUo00000FtK8j,Call,chinese,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,lead does not have phone ordering business,,00QUo00000FtK8jMAF,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-04,00QUo00000FtWpq,Call,western,1.00,1.00,1.00,0.00,0.00,Direct Mail,Thai,,Cannot contact lead,00QUo00000FtWpqMAF,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-04,00QUo00000Ftl7M,Call,chinese,1.00,1.00,0.00,0.00,0.00,Direct Mail,,,Is ICP but Interested in DE Only,00QUo00000Ftl7MMAR,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-04,00QUo00000FuIw7,Call,western,1.00,1.00,0.00,0.00,0.00,Direct Mail,,,Cannot contact lead,00QUo00000FuIw7MAF,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-07,00QUo00000Fz8rM,Call,western,1.00,1.00,0.00,0.00,0.00,Direct Mail,,,Cannot contact lead,00QUo00000Fz8rMMAR,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-09,00QUo00000G2yBm,Call,chinese,1.00,1.00,0.00,0.00,0.00,Direct Mail,,,Cannot contact lead,00QUo00000G2yBmMAJ,Mkt_DM_Snowflake_2024OctBrizoChineseStyle,DM
+2024-10-09,00QUo00000G3Fm8,Call,western,1.00,1.00,1.00,1.00,0.00,Direct Mail,Chinese,,,00QUo00000G3Fm8MAF,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-09,00QUo00000G3hwt,Call,western,1.00,1.00,1.00,0.00,0.00,Direct Mail,Japanese;Other,lead does not have phone ordering business,,00QUo00000G3hwtMAB,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-10,00QUo00000G4tpV,Call,western,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese;Other,,,00QUo00000G4tpVMAR,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-11,00QUo00000G7Xu5,Call,western,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,agent language limitation,,00QUo00000G7Xu5MAF,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-10-23,00QUo00000GVaIx,Call,western,1.00,1.00,1.00,0.00,0.00,Direct Mail,Chinese,,No Interest to talk to sales,00QUo00000GVaIxMAL,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
+2024-11-07,00QUo00000H1ytC,Call,western,1.00,1.00,1.00,1.00,0.00,Direct Mail,Japanese,,,00QUo00000H1ytCMAR,Mkt_DM_Snowflake_2024OctBrizoWesternStyle,DM
