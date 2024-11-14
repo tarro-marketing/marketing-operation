@@ -1,0 +1,58 @@
+list_source,Date,Lead Status,Rejected Reason,Unqualified Reason,SDR,Phone,Extension Number,Extension Channel,Channel Collected,Owner Name,Restaurant Name,Restaurant Number,Cuisine Type,"Pickup/
+Delivery",State,SF Link,Campaign Sent
+Brizo_US,12/26/2023,Inbound Qualified,,,Yannie,9319986666,8885200811,DM,Client Referral;DM,Sunnie,KISORO JANPANESE RESTAURANT,,日餐,Pickup,TN,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003LmcbMAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Old_List_US,12/26/2023,Unqualified,,Current Client,Sean,2675866913,8885753251,DM,-,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+Old_List_US,12/26/2023,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,6467057809,8885753251,DM,DM,郑老板,,,日餐,Pickup,,,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+Brizo_US,12/26/2023,Unqualified,,Not a Restaurant,Sean,9178150286,8885200811,DM,-,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Brizo_US,12/27/2023,Inbound Qualified,,,Yannie,9172569628,8885200811,DM,DM;SMS,陈老板,,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQnBEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Old_List_US,12/27/2023,Rejected,No interest to talk to sales,,Yannie,3127745288,8885753251,DM,DM,张老板,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003PoKrMAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+Brizo_US,12/27/2023,Inbound Qualified,,,Sean,7186666972,8885200811,DM,DM,曾老板娘,,,中餐外卖,Delivery,New Jersey,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000000xcm1MAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Brizo_US,12/27/2023,Rejected,No interest to talk to sales,,Kelvin,9178382198,8885200811,DM,DM,Shawn,,,中餐,Delivery,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPAZEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Brizo_US,12/27/2023,Inbound Qualified,,,Yannie,6085152450,8885200811,DM,DM,刘老板娘,,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003QFUkMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+Brizo_US,1/1/2024,Unqualified,,Not a Restaurant,Sean,9178422580,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/2/2024,Unqualified,,Duplicate,Kelvin,9173758796,8885200811,DM,DM,林老板,,,中餐,Delivery,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPJpEAO/view,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/2/2024,Inbound Qualified,,,Yannie,4437226918,8885753251,DM,DM,潘老板娘,,,中餐,Pickup,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003k7rBMAQ/view,Mkt_DM_Snowflake_2024JanV3
+Print_Shop_US,1/3/2024,Unqualified,,Current Client,Eelin,7347312888,8885200559,DM,,^DRAGON EXPRESS^ R83216,,,,,,,Mkt_DM_Snowflake_2024JanV2
+Brizo_US,1/3/2024,Rejected,No interest to talk to sales,,Eelin,4237570088,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/3/2024,Inbound Qualified,,,Sean,4138224668,8885200811,DM,DM,林老板娘,,,中餐 + 一点海鲜,,Massachusetts,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003pLAMMA2/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/4/2024,Inbound Qualified,,,Sean,5154508280,8885200811,DM,DM,吕老板娘,Wok N Roll,,川菜,,lowa,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003splOMAQ/view,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/4/2024,Unqualified,,Current Client,Yannie,8594209949,8885753251,DM,,杨老板,CHINA KING R81928,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17OkAAJ/view,Mkt_DM_Snowflake_2024JanV3
+Brizo_US,1/4/2024,Inbound Qualified,,,Yannie,7702350483,8885200811,DM,DM,杨老板,,,炸鸡店,Pickup,GA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOAiEAO/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/4/2024,Inbound Qualified,,,Kelvin,6463859882,8885200811,DM,DM,张老板娘,Great Wall Restaurant,3167219888,中餐,Pickup,KS,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIMXEA4/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/4/2024,Inbound Qualified,,,Yannie,6625498011,8885200811,DM,Client Referral,陈老板娘,Peking Chinese Restaurant,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDWWEA4/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/4/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Sean,3302803453,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+CAN,1/4/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,9023163326,8882353802,DM,DM,Anna,,,,,,,Mkt_DM_Snowflake_2024JanV4
+Brizo_US,1/5/2024,Inbound Qualified,,,Kelvin,7277715968,8885200811,DM,DM,刘老板,,,中餐,Pickup,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003xFMHMA2/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/5/2024,Inbound Qualified,,,Kelvin,7173092460,8885200811,DM,DM,Alex,,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003xUbSMAU/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/5/2024,Inbound Qualified,,,Kelvin,5038809049,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/6/2024,Inbound Qualified,,,Yannie,7323520539,8885753251,DM,DM,李老板娘,,,中餐,Pickup,NJ,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000041AMRMA2/view,Mkt_DM_Snowflake_2024JanV3
+CAN,1/6/2024,Inbound Qualified,,,Yannie,2506507218,8882353802,DM,,Peter,,,,Pickup,BC,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000251gb6EAA/view,Mkt_DM_Snowflake_2024JanV4
+Brizo_US,1/7/2024,Inbound Qualified,,,Eelin,9172153030,8885200811,DM,DM,林小姐,ORIENTAL EXPRESS,,中日餐,Pickup,FL,,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/8/2024,Inbound Qualified,,,Eelin,4167202609,8885200811,DM,DM,MICHELL,,9053830699,中餐,Pickup,,,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/8/2024,Inbound Qualified,,,Eelin,8123915244,8885753251,DM,DM,王小姐,GOLDEN CHINA RESTAURANT,8123359688,中餐+自助餐,Pickup,,,Mkt_DM_Snowflake_2024JanV3
+Brizo_US,1/8/2024,Inbound Qualified,,,Eelin,2076500338,8885200811,DM,DM,李老板,,,日本餐,Pickup,,,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/8/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,3215075346,8885753251,DM,DM,,,,,,,,Mkt_DM_Snowflake_2024JanV3
+Print_Shop_US,1/9/2024,Unqualified,,Not a Restaurant,Kelvin,8327858138,8885200559,DM,DM,,,,日餐,Pickup,,,
+Brizo_US,1/9/2024,Inbound Qualified,,,Yannie,6316671888,8885200811,DM,SMS,Alex,XING WANG KITCHEN,,中餐,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKF3MEAW/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/10/2024,Abandoned,,,Eelin,4153702864,8885200811,DM,-,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/11/2024,Inbound Qualified,,,Yannie,5038511804,8885200811,DM,DM,Mr.Dey,,,亚洲中餐,Pickup,OR,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004KZaPMAW/view,Mkt_DM_Snowflake_2024JanV1
+Old_List_US,1/12/2024,Rejected,No interest to talk to sales,,Sean,8728037999,8885753251,DM,-,男老板,,,日餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004O5ViMAK/view,Mkt_DM_Snowflake_2024JanV3
+Old_List_US,1/12/2024,Rejected,No interest to talk to sales,,Yannie,9542785896,8885753251,DM,DM,男老板,,,手抓海鲜,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004OvxJMAS/view,Mkt_DM_Snowflake_2024JanV3
+CAN,1/15/2024,Rejected,No interest to talk to sales,,Kelvin,3063724890,8882353802,DM,DM,,Golden Dragon,,中西餐,Pickup,Canada,,Mkt_DM_Snowflake_2024JanV4
+Brizo_US,1/18/2024,Inbound Qualified,,,Sean,9172150202,8885200811,DM,-DM,温老板娘,,,中式buffet,Pickup,Alabama,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004eDlqMAE/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/19/2024,Inbound Qualified,,,Yannie,4438958886,8885200811,DM,DM,Jenny,LUCKY EXPRESS,,美式中餐,Pickup,MD,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCWYEA4/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/19/2024,Inbound Qualified,,,Sean,6822391150,8885200811,DM,DM,winson,HALTOM CHINESE RESTAURANT,,美式中餐,Pickup,德州,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIGjEAO/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/22/2024,Inbound Qualified,,,Sean,3124152555,8885200811,DM,-DM,Jenny,,,美式中餐,,芝加哥,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJIzEAO/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/23/2024,Inbound Qualified,,,Sean,2023613372,8885200811,DM,-DM,Andy,,,日本餐,Pickup,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004yInmMAE/view,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/25/2024,Rejected,Is ICP but Interested in DE Only,,Kiera,9057300992,8885200811,DM,DM,,,,,,Toronto,,Mkt_DM_Snowflake_2024JanV1
+Brizo_US,1/27/2024,Unqualified,,,Eelin,9176501006,8885200811,DM,,Main St. Crispy Burger R86388,,,,,,,Mkt_DM_Snowflake_2024FebSQL
+Brizo_US,1/27/2024,Inbound Qualified,,,Eelin,9176501006,8885200811,DM,SMS,欧,ORIENTAL EXPRESS,9177606687,中餐,Delivery,NJ,,Mkt_DM_Snowflake_2024FebSQL
+Old_List_US,1/27/2024,Rejected,No interest to talk to sales,,Eelin,7345726864,8885753251,DM,,施,,,,,,,Mkt_DM_Snowflake_2024FebCW
+Old_List_US,1/28/2024,Unqualified,,Current Client,Eelin,2483460173,8885753251,DM,,HONG KONG EXPRESS R81766,,,,,,,Mkt_DM_Snowflake_2024FebCW
+Old_List_US,1/29/2024,Abandoned,,,Sean,6106189661,8885753251,DM,-,,,,,,,,Mkt_DM_Snowflake_2024FebCW
+Old_List_US,1/29/2024,Inbound Qualified,,,Kiera,6106189661,8885753251,DM,-,Carol,Noodle Eighty Eight,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p75xEAA/view,Mkt_DM_Snowflake_2024FebCW
+Old_List_US,1/29/2024,Inbound Qualified,,,Kiera,6106189661,8885753251,DM,-,Carol,Noodle Eighty Eight,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p75xEAA/view,Mkt_DM_Snowflake_2024FebCW
+Brizo_US,1/29/2024,Inbound Qualified,,,Sean,2406018989,8885200811,DM,-DM,Jason,,,美式中餐外卖,,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005LNpyMAG/view,Mkt_DM_Snowflake_2024FebSQL
+Brizo_US,1/29/2024,Inbound Qualified,,,Eelin,6462514659,8885200811,DM,-DM,陈小姐,YOAN MING GARDEN,2124269545,中餐外卖,Delivery,,,Mkt_DM_Snowflake_2024FebSQL
+Print_Shop_US,1/29/2024,Inbound Qualified,,,Kiera,9172084739,8885200559,DM,Client Referral,,,,中餐外卖,Pickup,CT,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005LvJmMAK/view,Mkt_DM_Snowflake_2024FebNoPromo
+Old_List_US,1/30/2024,Inbound Qualified,,,Sean,3479359817,8885753251,DM,-SMS,Fiona,,,美式中餐,Delivery,newjersey,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000057GpyMAE/view,Mkt_DM_Snowflake_2024FebCW

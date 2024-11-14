@@ -1,0 +1,774 @@
+fill_info,State,Contact_Title,Year_Established,Employee_Size,Country,New_Category
+Didn't Fill,DC,OWNER,1970,9,USA,NA
+Didn't Fill,DC,OWNER,1970,9,USA,NA
+Filled,NJ,NA,1988,4,USA,NA
+Didn't Fill,CA,OWNER,1988,9,USA,NA
+Didn't Fill,MA,OWNER,1994,9,USA,NA
+Didn't Fill,MA,OWNER,1994,9,USA,NA
+Didn't Fill,NY,NA,1996,4,USA,NA
+Didn't Fill,NY,OWNER,1997,9,USA,NA
+Didn't Fill,CA,MANAGER,2000,4,USA,NA
+Didn't Fill,GA,NA,2002,4,USA,NA
+Filled,OH,NA,2003,4,USA,NA
+Didn't Fill,FL,MANAGER,2003,4,USA,NA
+Didn't Fill,UT,OWNER,2007,9,USA,NA
+Didn't Fill,NV,NA,2008,9,USA,NA
+Didn't Fill,TX,OWNER,2009,19,USA,NA
+Didn't Fill,IL,MANAGER,2012,9,USA,NA
+Didn't Fill,MN,MANAGER,2013,4,USA,NA
+Didn't Fill,TX,MANAGER,2015,19,USA,NA
+Didn't Fill,TX,NA,2016,9,USA,NA
+Didn't Fill,FL,OWNER,2017,9,USA,NA
+Didn't Fill,FL,OWNER,2017,9,USA,NA
+Didn't Fill,FL,OWNER,2017,9,USA,NA
+Didn't Fill,FL,NA,2018,4,USA,NA
+Didn't Fill,NV,NA,2021,9,USA,NA
+Didn't Fill,CA,NA,NA,1,USA,Chinese
+Didn't Fill,NJ,NA,NA,1,USA,Japanese
+Didn't Fill,LA,NA,NA,1,USA,Japanese
+Didn't Fill,MI,NA,NA,2,USA,Japanese
+Didn't Fill,OR,NA,NA,2,USA,Chinese
+Didn't Fill,OR,NA,NA,2,USA,Chinese
+Didn't Fill,NJ,NA,NA,2,USA,Cajun_Seafood
+Didn't Fill,CA,OWNER,NA,2,USA,Chinese
+Didn't Fill,SC,NA,NA,2,USA,Chinese
+Didn't Fill,FL,NA,NA,2,USA,Chinese
+Didn't Fill,CA,NA,NA,3,USA,Japanese
+Didn't Fill,DE,NA,NA,3,USA,Chinese
+Didn't Fill,VA,NA,NA,3,USA,Asian_Fusion
+Didn't Fill,AB,OWNER,NA,4,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,4,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,4,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,4,Canada,Japanese
+Didn't Fill,ON,OWNER,NA,4,Canada,Japanese
+Didn't Fill,ON,OWNER,NA,4,Canada,Japanese
+Didn't Fill,ON,OWNER,NA,4,Canada,Chinese
+Didn't Fill,AB,OWNER,NA,4,Canada,Chinese
+Filled,BC,OWNER,NA,4,Canada,Chinese
+Didn't Fill,BC,OWNER,NA,4,Canada,Chinese
+Didn't Fill,BC,OWNER,NA,4,Canada,Chinese
+Didn't Fill,ND,MANAGER,NA,4,USA,NA
+Didn't Fill,IN,OWNER,NA,4,USA,NA
+Didn't Fill,OH,MANAGER,NA,4,USA,NA
+Didn't Fill,TX,MANAGER,NA,4,USA,NA
+Didn't Fill,NY,NA,NA,4,USA,NA
+Didn't Fill,MO,NA,NA,4,USA,NA
+Didn't Fill,LA,NA,NA,4,USA,NA
+Didn't Fill,IN,NA,NA,4,USA,NA
+Didn't Fill,NJ,NA,NA,4,USA,NA
+Didn't Fill,PA,NA,NA,4,USA,NA
+Filled,GA,NA,NA,4,USA,NA
+Didn't Fill,VA,NA,NA,4,USA,NA
+Filled,NC,OWNER,NA,4,USA,NA
+Didn't Fill,CA,MANAGER,NA,4,USA,NA
+Didn't Fill,NY,NA,NA,4,USA,NA
+Didn't Fill,TN,MANAGER,NA,4,USA,Japanese
+Didn't Fill,OH,PRESIDENT,NA,4,USA,Cajun_Seafood
+Didn't Fill,CA,NA,NA,4,USA,Chinese
+Didn't Fill,GA,OWNER,NA,4,USA,NA
+Didn't Fill,TX,OWNER,NA,4,USA,NA
+Filled,FL,OWNER,NA,4,USA,NA
+Didn't Fill,NY,OWNER,NA,4,USA,NA
+Didn't Fill,FL,OWNER,NA,4,USA,NA
+Didn't Fill,CA,MANAGER,NA,4,USA,NA
+Didn't Fill,NY,OWNER,NA,4,USA,NA
+Didn't Fill,CA,PARTNER,NA,4,USA,NA
+Didn't Fill,VA,OWNER,NA,4,USA,NA
+Didn't Fill,IN,OWNER,NA,4,USA,NA
+Didn't Fill,FL,OWNER,NA,4,USA,NA
+Didn't Fill,FL,OWNER,NA,4,USA,NA
+Didn't Fill,NV,OWNER,NA,4,USA,NA
+Filled,NY,MANAGER,NA,4,USA,NA
+Didn't Fill,PA,OWNER,NA,4,USA,NA
+Didn't Fill,MO,OWNER,NA,4,USA,NA
+Didn't Fill,MA,MANAGER,NA,4,USA,NA
+Didn't Fill,OK,OWNER,NA,4,USA,NA
+Didn't Fill,OK,OWNER,NA,4,USA,NA
+Didn't Fill,MI,OWNER,NA,4,USA,NA
+Didn't Fill,NY,OWNER,NA,4,USA,NA
+Didn't Fill,MI,OWNER,NA,4,USA,NA
+Didn't Fill,AZ,NA,NA,5,USA,Chinese
+Didn't Fill,MA,NA,NA,5,USA,Chinese
+Didn't Fill,MA,NA,NA,5,USA,Chinese
+Didn't Fill,MA,NA,NA,5,USA,Chinese
+Didn't Fill,CA,NA,NA,5,USA,Japanese
+Didn't Fill,NY,PRESIDENT,NA,5,USA,Chinese
+Didn't Fill,OH,NA,NA,6,USA,Cajun_Seafood
+Didn't Fill,SC,NA,NA,6,USA,Japanese
+Didn't Fill,TN,NA,NA,6,USA,Chinese
+Filled,FL,NA,NA,6,USA,Cajun_Seafood
+Didn't Fill,CA,PRESIDENT,NA,6,USA,Chinese
+Didn't Fill,CA,SECRETARY,NA,6,USA,Japanese
+Didn't Fill,NY,NA,NA,7,USA,Cajun_Seafood
+Didn't Fill,NY,NA,NA,7,USA,Cajun_Seafood
+Didn't Fill,VA,NA,NA,7,USA,Japanese
+Didn't Fill,CA,NA,NA,7,USA,Japanese
+Didn't Fill,CA,PRINCIPAL,NA,7,USA,Japanese
+Filled,CA,NA,NA,7,USA,Japanese
+Didn't Fill,OR,NA,NA,7,USA,Japanese
+Didn't Fill,NJ,NA,NA,7,USA,Japanese
+Didn't Fill,AZ,NA,NA,7,USA,Chinese
+Filled,CA,NA,NA,7,USA,Chinese
+Filled,CA,NA,NA,7,USA,Chinese
+Filled,CA,NA,NA,7,USA,Chinese
+Filled,CA,NA,NA,7,USA,Chinese
+Didn't Fill,CA,NA,NA,7,USA,Japanese
+Didn't Fill,CA,NA,NA,7,USA,Japanese
+Didn't Fill,MS,NA,NA,7,USA,Cajun_Seafood
+Didn't Fill,NY,NA,NA,7,USA,Japanese
+Didn't Fill,NY,NA,NA,7,USA,Chinese
+Didn't Fill,CA,PRINCIPAL,NA,7,USA,Chinese
+Didn't Fill,VA,NA,NA,7,USA,Japanese
+Didn't Fill,UT,PRESIDENT,NA,7,USA,Japanese
+Didn't Fill,WA,NA,NA,7,USA,Japanese
+Didn't Fill,CA,NA,NA,7,USA,Chinese
+Didn't Fill,CA,PRINCIPAL,NA,7,USA,Chinese
+Didn't Fill,MA,PRINCIPAL,NA,8,USA,Japanese
+Filled,UT,NA,NA,8,USA,Japanese
+Didn't Fill,AZ,NA,NA,8,USA,Japanese
+Didn't Fill,CA,NA,NA,8,USA,Chinese
+Didn't Fill,KS,ADMINISTRATION,NA,8,USA,Japanese
+Didn't Fill,KS,ADMINISTRATION,NA,8,USA,Japanese
+Didn't Fill,CA,NA,NA,8,USA,Chinese
+Didn't Fill,CA,NA,NA,8,USA,Chinese
+Didn't Fill,CA,NA,NA,8,USA,Japanese
+Didn't Fill,MA,PRINCIPAL,NA,8,USA,Japanese
+Didn't Fill,MA,PRINCIPAL,NA,8,USA,Japanese
+Didn't Fill,MA,PRINCIPAL,NA,8,USA,Japanese
+Didn't Fill,TX,NA,NA,8,USA,Asian_Fusion
+Didn't Fill,GA,NA,NA,8,USA,Chinese
+Didn't Fill,ON,OWNER,NA,9,Canada,Chinese
+Didn't Fill,ON,NA,NA,9,Canada,Japanese
+Filled,AB,NA,NA,9,Canada,Chinese
+Filled,AB,NA,NA,9,Canada,Chinese
+Filled,AB,NA,NA,9,Canada,Chinese
+Didn't Fill,BC,NA,NA,9,Canada,Japanese
+Didn't Fill,BC,NA,NA,9,Canada,Japanese
+Didn't Fill,BC,OWNER,NA,9,Canada,Japanese
+Didn't Fill,BC,MANAGER,NA,9,Canada,Chinese
+Didn't Fill,BC,MANAGER,NA,9,Canada,Chinese
+Didn't Fill,BC,MANAGER,NA,9,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,9,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,9,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,9,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,9,Canada,Chinese
+Didn't Fill,SK,OWNER,NA,9,Canada,Chinese
+Didn't Fill,NY,NA,NA,9,USA,NA
+Didn't Fill,FL,NA,NA,9,USA,NA
+Didn't Fill,TN,NA,NA,9,USA,NA
+Didn't Fill,TN,NA,NA,9,USA,NA
+Didn't Fill,TN,NA,NA,9,USA,NA
+Didn't Fill,TN,NA,NA,9,USA,NA
+Didn't Fill,TN,NA,NA,9,USA,NA
+Didn't Fill,WA,NA,NA,9,USA,NA
+Didn't Fill,OK,NA,NA,9,USA,NA
+Didn't Fill,PA,NA,NA,9,USA,NA
+Didn't Fill,TX,NA,NA,9,USA,NA
+Didn't Fill,FL,NA,NA,9,USA,NA
+Didn't Fill,FL,NA,NA,9,USA,Chinese
+Didn't Fill,CA,NA,NA,9,USA,Japanese
+Didn't Fill,CA,OWNER,NA,9,USA,Chinese
+Didn't Fill,SC,NA,NA,9,USA,Japanese
+Didn't Fill,CA,CHIEF_EXECUTIVE_OFFICER,NA,9,USA,Japanese
+Didn't Fill,AL,MANAGING_PARTNER,NA,9,USA,Cajun_Seafood
+Didn't Fill,CA,PRINCIPAL,NA,9,USA,Japanese
+Didn't Fill,OH,MANAGING_MEMBER,NA,9,USA,Cajun_Seafood
+Didn't Fill,CO,NA,NA,9,USA,Chinese
+Didn't Fill,VA,MANAGER,NA,9,USA,NA
+Didn't Fill,VA,MANAGER,NA,9,USA,NA
+Didn't Fill,CO,OWNER,NA,9,USA,NA
+Didn't Fill,FL,VICE PRESIDENT,NA,9,USA,NA
+Didn't Fill,FL,PRESIDENT,NA,9,USA,NA
+Didn't Fill,FL,VICE PRESIDENT,NA,9,USA,NA
+Didn't Fill,FL,OWNER,NA,9,USA,NA
+Didn't Fill,LA,PRESIDENT,NA,9,USA,NA
+Didn't Fill,CA,OWNER,NA,9,USA,NA
+Didn't Fill,VA,OWNER,NA,9,USA,NA
+Didn't Fill,GA,MANAGER,NA,9,USA,NA
+Didn't Fill,IL,OWNER,NA,9,USA,NA
+Didn't Fill,TX,OWNER,NA,9,USA,NA
+Didn't Fill,PA,PRESIDENT,NA,9,USA,NA
+Didn't Fill,CA,OWNER,NA,9,USA,NA
+Didn't Fill,CA,OWNER,NA,9,USA,NA
+Didn't Fill,FL,MANAGER,NA,9,USA,NA
+Didn't Fill,VA,NA,NA,10,USA,Chinese
+Didn't Fill,OR,NA,NA,10,USA,Japanese
+Didn't Fill,OR,NA,NA,10,USA,Japanese
+Didn't Fill,CA,NA,NA,10,USA,Asian_Fusion
+Didn't Fill,NJ,OWNER,NA,10,USA,Chinese
+Didn't Fill,NE,NA,NA,10,USA,Chinese
+Didn't Fill,NJ,PRINCIPAL,NA,10,USA,Chinese
+Didn't Fill,LA,NA,NA,10,USA,Cajun_Seafood
+Didn't Fill,SC,NA,NA,11,USA,Japanese
+Didn't Fill,CA,NA,NA,11,USA,Chinese
+Didn't Fill,WV,NA,NA,11,USA,Japanese
+Didn't Fill,FL,NA,NA,11,USA,Chinese
+Didn't Fill,TX,GENERAL_MANAGER,NA,12,USA,Chinese
+Didn't Fill,TX,NA,NA,12,USA,Japanese
+Didn't Fill,NJ,PRESIDENT,NA,12,USA,Japanese
+Didn't Fill,FL,NA,NA,12,USA,Japanese
+Didn't Fill,NC,NA,NA,13,USA,Japanese
+Didn't Fill,CA,NA,NA,13,USA,Chinese
+Didn't Fill,IN,NA,NA,13,USA,Japanese
+Filled,TX,NA,NA,15,USA,Chinese
+Didn't Fill,IA,NA,NA,17,USA,Japanese
+Didn't Fill,PA,NA,NA,18,USA,Chinese
+Didn't Fill,AZ,MEMBER,NA,18,USA,Japanese
+Didn't Fill,BC,NA,NA,19,Canada,Chinese
+Didn't Fill,ON,OWNER,NA,19,Canada,Chinese
+Didn't Fill,BC,OWNER,NA,19,Canada,Chinese
+Didn't Fill,VA,NA,NA,19,USA,NA
+Didn't Fill,MI,OWNER,NA,19,USA,NA
+Didn't Fill,MI,OWNER,NA,19,USA,NA
+Didn't Fill,NE,OWNER,NA,19,USA,NA
+Didn't Fill,VA,OWNER,NA,19,USA,NA
+Didn't Fill,TX,MANAGER,NA,19,USA,NA
+Filled,IL,NA,NA,20,USA,Chinese
+Didn't Fill,IN,NA,NA,28,USA,Japanese
+Didn't Fill,CA,NA,NA,28,USA,Asian_Fusion
+Didn't Fill,MA,NA,NA,33,USA,Japanese
+Didn't Fill,PA,NA,NA,35,USA,Japanese
+Didn't Fill,NS,OWNER,NA,49,Canada,Chinese
+Didn't Fill,BC,OWNER,NA,49,Canada,Chinese
+Didn't Fill,MA,OWNER,NA,49,USA,NA
+Didn't Fill,MA,OWNER,NA,49,USA,NA
+Didn't Fill,ON,NA,NA,99,Canada,Chinese
+Didn't Fill,MN,FINANCE EXEC,NA,49,USA,NA
+Didn't Fill,SC,OWNER,NA,49,USA,NA
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Filled,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Japanese
+Filled,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Japanese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,ON,NA,NA,NA,Canada,Chinese
+Didn't Fill,MB,NA,NA,NA,Canada,Chinese
+Didn't Fill,AB,NA,NA,NA,Canada,Chinese
+Didn't Fill,AB,NA,NA,NA,Canada,Cajun Seafood
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Chinese
+Didn't Fill,AB,NA,NA,NA,Canada,Chinese
+Didn't Fill,AB,NA,NA,NA,Canada,Cajun Seafood
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,AB,NA,NA,NA,Canada,Japanese
+Didn't Fill,BC,NA,NA,NA,Canada,Chinese
+Didn't Fill,BC,NA,NA,NA,Canada,Chinese
+Didn't Fill,BC,NA,NA,NA,Canada,Japanese
+Didn't Fill,BC,NA,NA,NA,Canada,Japanese
+Didn't Fill,BC,NA,NA,NA,Canada,Japanese
+Didn't Fill,BC,NA,NA,NA,Canada,Chinese
+Filled,BC,NA,NA,NA,Canada,Chinese
+Didn't Fill,BC,NA,NA,NA,Canada,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,NA
+Didn't Fill,MI,NA,NA,NA,USA,NA
+Filled,CO,NA,NA,NA,USA,NA
+Didn't Fill,WA,NA,NA,NA,USA,NA
+Filled,FL,NA,NA,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,VT,NA,NA,NA,USA,NA
+Didn't Fill,CO,NA,NA,NA,USA,NA
+Didn't Fill,VA,NA,NA,NA,USA,NA
+Didn't Fill,VA,NA,NA,NA,USA,NA
+Didn't Fill,FL,NA,NA,NA,USA,NA
+Didn't Fill,CA,NA,NA,NA,USA,NA
+Didn't Fill,MA,NA,NA,NA,USA,Cajun_Seafood
+Filled,ME,NA,NA,NA,USA,Chinese
+Didn't Fill,CT,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,NJ,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,NJ,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,NJ,NA,NA,NA,USA,Chinese
+Filled,NY,NA,NA,NA,USA,Chinese
+Didn't Fill,PA,NA,NA,NA,USA,NA
+Didn't Fill,PA,NA,NA,NA,USA,Japanese
+Didn't Fill,PA,NA,NA,NA,USA,Japanese
+Didn't Fill,PA,NA,NA,NA,USA,Japanese
+Didn't Fill,PA,NA,NA,NA,USA,Japanese
+Didn't Fill,PA,NA,NA,NA,USA,Japanese
+Didn't Fill,DE,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,MD,NA,NA,NA,USA,NA
+Didn't Fill,MD,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,MD,NA,NA,NA,USA,NA
+Didn't Fill,VA,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,NC,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,NC,NA,NA,NA,USA,Japanese
+Didn't Fill,GA,NA,NA,NA,USA,Japanese
+Didn't Fill,GA,NA,NA,NA,USA,Japanese
+Didn't Fill,GA,NA,NA,NA,USA,Japanese
+Didn't Fill,FL,NA,NA,NA,USA,Japanese
+Didn't Fill,FL,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,FL,NA,NA,NA,USA,Chinese
+Didn't Fill,FL,NA,NA,NA,USA,Japanese
+Didn't Fill,FL,NA,NA,NA,USA,Japanese
+Didn't Fill,OH,NA,NA,NA,USA,Japanese
+Didn't Fill,OH,NA,NA,NA,USA,Japanese
+Filled,OH,NA,NA,NA,USA,Japanese
+Didn't Fill,OH,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,MI,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,MT,NA,NA,NA,USA,Japanese
+Didn't Fill,MT,NA,NA,NA,USA,Japanese
+Didn't Fill,MT,NA,NA,NA,USA,Japanese
+Didn't Fill,KS,NA,NA,NA,USA,Japanese
+Didn't Fill,LA,NA,NA,NA,USA,Japanese
+Didn't Fill,AR,NA,NA,NA,USA,Japanese
+Didn't Fill,AR,NA,NA,NA,USA,Japanese
+Didn't Fill,OK,NA,NA,NA,USA,Japanese
+Didn't Fill,TX,NA,NA,NA,USA,Japanese
+Filled,TX,NA,NA,NA,USA,Chinese
+Didn't Fill,TX,NA,NA,NA,USA,NA
+Didn't Fill,CO,NA,NA,NA,USA,Japanese
+Didn't Fill,UT,NA,NA,NA,USA,Japanese
+Didn't Fill,UT,NA,NA,NA,USA,Japanese
+Didn't Fill,NM,NA,NA,NA,USA,NA
+Didn't Fill,CA,NA,NA,NA,USA,NA
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,CA,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Asian_Fusion
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Filled,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Chinese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,CA,NA,NA,NA,USA,Japanese
+Didn't Fill,OR,NA,NA,NA,USA,Japanese
+Didn't Fill,OR,NA,NA,NA,USA,Cajun_Seafood
+Didn't Fill,OR,NA,NA,NA,USA,Japanese
+Didn't Fill,OR,NA,NA,NA,USA,Japanese
+Didn't Fill,NA,NA,NA,NA,USA,NA
+Didn't Fill,NY,OWNER,NA,NA,USA,NA
+Didn't Fill,NJ,NA,NA,NA,USA,NA
+Didn't Fill,DC,NA,NA,NA,USA,NA
+Didn't Fill,NY,NA,NA,NA,USA,NA
+Didn't Fill,NY,NA,NA,NA,USA,NA
+Didn't Fill,FL,NA,NA,NA,USA,NA
+Didn't Fill,FL,NA,NA,NA,USA,NA
+Didn't Fill,MI,OWNER,2007,NA,USA,NA
+Didn't Fill,TX,NA,NA,NA,USA,NA
+Didn't Fill,CA,NA,NA,NA,USA,NA
+Didn't Fill,CA,NA,NA,NA,USA,NA
+Didn't Fill,NY,NA,NA,NA,USA,NA
+Didn't Fill,NY,NA,NA,NA,USA,NA
+Didn't Fill,NY,NA,2012,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,PA,NA,NA,NA,USA,NA
+Didn't Fill,WA,NA,NA,NA,USA,NA
+Didn't Fill,MN,OWNER,2016,NA,USA,NA
+Didn't Fill,MD,NA,NA,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,WY,NA,NA,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,OH,NA,NA,NA,USA,NA
+Didn't Fill,CA,OWNER,2019,NA,USA,NA
+Filled,QC,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Japanese
+Didn't Fill,AB,General,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,MB,Owner,NA,NA,Canada,Chinese
+Didn't Fill,QC,Owner,NA,NA,Canada,Japanese
+Didn't Fill,NS,Finance,1985,NA,Canada,Asian Fusion
+Didn't Fill,AB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,,NA,NA,Canada,Japanese
+Didn't Fill,QC,,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,Owner,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,NS,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,Owner,NA,NA,Canada,Asian Fusion
+Didn't Fill,AB,Owner,NA,NA,Canada,Chinese
+Didn't Fill,QC,General,NA,NA,Canada,Chinese
+Didn't Fill,MB,Owner,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Chinese
+Didn't Fill,QC,,NA,NA,Canada,Chinese
+Didn't Fill,AB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,SK,,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,NA,NA,Canada,Asian Fusion
+Didn't Fill,BC,,2017,NA,Canada,Chinese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Japanese
+Didn't Fill,MB,,NA,NA,Canada,Chinese
+Didn't Fill,QC,General,NA,NA,Canada,Chinese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,AB,General,NA,NA,Canada,Chinese
+Didn't Fill,BC,General,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,2014,NA,Canada,Japanese
+Didn't Fill,ON,General,NA,NA,Canada,Chinese
+Didn't Fill,QC,General,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,NB,,2017,NA,Canada,Asian Fusion
+Didn't Fill,ON,General,NA,NA,Canada,Asian Fusion
+Filled,SK,General,1985,NA,Canada,Chinese
+Didn't Fill,BC,Owner,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Japanese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Chinese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,Owner,1991,NA,Canada,Chinese
+Didn't Fill,NS,Owner,NA,NA,Canada,Japanese
+Didn't Fill,ON,Owner,NA,NA,Canada,Japanese
+Didn't Fill,AB,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Chinese
+Didn't Fill,NL,Owner,NA,NA,Canada,Chinese
+Didn't Fill,NB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,NB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,QC,Back of the House,2015,NA,Canada,Japanese
+Didn't Fill,QC,,NA,NA,Canada,Japanese
+Didn't Fill,QC,,NA,NA,Canada,Japanese
+Didn't Fill,QC,Owner,2017,NA,Canada,Asian Fusion
+Didn't Fill,QC,General,2016,NA,Canada,Japanese
+Didn't Fill,QC,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,Owner,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,Owner,2014,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,1999,NA,Canada,Chinese
+Didn't Fill,ON,General,NA,NA,Canada,Chinese
+Didn't Fill,MB,,NA,NA,Canada,Japanese
+Didn't Fill,MB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,SK,,NA,NA,Canada,Chinese
+Didn't Fill,SK,,NA,NA,Canada,Japanese
+Didn't Fill,SK,,NA,NA,Canada,Asian Fusion
+Didn't Fill,SK,,NA,NA,Canada,Asian Fusion
+Didn't Fill,AB,Owner,NA,NA,Canada,Chinese
+Didn't Fill,AB,Owner,NA,NA,Canada,Asian Fusion
+Didn't Fill,AB,,NA,NA,Canada,Japanese
+Didn't Fill,AB,,2018,NA,Canada,Asian Fusion
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,BC,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,2016,NA,Canada,Asian Fusion
+Didn't Fill,BC,Owner,NA,NA,Canada,Chinese
+Filled,BC,Owner,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,AL,,NA,NA,United States,Chinese
+Didn't Fill,AL,,NA,NA,United States,Japanese
+Didn't Fill,AR,,NA,NA,United States,Japanese
+Didn't Fill,CA,,2006,NA,United States,Chinese
+Didn't Fill,CA,,NA,NA,United States,Japanese
+Filled,CA,,NA,NA,United States,Japanese
+Didn't Fill,CA,,1996,NA,United States,Japanese
+Filled,CA,Owner,1991,NA,United States,Chinese
+Filled,CA,Owner,2010,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Didn't Fill,CA,Owner,2018,NA,United States,Chinese
+Filled,CA,Owner,1996,NA,United States,Chinese
+Didn't Fill,CA,,2007,NA,United States,Chinese
+Didn't Fill,CA,,NA,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Szechuan
+Filled,CA,,NA,NA,United States,Chinese
+Didn't Fill,CA,,NA,NA,United States,Chinese
+Didn't Fill,CA,Owner,NA,NA,United States,Asian Fusion
+Filled,CA,Owner,NA,NA,United States,Chinese
+Didn't Fill,CA,Owner,2002,NA,United States,Chinese
+Didn't Fill,CA,General,2007,NA,United States,Japanese
+Didn't Fill,CA,,NA,NA,United States,Chinese
+Didn't Fill,CA,Owner,2005,NA,United States,Japanese
+Filled,CA,Owner,1966,NA,United States,Chinese
+Filled,CA,,2012,NA,United States,Asian Fusion
+Didn't Fill,CO,Owner,NA,NA,United States,Japanese
+Filled,CO,,NA,NA,United States,Chinese
+Filled,CO,,NA,NA,United States,Japanese
+Filled,DC,,NA,NA,United States,Japanese
+Filled,DC,Owner,2005,NA,United States,Chinese
+Didn't Fill,FL,,2000,NA,United States,Chinese
+Didn't Fill,FL,Owner,NA,NA,United States,Chinese
+Filled,FL,General,2016,NA,United States,Japanese
+Filled,FL,,NA,NA,United States,Chinese
+Didn't Fill,FL,,NA,NA,United States,Asian Fusion
+Didn't Fill,FL,,2019,NA,United States,Chinese
+Filled,FL,General,NA,NA,United States,Chinese
+Didn't Fill,FL,,NA,NA,United States,Japanese
+Filled,FL,Owner,2007,NA,United States,Chinese
+Filled,FL,Owner,2016,NA,United States,Japanese
+Didn't Fill,GA,,2010,NA,United States,Japanese
+Didn't Fill,IL,General,1998,NA,United States,Japanese
+Didn't Fill,IL,Owner,1999,NA,United States,Japanese
+Didn't Fill,IL,,2020,NA,United States,Japanese
+Filled,IL,Owner,1991,NA,United States,Chinese
+Filled,IN,Owner,1995,NA,United States,Chinese
+Filled,IN,Owner,2003,NA,United States,Chinese
+Filled,IN,,2012,NA,United States,Japanese
+Didn't Fill,KY,,2021,NA,United States,Asian Fusion
+Didn't Fill,LA,Owner,1972,NA,United States,Asian Fusion
+Didn't Fill,LA,Owner,1918,NA,United States,Asian Fusion
+Didn't Fill,LA,Front of the House,NA,NA,United States,Asian Fusion
+Didn't Fill,LA,Owner,2001,NA,United States,Asian Fusion
+Didn't Fill,LA,Owner,2004,NA,United States,Japanese
+Didn't Fill,LA,Owner,1950,NA,United States,Asian Fusion
+Filled,LA,,NA,NA,United States,Japanese
+Didn't Fill,MD,,NA,NA,United States,Chinese
+Filled,MD,Owner,1989,NA,United States,Chinese
+Didn't Fill,MD,Owner,NA,NA,United States,Asian Fusion
+Didn't Fill,MD,General,1990,NA,United States,Asian Fusion
+Didn't Fill,MD,General,NA,NA,United States,Chinese
+Filled,MI,General,1977,NA,United States,Chinese
+Didn't Fill,MI,,NA,NA,United States,Chinese
+Filled,MI,,2011,NA,United States,Chinese
+Didn't Fill,MI,Owner,2004,NA,United States,Chinese
+Filled,MI,Owner,2006,NA,United States,Chinese
+Filled,MN,Owner,1994,NA,United States,Chinese
+Didn't Fill,MO,,NA,NA,United States,Japanese
+Didn't Fill,MO,,NA,NA,United States,Asian Fusion
+Didn't Fill,MO,Owner,1993,NA,United States,Chinese
+Filled,MS,,NA,NA,United States,Japanese
+Filled,MS,Owner,2013,NA,United States,Japanese
+Filled,NC,General,2004,NA,United States,Chinese
+Filled,NC,,2001,NA,United States,Chinese
+Filled,NC,Owner,2007,NA,United States,Japanese
+Filled,NV,,1996,NA,United States,Chinese
+Didn't Fill,OH,General,2014,NA,United States,Japanese
+Didn't Fill,OH,Owner,2005,NA,United States,Asian Fusion
+Didn't Fill,OH,Owner,1985,NA,United States,Chinese
+Filled,OH,,2009,NA,United States,Chinese
+Filled,OH,Owner,2012,NA,United States,Japanese
+Didn't Fill,OK,,NA,NA,United States,Chinese
+Didn't Fill,OR,,NA,NA,United States,Japanese
+Didn't Fill,OR,General,1988,NA,United States,Chinese
+Didn't Fill,PA,,2012,NA,United States,Chinese
+Filled,PA,Owner,2003,NA,United States,Chinese
+Filled,PA,,NA,NA,United States,Chinese
+Filled,PA,,NA,NA,United States,Japanese
+Didn't Fill,PA,,NA,NA,United States,Japanese
+Didn't Fill,PA,,NA,NA,United States,Asian Fusion
+Didn't Fill,PA,,2015,NA,United States,Chinese
+Didn't Fill,PA,,2001,NA,United States,Chinese
+Filled,SC,Owner,NA,NA,United States,Asian Fusion
+Filled,SC,Owner,NA,NA,United States,Japanese
+Didn't Fill,TN,Owner,2010,NA,United States,Japanese
+Filled,TN,Owner,2007,NA,United States,Chinese
+Filled,TN,,2002,NA,United States,Chinese
+Didn't Fill,TX,Owner,2001,NA,United States,Chinese
+Filled,TX,,2002,NA,United States,Chinese
+Didn't Fill,TX,,1993,NA,United States,Asian Fusion
+Didn't Fill,TX,,NA,NA,United States,Japanese
+Didn't Fill,TX,Owner,NA,NA,United States,Chinese
+Didn't Fill,TX,,2018,NA,United States,Japanese
+Didn't Fill,UT,Owner,2010,NA,United States,Asian Fusion
+Didn't Fill,UT,Sales & Marketing,2016,NA,United States,Asian Fusion
+Didn't Fill,UT,,NA,NA,United States,Japanese
+Filled,VA,Owner,2000,NA,United States,Asian Fusion
+Filled,VA,,NA,NA,United States,Chinese
+Didn't Fill,VA,,2009,NA,United States,Chinese
+Filled,VA,,NA,NA,United States,Chinese
+Filled,WA,Owner,1995,NA,United States,Chinese
+Didn't Fill,WA,Owner,2018,NA,United States,Chinese
+Didn't Fill,WA,Owner,2015,NA,United States,Asian Fusion
+Filled,WA,General,1990,NA,United States,Chinese
+Filled,AL,,NA,NA,United States,Japanese
+Filled,AL,General,1993,NA,United States,Chinese
+Didn't Fill,AL,,NA,NA,United States,Asian Fusion
+Didn't Fill,AL,Owner,2001,NA,United States,Chinese
+Didn't Fill,AL,Owner,2007,NA,United States,Japanese
+Filled,AR,,NA,NA,United States,Japanese
+Didn't Fill,AR,Owner,2005,NA,United States,Cajun
+Filled,CA,Owner,1987,NA,United States,Chinese
+Filled,CA,,2018,NA,United States,Japanese
+Filled,CA,General,2004,NA,United States,Chinese
+Filled,CA,,2021,NA,United States,Chinese
+Filled,CA,Owner,NA,NA,United States,Chinese
+Didn't Fill,CA,Owner,1989,NA,United States,Chinese
+Filled,CA,General,NA,NA,United States,Asian Fusion
+Filled,CA,,NA,NA,United States,Japanese
+Filled,CA,,2021,NA,United States,Chinese
+Didn't Fill,CA,Owner,NA,NA,United States,Sichuan
+Didn't Fill,CA,Owner,1994,NA,United States,Chinese
+Didn't Fill,CA,,2010,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CA,,2019,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Didn't Fill,CA,,NA,NA,United States,Japanese
+Filled,CA,Owner,2020,NA,United States,Chinese
+Filled,CA,,NA,NA,United States,Chinese
+Filled,CO,General,2007,NA,United States,Chinese
+Didn't Fill,DC,,NA,NA,United States,Japanese
+Didn't Fill,DE,,NA,NA,United States,Japanese
+Didn't Fill,FL,,NA,NA,United States,Japanese
+Didn't Fill,FL,,NA,NA,United States,Asian Fusion
+Didn't Fill,FL,Back of the House,2020,NA,United States,Japanese
+Filled,FL,Owner,2007,NA,United States,Chinese
+Didn't Fill,FL,,NA,NA,United States,Asian Fusion
+Filled,FL,Owner,2010,NA,United States,Chinese
+Filled,GA,,NA,NA,United States,Chinese
+Didn't Fill,GA,Owner,2010,NA,United States,Chinese
+Filled,GA,,NA,NA,United States,Chinese
+Didn't Fill,GA,,NA,NA,United States,Japanese
+Filled,GA,Owner,NA,NA,United States,Asian Fusion
+Didn't Fill,IL,General,2007,NA,United States,Chinese
+Filled,IL,General,2012,NA,United States,Japanese
+Filled,IL,Owner,2017,NA,United States,Chinese
+Didn't Fill,IL,,NA,NA,United States,Japanese
+Filled,IL,,2002,NA,United States,Chinese
+Filled,IN,General,2000,NA,United States,Chinese
+Filled,IN,Owner,1994,NA,United States,Chinese
+Didn't Fill,IN,,NA,NA,United States,Chinese
+Didn't Fill,LA,,NA,NA,United States,Asian Fusion
+Filled,LA,Owner,NA,NA,United States,Chinese
+Didn't Fill,MD,,NA,NA,United States,Japanese
+Didn't Fill,MD,,NA,NA,United States,Japanese
+Didn't Fill,MD,,NA,NA,United States,Asian Fusion
+Didn't Fill,MN,,NA,NA,United States,Asian Fusion
+Didn't Fill,MN,Owner,1989,NA,United States,Chinese
+Filled,MN,Owner,NA,NA,United States,Chinese
+Filled,MO,,NA,NA,United States,Asian Fusion
+Filled,MO,,NA,NA,United States,Japanese
+Didn't Fill,MO,Owner,NA,NA,United States,Chinese
+Didn't Fill,MO,,NA,NA,United States,Japanese
+Filled,MS,Owner,2003,NA,United States,Japanese
+Didn't Fill,NC,,NA,NA,United States,Japanese
+Didn't Fill,NC,Owner,2004,NA,United States,Japanese
+Didn't Fill,NC,Front of the House,2015,NA,United States,Japanese
+Didn't Fill,NC,,NA,NA,United States,Japanese
+Didn't Fill,NC,Owner,2001,NA,United States,Chinese
+Didn't Fill,NE,Owner,2017,NA,United States,Japanese
+Filled,NV,Owner,NA,NA,United States,Japanese
+Didn't Fill,NV,Owner,2008,NA,United States,Japanese
+Didn't Fill,NV,,2015,NA,United States,Japanese
+Didn't Fill,OH,Owner,2009,NA,United States,Japanese
+Filled,OH,,NA,NA,United States,Japanese
+Filled,OH,Owner,2007,NA,United States,Chinese
+Didn't Fill,OH,Owner,1996,NA,United States,Chinese
+Didn't Fill,OH,,NA,NA,United States,Chinese
+Didn't Fill,OH,,NA,NA,United States,Chinese
+Didn't Fill,OR,,NA,NA,United States,Japanese
+Didn't Fill,PA,,NA,NA,United States,Chinese
+Didn't Fill,PA,,NA,NA,United States,Asian Fusion
+Filled,PA,Owner,1995,NA,United States,Chinese
+Filled,PA,Owner,1994,NA,United States,Chinese
+Filled,PA,,NA,NA,United States,Chinese
+Filled,PA,,NA,NA,United States,Chinese
+Didn't Fill,PA,Owner,2003,NA,United States,Chinese
+Filled,PA,,NA,NA,United States,Chinese
+Didn't Fill,PA,,NA,NA,United States,Chinese
+Didn't Fill,SC,,NA,NA,United States,Japanese
+Filled,TN,Owner,2012,NA,United States,Chinese
+Didn't Fill,TN,,2006,NA,United States,Asian Fusion
+Filled,TN,General,2009,NA,United States,Japanese
+Didn't Fill,TX,,NA,NA,United States,Asian Fusion
+Didn't Fill,TX,,NA,NA,United States,Cajun
+Didn't Fill,TX,,2019,NA,United States,Asian Fusion
+Filled,TX,,NA,NA,United States,Japanese
+Filled,TX,,NA,NA,United States,Chinese
+Didn't Fill,TX,Owner,2017,NA,United States,Chinese
+Didn't Fill,TX,,NA,NA,United States,Chinese
+Didn't Fill,TX,Owner,2004,NA,United States,Japanese
+Filled,UT,Owner,2013,NA,United States,Japanese
+Didn't Fill,UT,Owner,2008,NA,United States,Asian Fusion
+Filled,VA,,2002,NA,United States,Chinese
+Filled,VA,Owner,NA,NA,United States,Chinese
+Didn't Fill,VA,Owner,2004,NA,United States,Japanese
+Filled,WA,Owner,2000,NA,United States,Chinese
+Filled,WA,,NA,NA,United States,Chinese
+Didn't Fill,WA,Owner,2008,NA,United States,Japanese
+Didn't Fill,WA,Owner,1987,NA,United States,Chinese
+Filled,WI,,NA,NA,United States,Japanese
+Didn't Fill,WI,Owner,1999,NA,United States,Asian Fusion
+Filled,WI,,NA,NA,United States,Japanese
+Didn't Fill,WV,Owner,1994,NA,United States,Chinese
+Filled,WV,,NA,NA,United States,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,BC,Owner,1993,NA,Canada,Japanese
+Didn't Fill,SK,Owner,NA,NA,Canada,Chinese
+Filled,SK,,NA,NA,Canada,Chinese
+Didn't Fill,AB,,NA,NA,Canada,Japanese
+Didn't Fill,MB,Owner,NA,NA,Canada,Japanese
+Didn't Fill,BC,Owner,NA,NA,Canada,Japanese
+Didn't Fill,ON,Owner,NA,NA,Canada,Chinese
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,AB,Owner,NA,NA,Canada,Asian Fusion
+Filled,BC,,NA,NA,Canada,Asian Fusion
+Filled,NB,,NA,NA,Canada,Chinese
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,MB,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Japanese
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,NA,NA,Canada,Japanese
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,AB,,NA,NA,Canada,Taiwanese
+Didn't Fill,AB,,NA,NA,Canada,Chinese
+Didn't Fill,NL,Owner,NA,NA,Canada,Chinese
+Filled,MB,,2018,NA,Canada,Japanese
+Didn't Fill,MB,Owner,NA,NA,Canada,Chinese
+Didn't Fill,AB,,NA,NA,Canada,Japanese
+Filled,ON,,NA,NA,Canada,Japanese
+Didn't Fill,ON,Owner,NA,NA,Canada,Chinese
+Filled,BC,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,BC,,2014,NA,Canada,Asian Fusion
+Didn't Fill,NL,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,NA,NA,Canada,Chinese
+Didn't Fill,NL,Owner,NA,NA,Canada,Chinese
+Didn't Fill,AB,,NA,NA,Canada,Asian Fusion
+Didn't Fill,AB,Owner,NA,NA,Canada,Asian Fusion
+Didn't Fill,NS,,NA,NA,Canada,Chinese
+Didn't Fill,ON,Owner,2011,NA,Canada,Asian Fusion
+Filled,SK,Owner,NA,NA,Canada,Chinese
+Filled,AB,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Chinese
+Filled,ON,,NA,NA,Canada,Japanese
+Didn't Fill,NS,,NA,NA,Canada,Chinese
+Didn't Fill,BC,,NA,NA,Canada,Japanese
+Didn't Fill,AB,,NA,NA,Canada,Japanese
+Didn't Fill,ON,,NA,NA,Canada,Asian Fusion
+Filled,SK,,NA,NA,Canada,Asian Fusion
+Didn't Fill,NS,General,NA,NA,Canada,Chinese
+Filled,ON,,NA,NA,Canada,Asian Fusion
+Didn't Fill,ON,Owner,NA,NA,Canada,Japanese
+Didn't Fill,ON,Owner,NA,NA,Canada,Asian Fusion
+Filled,ON,,NA,NA,Canada,Chinese
+Didn't Fill,ON,,NA,NA,Canada,Japanese

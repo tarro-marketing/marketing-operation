@@ -1,0 +1,994 @@
+Date,Lead Status,Rejected Reason,Unqualified Reason,SDR,Phone,Extension Number,Extension Channel,Channel Collected,Owner Name,Restaurant Name,Restaurant Number,Cuisine Type,"Pickup/
+Delivery",State,前台情况,SF Link,Campaign Sent,...19,language_test,drop_group
+2023-12-02,Inbound Qualified,NA,NA,Yannie,9178251889,8885200811,DM,DM,陈老板娘,NEW CHINA RESTAURANT,(803) 951-1868,中餐,Pickup,SC,"老板名字：陈老板娘
+联系方式： 9178251889    (州：SC）
+回拨时间：ASAP
+餐类型：中餐
+电话订单：不清楚
+前台情况：有前台
+送餐情况：来取
+客户来源：Inbound
+促销活动：30天免费试用
+Notes (痛点等）：老板娘收到卡片看到有免费试用的活动，之前也有收到我们打电话给他，简单咨询怎么操作，机器，pt&ft。老板娘想电话都让我们帮忙接，午餐时间、晚餐时间，不忙的时候可以自己接，推荐老板娘从pt开始先，她想了解试用后收费是多少。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDAuEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-02,Inbound Qualified,NA,NA,Yannie,7202088722,8885200811,DM,DM,陈老板娘,NA,NA,日餐,Pickup,CO,"老板名字：陈老板娘
+联系方式： 7202088722 /微信： bonniechen83      (州：CO）
+回拨时间：ASAP
+餐类型：日餐
+电话订单：10以下
+前台情况：前台接
+送餐情况：来取，第三方平台 - ubereat,doordash
+客户来源：Inbound
+促销活动：30天免费试用+送餐
+Notes (痛点等）：老板娘收到广告咨询送餐，他觉得电话单很少不需要接电话服务，有告知老板娘说需要搭配接电话+送餐的服务，老板娘想知道收费先再考虑看看要不要合作。她说加微信先再约时间聊。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p7nOEAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-02,Rejected,No interest to talk to sales,NA,Sean,6025407222,8882353802,DM,NA,NA,NA,NA,中日餐,NA,NA,不了解食客通做法，以为是doordash ubereat平台之类的，解释是代接电话 ，说自己能接的过来,NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-03,Inbound Qualified,NA,NA,Eelin,3126786076,8885200811,DM,DM,黄老板,Yen Ching Chinese Restaurant,6304161991,中餐,NA,IL,"老板名字：黄老板
+回拨时间：现在 （州： IL)
+联系方式： (312) 678-6076
+餐类型：中餐
+电话订单：30-40
+前台情况：员工
+送餐情况： 来取+送餐（自己送）
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE: 收到广告，想了解我们的接电话价钱和服务
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIoiEAG/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-03,Inbound Qualified,NA,NA,Eelin,9162887237,8885200811,DM,CLIENT REFER,李小姐,NA,NA,北风餐,Delivery,NA,"老板名字：李小姐
+回拨时间： 现在
+联系方式： (916) 288-7237
+餐类型：北风餐
+电话订单：超过50单
+前台情况：前台
+送餐情况： 来取+送餐（自己送）
+客户来源：Inbound 
+促销活动：30 days free trial
+NOTE：原本打算再请员工，可是朋友介绍SKT, 想了解接电话+送餐的价钱和服务
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000001yassMAA/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-03,Inbound Qualified,NA,NA,Eelin,3474632607,8885200811,DM,DM,郑小姐,CHOPSTIX CHINESE RESTAURANT,6155995588,中餐,Pickup,TN,"老板名字：郑小姐
+回拨时间: 现在 （州: TN)
+联系方式： (347) 463-2607
+餐类型:中餐
+电话订单：30-40
+前台情况：自己接
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：老板娘电话订单繁忙，都是自己接，想了解我们接电话服务和价钱而已，有兴趣30天免费试用
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFUsEAO/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-03,Inbound Qualified,NA,NA,Eelin,7022929083,8885200811,DM,NA,Jimmy,NA,NA,NA,Pickup,NV,"老板名字：Jimmy 
+回拨时间: 1 小时 （州： NV)
+联系方式：(702) 292-9083
+餐类型：日餐
+电话订单：10-20
+前台情况：经理
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：想了解接电话+送餐服务和价钱
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000020PBlMAM/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Unqualified,NA,Current Client,Eelin,9737573665,8885200811,DM,NA,杨老板,NA,NA,NA,NA,NA,CHINA STAR KITCHEN R81837 ask for DE,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Eelin,7066685288,8885200811,DM,NA,林老板,NA,NA,NA,Pickup,NA,"老板名字：林老板
+回拨时间: 现在 
+联系方式： 7066685288 (店）/ 7182883519 （手机）
+餐类型：炸鸡
+电话订单：超过50
+前台情况：自己接
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 DAYS TRIAL
+NOTE：老板交代了他的手机平时是打不进的，因为他需要保存那个号码先。要求业务经理先信息他，让他保存那个号码先。老板要了解接电话+送餐服务和价钱
+没办法知道州，因为在问时电话断线了，打回店的号码，是phone machine, 我的系统没办法按
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000020cQkMAI/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Unqualified,NA,Not a Restaurant,Eelin,2128670874,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,WRONG NUMBER,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Eelin,8582310935,8885200811,DM,NA,马老板,Basil Thai,5125995372,中餐（小火窝）,Pickup,TX,"老板名字：马老板
+回拨时间：现在 （州：德州）
+联系方式： (858) 231-0935
+餐类型：中餐（小火窝）
+电话订单：10-20
+前台情况：自己接
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：老板认为用Online
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NauHEAS/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Rejected,No interest to talk to sales,NA,Eelin,4347996771,8885200811,DM,NA,陈小姐,NA,NA,NA,NA,NA,知道我们送餐不收现金，直接拒绝,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,6462502696,8885200811,DM,DM,Hazel,Aji sushi Japanese steak & sushi bar,4103637720,日餐,Pickup,MD,"老板名字：Hazel(?), 问了老板娘两次可是听不清
+联系方式：(646) 250-2696
+回拨时间： ASAP, 5点之前ok
+餐类型：全日餐
+电话订单：电话不多，堂吃
+前台情况：自己接
+送餐情况： ubereat,grubhub,doordash送
+客户来源： Inbound
+促销活动： 30Days Free Trial
+note: 收到我们的广告很久了，老板娘对送餐有兴趣。说了需要和接电话服务绑定。简单介绍我们的操作。说了我们有专线可以和老板娘沟通，订位之类的。说了如果电话响他们接起来就会有监听功能。老板娘说周末不忙，基本都是online order多。也有看到一年sms的广告，简单说了优惠活动。让经理回电告知送餐和其他收费
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCjSEAW/view",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCjSEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,8638007800,8885200811,DM,DM,Hailey,Hi.Pot,7868038618,亚洲餐,Pickup,FL,"老板名字：Hailey
+联系方式： 8638007800
+回拨时间：ASAP
+餐类型：海鲜，台湾小火锅，点心，拉面，日餐，奶茶。堂吃，来取
+电话订单：一天大概20-30
+前台情况：前台有请人接
+送餐情况： Doordash,ubereat,grubhub,beyondmenu送
+客户来源： Inbound
+促销活动： 30 Days Free Trial
+note: 说了菜单有点复杂，不确定能不能接。让经理看了菜单看看能不能。老板娘一般都不在餐馆。老板娘说客人80%都是说英文，20%中文不过他们都会说英文。说了我们能够接英文，西班牙和中文。简单介绍我们的操作。老板娘说客人要找老板和订位这样好像有点麻烦需要把电话转过去，说了可以帮忙接。老板娘想咨询收费和看看如何帮到餐馆
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NZwTEAW/view",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NZwTEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Unqualified,NA,Current Client,Kelvin,6462901870,8885200811,DM,NA,CHINA PEARL R85538,NA,NA,NA,NA,NA,老板娘看到广告关于礼篮，说了那个是给新客户。老板娘说他开通几个月了，想要拿。说了让负责经理回电看看能不能。想咨询关于送餐的收费。让经理现在回电。已经跟负责经理说了。Slack to notify CSM Qiang Cao,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002Qu6VBAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,6266677066,8885200811,DM,DM,Nia,37.2 Degree Tea & Curry,6266677066,Cafe+Snacks,Pickup,CA,"老板名字：Nia
+联系方式： 6266677066(餐馆号码，今天都会在餐馆可以打）
+回拨时间：ASAP
+餐类型：咖啡厅有奶茶和小吃，来取
+电话订单：一天大概10-20
+前台情况：-
+送餐情况： Ubereat,doordash送
+客户来源： Inbound
+促销活动： -
+note: 餐馆开了5-6年，刚接手1年多。老板娘说他想多了解我们的送餐服务。说了需要和电话服务绑定。简单介绍我们的操作。说了收费是看平均单和距离。老板娘说客人都住附近，他想要几个miles里面，超过$35就会给一些特别的voucher,coupon之类的设置。说了开始前会跟他做个核对。 online order订单很多，经常电话忙到不接。想要咨询收费等等","https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002194vMAA/view 
+",Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,9175150078,8885200811,DM,DM,杨老板娘,Volcano Sushi Bar,9175150078,中日餐,Pickup,VA,"老板名字：杨老板娘
+联系方式： (917) 515-0078
+回拨时间：可以先发短信约时间
+餐类型：中日餐
+电话订单：一天大概30-40
+前台情况：有请人接
+送餐情况： 都让doordash,ubereat送
+客户来源： Inbound
+促销活动： 30Days Free Trial+Delivery
+note: 简单介绍了我们的操作。有看到免费1年的sms，说了可以发短信给现在的客人说有coupon之类的。说了送餐是看平均单和送餐距离。要知道送餐和接电话的收费
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p8DNEAY/view",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p8DNEAY/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Eelin,8313751111,8885200811,DM,DM,KATTY,CHINA GARDEN,NA,美式中餐,Pickup,NA,"老板名字：KATTY
+回拨时间: 现在 （州：ca)
+联系方式：(831) 375-1111
+餐类型：美式中餐
+电话订单：周一到周四 比较多
+前台情况：自己接
+送餐情况： 来取
+客户来源：inbound
+促销活动：30 days free trial
+NOTE: 目前用qmenu/beyond menu, 虽然便宜，可是生意差，老板娘看中我们送餐服务，希望可以增加营业额。老板娘了解是要接电话+送餐一起用
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEdkEAG/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,3477400711,8885200811,DM,DM,黄老板,CHINA GOURMET,5176692008,中餐,Pickup,MI,"老板名字：黄老板
+联系方式： (347) 740-0711
+回拨时间：ASAP,周一休息
+餐类型：中餐，来取
+电话订单：一天大概40-50
+前台情况：自己接
+送餐情况： doordash,ubereat送
+客户来源： Inbound
+促销活动： -
+note: 老板想参加我们的服务，有朋友在用着。反应很好。介绍了pt服务可以挑忙的时间帮忙。说了$200底薪。押金$500，取消后退回。要咨询接电话费用",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFmfEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Kelvin,2157155003,8885200811,DM,DM,Anita,NA,NA,中餐,Delivery,NA,"老板名字：Anita
+联系方式： (215) 715-5003
+回拨时间：ASAP
+餐类型：中餐，外卖
+电话订单：一天大概40-50，最忙100+。星期五最忙
+前台情况：自己接，忙的时间有part time
+送餐情况： 自己请3-4个师傅送
+客户来源： Inbound
+促销活动： -
+note: doordash,ubereat,grubhub online order。老板娘说送餐目前只有2.8-3miles。说了我们送餐只收卡。简单介绍我们的操作。说了需要用电脑自己打单。老板娘要知道送餐员要多久时间去取餐，因为要预计出餐时间。我们刷卡了，一周后客人打到去银行说没有消费过的话，要求退钱的话我们如何处理。要求经理解释和提供收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSPEeEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Eelin,9173758838,8885200811,DM,DM,LISA,VALENTINO,2149424003,中餐,Delivery,TX,"老板名字：LISA
+回拨时间: 现在 （州： TX)
+联系方式：(917) 375-8838
+餐类型：中餐
+电话订单：3W
+前台情况：自己接/员工接
+送餐情况： 来取+员工送
+客户来源：INBOUND
+促销活动：30 days free trial
+NOTE：老板娘有兴趣送餐， 她想使用我们送餐服务，就不用请多一个送餐员，省下一个工人的费用
+老板娘知道我们需要接电话+送餐一起使用，麻烦回电解释价钱
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIaaEAG/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Inbound Qualified,NA,NA,Eelin,4084217155,8885200811,DM,DM,Cindy,Best Taste Chinese and Sushi Restaurant,(408) 377-7666,中日餐,Delivery,CA,"老板名字：Cindy
+回拨时间： 现在 （州： CA)
+联系方式：(408) 421-7155
+餐类型：中日餐
+电话订单：20-30
+前台情况：员工+自己 （谁得空谁接）
+送餐情况： 员工+自己
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：27年老店了，老板顾虑我们接单员会得罪regular customer 吗？ 他们原本有自己的送餐员的，可是都没做了，目前剩1、2个，他们都没得休息，想说用我们的服务，可以减轻员工负担
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NXp0EAG/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Unqualified,NA,Not a Restaurant,Kelvin,7184143029,8885200811,DM,DM,NA,NA,NA,NA,NA,NA,打电话进来问我们是什么。简单介绍我们的服务。他回复再说，就挂了,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-04,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Kelvin,3476970917,8885200811,DM,DM,NA,NA,NA,NA,NA,NY,对方说英文。收到广告不过不知道我们是什么。他有餐馆，mediterranean food (地中海）。不过餐馆只有堂吃，外卖。没有电话单，不适合我们的服务。,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Yannie,3039941535,8885200811,DM,DM,mr.steven,Wellness Sushi,(720) 306-4989,Japanese,Pickup,CO,"老板名字：mr.steven (Eng)
+联系方式：3039941535 (州：CO）
+回拨时间：ASAP
+餐类型：Japanese
+电话订单：-
+前台情况：有FT前台
+送餐情况：-
+客户来源：Inbound
+促销活动：30天免费试用 
+Notes (痛点等）：老板收到poscard，想了解我们的收费和优惠。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p7uFEAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Yannie,9176358307,8885200811,DM,DM,陈老板,Chen's Brother Cuisine,(347) 466-5716,中餐,Pickup,NY,"老板名字：陈老板
+联系方式：9176358307  （NY)
+回拨时间：ASAP
+餐类型：中餐
+电话订单：10-20单
+前台情况：自己接
+送餐情况：来取，堂吃，第三方平台 - doordash,ubereat，grabhub
+客户来源：Inbound
+促销活动：30天免费试用
+Notes (痛点等）：老板收到广告想了解我们的服务，餐馆刚开半年，目前前台自己接，和第三方合作了生意也没有很好，很多客人不会在平台上下单，简单咨询了信用卡代收,怎么操作。老板想了解收费看看怎么合作。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo00000251LhMAI/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Eelin,3479511078,8885200811,DM,DM,李小姐,Sumo Hibachi,3479511078,铁板,Pickup,North carolina,"老板名字：李小姐
+回拨时间： 现在 （州： North carolina)
+联系方式：3479511078
+餐类型：铁板
+电话订单：10-20
+前台情况：女儿+自己接
+送餐情况： 来取而已
+客户来源：INBOUND
+促销活动：30 days free trial
+NOTE：由于Online 太贵，抽成百分30， 导致到顾客量一直越来越少，老板娘现在电话单少， 看见我们广告有提到做宣传， 和送餐提高营业额。他朋友也提议他试用SKT.老板娘有意思关完ubereat 哪里换来做skt. 麻烦回电解释价钱",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKLFuEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Kelvin,7815265160,8885200811,DM,DM,Jessica,ROYAL GARDEN RESTAURANT,7815855506,中餐,Delivery,MA,"老板名字：Jessica
+联系方式：  (781) 526-5160
+回拨时间：ASAP
+餐类型：中餐，外卖
+电话订单：一天大概50，周末100+
+前台情况：自己接，也有请ft
+送餐情况： 自己有请1个师傅送
+客户来源： Inbound
+促销活动： 30 Days Free Trial+1year SMS+Hamper
+note: 老板娘说看到广告。询问优惠活动。简单介绍了我们的操作。厨房需要2个打印机，前台1个。目前只用doordash,ubereat online order。老板娘说有请1个师傅送餐，忙的时候也要自己送，挺辛苦。说了如果我们能够帮忙送，可以多送让生意更好。解释了我们需要跟电话服务搭配，只送我们接的单。online order都让师傅送。doordash用的挺好服务好也快，以前用grubhub送餐但是太久了。希望我们也能够快点。餐馆有堂吃，前台要收钱，听电话，打包，带位。说了我们能够帮忙分担压力。要知道收费，让经理回电。","https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKLVVEA4/view 
+",Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Rejected,No interest to talk to sales,NA,Yannie,5403462110,8885200811,DM,NA,女老板娘,NA,NA,NA,NA,NA,打回去老板娘说上网已经查询了，没有东西咨询了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKGtEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Rejected,Is ICP but Interested in DE Only,NA,Yannie,9523784749,8885200811,DM,DM,男老板,NA,NA,NA,NA,NA,收到广告想咨询送餐，了解我们是和doordash/ubereat 合作就觉得没有必合作了,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Abandoned,NA,NA,Yannie,9523784749,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Eelin,9152732248,8885200811,DM,DM,王老板,NA,NA,中餐buffet,Pickup,NA,老板误会我们有做online order,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Yannie,6468948289,8885200811,DM,DM,林老板娘,NA,NA,中日餐,Pickup,FL,"老板名字：林老板娘
+联系方式：6468948289 (FL）
+回拨时间：ASAP
+餐类型：中日餐
+电话订单：50单以上
+前台情况：自己接
+送餐情况：来取｜ 第三方平台 - doordash,grabhub
+客户来源：Inbound
+促销活动：30天免费试用
+Notes (痛点等）：收到广告想了解VP,一时忙的时候接不过来，想知道收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000025dxFMAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Unqualified,NA,Agent Language Limitation,Eelin,8322473055,8885200811,DM,DM,王小姐,NA,NA,NA,NA,NA,"川菜， 70% chinese speaker, not suitable",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Inbound Qualified,NA,NA,Zack,3104936435,8885200811,DM,DM,Mr Takuma,Takuma,3105867469,日餐,Delivery,California,"老板名字：Takuma
+回拨时间：drop customer an email and call back two days 12/7 2:30 CA
+联系方式：3104936435
+餐类型：Japanese Izakaya
+电话订单：5-10
+前台情况：FT
+送餐情况： Delivery doordash ubereats
+客户来源：inbound
+促销活动：30 days free trial
+NOTE Mr Takuma call and ask for DM and ask us to drop an english version for him at buckarrows@gmail.com, has already give him an explanation on our services, drop him an email for pricing range for DE and phone order services and give a call back 12/7 2:30 CA",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKG2KEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Abandoned,NA,NA,Kelvin,2257887856,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,"missed call, callback but hangup after introduction",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Abandoned,NA,NA,Kelvin,2257887856,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,NA,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Abandoned,NA,NA,Eelin,7186666972,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,call back no answer,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-05,Abandoned,NA,NA,Eelin,2815801000,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,call back no answer,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Kelvin,6823768084,8885200811,DM,DM,NA,NA,NA,NA,NA,NA,收到广告，简单介绍我们的服务，不需要我们的服务。,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Unqualified,NA,Duplicate,Kelvin,2163856007,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,收到我们的经理电话，要找回他。slack to notify Jessica to callback ASAP,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Unqualified,NA,Duplicate,Sean,2163856007,8885200811,DM,DM,林老板娘,NA,NA,中日餐,NA,ohayo,"已经联系jiaxin跟进
+
+老板名字：林老板娘
+联系方式：2163856007
+回拨时间：message约时间  ohayo州
+餐类型：主要是中餐 一点日本餐
+电话订单：
+前台情况：
+送餐情况： 不愿意说，第三方平台 - doordash ubereat
+客户来源：inbound
+促销活动：DE+代接电话
+Notes (痛点等）：老板娘收到DM 关于接电话+送餐 解释了需要绑定一起也只能帮送我们接电话的客人，老板想知道价格 说message他让他知道 就匆匆忙忙挂电话了 老板娘之前打过一次inbound进来",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000000xKp9MAE/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Unqualified,NA,Cannot Service Cuisine/Menu,Eelin,6465786539,8885200811,DM,NA,郑,NA,NA,buffet,NA,NA,no menu and is dine in only,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Inbound Qualified,NA,NA,Yannie,4157679276,8885200811,DM,DM,Carol,Ginkgo Curry & Bento,(408) 242-9031,日餐,Pickup,CA,"老板名字：Carol
+联系方式：4157679276（CA）
+回拨时间：ASAP
+餐类型：日餐
+电话订单：-
+前台情况：自己接
+送餐情况：来取， 第三方平台 - doordash，ubereat
+客户来源：Inbound
+促销活动：30天免费试用+送餐 4082429031
+Notes (痛点等）：收到广告想了解送餐服务，目前有和第三方合作，有提到说和其他送餐公司合作但他们的服务不太好，想知道我们的收费是多少。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000029kFNMAY/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Abandoned,NA,NA,Eelin,6268995000,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,"call in, intro skt and return call, say no need then hang up",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Inbound Qualified,NA,NA,Sean,6263770426,8885200811,DM,DM,陈老板娘,NA,NA,中餐快餐,NA,加州,"老板名字：陈老板娘
+联系方式： 6263770426
+回拨时间：明天2-3pm 加州
+餐类型：中餐快餐
+电话订单：10+单
+前台情况：
+送餐情况： 第三方平台 - 没有
+客户来源：inbound
+促销活动：DE
+Notes (痛点等）：想知道代接电话和送餐怎么收费，已经解释3次了需要绑定代接电话而且只能送我们所接电话单的客人，明天联系老板娘 他说等下驾车不方便听电话",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000029YhJMAU/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Inbound Qualified,NA,NA,Sean,5098208133,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,老外老板，质询怎么操作了，然后hang up了 CB没接,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Inbound Qualified,NA,NA,Eelin,9174346866,8885200811,DM,DM,刘,NA,3475272851,中餐,NA,NY,"老板名字: 刘
+回拨时间： 现在 （NY)
+联系方式：9174346866 （广东话，老板国语听不明白）
+餐类型：中餐
+电话订单：-
+前台情况：-
+送餐情况： -
+客户来源：inbound
+促销活动：30 daysfree trial
+NOTE：老板的餐馆， 目前是没有pick up 没有delivery, 他收到广告， 有兴趣要发展电话order. 老板是有几家外卖店都是一样的模式
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002A30JMAS/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Unqualified,NA,Current Client,Eelin,9172829409,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,顾客说收到我们的广告，然后试号码,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-06,Abandoned,NA,NA,Eelin,6468661987,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,call back no answer,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Yannie,9178266682,8885200811,DM,Telemarketer,STEVEN,NA,NA,手抓海鲜,Pickup,NY,"老板名字：STEVEN- 李老板
+联系方式：9178266682 (NY)
+回拨时间：ASAP
+餐类型：Cajun
+电话订单：  -
+前台情况：-
+送餐情况：来取，第三方平台 - doordash,ubereat
+客户来源：Inbound
+促销活动：30天免费试用+送餐
+Notes (痛点等）：老板说之前有人联系他关于送餐的服务，大概讲解了流程，老板想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOQeEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Sean,6465910078,8885200811,DM,DM,seven,NA,NA,日餐堂吃,NA,NY,"Inbound Qualified
+老板名字：seven
+联系方式：6465910078
+回拨时间：ASAP  法拉盛
+餐类型：日餐堂吃
+电话订单：不太清楚
+前台情况：
+送餐情况： 第三方平台 - uber doordash
+客户来源：Inbound
+促销活动：DE+代接电话
+Notes (痛点等）：电话单不是很多都是网络订单，但是老板想把电话都给我们接+送餐。老板想知道怎么收费
+SFDC链接：https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002Dz4ZMAS/view",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002Dz4ZMAS/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Yannie,8016387985,8885200811,DM,WeChat - Ads,Jeff,NA,NA,美式中餐,Pickup,UT,"老板名字：Jeff
+联系方式：8016387985 （可以加微信）（UT)
+回拨时间：ASAP
+餐类型：美式中餐
+电话订单：30单
+前台情况：自己接
+送餐情况：来取，请司机送，第三方平台 -  doordash
+客户来源：Inbound
+促销活动：30天免费试用+DE
+Notes (痛点等）：老板scan微信联系到我们，简单咨询我们的流程，送餐的信用卡+现金是怎么处理的，想了解收费再考虑要不要和我们合作",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000020hwe9EAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Sean,9174958806,8885200811,DM,DM,Eric,NA,NA,日餐外卖,NA,NY,"老板名字：Eric
+联系方式：9174958806
+回拨时间：ASAP 可以先联系老板如果当时忙就明天早上 9am ，NY
+餐类型：日餐外卖 没有堂吃
+电话订单：30-40单
+前台情况：家人帮忙接
+送餐情况： 第三方平台 - doordash
+客户来源：inbound
+促销活动：DE 代接电话
+Notes (痛点等）：老板收到DM 关于送餐和代接电话，说doordash 那些很贵，所以打来问看我们送餐怎么收费，已经解释需要绑定接电话服务 。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002EGVBMA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Eelin,7573320870,8885200811,DM,DM,MIKE,NA,7572440700,NA,NA,NA,"老板名字：MIKE
+回拨时间： now
+联系方式：7573320870 (NY), SHOP: 7572440700
+餐类型：PIZZA
+电话订单：-
+前台情况：-
+送餐情况： -
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：ENGLISH SPEAKER, REQUEST CALL BACK TO EXPLAIN FOR THE PRICE AND SERVICES
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002EMsLMAW/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Kelvin,7027711780,8885200811,DM,DM,陈老板,NA,NA,NA,NA,NA,老板说没有电话单，只是要人帮忙送餐。要知道收费，说了需要和电话绑定。,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-07,Inbound Qualified,NA,NA,Sean,6465778600,8885200811,DM,DM,沼老板,NA,NA,日餐,NA,康州,"老板名字：沼老板
+联系方式：6465778600
+回拨时间：ASAP   康州
+餐类型：日餐
+电话订单：差不多10-20
+前台情况：夫妻一起接
+送餐情况： 第三方平台 -
+客户来源：inbound
+促销活动：DE+代接
+Notes (痛点等）：老板对DE感兴趣，已经解释不是平台，也需要和代接电话绑定。想了解怎么收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021t4n1EAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Abandoned,NA,NA,NA,7029579249,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,未接电话，已联系了老板,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Abandoned,NA,NA,NA,9294208842,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,未接电话，已联系了老板,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Unqualified,NA,Duplicate,Zack,9294208842,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,老板娘打进来说Sam Liang在微信上还没回她，我已经Slack Sam了通知他,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Inbound Qualified,NA,NA,Yannie,7029579249,8885200811,DM,DM,方老板,Happy Asian Cuisine,(505) 582-2873,中餐,Pickup,NM,"老板名字：方老板 （广东话）
+联系方式：7029579249 （NM)
+回拨时间：ASAP
+餐类型：中餐
+电话订单：-
+前台情况：-
+送餐情况：-
+客户来源：Inbound
+促销活动：30天免费试用+DE
+Notes (痛点等）：老板说收到广告有送餐服务，下个星期餐馆要开了，想了解我们的收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021pAWfEAM/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Rejected,No interest to talk to sales,NA,Kiera,6478780202,8882353802,DM,DM,小金,NA,NA,日料,NA,NA,老板说收到DM，简单介绍一了一下操作流程，说再考虑一下，餐馆进单了要忙，说他周末有空在打电话给我们咨询,NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-08,Inbound Qualified,NA,NA,Kiera,9176058288,8885200811,DM,DM,陈,NA,NA,中餐,Pickup,PA,"老板名字：陈老板
+联系方式：9176058288
+回拨时间：2:10pm - PA州
+餐类型：中餐
+电话订单：一天40-50单
+前台情况：老板自己接
+送餐情况： 有两个平台
+客户来源：Inbound - DM
+促销活动：DM
+Notes (痛点等）：咨询接单和送餐，前台自在接，大概一天40-50单，电话单都是来取，有两个网络平台；想了解具体电话和送餐收费情况",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJ38EAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Inbound Qualified,NA,NA,Sean,7188085356,8885200811,DM,SMS,Toby,NA,NA,日式铁板外卖,NA,密西西比州,"老板名字：Toby
+联系方式：7188085356
+回拨时间：ASAP 密西西比州
+餐类型：日式铁板外卖
+电话订单：总营业额 一天大概120单左右 接电话大概一半
+前台情况：2个PT
+送餐情况： 第三方平台 -
+客户来源：inbound
+促销活动：SMS
+Notes (痛点等）：老板想了解送餐和接电话费用怎么算，已经解释不是平台送餐只能送代接电话的单。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002IIRxMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Sean,4153702864,8885200811,DM,NA,estelle,NA,NA,NA,NA,NA,老外老板，餐馆没有电话单 都是online order doordash uber,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Inbound Qualified,NA,NA,Yannie,9296340380,8885200811,DM,"SMS,DM",陈老板,NA,NA,日餐+亚洲餐,Pickup,NY,"老板名字：陈老板
+联系方式：9296340380 (NY)
+回拨时间：ASAP
+餐类型：日餐+亚洲餐
+电话订单：-
+前台情况：-
+送餐情况：来取， 第三方平台 - doordash,ubereat
+客户来源：Inbound
+促销活动：30天免费试用+DE
+Notes (痛点等）：老板是收到SMS+广告想了解我们的服务，简单咨询了怎么操作，老板不愿意提供资料，他想了解了收费先，有兴趣合作才提供。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JMsDEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-08,Inbound Qualified,NA,NA,Yannie,6178881875,8885200811,DM,DM,张老板娘,NA,NA,美式中餐,Pickup,MA,"老板名字：张老板娘
+联系方式：6178881875 （MA）
+回拨时间：ASAP
+餐类型：美式中餐（家庭店）
+电话订单：10-20单
+前台情况：自己接
+送餐情况：来取，请司机送 （不稳定）
+客户来源：Inbound或Outbound？
+促销活动：30天免费试用+DE
+Notes (痛点等）：收到广告想了解VP+DE的服务，送餐之前和ubereat/Grubhub合作由于抽成太高取消了。生意没有很好想看看和我们合作会不会增加营业额，想了解试用后怎么收费",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002IfoNMAS/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-09,Abandoned,NA,NA,Yannie,5023304262,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,接了电话没说话，打回去没有接,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-09,Inbound Qualified,NA,NA,Eelin,3322565728,8885200811,DM,DM,Jojo,NA,NA,POKE BOWL,Pickup,MARYLAND,"老板名字：Jojo
+回拨时间: 现在
+联系方式：(332) 256-5728 (MARYLAND)
+餐类型：poke bowl
+电话订单：10-20
+前台情况：自己接
+送餐情况： 来取
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：walk in 比较多, 顾客之前都有问是否有送餐，老板娘之前不做，因为他觉得麻烦要接电话，要送餐，还要自己找工人，会影响他前面walk in 的顾客。他现在有交给doordash做，可是老板娘嫌弃抽成太高，因为他们不止抽老板的，顾客又要给，导致一份餐变得很贵。看见我们广告，接电话+送餐，还有帮忙做广告。老板娘想试看，麻烦回电关于VP+DE
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002LkxyMAC/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-10,Unqualified,NA,Current Client,Eelin,2053626147,8885200811,DM,NEW CHINA R86622,NA,NA,NA,NA,NA,NA,"customer call in complain , menu team promise call her on 11am, but u ntil now no receive any call. cant get anyone from menu team, pass to cs ask for help",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-10,Inbound Qualified,NA,NA,Eelin,9294109664,8885200811,DM,DM,小姐,Ichimora,7542004968,中日餐,Pickup,FL,"老板名字：洪小姐
+回拨时间： 现在 （州： FL)
+联系方式：(929) 410-9664
+餐类型：中日餐
+电话订单：20-30
+前台情况：员工
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 DAYS FREE TRIAL
+NOTE：老板娘想了解VP+DE价钱， 老板娘有比较担心的问到，如果司机迟来拿，迟送，怎样处理。
+老板娘也问到，他的来电不一定是外卖，有时是ubereat 哪里的订单，拿错了或送少了，我们会帮她处理吗？我们如何处理
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p8CBEAY/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-11,Inbound Qualified,NA,NA,Kelvin,9292831820,8885200811,DM,DM,郑老板,Lee's Wok,4106586188,中餐,Pickup,MD,"老板名字：郑老板
+联系方式： (929) 283-1820
+回拨时间：ASAP
+餐类型：中餐，来取
+电话订单：-
+前台情况：自己接
+送餐情况： -
+客户来源： Inbound
+促销活动： 30 Days Free Trial for VP+DE
+note: 餐馆已经做了2,,30年了。附近比较少餐馆，10miles里面才有一家。简单介绍了我们的服务，说了有$500押金，月结单都在月头。餐馆有2条线，老板说目前生意不多能自己接，不过周五特别忙想让我们帮忙。偏向pt服务，说了需要接4.5小时。想要圣诞和新年都让我们帮忙。对送餐有兴趣，说了需要和电话绑定。老板想知道收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCkqEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-11,Abandoned,NA,NA,Eelin,7194211777,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,"missed call due to talkroute disconnect, callback but CNA",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-11,Inbound Qualified,NA,NA,Eelin,9178622552,8885200811,DM,DM,许老板,GOLDEN CHINA,9108680988,中餐,Pickup,north carolina,"老板名字：许老板
+回拨时间: 明天 （11-12PM） 州： NORTH CAROLINA
+联系方式： (917) 862-2552
+餐类型：中餐外卖
+电话订单：50以上
+前台情况：自己接
+送餐情况： 来取
+客户来源：Inbound 
+促销活动：30 days free trial
+NOTE：老板要了解接电话服务，因为目前老板一个人负责接电话，负责打包
+SFDC LINK:https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKLZCEA4/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-11,Inbound Qualified,NA,NA,Eelin,7782296580,8882353802,DM,DM,KELVIN,GRILL MASTER,6046207879,美式中餐,Pickup,NA,"老板名字：Kelvin
+回拨时间： (778) 229-6580, downtown
+联系方式：现在
+餐类型：美式中餐
+电话订单：10
+前台情况：前台
+送餐情况： 来取
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：刚开张，目前有用ubereat,可是电话注重推广，让多一点人, 可以打电话订外卖， 麻烦联系vp+de
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002TstVMAS/view
+",NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-12,Abandoned,NA,NA,Kelvin,6137489453,8882353802,DM,NA,NA,NA,NA,NA,NA,NA,"pickup the call but no voice, callback but cna",NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-13,Abandoned,NA,NA,Sean,3472659099,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,picked up but no 1 speaking ， and hang up,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-13,Inbound Qualified,NA,NA,Kelvin,3362479043,8882353802,DM,DM,Ashley李,NA,NA,中餐快餐,Pickup,NC,"老板名字：Ashley
+联系方式： (336) 247-9043
+回拨时间：ASAP
+餐类型：中餐快餐，来取
+电话订单：-
+前台情况：前台有请老外ft&pt
+送餐情况： 都让网络平台送
+客户来源： Inbound
+促销活动： 30 Days Free Trial for VP&DE, 1year SMS
+note: 简单介绍我们的操作和服务。 不用doordash,ubereat因为太贵了。每一天都有挺多的电话单，online confirmation也多。现在用着一个(?)网络平台，收客人$3, 收费低但是缺点就是没有提供电话服务。老板娘说客人给的小费都给很多。说了需要和电话绑定。客人打进来有问有没有送餐，希望我们能够提供送餐，可以做多一点生意。 也想知道帮忙打SMS广告的优惠。 是个连锁店可是名字不一样。想知道我们的送餐收费，最好是客人给完送餐费。如果收费理想，需要和老板商量，有股东。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002bbYvMAI/view,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-13,Inbound Qualified,NA,NA,Yannie,9176691905,8885200811,DM,DM,刘老板,NA,NA,日餐+铁板,Pickup,NJ,"老板名字：刘老板
+联系方式：9176691905 (NJ)
+回拨时间：ASAP
+餐类型：日餐+铁板
+电话订单：-
+前台情况：有前台
+送餐情况：来取，doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP
+Notes (痛点等）：老板是收到Coupon想了解接电话的服务，大概说了怎么操作，想了解收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIwQEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-13,Rejected,No interest to talk to sales,NA,Sean,2502172078,8882353802,DM,NA,NA,NA,NA,NA,NA,NA,来骗礼蓝的 。收到礼蓝DM 问是不是有免费送，但是不愿意提供餐馆讯息又说担心给我们接电话做不好 ，,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002cPM2MAM/view,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-14,Unqualified,NA,Current Client,Sean,3433638125,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,原有顾客，想退回机器，3433638125 6137769999 restaurant number 没找到记录，已经让联系2220电话,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-14,Inbound Qualified,NA,NA,Eelin,9172855363,8885200811,DM,DM,江小姐,Aggie's Hot Subs,9197510999,西餐,Pickup,NC,"老板名字：江小姐
+回拨时间; ASAP
+州：NC
+联系方式：(917) 285-5363
+餐类型：西餐 （意大利粉，汉堡，鸡翅螃）
+电话订单：不了解
+前台情况：前台
+送餐情况： 来取
+客户来源：INBOUND
+促销活动：30 days free trial
+NOTE：请了前台，前台有电话来不接，就算接，态度差， 导致生意滑落。朋友介绍SKT， 他也刚打开信箱，看到我们11月的DM, 问那个30天免费试用还有吗？麻烦联系VP 服务和价钱
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002gRFZMA2/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-14,Rejected,No interest to talk to sales,NA,Eelin,6262446174,8885200811,DM,EMAIL,CANDY,NA,NA,川菜,NA,NA,主要了解礼蓝怎样领取，和顺便了解我们的操作。老板娘嫌麻烦担心我们要问太多问题，所以坚持不让我们联络，说下次再联系,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Kelvin,9172935570,8885200811,DM,DM,林老板娘,PINEAPPLE RESTAURANT,8567683388,中餐,Delivery,NJ,"老板名字：林老板娘
+联系方式： (917) 293-5570
+回拨时间：ASAP
+餐类型：中餐，外卖
+电话订单：没算过，一天大概都有20-30
+前台情况：有请ft接
+送餐情况： doordash,ubereat送。自己也有请师傅送
+客户来源： Inbound
+促销活动： -
+note: 老板娘说没听说过我们的服务。简单介绍了我们的服务，说了可以用app查每一天的单子。只是链接网线，需要自己打到电脑。说了送餐只送我们接的单，online order都让他们自己送。老板娘一般都很少去餐馆。想知道收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIxGEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Unqualified,NA,Duplicate,Kelvin,5866753988,8885200811,DM,NA,NA,CHINA CLUB,7346549926,NA,NA,NA,老板娘让经理回电给他。他想试用我们的服务，之前没接电话因为家里有事。Slack to notify JiaXin,https://wondersco.lightning.force.com/lightning/r/Account/001Uo000000esrJIAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Kelvin,6467751666,8885200811,DM,DM,张老板娘,GREAT WALL CHINESE RESTAURANT,2153318883,中餐,Delivery,PA,"老板名字：张老板娘
+联系方式： (646) 775-1666
+回拨时间：ASAP
+餐类型：中餐，外卖
+电话订单：一天最少大概20-30
+前台情况：自己接
+送餐情况： 自己请师傅送
+客户来源： Inbound
+促销活动： -
+note: 老板娘没听过我们的服务。收到广告，简单介绍我们的服务。没有和网络平台合作，自己请师傅送餐而已。餐馆营业时间是周一-周六，电话单的起伏不会太大，晚上时间会比较忙而已。想知道收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJKCEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Sean,6462840032,8885200811,DM,DM,林老板,NA,NA,美式中餐外卖,NA,FL,"老板名字：林老板
+联系方式：6462840032
+回拨时间：晚上8.30pm - 9.30pm
+餐类型：美式中餐外卖 FL
+电话订单：70-80单 一天
+前台情况：夫妻一起接
+送餐情况： 第三方平台 - doordash uber
+客户来源：inbound
+促销活动：DM - 送餐服务，礼篮
+Notes (痛点等）：对送餐有兴趣 ，想询问费率，但是说不想代接电话，已经解释送餐服务需要绑定接电话 是一起的 介绍了PT 。老板说晚上打给他让他知道费率 还有问是不是有送礼篮",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002l85qMAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Yannie,3468120495,8885200811,DM,DM,Mia,JJ Hawaiian BBQ,(559) 793-4088,Hawaiian BBQ,Pickup,California,"老板名字：Mia
+联系方式：3468120495 (California)
+回拨时间：下周二12/19-早上9am
+餐类型：Hawaiian BBQ
+电话订单：20-30通
+前台情况：有前台
+送餐情况：来取，dooreat,grubhub,ubereat
+客户来源：Inbound  5597934088
+促销活动：30 Days Free Trial -VP
+Notes (痛点等）：老板娘收到广告，简单咨询了怎么操作，什么机器。如果试用期间能不能取消，客人投诉电话，如果我们order错了食物是会怎么去处理，大概和她说了可以随时取消没有任何的违约金，order错食物的话会听回录音看当时的情况去处理，也有提到PT&FT的区别，要怎么付款给我们？用支票吗？ 想咨询收费先。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002l85qMAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Sean,3218880800,8885200811,DM,DM,李老板,NA,NA,美式中餐,NA,FL,"老板名字：李老板
+联系方式：3218880800
+回拨时间：ASAP FL
+餐类型：美式中餐
+电话订单：40-50单一天
+前台情况：前台不稳定
+送餐情况： 第三方平台 - doordash ubereat
+客户来源：inbound
+促销活动：DM - DE
+Notes (痛点等）：前台不稳定，看到我们DM 想了解我们代接电话和DE怎么收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDQHEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Yannie,9176917178,8885200811,DM,DM,林老板,NA,(410) 497-0726,夏威夷餐,Delivery,Maryland,"老板名字：林老板
+联系方式：9176917178（Maryland）
+回拨时间：ASAP
+餐类型：夏威夷餐
+电话订单：-
+前台情况：-
+送餐情况：online order,doordash,ubereat,grubhub
+客户来源：Inbound
+促销活动：30 Days Free Trial -DE
+Notes (痛点等）：老板收到广告想了解送餐服务，因为其他平台抽成很高，已告知老板DE需要搭配VP的服务，电话单都很少甚至没有，大多数客人都是online order，但是老板还是想了解我们的收费",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002lS4ZMAU/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-15,Inbound Qualified,NA,NA,Yannie,6463389761,8885200811,DM,Organic - Direct,刘老板,NA,NA,中餐,NA,NY,"老板名字：刘老板
+联系方式：6463389761 (NY)
+回拨时间：ASAP
+餐类型：中餐
+电话订单：-
+前台情况：-
+送餐情况：-
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP
+Notes (痛点等）：老板说目前这家餐馆是用着我们的服务，他要接手这家餐馆咨询如果继续使用我们的服务的话是否会有优惠，也要咨询信用卡代收的问题。不愿意提供餐馆资料说如果要合作就会提供.",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002lWOJMA2/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-17,Unqualified,NA,Current Client,Eelin,2524701339,8885200811,DM,NA,Great Wall R83276,NA,NA,NA,NA,NA,enquiry for DE,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-17,Abandoned,NA,NA,Eelin,9293395389,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,CALL BACK VOICEMAIL,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-17,Inbound Qualified,NA,NA,Eelin,9293395389,8885200811,DM,NA,曹老板,STAR KITCHEN,5166817401,中餐,Delivery,NY,"老板名字：曹老板
+回拨时间; ASAP
+州：NY
+联系方式：(929) 339-5389
+餐类型：中餐
+电话订单：40-50
+前台情况：自己接
+送餐情况： 来取+送餐（自己员工）
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：老板打来时电话背景有点吵，听得不清楚。在谈话中，了解老板有兴趣VP+DE，他目前也有请人在帮他送餐。老板提到来取的会比送餐多。老板也问送餐可以送多远
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKErSEAW/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-17,Inbound Qualified,NA,NA,Eelin,9173256695,8885200811,DM,NA,林老板,HOT WOK,2696875288,中餐,Pickup,Michigan,"老板名字：林老板
+回拨时间; 1 小时内
+州：Michigan
+联系方式：9173256695
+餐类型：中餐
+电话订单：3w多
+前台情况：自己接
+送餐情况： 来取
+客户来源：Outbound
+促销活动：30 days free trial
+NOTE：老板接到有点累，想找方便一点的方式，可以让他们做得轻松点，有兴趣VP 
+SFDC LINK:https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFzMEAW/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-18,Unqualified,NA,Current Client,Eelin,2524701339,8885200811,DM,NA,Great Wall R83276,NA,NA,NA,NA,NA,"customer call in again, due to havent receive csm call",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-18,Rejected,No interest to talk to sales,NA,Eelin,6266898897,8885200811,DM,DM,吴,China Express,2817410642,中餐,Pickup,NA,"老板名字：吴
+回拨时间;
+州：
+联系方式：(626) 689-8897
+餐类型：中餐外卖
+电话订单：10-20
+前台情况：员工
+送餐情况： 来取
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：刚开张1-2个月，老板要询问服务和价钱，不要回电。
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Account/0018b00002XIThnAAH/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-19,Inbound Qualified,NA,NA,Eelin,8602061706,8885200811,DM,NA,陈老板,Tokyo Sushi Wh,8602061706,日餐,Pickup,Connecticut,"老板名字：陈老板
+回拨时间; 1小时内
+州：Connecticut
+联系方式：9174996254
+餐类型：日餐
+电话订单：30-40
+前台情况：自己接+PT (5-8PM)
+送餐情况： 来取
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：老板目前在用growhub, 老板有兴趣VP+ 我们推广，老板注重怎样增加生意额
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEhfEAG/view
+",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-19,Rejected,Is ICP but Interested in DE Only,NA,Eelin,8326071375,8885753251,DM,NA,JOHN,NA,NA,NA,NA,NA,"只兴趣DE, 不要VP",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-19,Inbound Qualified,NA,NA,Kelvin,9175629071,8885753251,DM,DM,Lina罗,HAPPY CRAB,8132528855,手抓,Pickup,FL,"老板名字：Lina罗
+联系方式： (917) 562-9071
+回拨时间：9-9.30pm EST
+餐类型：手抓,来取
+电话订单：-
+前台情况：自己接
+送餐情况： doordash,ubereat送
+客户来源： Inbound
+促销活动： -
+note: 收到DM. 朋友介绍，侄女餐馆也有在用着。简单介绍我们的操作和服务。他想了解具体的收费，让他和老板商量",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002uqkMMAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-19,Inbound Qualified,NA,NA,Yannie,6465781905,8885753251,DM,Client Referral;DM,Cindy Lin,NA,NA,中餐+手抓海鲜,Pickup,Maryland,"老板名字：Cindy Lin
+联系方式：6465781905 (Maryland)
+回拨时间：ASAP
+餐类型：中餐+手抓海鲜
+电话订单：4w-5w
+前台情况：自己接
+送餐情况：来取，doordash,ubereat,grubhub
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：每天都收到广告，看了都有点心动就打电话来咨询了，身边很多朋友用着食客通，老板娘说自己英文不太好，最近生意一直上不来，想看看和我们合作生意是否会有好转，简单咨询机器收费，怎么操作，PT&FT。想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000002vURfMAM/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-20,Unqualified,NA,Not a Restaurant,Eelin,6787088727,8885200811,DM,NA,NA,NA,NA,NA,NA,NA,询问合作， refer他到我们网站， contact media,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-20,Inbound Qualified,NA,NA,Kelvin,2672306015,8885753251,DM,DM,李老板娘,LO'S CHINESE RESTAURANT,2152883811,中餐,Delivery,PA,"老板名字：李老板娘
+联系方式： (267) 230-6015
+回拨时间：9pm EST 
+餐类型：中餐，外卖
+电话订单：没算，但是都超过20-30单
+前台情况：自己接
+送餐情况： 老板自己送
+客户来源： Inbound 
+促销活动： 30 Days Free Trial for VP+DE
+note: 老板娘说餐馆在杂区。有朋友在用着我们的服务，侄女在我们公司上班。对我们的服务口碑很好。简单介绍我们服务和操作。想试看周五，周六帮忙。有说了可以代刷信用卡。说了打印机需要连接网线而已，不需要电脑。老板娘说他有备注一些客人的电话不接，会block他们，说了技术部开始前会先拿资料。想知道送餐和接电话收费，如果不贵可以合作。说了需要一起绑定。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJTlEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-20,Rejected,No interest to talk to sales,NA,Yannie,9178225988,8885753251,DM,NA,Annie,NA,NA,中餐,NA,NA,老板娘只是做简单咨询送餐服务，有兴趣会联系。,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-20,Inbound Qualified,NA,NA,Yannie,6096649210,8885753251,DM,DM,江老板娘,NA,NA,中餐,Pickup,NJ,"老板名字：江老板娘
+联系方式：6096649210 (NJ)
+回拨时间：ASAP
+餐类型：中餐
+电话订单：-
+前台情况：自己接
+送餐情况：来取，自己送
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：收到广告想了解我们的服务，目前前台自己接忙不过来，想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000000gR3pMAE/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-20,Unqualified,NA,Current Client,Eelin,6467175984,8885200811,DM,Shang Hai CHINESE RESTAURANT R85589,NA,NA,NA,NA,NA,NA,"customer complain not receive the free gift, pass to csm chloe wong",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-21,Rejected,No interest to talk to sales,NA,Yannie,6812228166,8885753251,DM,DM,男老板,NA,NA,NA,Pickup,NA,老板收到广告咨询送餐服务，现在已经和ubereat合作了，如果用我们接电话服务的话前台也是需要一个人，觉得没有必要和我们合作,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOhUEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Inbound Qualified,NA,NA,Yannie,2073075326,8885753251,DM,DM,林老板娘,NA,NA,NA,Pickup,Maine,"老板名字：林老板娘
+联系方式：2073075326 (Maine)
+回拨时间：ASAP
+餐类型：中日餐
+电话订单：10w以上
+前台情况：自己接/pt
+送餐情况：来取
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板娘收到广告咨询送餐和接电话服务，现在前台电话自己接一时有请pt帮忙，目前餐馆只是做来取，想开通送餐服务，要了解价格先。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000033H2bMAE/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Unqualified,NA,Duplicate,Yannie,9172922375,8885753251,DM,NA,林老板娘,NA,NA,NA,NA,NA,上面是女儿打进来的，这位是老板娘,https://wondersco.lightning.force.com/lightning/r/Contact/003Uo000001BaVqIAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Abandoned,NA,NA,Yannie,7575029433,8885753251,DM,DM,Tony,NA,NA,NA,Pickup,West Virginia,"老板名字：Tony
+联系方式：7575029433  （West Virginia）
+回拨时间：ASAP
+餐类型：日餐
+电话订单：不清楚
+前台情况：有前台
+送餐情况：堂吃，来取，doordash,grubhub
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板收到广告看看怎么帮到他的餐馆，简单咨询了怎么操作，机器押金，打印机纸张，PT&FT,想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000033OaLMAU/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Inbound Qualified,NA,NA,Yannie,7575029433,8885753251,DM,DM,Tony,NA,NA,NA,Pickup,West Virginia,"老板名字：Tony
+联系方式：7575029433  （West Virginia）
+回拨时间：ASAP
+餐类型：日餐
+电话订单：不清楚
+前台情况：有前台
+送餐情况：堂吃，来取，doordash,grubhub
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板收到广告看看怎么帮到他的餐馆，简单咨询了怎么操作，机器押金，打印机纸张，PT&FT,想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000033OaLMAU/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Unqualified,NA,Current Client,Yannie,6462690619,8885753251,DM,NA,NA,*LI LAI WOK* R82605,NA,NA,NA,NA,老板娘想12/25要我们帮忙接电话，联系了我们没人回复，已slack CSM联系她,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17TFAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Inbound Qualified,NA,NA,Kelvin,3309409901,8885753251,DM,DM,林老板,Hunan King,3307336858,中餐,Delivery,OH,"老板名字：林老板
+联系方式： (330) 940-9901
+回拨时间：ASAP
+餐类型：中餐，外卖
+电话订单：每天average 40-50
+前台情况：自己接
+送餐情况： 2个送餐师傅，online order都让doordash,ubereat送
+客户来源： Inbound
+促销活动： 30 Days Free Trial for VP+DE
+note: 老板说朋友的餐馆在用着，不确定有没有开通送餐服务。用得不错。想要试看。简单介绍我们的操作和服务。说了可以代刷信用卡，可以match rate。让经理回电告知收费",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NaDvEAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-21,Inbound Qualified,NA,NA,Yannie,4178258030,8885753251,DM,DM,Vicky,NA,NA,中餐+wings,Pickup,MO,"老板名字：Vicky
+联系方式：4178258030 (MO)
+回拨时间：ASAP
+餐类型：中餐+wings
+电话订单：20-30个电话
+前台情况：自己接，
+送餐情况：来取，doordash
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板娘说广告，但是要2月份1才上线，因为要更改menu价格。现在PT前台已经怀孕了，估计2月就不会在餐馆做了，2-4月是报税季节，担心自己忙不过来，过后要招一个人打包电话让我们接。午餐不接外卖，自己接电话和打包都没问题。建议晚餐时间2.30-3pm开始帮忙接前台电话。老板娘说想锁着现在的优惠先因为看到广告说优惠到12月31号而已。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo00000341FAMAY/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-22,Inbound Qualified,NA,NA,Yannie,5017666698,8885200811,DM,DM,林老板,NA,NA,NA,Pickup,AR,"老板名字：林老板
+联系方式：5017666698 (AR)
+回拨时间：ASAP
+餐类型：中餐buffet
+电话订单：10几单，3w以上
+前台情况：有前台
+送餐情况：堂吃，来取，online order
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板收到广告不了解我们是怎么操作的，简单咨询了，前台英文不是很好所以想到找我们接电话，目前没有做送餐，考虑和我们合作VP+DE，想了解收费。
+",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo00000383lQMAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-23,Unqualified,NA,Current Client,Yannie,3479511078,8885200811,DM,NA,NA,Sumo Hibachi R86635,NA,NA,NA,NA,老板娘很生气说没有答应和我们合作为什么扣她的卡钱，你们这样做生意的嘛，已经拒绝不要合作了，要求退款,https://wondersco.lightning.force.com/lightning/r/Account/001Uo000001WOwHIAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-23,Unqualified,NA,Current Client,Yannie,3124519920,8885753251,DM,NA,NA,EN LAI R81271,NA,NA,NA,NA,"Client want to know more abount DE service & price , inform CSM to call back client",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17IEAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-23,Inbound Qualified,NA,NA,Yannie,4076720099,8885200811,DM,DM,许老板娘,NA,NA,中餐,Pickup,FL,"老板名字：许老板娘
+联系方式：6269220682
+回拨时间：ASAP
+餐类型：中餐
+电话订单：-
+前台情况：自己接
+送餐情况：来取，自己请司机送，doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板娘收到广告也有朋友推荐食客通，已经了解了接电话的价格想了解送餐的价格，现在和第三方合作只是用online order 没用他们的送餐服务，都是请司机送的价格有点高，想了解送餐价格看看那个比较划算",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDQJEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-23,Inbound Qualified,NA,NA,Sean,3032820111,8885753251,DM,DM,Danny,NA,NA,日餐,Delivery,DM,"老板名字：Danny
+联系方式：3039617909
+回拨时间：ASAP
+餐类型    ：日餐
+电话订单：5-6单
+前台情况：请了一个人
+送餐情况： 第三方平台 - doordash grabhub
+客户来源：inbound
+促销活动：30天免费试用 ， DE
+Notes (痛点等）：想了解食客通代接电话和送餐怎么收费，已经解释需要绑定代接电话 和只能送接电话的单子，老板说3个月后有家中国餐馆开门 所以想先了解一下",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-26,Inbound Qualified,NA,NA,Yannie,9319986666,8885200811,DM,Client Referral;DM,Sunnie,KISORO JANPANESE RESTAURANT,(931) 896-2340,日餐,Pickup,TN,"老板名字：Sunnie
+联系方式：9319986666 （TN)
+回拨时间：ASAP
+餐类型：日餐
+电话订单：50单以上
+前台情况：有前台
+送餐情况：来取，堂吃，doordash，ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板娘收到广告也有朋友推荐说和食客通合作后有提高到营业额觉得不错，堂吃大概有20-30单，有一位前台是专门接电话而已，但是一时忙的时候接不及想找我们帮忙，想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003LmcbMAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-26,Unqualified,NA,Current Client,Sean,2675866913,8885753251,DM,-,NA,NA,NA,NA,NA,NA,现有客户想了解 DE ，已经联系相关CSM跟进,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-26,Unqualified,NA,Lead Does Not Have Phone Ordering Business,Kelvin,6467057809,8885753251,DM,DM,郑老板,NA,NA,日餐,Pickup,NA,"电话单不多，都是网络平台比较多。前台自己接电话，说了收费6.99%, 需要会联系",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-26,Unqualified,NA,Not a Restaurant,Sean,9178150286,8885200811,DM,-,NA,NA,NA,NA,NA,NA,要买机票 没餐馆,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-27,Inbound Qualified,NA,NA,Yannie,9172569628,8885200811,-,DM;SMS,陈老板,NA,NA,中餐,Pickup,NA,"老板名字：陈老板
+联系方式：9172569628 （NY）
+回拨时间：2.30pm-3pm
+餐类型:  中餐
+电话订单：-
+前台情况：自己接
+送餐情况：来取
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：老板时常收到广告/短信，,目前没做送餐，现在想做送餐提高营业额。简单咨询怎么操作，PT&FT的区别，感觉老板想自己接电话只是做送餐，已经和老板说了送餐需要搭配接电话的服务，想了解收费先再看要不要合作。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQnBEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-27,Rejected,No interest to talk to sales,NA,Yannie,3127745288,8885753251,-,DM,张老板,NA,NA,NA,NA,NA,简单咨询中美往返机票(价值$1500美金) 或 $1500 SKT 账户额，不是要和我们合作,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003PoKrMAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-27,Inbound Qualified,NA,NA,Sean,7186666972,8885200811,-,DM,曾老板娘,NA,NA,中餐外卖,Delivery,New Jersey,"老板名字：曾老板娘
+联系方式：7186666972
+回拨时间：ASAP New Jersey
+餐类型    ：中餐外卖
+电话订单：30-40单一天
+前台情况：自己接 家庭店
+送餐情况： ，第三方平台 - uber doordash
+客户来源：inbound
+促销活动：DM
+Notes (痛点等）：想了解送餐费用了，因为请的送餐员不稳定 时常搞定很乱。已经解释需要和接电话一起用 只能送我们接电话的单子。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000000xcm1MAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-27,Rejected,No interest to talk to sales,NA,Kelvin,9178382198,8885200811,-,DM,Shawn,NA,NA,中餐,Delivery,NA,老板叫Shawn，中餐，外卖，自己有请1个师傅送，外卖一天大概30-40。电话单一天80+，周末130+。前台有请pt帮忙。说了有免费试用的活动，老板说NJ很多家餐馆在用着。身边没有人在用着。说了有代刷。简单介绍了我们的操作。对我们的送餐有点兴趣，说没有平台费，老板觉得食客通很吊，越做越大。说了收费大概7-8%。先了解，在忙，需要会联系。发了短信,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPAZEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-27,Inbound Qualified,NA,NA,Yannie,6085152450,8885200811,-,DM,刘老板娘,NA,NA,中餐,Pickup,NA,"老板名字：刘老板娘
+联系方式：6085152450
+回拨时间：ASAP
+餐类型：中餐
+电话订单：30-40单
+前台情况：自己接
+送餐情况：来取,doordash,ubereat
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：收到广告想了解接电话服务，第三方的订单很少一天才几单，主要是电话单。目前前台电话自己接，一时很忙的话接不及所以想找我们合作，想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003QFUkMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Inbound Qualified,NA,NA,Sean,9179153246,8885200811,-,DM,老板娘,NA,NA,NA,NA,New Hampshire,"老板名字：老板娘
+联系方式：9179153246
+回拨时间：ASAP New Hampshire
+餐类型   ：日餐
+电话订单：30-50单 周末70-80单
+前台情况：有请人
+送餐情况： 第三方平台 - doordash ubereat
+客户来源：inbound
+促销活动：DM - 飞机票活动
+Notes (痛点等）：老板娘想了解费劲票活动，还有想了解我们操作流程 说如果不复杂就会用我们服务",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003TcjKMAS/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Inbound Qualified,NA,NA,Yannie,5867011317,8885200811,-,DM,朱老板,NA,NA,中餐,Pickup,Michigan,"老板名字：朱老板
+联系方式：5867011317 （Michigan)
+回拨时间：ASAP
+餐类型：中餐
+电话订单：-
+前台情况：自己接
+送餐情况：来取
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：收到广告咨询怎么操作，想了解收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Tt94MAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Unqualified,NA,Current Client,Sean,8582310935,8885753251,-,DM,NA,Basil Thai R86616,NA,NA,NA,NA,收到DM 老板询问他能不能也有送飞机票这个优惠 已经联系CSM跟进,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US
+2023-12-28,Unqualified,NA,Current Client,Sean,6465781905,8885200811,-,DM,NA,Seafood boil R86716,NA,NA,NA,NA,收到DM 老板询问他能不能也有送飞机票这个优惠 已经联系CSM跟进,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Inbound Qualified,NA,NA,Kelvin,2254806733,8885200811,-,DM,NA,LIGHT STAR CHINESE RESTAURANT,8602432871,中餐,Delivery,CT,"老板名字：杨老板娘
+联系方式： (225) 480-6733
+回拨时间：ASAp
+餐类型：中餐，外卖
+电话订单：一天40-50，周末比较多
+前台情况：老板娘自己和女儿在接
+送餐情况： 老板有送一点，也有请老外pt送。
+客户来源： Inbound
+促销活动： 30 Days Free Trial for VP+DE, flight ticket, 1 year SMS
+note: 网络平台doordash,ubereat,grubhub送。老板娘说女儿多几个后就要上大学了，打算让我们接。简单介绍我们的操作。介绍了pt服务可以挑忙的时间帮忙。麻烦的客人也会帮忙处理。老板的妹妹，老板娘的姐姐和朋友(FL)也有在用着。想知道接电话和送餐的收费，希望经理能够给多一点优惠，因为都是朋友在介绍。也有看到送飞机票的优惠，让经理和他解释。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEejEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Rejected,No interest to talk to sales,NA,Kelvin,2047307119,8882353802,-,DM,NA,NA,NA,NA,NA,NA,收到DM，询问飞机票的优惠而已,NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-28,Inbound Qualified,NA,NA,Sean,9294989588,8885200811,-,DM,包老板娘,GOLDEN MOUNTAIN,NA,美式中餐,NA,ohaiyo,"老板名字：包老板娘
+联系方式：9294989588
+回拨时间：ASAP ohaiyo
+餐类型：美式中餐
+电话订单：30单+
+前台情况：自己接
+送餐情况： 第三方平台 - uber doordash
+客户来源：inbound
+促销活动：免费试用+DE ，免费机票
+Notes (痛点等）：想了解机票和免费试用活动，待会打给老板让他知道条件和我们服务流程",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKglEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Unqualified,NA,Current Client,Yannie,6469222723,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"老板娘Inbound进来要咨询VP+DE的价格，她说之前和我们合作过，现在取消了已经和海狼合作，但是我搜餐馆号码是Active,麻烦你联系老板娘",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17QOAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Unqualified,NA,Current Client,Kelvin,6469222723,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"老板娘说之前的经理是jacky,他发短信没回复。说没做经理了，难怪联系不上。让他和amy聊就好。",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17QOAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Inbound Qualified,NA,NA,Kelvin,2486359236,8885200811,-,DM,梁老板娘,NA,NA,中餐,Pickup,MI,"老板名字：梁老板娘
+联系方式： (248) 635-9236
+回拨时间：30分钟后
+餐类型：中餐，来取
+电话订单：-
+前台情况：有请pt学生帮忙接
+送餐情况： grubhub,doordash送
+客户来源： Inbound
+促销活动： 30 Days Free Trial, flight ticket
+note: 老板娘说前台1月就要去上学了，难请人。如果我们能够帮到的话就不用自己接了。他有看到广告关于飞机票，刚好他5月要回国，经理可以跟他说具体和流程和收费",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003UkWjMAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-28,Unqualified,NA,Not a Restaurant,Kelvin,9044390757,8885200811,-,NA,NA,NA,NA,NA,NA,NA,咨询送餐服务，解释了不需要,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Unqualified,NA,Not a Restaurant,Kelvin,9173024579,8885200811,-,DM,NA,NA,NA,中餐,Delivery,NA,要知道收费而已，说了7-8%，说再联系,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Unqualified,NA,Not a Restaurant,Kelvin,2284937263,8885200811,-,DM,NA,NA,NA,NA,NA,NA,收到我们的广告，但是不会中文。解释我们的服务，不需要（英文）,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Inbound Qualified,NA,NA,Sean,9175433062,8885200811,-,DM,Jason,NA,NA,美式中餐,NA,ohaiyo,"老板名字：Jason
+联系方式：9175433062
+回拨时间：ASAP ohaiyo
+餐类型    ：美式中餐
+电话订单：不到10单
+前台情况：有请人接
+送餐情况： 第三方平台 - doordash ubereat
+客户来源：inbound
+促销活动：DM 免费机票 + DE
+Notes (痛点等）：想了解免费机票条件，还有怎么收费。已经介绍我们是代接前台电话服务的",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WZLtMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Unqualified,NA,Not a Restaurant,Sean,4038915576,8882353802,-,DM,NA,NA,NA,NA,NA,NA,蛋糕店 无法服务,NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-29,Unqualified,NA,Not a Restaurant,Kelvin,2502519793,8882353802,-,DM,NA,NA,NA,NA,NA,NA,收到我们的广告，但是不会中文。解释我们的服务，不需要（英文）,NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-29,Inbound Qualified,NA,NA,Sean,8133369988,8885200811,-,DM,缪老板,NA,NA,中餐,NA,FL,"老板名字：缪老板
+联系方式：8133369988
+回拨时间：ASAP  FL
+餐类型    ：中餐
+电话订单：50-60单
+前台情况：请人接
+送餐情况： 第三方平台 -  ubereat
+客户来源：inbound
+促销活动：免费试用
+Notes (痛点等）：想了解试用过后是怎么收费的",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WFF9MAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Inbound Qualified,NA,NA,Sean,5174144551,8885200811,-,DM,陈老板娘,NA,NA,中餐外卖,NA,Michigan,"老板名字：陈老板娘
+联系方式：5174144551
+回拨时间：ASAP  Michigan
+餐类型：中餐外卖
+电话订单：40-50单
+前台情况：自己接
+送餐情况： 第三方平台 - doordash
+客户来源：inbound
+促销活动：DM - 免费机票
+Notes (痛点等）：想了解PT 收费情况，还有免费飞机票条件，前台老板娘自己接 忙不过来",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Wn3tMAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-29,Inbound Qualified,NA,NA,Sean,2365088531,8882353802,-,DM,Cecilia,NA,NA,美式中餐,NA,加拿大,"老板名字：Cecilia
+联系方式：2508857988
+回拨时间：ASAP 加拿大
+餐类型    ：美式中餐
+电话订单：10-20单
+前台情况：没有前台，谁有空就接
+送餐情况： ，第三方平台 - uber doordash
+客户来源：Inbound
+促销活动：DM - 免费机票
+Notes (痛点等）：人手不足，接电话的不会英文。想了解怎么收费，也想了解飞机票活动。如果来不及联系可以先加微信",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Y6R4MAK/view,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-29,Inbound Qualified,NA,NA,Sean,9173300261,8882353718,-,DM,董老板,NA,NA,美式中餐,NA,康州,"老板名字：董老板
+联系方式：9173300261
+回拨时间：ASAP 康州
+餐类型    ：美式中餐
+电话订单：大概30-40单一天
+前台情况：有一个人
+送餐情况： 第三方平台 - doordash ubereat
+客户来源：Inbound
+促销活动：DM - 免费试用
+Notes (痛点等）：想了解我们怎么收费和操作 如果价格合适就不请人了 都让我们接",NA,Mkt_DM_Snowflake_2023ChristmasEng,NA,English Version,NA
+2023-12-30,Inbound Qualified,NA,NA,Sean,3302425966,8885200811,-,DM,王老板,NA,NA,中餐 buffet店,NA,Ohio,"老板名字：王老板
+联系方式：3302425966
+回拨时间：ASAP  Ohio
+餐类型    ：中餐 buffet店
+电话订单：20单左右
+前台情况：带位 和cashier接
+送餐情况： 第三方平台 - 没有
+客户来源：inbound
+促销活动：免费机票
+Notes (痛点等）：餐馆在白区 ，晚餐时间电话接不多来 想了解怎么收费。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKFrEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Inbound Qualified,NA,NA,Sean,3302425966,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back   Inbound Qualified",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Abandoned,NA,NA,Sean,9178878689,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back no answer. sms sent",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Abandoned,NA,NA,Sean,9178878689,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back no answer. sms sent",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Inbound Qualified,NA,NA,Sean,6827041980,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back   Inbound Qualified",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Abandoned,NA,NA,Sean,6517762522,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back no answer. sms sent",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-30,Abandoned,NA,NA,Sean,3063840844,8882353802,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back no answer. sms sent",NA,Mkt_DM_Snowflake_2023ChristmasV2,NA,Chinese Version,Drop 1 - Canada
+2023-12-30,Rejected,No interest to talk to sales,NA,Sean,5109746991,8885200811,-,NA,NA,NA,NA,NA,NA,NA,问是不是有送机票，回答说有 有满足一定条件就会有送 ，了解餐馆过程中 问到餐馆在那个州 老板回复说算了算了 hanged up,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003gOtsMAE/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2023-12-31,Inbound Qualified,NA,NA,Sean,6827041980,8885200811,-,NA,NA,NA,NA,NA,NA,NA,"missed call, call back   Inbound Qualified",NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2024-01-01,Unqualified,NA,Not a Restaurant,Sean,9178422580,8885200811,-,NA,NA,NA,NA,NA,NA,NA,要买飞机票，打来问飞机票价钱多少，已经介绍我们帮餐馆代接电话 有合作才有送 不是卖飞机票,NA,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2024-01-02,Inbound Qualified,NA,NA,Kelvin,9173758796,8885200811,-,DM,林老板,NA,NA,中餐,Delivery,NY,"老板名字：林老板
+联系方式： 9173758796
+回拨时间：ASAP，一点之前打都可以
+餐类型：中餐，外卖
+电话订单：一天大概40单
+前台情况：自己接
+送餐情况： 有请2个pt师傅送，也让doordash,ubereat,grubhub送
+客户来源： Inbound
+促销活动： -
+note: 这个手机号是老板的，刚刚和太太聊。简单介绍我们的操作。想知道收费和流程。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPJpEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1,NA,Chinese Version,Drop 1 - US
+2024-01-02,Inbound Qualified,NA,NA,Yannie,4437226918,8885753251,-,DM,潘老板娘,NA,NA,中餐,Pickup,Maryland,"老板名字：潘老板娘 （广东话）
+联系方式 ： 4437226918 （Maryland）
+回拨时间：ASAP
+餐类型：中餐
+电话订单：不清楚
+前台情况：自己接
+送餐情况：来取，自己请司机送
+客户来源：Inbound
+促销活动：30 Days Free Trial -VP+DE
+Notes (痛点等）：收到广告想了解我们的收费，大概讲解了如何操作，感觉老板娘只是要接电话的服务，要了解价格后才考虑要不要和我们合作。",https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003k7rBMAQ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2,NA,NA,Drop 2 - US

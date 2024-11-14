@@ -1,0 +1,335 @@
+Date,Lead Status,Rejected Reason,Unqualified Reason,SDR,Phone,Extension Number,Extension Channel,Channel Collected,Owner Name,Restaurant Name,Restaurant Number,Cuisine Type,"Pickup/
+Delivery",State,SF Link,Campaign Sent
+12/26/2023,Unqualified,,Current Client,Sean,9173273641,8888969083,Google SEM,,,new china 1,7404252101,,,,,Mkt_PaidSearch_Google_AllCampaigns
+12/26/2023,Unqualified,,Not a Restaurant,Kelvin,7065306335,8888969395,Google Display,,,,,,,,,Mkt_Display_Google_AllCampaigns
+12/26/2023,Abandoned,,,Kelvin,7185783781,,-,,,,,,,,,Campaign Name
+12/26/2023,Inbound Qualified,,,Sean,9172579921,8888968962,SMS,Telemarketer,林老板娘,,,美式中餐,,,,Mkt_SMS_Internal_General
+12/26/2023,Inbound Qualified,,,Kelvin,8649416196,8888969083,Google SEM,Organic Direct,Jenny,Happy China,7068690810,中餐,Pickup,GA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHSeEAO/view,Mkt_PaidSearch_Google_AllCampaigns
+12/26/2023,Abandoned,,,Kelvin,6478611298,,-,,,,,,,,,Campaign Name
+12/26/2023,Rejected,No interest to talk to sales,,Kelvin,7185783781,,-,DM,陈老板,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003LiM8MAK/view,Campaign Name
+12/26/2023,Unqualified,,Not a Restaurant,Kelvin,9173066527,8882353972,https://getskt.com/,,,,,,,,,Mkt_SEO_Internal_AllTraffic
+12/26/2023,Inbound Qualified,,,Yannie,9319986666,8885200811,DM,Client Referral;DM,Sunnie,KISORO JANPANESE RESTAURANT,,日餐,Pickup,TN,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003LmcbMAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/26/2023,Unqualified,,Current Client,Sean,2675866913,8885753251,DM,-,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+12/26/2023,Inbound Qualified,,,Kelvin,9174438872,8882353821,WeChat - Blog,Wechat,刘老板,CHINA CHEF,9316483833,中餐,Pickup,TN,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPXIEA4/view,Mkt_WeChatBlogs_WeChat_General
+12/26/2023,Inbound Qualified,,,Yannie,6462891471,8888969083,Google SEM,DM,黄老板,IMPERIAL HOUSE RESTAURANT,,中餐,Pickup,WI,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHoXEAW/view,Mkt_PaidSearch_Google_AllCampaigns
+12/26/2023,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,6467057809,8885753251,DM,DM,郑老板,,,日餐,Pickup,,,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+12/26/2023,Unqualified,,Not a Restaurant,Sean,3239520216,8888968962,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+12/26/2023,Unqualified,,Not a Restaurant,Sean,9178150286,8885200811,DM,-,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/27/2023,Inbound Qualified,,,Yannie,9172569628,8885200811,DM,DM;SMS,陈老板,,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQnBEAW/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/27/2023,Rejected,No interest to talk to sales,,Yannie,3127745288,8885753251,DM,DM,张老板,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003PoKrMAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+12/27/2023,Inbound Qualified,,,Sean,7186666972,8885200811,DM,DM,曾老板娘,,,中餐外卖,Delivery,New Jersey,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000000xcm1MAA/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/27/2023,Abandoned,Cannot contact lead,,Sean,3239520216,,-,-,,,,,,,,Campaign Name
+12/27/2023,Rejected,No interest to talk to sales,,Kelvin,9178382198,8885200811,DM,DM,Shawn,,,中餐,Delivery,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPAZEA4/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/27/2023,Unqualified,,Not a Restaurant,Yannie,8314251169,8882623650,,-,,,,,,,,MKT_YouTubeAds_YouTube_General
+12/27/2023,Inbound Qualified,,,Yannie,6085152450,8885200811,DM,DM,刘老板娘,,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003QFUkMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Inbound Qualified,,,Yannie,9179153246,9179153246,-,DM,Tyler ,,,日餐,Pickup,Ontario,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003TdNfMAK/view,Mkt_General_All_migration
+12/28/2023,Inbound Qualified,,,Sean,2078523281,8885200559,DM,DM,陈老板娘,,,日餐堂吃,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOFXEA4/view,Mkt_General_All_migration
+12/28/2023,Inbound Qualified,,,Sean,9179153246,8885200811,DM,DM,老板娘,,,,, New Hampshire,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003TcjKMAS/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Abandoned,,,Yannie,3479095099,,-,-,,,,,,,,Campaign Name
+12/28/2023,Abandoned,,,Yannie,3239520216,,-,-,,,,,,,,Campaign Name
+12/28/2023,Inbound Qualified,,,Yannie,6463559565,8885200559,DM,Organic - Direct,董老板,,,中餐,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003TraHMAS/view,Mkt_General_All_migration
+12/28/2023,Inbound Qualified,,,Yannie,5867011317,8885200811,DM,DM,朱老板,,,中餐,Pickup,Michigan,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Tt94MAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Unqualified,,Current Client,Sean,8582310935,8885753251,DM,DM,,Basil Thai R86616,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop2
+12/28/2023,Unqualified,,Current Client,Sean,6465781905,8885200811,DM,DM,,Seafood boil R86716,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Inbound Qualified,,,Kelvin,2254806733,8885200811,DM,DM,,LIGHT STAR CHINESE RESTAURANT,8602432871,中餐,Delivery,CT,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEejEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Rejected,No interest to talk to sales,,Kelvin,2047307119,8882353802,DM,DM,,,,,,,,Mkt_DM_Snowflake_2023ChristmasV2
+12/28/2023,Inbound Qualified,,,Sean,9294989588,8885200811,DM,DM,包老板娘,GOLDEN MOUNTAIN,,美式中餐,,ohaiyo,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKglEAG/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Inbound Qualified,,,Kelvin,7182077742,8882353685,SMS,DM,Nini,Yip's Garden,5188741002,中餐,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003UAHyMAO/view,Mkt_SMS_Internal_General
+12/28/2023,Unqualified,,Current Client,Yannie,6469222723,8885200811,DM,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17QOAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Unqualified,,Current Client,Kelvin,6469222723,8885200811,DM,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17QOAAZ/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Inbound Qualified,,,Kelvin,2486359236,8885200811,DM,DM,梁老板娘,,,中餐,Pickup,MI,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003UkWjMAK/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/28/2023,Unqualified,,Not a Restaurant,Kelvin,9044390757,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Inbound Qualified,,,Kelvin,6462393441,8888968962,SMS,DM,江老板娘,Yummy Sushi,9044328985,中日餐,Pickup,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO3tEAG/view,Mkt_SMS_Internal_General
+12/29/2023,Abandoned,,,Kelvin,2403247358,,-,,,,,,,,,Campaign Name
+12/29/2023,Inbound Qualified,,,Kelvin,7204992295,3806666678,SMS,DM,杨老板,Fuji&Pho Cafe,5633220408,日餐+亚洲餐,Pickup,IA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNznEAG/view,Mkt_SMS_Internal_General
+12/29/2023,Unqualified,,Not a Restaurant,Kelvin,3239520216,,-,,,,,,,,,Campaign Name
+12/29/2023,Unqualified,,Not a Restaurant,Kelvin,9173024579,8885200811,DM,DM,,,,中餐,Delivery,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,6105474889,8888968962,SMS,DM,,,,中日餐,Pickup,,,Mkt_SMS_Internal_General
+12/29/2023,Inbound Qualified,,,Sean,6264000532,8882353972,https://getskt.com/,"Telemarketer,",Melody,,,美式中餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WNnnMAG/view,Mkt_SEO_Internal_AllTraffic
+12/29/2023,Unqualified,,Not a Restaurant,Kelvin,2284937263,8885200811,DM,DM,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Inbound Qualified,,,Sean,9175433062,8885200811,DM,DM,Jason,,,美式中餐,,ohaiyo,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WZLtMAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Unqualified,,Cannot Service Cuisine/Menu,Sean,4038915576,8882353802,DM,DM,,,,,,,,Mkt_DM_Snowflake_2023ChristmasV2
+12/29/2023,Unqualified,,Not a Restaurant,Kelvin,2502519793,8882353802,DM,DM,,,,,,,,Mkt_DM_Snowflake_2023ChristmasV2
+12/29/2023,Rejected,No interest to talk to sales,,Sean,3479095099,8882353972,https://getskt.com/,Organic - Direct,男老板,,,中餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WYeMMAW/view,Mkt_SEO_Internal_AllTraffic
+12/29/2023,Inbound Qualified,,,Sean,8133369988,8885200811,DM,DM,缪老板,,,中餐,, FL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003WFF9MAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Inbound Qualified,,,Sean,5174144551,8885200811,DM,DM,陈老板娘,,,中餐外卖,,Michigan,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Wn3tMAC/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/29/2023,Abandoned,Cannot contact lead,,Sean,6098574125,8882623650,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+12/29/2023,Abandoned,Cannot contact lead,,Sean,6098574125,8882623650,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+12/29/2023,Inbound Qualified,,,Sean,2365088531,8882353802,DM,DM,Cecilia,,,美式中餐,,加拿大,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003Y6R4MAK/view,Mkt_DM_Snowflake_2023ChristmasV2
+12/29/2023,Inbound Qualified,,,Sean,9173300261,8882353718,DM,DM,董老板,,,美式中餐,,康州,,Mkt_DM_Snowflake_2023ChristmasEng
+12/30/2023,Inbound Qualified,,,Sean,3302425966,8885200811,DM,DM,王老板,,,中餐 buffet店,,Ohio,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKFrEAO/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Unqualified,,Duplicate,Sean,3302425966,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Inbound Qualified,,,Sean,6827041980,8882353805,Douyin,DM,周老板娘,,,美式中餐,,Texas,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003gMaKMAU/view,MKT_Douyin_Douyin_General
+12/30/2023,Abandoned,,,Sean,9178878689,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Abandoned,,,Sean,9178878689,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Abandoned,,,Sean,9176680031,,-,,,,,,,,,Campaign Name
+12/30/2023,Unqualified,,Duplicate,Sean,6827041980,8882353805,Douyin,,,,,,,,,MKT_Douyin_Douyin_General
+12/30/2023,Unqualified,,Duplicate,Sean,6827041980,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Abandoned,,,Sean,6517762522,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Abandoned,,,Sean,3063840844,8882353802,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasV2
+12/30/2023,Unqualified,,Not a Restaurant,Sean,6098574125,8882623650,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+12/30/2023,Rejected,No interest to talk to sales,,Sean,5109746991,8885200811,DM,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003gOtsMAE/view,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/30/2023,Abandoned,,,Sean,8066633935,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+12/31/2023,Abandoned,,,Sean,3239520216,,-,,,,,,,,,Campaign Name
+12/31/2023,Inbound Qualified,,,Sean,6827041980,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2023ChristmasUSDrop1
+12/31/2023,Abandoned,,,Sean,6463825662,,-,,,,,,,,,Campaign Name
+12/31/2023,Unqualified,,Current Client,Sean,2675855966,8882353821,WeChat - Blog,,,R81103,,,,,,Mkt_WeChatBlogs_WeChat_General
+12/31/2023,Abandoned,,,Sean,5165592643,8882353972,https://getskt.com/,,,,,,,,,Mkt_SEO_Internal_AllTraffic
+12/31/2023,Abandoned,,,Sean,6265371235,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+12/31/2023,Abandoned,,,Sean,6265371235,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/1/2024,Unqualified,,Current Client,Sean,2675855966,8882353821,WeChat - Blog,,,R81103,,,,,,Mkt_WeChatBlogs_WeChat_General
+1/1/2024,Unqualified,,Not a Restaurant,Sean,9178422580,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+1/1/2024,Unqualified,,Not a Restaurant,Sean,3239520216,,-,,,,,,,,,Campaign Name
+1/1/2024,Unqualified,,Not a Restaurant,Sean,7327688890,8882623650,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+1/1/2024,Inbound Qualified,,,Kelvin,2128100695,,-,DM,江老板,Beijing Restaurant,3016315522,中餐,Delivery,MD,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCJ2EAO/view,Campaign Name
+1/2/2024,Unqualified,,Duplicate,Kelvin,9173758796,8885200811,DM,DM,林老板,,,中餐,Delivery,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPJpEAO/view,Mkt_DM_Snowflake_2024JanV1
+1/2/2024,Inbound Qualified,,,Yannie,4437226918,8885753251,DM,DM,潘老板娘,,,中餐,Pickup,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003k7rBMAQ/view,Mkt_DM_Snowflake_2024JanV3
+1/2/2024,Inbound Qualified,,,Kelvin,6517762522,,-,DM,周老板娘,WONG'S KITCHEN,6517762522,中餐,Pickup,MN,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKL3cEAG/view,Campaign Name
+1/2/2024,Inbound Qualified,,,Eelin,6463395540,8888968962,SMS,ORGANIC DIRECT,Amanda,TASTE OF CHINA,,中餐,Delivery,FL,,Mkt_SMS_Internal_General
+1/2/2024,Rejected,No interest to talk to sales,,Sean,6313277515,8888968962,SMS,DM,林老板娘,RED AND BLUE ASIA GRILL BAR IN,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGhhEAG/view,Mkt_SMS_Internal_General
+1/2/2024,Unqualified,,Not a Restaurant,Kelvin,3239520216,,-,,,,,,,,,Campaign Name
+1/2/2024,Unqualified,,Current Client,Eelin,6787071056,8882353972,https://getskt.com/,,MAGIC WOK R83319,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/2/2024,Inbound Qualified,,,Yannie,7813253522,8882353972,https://getskt.com/,DM,刘老板,,,日餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003l3rzMAA/view,Mkt_SEO_Internal_AllTraffic
+1/2/2024,Rejected,No interest to talk to sales,,Eelin,9292049405,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/2/2024,Abandoned,,,Eelin,3477384673,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/2/2024,Abandoned,,,Eelin,3064801228,8888069153,https://getskt.com/,,,,,,,,,Mkt_General_All_migration
+1/3/2024,Abandoned,,,Eelin,7574966000,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Unqualified,,Not a Restaurant,Eelin,5162441111,8882353680,WeChat - Ads,,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/3/2024,Unqualified,,Current Client,Eelin,7182077742,8882353685,SMS,Yip's Garden R86771,,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Unqualified,,Not a Restaurant,Sean,4158528294,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Abandoned,,,Yannie,3154642500,8882353821,WeChat - Blog,,,,,,,,,Mkt_WeChatBlogs_WeChat_General
+1/3/2024,Abandoned,,,Yannie,9492667633,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Inbound Qualified,,,Yannie,9172162280,3806666678,SMS,DM,郭老板,CHINA STAR,,中餐,Pickup,GA,"https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHDeEAO/view
+",Mkt_SMS_Internal_General
+1/3/2024,Inbound Qualified,,,Sean,9172888629,8888069153,https://getskt.com/,,,,,,,,,Mkt_General_All_migration
+1/3/2024,Inbound Qualified,,,Sean,9492667633,,,DM,Carol老板娘,,,素食,Pickup, CA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022srldEAA/view,
+1/3/2024,Unqualified,,Current Client,Sean,6464312582,8888968962,SMS,SMS,R81587,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Unqualified,,Not a Restaurant,Eelin,5094600236,8888968962,SMS,SMS,JOHN,,,,,,,Mkt_SMS_Internal_General
+1/3/2024,Unqualified,,Current Client,Eelin,7347312888,8885200559,DM,,^DRAGON EXPRESS^ R83216,,,,,,,Mkt_DM_Snowflake_2024JanV2
+1/3/2024,Abandoned,,,Yannie,7152849851,8885869039,SMS,,,,,,,,,Mkt_General_All_migration
+1/3/2024,Unqualified,,Duplicate,Yannie,3477032018,8888968962,SMS,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOMqEAO/view,Mkt_SMS_Internal_General
+1/3/2024,Inbound Qualified,,,Sean,3305073787,9179858867,Sales,DM,张老板娘,,,美式中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOkPEAW/view,Mkt_General_All_migration
+1/3/2024,Inbound Qualified,,,Sean,9173347098,8888968962,SMS,SMS,Rij,,,印度餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003p5VPMAY/view,Mkt_SMS_Internal_General
+1/3/2024,Inbound Qualified,,,Yannie,8284596699,8888969083,Google SEM,DM,Sue,,,中日餐 ,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003ozTEMAY/view,Mkt_PaidSearch_Google_AllCampaigns
+1/3/2024,Rejected,No interest to talk to sales,,Eelin,4237570088,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+1/3/2024,Inbound Qualified,,,Sean,4138224668,8885200811,DM,DM,林老板娘,,,中餐 + 一点海鲜,,Massachusetts,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003pLAMMA2/view,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Unqualified,,Current Client,Sean,9294762068,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/4/2024,Unqualified,,Current Client,Sean,8602372156,8888569583,DM,,,,,,,,,Mkt_General_All_migration
+1/4/2024,Unqualified,,Not a Restaurant,Sean,6462555293,3806666678,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/4/2024,Rejected,Is ICP but Interested in DE Only,,Yannie,6462555293,3806666678,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/4/2024,Unqualified,,Current Client,Yannie,3153785779,,-,,,H. K R88895,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17nNAAR/view,Campaign Name
+1/4/2024,Inbound Qualified,,,Yannie,3064801228,,-,DM,阿标 ,,,,Pickup,Saskatchewan,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003lOTOMA2/view,Campaign Name
+1/4/2024,Unqualified,,Not a Restaurant,Yannie,6466003325,,-,,,,,,,,,Campaign Name
+1/4/2024,Inbound Qualified,,,Sean,5154508280,8885200811,DM,DM,吕老板娘,Wok N Roll,,川菜,,lowa,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003splOMAQ/view,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Unqualified,,Current Client,Yannie,8594209949,8885753251,DM,,杨老板,CHINA KING R81928,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17OkAAJ/view,Mkt_DM_Snowflake_2024JanV3
+1/4/2024,Inbound Qualified,,,Sean,3036387757,3806666678,SMS,DM,吴老板,Corner Poke,,日餐,,Colorado,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003t3MvMAI/view,Mkt_SMS_Internal_General
+1/4/2024,Inbound Qualified,,,Yannie,7702350483,8885200811,DM,DM,杨老板,,,炸鸡店,Pickup,GA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOAiEAO/view,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Inbound Qualified,,,Kelvin,6463859882,8885200811,DM,DM,张老板娘,Great Wall Restaurant,3167219888,中餐,Pickup,KS,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIMXEA4/view,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Unqualified,,Duplicate,Yannie,6625498011,8882353972,https://getskt.com/,,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/4/2024,Inbound Qualified,,,Yannie,6625498011,8885200811,DM,Client Referral,陈老板娘,Peking Chinese Restaurant,,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDWWEA4/view,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Unqualified,,Not a Restaurant,Kelvin,8184301466,3806666678,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/4/2024,Unqualified,,Not a Restaurant,Yannie,7207571412,3806666678,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/4/2024,Unqualified,,Not a Restaurant,Kelvin,5635876454,8882353809,Youtube - Channel,,,,,,,,,Mkt_YoutubeChannel_Youtube_General
+1/4/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Sean,3302803453,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+1/4/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,9023163326,8882353802,DM,DM,Anna,,,,,,,Mkt_DM_Snowflake_2024JanV4
+1/5/2024,Inbound Qualified,,,Kelvin,7277715968,8885200811,DM,DM,刘老板,,,中餐,Pickup,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003xFMHMA2/view,Mkt_DM_Snowflake_2024JanV1
+1/5/2024,Inbound Qualified,,,Kelvin,6462513677,8888968962,SMS,SMS,Andy,Taste of China,8132490739,中餐,Pickup,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCcYEAW/view,Mkt_SMS_Internal_General
+1/5/2024,Abandoned,,,Kelvin,2674014925,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/5/2024,Inbound Qualified,,,Kelvin,7173092460,8885200811,DM,DM,Alex,,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003xUbSMAU/view,Mkt_DM_Snowflake_2024JanV1
+1/5/2024,Inbound Qualified,,,Yannie,8565718968,8888968962,SMS,DM,林老板娘,,,中餐,Pickup,NJ,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000003xafKMAQ/view,Mkt_SMS_Internal_General
+1/5/2024,Abandoned,,,Yannie,2095844589,8882353722,Restaurant Journal,,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/5/2024,Unqualified,,Duplicate,Kelvin,7185687209,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/5/2024,Inbound Qualified,,,Kelvin,5038809049,8885200811,DM,,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+1/5/2024,Unqualified,,Current Client,Yannie,8602372156,8888569583,DM,,CHINA MOON R86123,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WXFVVAA5/view,Mkt_General_All_migration
+1/6/2024,Unqualified,,Current Client,Yannie,9175135218,8882353972,https://getskt.com/,,BROTHER'S RESTAURANT R83663,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17dvAAB/view,Mkt_SEO_Internal_AllTraffic
+1/6/2024,Abandoned,,,Yannie,9108802268,,-,,,,,,,,,Campaign Name
+1/6/2024,Unqualified,,Current Client,Yannie,4849359080,,-,,^ORIENTAL KITCHEN^ R81297,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17IXAAZ/view,Campaign Name
+1/6/2024,Unqualified,,Duplicate,Yannie,4849359080,,-,,^ORIENTAL KITCHEN^ R81297,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17IXAAZ/view,Campaign Name
+1/6/2024,Inbound Qualified,,,Yannie,7323520539,8885753251,DM,DM,李老板娘,,,中餐,Pickup,NJ,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000041AMRMA2/view,Mkt_DM_Snowflake_2024JanV3
+1/6/2024,Unqualified,,Current Client,Yannie,8328123229,3806666678,SMS,,CHEF KENNY'S ASIAN VEGAN CUISINE R86511,,,,,,,Mkt_SMS_Internal_General
+1/6/2024,Inbound Qualified,,,Yannie,2506507218,8882353802,DM,,Peter,,,,Pickup,BC,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000251gb6EAA/view,Mkt_DM_Snowflake_2024JanV4
+1/7/2024,Abandoned,,,Eelin,9293095984,,-,,,,,,,,,Campaign Name
+1/7/2024,Unqualified,,Not a Restaurant,Eelin,6023496675,,-,,,,,,,,,Campaign Name
+1/7/2024,Inbound Qualified,,,Eelin,8314198588,3806666678,SMS,DM,冯老板,,,,Pickup,,,Mkt_SMS_Internal_General
+1/7/2024,Inbound Qualified,,,Eelin,9172153030,8885200811,DM,DM,林小姐,ORIENTAL EXPRESS,,中日餐,Pickup,FL,,Mkt_DM_Snowflake_2024JanV1
+1/7/2024,Inbound Qualified,,,Eelin,8432272401,3806666678,SMS,DM,STELLA (周小姐）,crave Station,,日餐,,south carolina,,Mkt_SMS_Internal_General
+1/7/2024,Unqualified,,Duplicate,Eelin,8314198588,3806666678,SMS,DM,冯老板,,,,,,,Mkt_SMS_Internal_General
+1/8/2024,Abandoned,,,Eelin,9175159588,,-,,"Lin,yan zhi",,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000044mwfMAA/view,Campaign Name
+1/8/2024,Unqualified,,Duplicate,Eelin,3302244119,,-,,Ms. winter,,,,,,,Campaign Name
+1/8/2024,Inbound Qualified,,,Eelin,8137897992,,-,DM,林先生,CHINA TASTE,3523691688,中餐,Pickup,,,Campaign Name
+1/8/2024,Inbound Qualified,,,Eelin,7182002127,,-,CLIENT REFER,曾,CHINA STAR,4072530388,中餐,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOxiEAG/view,Campaign Name
+1/8/2024,Inbound Qualified,,,Eelin,9178636968,,-,DM,ANNA,,6463279545,,,,,Campaign Name
+1/8/2024,Inbound Qualified,,,Eelin,4167202609,8885200811,DM,DM,MICHELL,,9053830699,中餐,Pickup,,,Mkt_DM_Snowflake_2024JanV1
+1/8/2024,Unqualified,,Not a Restaurant,Eelin,9175928518,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/8/2024,Abandoned,,,Eelin,5108370880,8882353722,Restaurant Journal,,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/8/2024,Inbound Qualified,,,Eelin,9175159588,,-,DM,林小姐,FORTUNE KITCHEN,4193351888,中餐,Pickup,,,Campaign Name
+1/8/2024,Abandoned,,,Eelin,7328819108,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/8/2024,Inbound Qualified,,,Eelin,6462875511,8888968962,SMS,DM,林,HA BO KITCHEN,,中餐,Pickup,,,Mkt_SMS_Internal_General
+1/8/2024,Inbound Qualified,,,Eelin,8123915244,8885753251,DM,DM,王小姐,GOLDEN CHINA RESTAURANT,8123359688,中餐+自助餐,Pickup,,,Mkt_DM_Snowflake_2024JanV3
+1/8/2024,Unqualified,,Current Client,Kelvin,7189089885,8888968962,SMS,,,LINDA R88193,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17gkAAB/view,Mkt_SMS_Internal_General
+1/8/2024,Inbound Qualified,,,Eelin,2076500338,8885200811,DM,DM,李老板 ,,,日本餐,Pickup,,,Mkt_DM_Snowflake_2024JanV1
+1/8/2024,Unqualified,,Not a Restaurant,Eelin,7328819108,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/8/2024,Inbound Qualified,,,Kelvin,8573661557,3806666678,SMS,DM,Sammi,Cubist Circle,6172328500,川菜,Pickup,MA,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004903JMAQ/view,Mkt_SMS_Internal_General
+1/8/2024,Inbound Qualified,,,Kelvin,3127528638,8888968962,SMS,DM,Jeff,Happy Chef,7084888181,中餐,Delivery,IL,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO2WEAW/view,Mkt_SMS_Internal_General
+1/8/2024,Unqualified,,Lead Does Not Have Phone Ordering Business,Kelvin,3215075346,8885753251,DM,DM,,,,,,,,Mkt_DM_Snowflake_2024JanV3
+1/8/2024,Inbound Qualified,,,Kelvin,4708076363,8882353821,WeChat - Blog,Online Forum,林老板娘,,,鸡翅,Pickup,GA,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000049Gb9MAE/view,Mkt_WeChatBlogs_WeChat_General
+1/8/2024,Inbound Qualified,,,Kelvin,9178650308,8888968962,SMS,DM,陈老板,CHINA HOUSE,6095857739,中餐,Pickup,NJ,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJrYEAW/view,Mkt_SMS_Internal_General
+1/9/2024,Inbound Qualified,,,Eelin,9172081674,3806666678,SMS,DM,黄小姐,,,,Pickup,,,Mkt_SMS_Internal_General
+1/9/2024,Inbound Qualified,,,Eelin,4236503184,8882353972,https://getskt.com/,client refer,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/9/2024,Unqualified,,Not a Restaurant,Kelvin,8327858138,8885200559,DM,DM,,,,日餐,Pickup,,,
+1/9/2024,Inbound Qualified,,,Yannie,6316671888,8885200811,DM,SMS,Alex,XING WANG KITCHEN,,中餐,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKF3MEAW/view,Mkt_DM_Snowflake_2024JanV1
+1/9/2024,Abandoned,,,Yannie,7328819108,8888968962,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+1/9/2024,Unqualified,,Duplicate,Yannie,7328819108,8888968962,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+1/10/2024,Unqualified,,Not a Restaurant,Kelvin,9295201288,8888969083,Google SEM,-,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/10/2024,Unqualified,,Not a Restaurant,Eelin,2034332988,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/10/2024,Abandoned,,,Eelin,4153702864,8885200811,DM,-,,,,,,,,Mkt_DM_Snowflake_2024JanV1
+1/10/2024,Rejected,No interest to talk to sales,,Eelin,2028340920,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/10/2024,Unqualified,,Not a Restaurant,Eelin,6265305760,8882353680,WeChat - Ads,-,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/11/2024,Abandoned,,,Eelin,4153702864,,-,-,,,,,,,,Campaign Name
+1/11/2024,Rejected,No interest to talk to sales,,Eelin,2028340920,,-,-,,,,,,,,Campaign Name
+1/11/2024,Unqualified,,Not a Restaurant,Eelin,6265305760,,-,-,,,,,,,,Campaign Name
+1/11/2024,Inbound Qualified,,,Eelin,4153702864,,-,-,ESTHER,Elevation 66 Brewing Company,5105254800,AMERICAN FOOD,Pickup,CA,,Campaign Name
+1/11/2024,Inbound Qualified,,,Eelin,7866617988,,-,-,刘,LONG GONG RESTAURANT,3055534644,中餐,,FL,,Campaign Name
+1/11/2024,Unqualified,,Current Client,Eelin,2283135708,8888968962,SMS,-,R83828,,,,,,,Mkt_SMS_Internal_General
+1/11/2024,Rejected,Is ICP but Interested in DE Only,,Eelin,6268273888,3806666678,SMS,-,梁,,,,,CA,,Mkt_SMS_Internal_General
+1/11/2024,Inbound Qualified,,,Eelin,8604808458,3806666678,SMS,-,卓,,,中餐,,,,Mkt_SMS_Internal_General
+1/11/2024,Abandoned,,,Yannie,5869922091,8882353722,Restaurant Journal,-,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/11/2024,Inbound Qualified,,,Yannie,5038511804,8885200811,DM,DM,Mr.Dey,,,亚洲中餐,Pickup,OR,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004KZaPMAW/view,Mkt_DM_Snowflake_2024JanV1
+1/11/2024,Unqualified,,Not a Restaurant,Kelvin,9174985018,8889091828,Email,-,,,,,,,,Mkt_General_All_migration
+1/11/2024,Inbound Qualified,,,Kelvin,6469321133,,-,Organic Direct,Jacob,China Food,5137841113,中餐,Delivery,OH, https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004FxtWMAS/view,Campaign Name
+1/12/2024,Inbound Qualified,,,Sean,6467055511,,-,client refer,陈老板,,,美式中餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHg8EAG/view,Campaign Name
+1/12/2024,Rejected,No interest to talk to sales,,Sean,8728037999,8885753251,DM,-,男老板,,,日餐,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004O5ViMAK/view,Mkt_DM_Snowflake_2024JanV3
+1/12/2024,Unqualified,,Current Client,Yannie,9173859931,8882353972,https://getskt.com/,-,,Dragon 89 R86763,,,,,https://wondersco.lightning.force.com/lightning/r/Account/001Uo000001mLWEIA2/view,Mkt_SEO_Internal_AllTraffic
+1/12/2024,Unqualified,,Current Client,Yannie,3473999005,8888969083,Google SEM,-,,^PEKING EXPRESS^ R83519,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17cNAAR/view,Mkt_PaidSearch_Google_AllCampaigns
+1/12/2024,Rejected,No interest to talk to sales,,Yannie,9542785896,8885753251,DM,DM,男老板,,,手抓海鲜,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004OvxJMAS/view,Mkt_DM_Snowflake_2024JanV3
+1/13/2024,Unqualified,,Not a Restaurant,Yannie,9175900055,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/13/2024,Unqualified,,Not a Restaurant,Yannie,4082109634,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/13/2024,Inbound Qualified,,,Yannie,7183136997,8882353972,https://getskt.com/,DM,Owen,,,中餐,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004SF0EMAW/view,Mkt_SEO_Internal_AllTraffic
+1/14/2024,Abandoned,,,Sean,6463078179,,-,-,,,,,,,,Campaign Name
+1/15/2024,Inbound Qualified,,,Kelvin,3366398293,8889091828,Email,Client Referral,林老板,Hibachi House,3365246368,日餐,Pickup,NC,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO24EAG/vieww,Mkt_General_All_migration
+1/15/2024,Unqualified,,Duplicate,Kelvin,6465107222,8889091828,Email,-,,,,,,,,Mkt_General_All_migration
+1/15/2024,Inbound Qualified,,,Kelvin,6463018179,,-,DM,林老板,New Panda Chinese Restaurant,6463018179,中餐,Delivery,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004Vik1MAC/view,Campaign Name
+1/15/2024,Inbound Qualified,,,Kelvin,9176026226,,-,DM,李老板,Chopsticks Cafe,9128762467,中餐,Pickup,GA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGzkEAG/view,Campaign Name
+1/15/2024,Unqualified,,Not a Restaurant,Kelvin,8605541389,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/15/2024,Unqualified,,Duplicate,Kelvin,9176578288,8885200931,Wechat - Videos,-,,,,,,,,MKT_WeChatVideo_WeChat_Mid-autumn
+1/15/2024,Abandoned,,,Kelvin,8473051849,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/15/2024,Rejected,No interest to talk to sales,,Kelvin,3063724890,8882353802,DM,DM,,Golden Dragon,,中西餐,Pickup,Canada,,Mkt_DM_Snowflake_2024JanV4
+1/15/2024,Inbound Qualified,,,Kelvin,6466172330,8882353821,WeChat - Blog,Wechat-Ads,Morgan,-,,奶茶店,Pickup,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004WPXFMA4/view,Mkt_WeChatBlogs_WeChat_General
+1/16/2024,Inbound Qualified,,,Yannie,8162867799,8882353972,https://getskt.com/,Client Referral,齐老板娘,,,中餐,Pickup,Kansas,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004XOakMAG/view,Mkt_SEO_Internal_AllTraffic
+1/16/2024,Inbound Qualified,,,Yannie,9173789696,8882353972,https://getskt.com/,DM,周老板,,,中餐+奶茶+sushi,,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJBBEA4/view,Mkt_SEO_Internal_AllTraffic
+1/16/2024,Unqualified,,Not a Restaurant,Yannie,6264383013,8888069153,https://getskt.com/,-,,,,,,,,Mkt_General_All_migration
+1/17/2024,Unqualified,,Duplicate,Kelvin,9173708793,,-,-,,,,,,,,Campaign Name
+1/17/2024,Inbound Qualified,,,Kelvin,3523978664,,-,Organic Direct,刘老板,EVERGREEN FOOD CARRY OUT,3523978664,中餐,Delivery,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEIdEAO/view,Campaign Name
+1/17/2024,Unqualified,,Current Client,Kelvin,6466875018,8882353972,https://getskt.com/,-,,XIN XING R82378,,,,,,Mkt_SEO_Internal_AllTraffic
+1/18/2024,Abandoned,,,Kelvin,8473051849,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/18/2024,Unqualified,,Current Client,Kelvin,8322060083,8882353680,WeChat - Ads,-,,DYNASTY CUISINE R82671,,,,,,Mkt_WeChatAds_WeChat_General
+1/18/2024,Inbound Qualified,,,Sean,9172150202,8885200811,DM,-DM,温老板娘,,,中式buffet,Pickup,Alabama,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004eDlqMAE/view,Mkt_DM_Snowflake_2024JanV1
+1/18/2024,Inbound Qualified,,,Sean,7188085963,8888069153,https://getskt.com/,-DM,江老板,lucky star,,美式中餐,,NY,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPSWEA4/view,Mkt_General_All_migration
+1/18/2024,Rejected,Not a decision maker,,Kelvin,6265962768,8888069153,https://getskt.com/,DM,,,,,,,,Mkt_General_All_migration
+1/19/2024,Inbound Qualified,,,Yannie,4438958886,8885200811,DM,DM,Jenny,LUCKY EXPRESS,,美式中餐,Pickup,MD,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCWYEA4/view,Mkt_DM_Snowflake_2024JanV1
+1/19/2024,Inbound Qualified,,,Sean,6822391150,8885200811,DM,DM,winson,HALTOM CHINESE RESTAURANT,,美式中餐,Pickup,德州,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIGjEAO/view,Mkt_DM_Snowflake_2024JanV1
+1/19/2024,Unqualified,,Current Client,Sean,3475276559,8888969083,Google SEM,-,王老板,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/20/2024,Inbound Qualified,,,Yannie,9177702672,8882353972,https://getskt.com/,Organic - Direct,余老板娘,,,中餐,Pickup,Florida,"https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004mjwdMAA/view
+",Mkt_SEO_Internal_AllTraffic
+1/20/2024,Abandoned,,,Yannie,2157645211,8882353619,WeChat - Ads,-,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/20/2024,Inbound Qualified,,,Eelin,3473482150,8882353619,WeChat - Ads,-,林老板,,,,,,,Mkt_WeChatAds_WeChat_General
+1/22/2024,Unqualified,,Not a Restaurant,Sean,6467976963,8882353619,WeChat - Ads,-,老板娘,,,,,,,Mkt_WeChatAds_WeChat_General
+1/22/2024,Rejected,No interest to talk to sales,,Sean,7573628587,8888968962,SMS,-cilent referral,女老板,,,,Delivery,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004txuqMAA/view,Mkt_SMS_Internal_General
+1/22/2024,Unqualified,,Current Client,Sean,4109716208,8882353972,https://getskt.com/,-,林老板,PEKING TACO  R83069,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17YPAAZ/view,Mkt_SEO_Internal_AllTraffic
+1/22/2024,Inbound Qualified,,,Sean,3124152555,8885200811,DM,-DM,Jenny,,,美式中餐,,芝加哥,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJIzEAO/view,Mkt_DM_Snowflake_2024JanV1
+1/23/2024,Abandoned,,,Sean,8166838383,,-,-,,,,,,,,Campaign Name
+1/23/2024,Inbound Qualified,,,Sean,9174280578,8888968358,WeChat ads,-cilent referral,xiu老板娘,,,手抓海鲜 中餐,Pickup,,"https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004yBb0MAE/view
+",Mkt_WeChatAds_WeChat_General
+1/23/2024,Inbound Qualified,,,Sean,2023613372,8885200811,DM,-DM,Andy,,,日本餐,Pickup,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000004yInmMAE/view,Mkt_DM_Snowflake_2024JanV1
+1/24/2024,Abandoned,,,Sean,9739069828,,-,-,,,,,,,,Campaign Name
+1/24/2024,Inbound Qualified,,,Sean,2129200587,8882353972,https://getskt.com/,-DM,翁老板,wing station,,炸鸡 和 hibachi,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNm5EAG/view,Mkt_SEO_Internal_AllTraffic
+1/24/2024,Unqualified,,Not a Restaurant,Sean,3473487576,8888969083,Google SEM,-,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+1/24/2024,Inbound Qualified,,,Sean,5618098455,3806666678,SMS,-DM ,陈老板娘,,,铁板,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000020hwR1EAI/view,Mkt_SMS_Internal_General
+1/24/2024,Inbound Qualified,,,Sean,2152065869,8888968962,SMS,-DM - ,刘老板娘,NEW GARDEN CHINESE RESTAURANT,,美式中餐外卖,Delivery,滨州,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJVQEA4/view,Mkt_SMS_Internal_General
+1/24/2024,Inbound Qualified,,,Sean,8645176387,8888968962,SMS,-DM,Tommy 温,,,亚洲餐,,Carolina,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCwnEAG/view,Mkt_SMS_Internal_General
+1/24/2024,Inbound Qualified,,,Kiera,9177414337,8888968962,SMS,SMS,小青,,,中餐+Cajun,Pickup,NC,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000052T4fMAE/view,Mkt_SMS_Internal_General
+1/24/2024,Unqualified,,Not a Restaurant,Sean,6464794024,8888968962,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/24/2024,Unqualified,,Null,Kiera,9098966522,8888968962,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+1/24/2024,Unqualified,,Null,Kiera,9098966522,8888968962,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+1/24/2024,Inbound Qualified,,,Sean,4067947749,8888968962,SMS,-DM ,Tina,,,中日餐,Pickup,Montana,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000052aCfMAI/view,Mkt_SMS_Internal_General
+1/24/2024,Unqualified,,Current Client,Sean,2673310908,,-,-,,CHINA MOON R88629,,,,,,Campaign Name
+1/24/2024,Abandoned,,Null,Sean,3235739987,8888968962,SMS,-,,,,,,,,Mkt_General_All_migration
+1/24/2024,,,,,6462298107,,-,,,,,,,,,
+1/25/2024,Inbound Qualified,,,Kiera,9295130820,8888968962,SMS,SMS,余,,,中餐,Pickup,IL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo00000560dbMAA/view,Mkt_SMS_Internal_General
+1/25/2024,Unqualified,,Not a Restaurant,Kiera,9549464190,8882353909,WeChat - Ads,-,,,,,,,,Mkt_WeChatAds_WeChat_General
+1/25/2024,Inbound Qualified,,,Sean,3476128745,8888968962,SMS,-DM ,陈老板娘,,,美式中餐 ,,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056AufMAE/view,Mkt_SMS_Internal_General
+1/25/2024,Inbound Qualified,,,Sean,5129235433,8888968962,SMS,-SMS,kay老板娘,,,美式中餐 ,,Utah,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056HJSMA2/view,Mkt_SMS_Internal_General
+1/25/2024,Abandoned,,,Sean,9292850971,8882353821,WeChat - Blog,-DM ,陈老板,,,,,,,Mkt_WeChatBlogs_WeChat_General
+1/25/2024,Inbound Qualified,,,Sean,3122566428,8888968962,SMS,-DM ,林老板,Oishi,,中日餐,,Clarksville,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021Na90EAC/view,Mkt_SMS_Internal_General
+1/25/2024,Rejected,,,Sean,4197096120,8889091828,Email,-cilent referral,陈老板,,,美式中餐,,Ohio,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056XrGMAU/view,Mkt_General_All_migration
+1/25/2024,Abandoned,,,Sean,6502008888,,-,,,,,,,,,Campaign Name
+1/25/2024,Abandoned,,,Sean,7813081539,,-,,,,,,,,,Campaign Name
+1/25/2024,Abandoned,,,Sean,3038778694,,-,,,,,,,,,Campaign Name
+1/25/2024,Inbound Qualified,,,Sean,6019884287,8883065813,Email,-DM ,曾老板娘,,,海鲜餐,,Mississippi,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056dAHMAY/view,Mkt_Email_Personal_Jan2024
+1/25/2024,Inbound Qualified,,,Kiera,9413808830,8882353972,https://getskt.com/,https://getskt.com/,唐老板,,,中餐,Delivery,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056devMAA/view,Mkt_SEO_Internal_AllTraffic
+1/25/2024,Inbound Qualified,,,Sean,2023901186,8885877618,SMS,-Organic Direct,老板娘,,,中餐来取,Pickup,,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000001ufCnMAI/viewhttps://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NZE6EAO/view,Mkt_SMS_Internal_General
+1/25/2024,Abandoned,,,Sean,4154101041,8885877618,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/25/2024,Rejected,Is ICP but Interested in DE Only,,Kiera,9057300992,8885200811,DM,DM,,,,,,Toronto,,Mkt_DM_Snowflake_2024JanV1
+1/25/2024,Inbound Qualified,,,Sean,6143903403,8885877618,SMS,-cilent referral,Vicky老板娘,,,美式中餐,,Ohio,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000056gzQMAQ/view,Mkt_SMS_Internal_General
+1/25/2024,Inbound Qualified,,,Kiera,,,-,SMS,黄老板娘,,,美式中餐,Pickup,WA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCiDEAW/view,Campaign Name
+1/25/2024,Rejected,No interest to talk to sales,,Kiera,6462298107,8885877618,SMS,SMS,,,,,,,,Mkt_SMS_Internal_General
+1/26/2024,Inbound Qualified,,,Eelin,5594579419,8885877618,SMS,DM/ TMK,陆老板 ,CHAN'S CHINESE FOOD,,中餐,Pickup,CA,"老板名字：陆老板 （粤语）
+回拨时间; ASAP
+州：CA
+联系方式：(559) 457-9419
+餐类型：中餐外卖
+电话订单：超过50单
+前台情况：自己接
+送餐情况： 来取
+客户来源：Inbound
+促销活动：30 days free trial
+NOTE：老板要了解VP+DE价钱
+SFDC LINK: https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEc4EAG/view",Mkt_SMS_Internal_General
+1/26/2024,Unqualified,,Duplicate,Eelin,5034734602,8888969083,Google SEM,,黄小姐,,,,,,,Mkt_PaidSearch_Google_BrandCampaigns
+1/26/2024,Inbound Qualified,,,Kiera,3015147126,8888968962,SMS,SMS,陈小姐,,,,Pickup,MD,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005AnivMAC/view,Mkt_General_All_migration
+1/26/2024,Rejected,No interest to talk to sales,,Eelin,9145140096,8888968962,SMS,SMS,AUSTIN,,,上海餐,Pickup,,,Mkt_General_All_migration
+1/26/2024,Inbound Qualified,,,Eelin,3046921933,8888968962,SMS,SMS,周老板,Great Wall Chinese Restaurant,,中餐,Pickup,WEST VIRGINA,,Mkt_General_All_migration
+1/26/2024,Rejected,No interest to talk to sales,,Eelin,7323932086,,-,,,,,,,,,Campaign Name
+1/27/2024,Unqualified,,Duplicate,Eelin,7077086326,,-,DM,Lisa Cong,SKY Dragon Restaurant,7077086326,中餐,,,,Campaign Name
+1/27/2024,Unqualified,,,Eelin,9176501006,8885200811,DM,,Main St. Crispy Burger R86388,,,,,,,Mkt_DM_Snowflake_2024FebSQL
+1/27/2024,Inbound Qualified,,,Eelin,9176501006,8885200811,DM,SMS,欧,ORIENTAL EXPRESS,9177606687,中餐,Delivery,NJ,,Mkt_DM_Snowflake_2024FebSQL
+1/27/2024,Inbound Qualified,,,Sean,9173464289,8885877618,SMS,DM,林老板,,,中餐外卖,,Nebraska,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005ER3tMAG/view,Mkt_SMS_Internal_General
+1/27/2024,Unqualified,,Current Client,Sean,3478815855,,-,,Szechuan Hot Wok R85738,,,,,,,Campaign Name
+1/27/2024,Abandoned,,,Eelin,5105202176,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_BrandCampaigns
+1/27/2024,Abandoned,,,Eelin,3476133907,8885877618,SMS,,,,,,,,,Mkt_SMS_Internal_General
+1/27/2024,Rejected,No interest to talk to sales,,Eelin,7345726864,8885753251,DM,,施,,,,,,,Mkt_DM_Snowflake_2024FebCW
+1/27/2024,Rejected,No interest to talk to sales,,Eelin,9293285066,3806666678,SMS,,,TEMPUYA,,,,,,Mkt_General_All_migration
+1/28/2024,Unqualified,,Current Client,Eelin,2483460173,8885753251,DM,,HONG KONG EXPRESS R81766,,,,,,,Mkt_DM_Snowflake_2024FebCW
+1/28/2024,Inbound Qualified,,,Eelin,2103674938,3806666678,SMS,DM,林,CHING'S CHINESE KITCHEN,,中餐,Pickup,TX,,Mkt_General_All_migration
+1/28/2024,Abandoned,,,Eelin,6307760809,8885869039,SMS,,,,,,,,,Mkt_General_All_migration
+1/28/2024,Inbound Qualified,,,Eelin,9173786116,8888969083,Google SEM,GOOGLE,张老板,,,炸鸡,Pickup,NJ,,Mkt_PaidSearch_Google_BrandCampaigns
+1/29/2024,Unqualified,,Not a Restaurant,Sean,9299920286,,-,,,,,,,,,Campaign Name
+1/29/2024,Unqualified,,Current Client,Kiera,9172166029,8888969083,Google SEM,,,,,,,,,Mkt_PaidSearch_Google_BrandCampaigns
+1/29/2024,Unqualified,,Current Client,Sean,3478815855,,-,,Szechuan Hot Wok R85738,,,,,,,Campaign Name
+1/29/2024,Abandoned,,,Sean,6106189661,8885753251,DM,-,,,,,,,,Mkt_DM_Snowflake_2024FebCW
+1/29/2024,Rejected,No interest to talk to sales,,Sean,5105202176,,-,-,,,,,,,,Campaign Name
+1/29/2024,Inbound Qualified,,,Kiera,6106189661,8885753251,DM,-,Carol,Noodle Eighty Eight,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p75xEAA/view,Mkt_DM_Snowflake_2024FebCW
+1/29/2024,Rejected,No interest to talk to sales,,Sean,5105202176,,-,-,,,,,,,,Campaign Name
+1/29/2024,Inbound Qualified,,,Kiera,6106189661,8885753251,DM,-,Carol,Noodle Eighty Eight,,中餐,Pickup,PA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p75xEAA/view,Mkt_DM_Snowflake_2024FebCW
+1/29/2024,Inbound Qualified,,,Sean,2406018989,8885200811,DM,-DM,Jason,,,美式中餐外卖,,Maryland,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005LNpyMAG/view,Mkt_DM_Snowflake_2024FebSQL
+1/29/2024,Inbound Qualified,,,Eelin,6462514659,8885200811,DM,-DM,陈小姐,YOAN MING GARDEN,2124269545,中餐外卖,Delivery,,,Mkt_DM_Snowflake_2024FebSQL
+1/29/2024,Inbound Qualified,,,Kiera,9172084739,8885200559,DM,Client Referral,,,,中餐外卖,Pickup,CT,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005LvJmMAK/view,Mkt_DM_Snowflake_2024FebNoPromo
+1/29/2024,Inbound Qualified,,,Sean,6462697278,8882353722,Restaurant Journal,-SMS,陈老板,,,美式中餐外卖,Delivery,Pennsylvania,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005Lm3dMAC/view,Mkt_WeChatAds_WeChat_General
+1/29/2024,Inbound Qualified,,,Sean,9082794622,8885877618,SMS,-SMS,郑老板,,,美式中餐外卖,,newjesy,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005LkrRMAS/view,Mkt_SMS_Internal_General
+1/29/2024,Unqualified,,Null,Kiera,9178920186,8885877618,SMS,-,,,,,,,,Mkt_SMS_Internal_General
+1/29/2024,Unqualified,,Not a Restaurant,Sean,5708501186,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/30/2024,Abandoned,,,Sean,6263846896,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/30/2024,Abandoned,,,Sean,7138849173,,-,-,nina,,,,,,,Campaign Name
+1/30/2024,Abandoned,,,Sean,9176370001,8888968962,SMS,-,,,,,,,,Mkt_General_All_migration
+1/30/2024,Unqualified,,Not a Restaurant,Sean,3478138391,8882353972,https://getskt.com/,-,,,,,,,,Mkt_SEO_Internal_AllTraffic
+1/30/2024,Unqualified,,Not a Restaurant,Sean,7138849173,,-,-,,,,,,,,Campaign Name
+1/30/2024,Unqualified,,,Sean,2159009518,8888969083,Google SEM,-SMS,李老板娘,China sun,,美式中餐,,pennsylvania,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005Pa3qMAC/view,Mkt_PaidSearch_Google_BrandCampaigns
+1/30/2024,Unqualified,,,Sean,9176370001,8888968962,SMS,-SMS,joy,China sun,,美式中餐,,pennsylvania,,Mkt_General_All_migration
+1/30/2024,Inbound Qualified,,,Sean,3192338833,8882353722,Restaurant Journal,-DM,金老板娘,,,外卖,Delivery,IA,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIBbEAO/view,Mkt_WeChatAds_WeChat_General
+1/30/2024,Inbound Qualified,,,Sean,6087707828,,-,-SMS,Tina,CHINA STAR,6066613920,美式中餐,,wisconsin,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHnVEAW/view,Campaign Name
+1/30/2024,Inbound Qualified,,,Sean,3479359817,8885753251,DM,-SMS,Fiona,,,美式中餐,Delivery,newjersey,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo0000057GpyMAE/view,Mkt_DM_Snowflake_2024FebCW
+1/30/2024,Abandoned,,,Eelin,5099693637,,-,-,,,,,,,,Campaign Name
+1/31/2024,Rejected,,Current Client,,2678825168,,-,-,CHINA RUBY R82306,,,,,,,Campaign Name
+1/31/2024,,,,,2678825168,,-,-,CHINA RUBY R82306,,,,,,,Campaign Name
+2/1/2024,Inbound Qualified,,,Sean,7728772188,8888969083,Google SEM,-DM,林老板,,,铁板快餐 hibachi,,FL,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005WHdyMAG/view,Mkt_PaidSearch_Google_BrandCampaigns
+2/1/2024,Inbound Qualified,,,Sean,9172749091,8885753251,DM,-DM,陈老板,,,日餐,Pickup,idoha,https://wondersco.lightning.force.com/lightning/r/Lead/00QUo000005WnIuMAK/view,Mkt_DM_Snowflake_2024FebCW

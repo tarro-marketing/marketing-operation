@@ -1,0 +1,1043 @@
+Date,Lead Status,Note,SDR,Phone,Extension Number,Extension Channel,Owner Name,Channel,Restaurant name,Restaurant number,Restaurant type,Take out or delivery,State,前台情况,SF Link,
+Fri  07/28,Unqualified,Null,,9782300278,8888988389,No Channel Mapped,Amazon Marketing,,,,,,,,,
+Fri  07/28,Internal,,,5857329192,8888667688,SMS,Dennis,Internal ,,,,,,,,
+Fri  07/28,Existing Client,R81817,,5619098625,8885868359,DM,R81817,Internal ,,,,,,,,
+Fri  07/28,Inbound Qualified,,,6363758293,8885868359,DM,朱,DM,china 1,,中餐,Pickup,MS,前台老板自己接,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOXkEAO/view,
+Fri  07/28,Inbound Call,,,9172241104,8885200811,DM,梁,DM,,,,,,,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002UdsSHAAZ/view,
+Fri  07/28,Inbound Call,,,9129961870,8885200811,DM,杨,DM,,,中餐,Pickup,GA,了解一下业务，家庭店,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00002319y0EAA/view,
+Fri  07/28,Abandoned,,,8582526956,8888988389,No Channel Mapped,Unknown,,,,,,,hanged up after 4s,,
+Fri  07/28,Inbound Qualified,Anonymous,,9178870858,,,陈老板娘,DM,,,中餐,Delivery,NY,目前老板娘自己在前面接，后面缺人，老板娘需要到后面帮忙。 cash only,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231ALEEA2/view,
+Fri  07/28,Unqualified,Null,,5755252993,8885200811,DM,Test call,,,,,,,"he said someone call him before,In my record,there is no one calling him",,
+Fri  07/28,Abandoned,CBNA,,4709786883,8888988389,No Channel Mapped,Unknown,,,,,,,CBNA,,
+Fri  07/28,Unqualified,Null,,6468281655,8882353619,WeChat - Ads,Ads,,,,,,,,,
+Fri  07/28,Inbound Qualified,,,6106982872,8885200811,DM,陈,DM,,,中餐,Pickup,PA,请的全是学生part time，上午两个下午两个,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231BAHEA2/view,
+Fri  07/28,Inbound Qualified,,,2678848688,8885200811,DM,黄老板,DM,,,中餐外卖,Delivery,MI,"一个全职，一个parttime,8月一号开门",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231BDUEA2/view,
+Fri  07/28,Existing Client,R81787,,9175737592,8885877618,SMS,R81787,Internal ,,,,,,,,
+Fri  07/28,Existing Client,R81787,,9175737592,8885877618,SMS,R81787,Internal ,,,,,,,,
+Fri  07/28,Unqualified,Null,,4375995342,8885200559,No Channel Mapped,Unknown,,,,,,,"she said someone call her before,In my record,there is no one calling him",,
+Fri  07/28,Unqualified,Null,,3236186824,8888988389,No Channel Mapped,Test call,Internal ,,,,,,,,
+Sat  07/29,Internal,,,6465208898,8885200811,DM,6465208898,,,,,,,,,
+Sat  07/29,Inbound Qualified,,,7207817945,8888969083,Google SEM,吴老板,DM,,,中日,Delivery,VA,$80000电话单，2.5个前台，堂吃外卖都有,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231GFAEA2/view,
+Sat  07/29,Unqualified,Null,,3236186824,8888988389,No Channel Mapped,Ads,,,,,,,,,
+Sat  07/29,Existing Client,R82893,,6462861558,8888988389,No Channel Mapped,R82893,Internal ,,,,,,"收到DM，说费用低至$2, 已经解释过了",,
+Sat  07/29,Inbound Qualified,,,9514880680,8885200811,DM,唐,DM,准备开中餐馆,,中餐,Delivery,CA,餐馆还没开门,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231PGqEAM/view,
+Sat  07/29,Inbound Qualified,,,6473550388,8885200811,DM,winny,DM,,,美式中餐,Pickup,Toronto,目前前台，请假休息，需要人手,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231PO1EAM/view,
+Sun  07/30,Inbound Qualified,,,8607943108,,-,陈老板,亲戚在用,,,中餐,Delivery,CT,姐姐餐馆在用，也推荐陈老板用；前台请了两个老外PT，担心员工不稳定，考虑用食客通会更方便；目前有两条电话线，想着可以吧一条线转走；周日忙，周一休息3:30-4:00pm方便详细沟通。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231UWSEA2/view,
+Sun  07/30,Internal,,,9172939576,8882353680 / 8882353685 / 8882353619,WeChat - Ads,Test call,Internal ,,,,,,,,
+Sun  07/30,Existing Client,R81787,,9175737592,8885877618,SMS,R81787,Internal ,,,,,,want to call client about an order,,
+Sun  07/30,Existing Client,R81587,,6464312582,8888069153,No Channel Mapped,R81587,Internal ,,,,,,want to check voice recording to check if customer order chicken lo mein or chow mein,,
+Sun  07/30,Existing Client,R81587,,6464312582,8888069153,No Channel Mapped,R81587,Internal ,,,,,,want to check voice recording to check if customer order chicken lo mein or chow mein,,
+Sun  07/30,Internal,,,9179858867,8882353619,WeChat - Ads,Lisa,Internal ,,,,,,want to call 6808803888,,
+Sun  07/30,Existing Client,R85828,,6175106105,8885877618,SMS,R85828,Internal ,,,,,,ask from tech support on printer issue,,
+Mon  07/31,Inbound Qualified,,,6465494349,8888969083,Google SEM,倪老板,Outbound,,,中餐外卖,Pickup,IN,倪老板说之前有SDR联系过，以前PT好请到不需要，现在前台有请人，但是担心人手不稳定，想用食客通服务；希望IN时间10:30am前回电详细沟通,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNi5EAG/view,
+Mon  07/31,Inbound Qualified,,,2146059272,8888969083,Google SEM,杨老板,WeChat Ads,,,美式中餐,Pickup,TX Dallas,看到微信30天试用的广告，想尝试；以前自己送外卖，现在都交给第三方外卖Doordash这种；现在都是自己在做前台，电话单一天差不多有$800-1000上下，也有到店点餐客人；老板今天休息，都可以联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231aKSEAY/view,
+Mon  07/31,Inbound Call,Anonymous,,6463098853,,-,Dan陈,DM,,,,,,老板反应收到的DM称呼不对，餐馆地址名字没错，但是老板写了西班牙语那种名字，害怕有诈骗或者信息有人盗用；说之前也打过电话反馈，但是都没有解决，有点影响他对我们印象。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021Na30EAC/view,
+Mon  07/31,Abandoned,Called again,,9173612099,8885200811,DM,,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDYPEA4/view,
+Mon  07/31,Inbound Qualified,,,9173612099,8885200811,DM,郭老板,DM,,6628448488,中餐外卖,Pickup,MS,郭老板接手了新店，想试用食客通，了解怎么收费(以前老板有了解过，很多亲戚朋友在用)；基本全是电话单，一天能有$1000+，厨房有墨西哥人希望也能安排打印机，前后都能出单，咨询最快多久开始接单；老板希望讲福州话，美东时间3-4pm联系，说如果一次没接多打两次。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDYPEA4/view,
+Mon  07/31,Inbound Call,,,2527750277,8888968962,SMS,,DM,Main Moon,2525279600,,,,previous client，收到广告说$2/每小时，以为有新的收费方式，wx2527750277,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCfYEAW/view,
+Mon  07/31,Abandoned,CBNA,,9292015042,8888988389,No Channel Mapped,,,,,,,,CBNA,,
+Mon  07/31,Internal,,,3854873903,,-,,,,,,,,,,
+Mon  07/31,Abandoned,CBNA,,5635901446,8885200559,No Channel Mapped,,,,,,,,CBNA,,
+Mon  07/31,Unqualified,Opt-out,,7194211777,8885200811,DM,,DM,Oishii,7207074141,,,CO,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p7v3EAA/view,
+Mon  07/31,Inbound Qualified,,,6463213831,8885200811,DM,林老板娘,WeChat group,China Gate,8139087988,中餐外卖,,FL,微信群里看到免费试用30天活动；之前是朋友介绍，一天三五单外卖；电话单不是很多，每月月一万多两万；明天下3-4pm，打6463214760，找Amy,https://wondersco.lightning.force.com/lightning/r/Opportunity/0068b00001R5vVXAAZ/view,
+Mon  07/31,Internal,,,9179858867,9179858867,Sales,Eelin,Internal ,,,,,,,,
+Mon  07/31,Inbound Call,,,5055575185,8882063982,Influencer,郭老板娘,YouTube,,,中餐外卖,Delivery,VA,郭老板娘在YouTube上面看到食客通可以帮忙接电话直接打来咨询，自己做按摩店，然后女儿是经营餐馆；简单介绍服务流程，问除了餐馆接不接其他的店家；不想AE回电话，还需要和女儿商量，之后follow up,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231hK6EAI/view,
+Mon  07/31,Abandoned,CBNA,,6472472382,8888988389,No Channel Mapped,,,,,,,,CBNA,,
+Mon  07/31,Internal,,,3854873903,,-,,,,,,,,,,
+Tue  08/01,Inbound Qualified,,,8572308445,8885200811,DM,丁老板,DM,,,川菜,,MA,收到信件想了解具体服务和费率；中餐川菜，前台自己做，一天电话中国人电话一天有十来个，老外有三两个，老板不懂英文,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231n1ZEAQ/view,
+Tue  08/01,Inbound Qualified,,,9178280055,8885200811,DM,何老板,DM,Osmay House,8139866142/8133179184,中餐,Pickup,FL,现在都是来取或者堂吃，家庭餐馆，太太在帮忙前台；自己不清楚一天多少电话单或者每个月电话营业额；店里两条电话线，以前有一个送餐专线(8133179184)，现在也是来拿，对以后送餐服务感兴趣。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDrDEAW/view,
+Tue  08/01,Internal,Test,,4434697500,8882353821 / 8882353680 / 8882353619 / 8882063982,"WeChat - Blog, Influencer",Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353809,Youtube - Channel,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353805,Douyin,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,2482271328,8882356373 / 8882353821,"Radio, WeChat - Blog",Jill,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353722,Restaurant Journal,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353686,Radio ads,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8885200931,WeChat - Blog,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353899,No Channel Mapped,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,2482271328,8885200931,WeChat - Blog,Jill,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882353899,No Channel Mapped,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,4434697500,8882063982,Influencer,Whitney,Internal ,,,,,,,,
+Tue  08/01,Internal,Test,,8087265942,8888988389,No Channel Mapped,Austin Tasato,Internal ,,,,,,"Engineer for voice platform, ask if we have restaurants operated in Los Angeles to call them and test ordering.",,
+Tue  08/01,Inbound Call,,,9178187053,8882353972,https://getskt.com/,邓老板娘,DM,Fuji Steak House,(570) 523-9999,中日餐,Pickup,PA,之前收到看过苹果手表的广告，前台自己在做，有请人的话就是老外PT，要去上学了所以想到用食客通；问了最快多久开始接单，比较着急了解费用问题，稍等回电话就可以,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021pBMPEA2/view,
+Tue  08/01,Inbound Call,,,9178187053,8882353972,https://getskt.com/,邓老板娘,DM,Fuji Steak House,(570) 523-9999,中日餐,Pickup,PA,又打电话进来，说合伙人直接跟她讲不用做，等到真的有难题的时候再用；讲了30天试用活动，建议尝试一下能不能帮到她，说再考虑一下吧那，现在不想再谈了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021pBMPEA2/view,
+Tue  08/01,Abandoned,CBNA,,4193073816,8885200811,DM,,,,,,,,,,
+Tue  08/01,Internal,Test,,2482271328,8882356373/8885200931/8882353821,Radio. WeChat - Blog,Jill,Internal ,,,,,,,,
+Tue  08/01,Inbound Qualified,,,5185387806,8888968962,SMS,王老板娘,SMS,,,日餐,Delivery,,收到30天试用的短信，之前也有业务经理联系过，menu已经发过来了；说之前错过了苹果产品活动，感觉新的活动也蛮好，想尽快上线试用；店里自己有做前台，但是想试试食客通接电话，再请老外包外卖忙其他；等下回电就可以,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNipEAG/view,
+Tue  08/01,Inbound Qualified,,,9082678899,8888968962,SMS,吴老板,DM,,,中餐外卖,Delivery,NJ,收到30天免费试用DM，想了解尝试；前台请的PT，一天多少单子不是很稳定，自己没算过；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO0iEAG/view,
+Tue  08/01,Inbound Call,,,3478612448,8888968962,SMS,陈老板娘,朋友在用,,,中餐,Delivery,明州,自己在做，说朋友说每个月就收一个固定的费用，一定要现在就了费率有多少；解释6-8%，具体的需要业务经理，说不要了不要了太贵了就挂掉了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOH5EAO/view,
+Tue  08/01,Unqualified,Opt-out,,3472336311,8888968962,SMS,,,,,,,,,,
+Tue  08/01,Inbound Qualified,,,9097609002,8888968962,SMS,刘老板,SMS,,,川菜,Pickup,FL,收到短信，想了解一下具体操作流程和收费，简单做了解释；电话单说不清楚有多少，前厅两个人，只有一个电话线，堂吃多的时候会做不过来，再请一个人不划算，老外订餐比较多；只有来取，现在回电话,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231qlIEAQ/view,
+Tue  08/01,Unqualified,Opt-out,,9173927777,8888968962,SMS,,SMS,,,,,,"EN speaking restaurant owner, saw a text message and just click to call it; not intereseted in skt service, and want to take him out of the sms list",,
+Tue  08/01,Inbound Call,,,5165088858,8882063982,Influencer,Cathy张,Ads,,,奶茶,,NY,长岛新开奶茶店，有十几种奶茶；咨询收费，说前台单请一个人两三千不划算，比较感兴趣，但目前接不了，加微信，usany6688,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231ri2EAA/view,
+Tue  08/01,Unqualified,Null,,6267310971,8888968962,SMS,,,,,,,,"EN speaking guy, speaking his life plan when called back, probably wrong phone number called",,
+Wed  08/02,Existing Client,R85362,,6464107982,8888968962,SMS,Lisa唐,,,,,,,停止使用服务，但是钱没算清楚，要负责人尽快回电话,,
+Wed  08/02,Inbound Qualified,,,4126208018,8885200811,DM,黄老板娘,SMS/DM,,,中餐,Pickup,PA,收到30天免费试用短信和DM，想试用了解费率。前台都是自己在做；网络单多，电话单一天大概三四十单，考虑试用PT,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231w6UEAQ/view,
+Wed  08/02,Existing Client,R85602,,9172396257,8888969083/5164455587/9178093066,Google SEM,林老板,,,,,,,app打不开，需要tech support,,
+Wed  08/02,Existing Client,R81902,,9195923881,8888569583,DM,,,,,,,,app打不开，feedback,,
+Wed  08/02,Existing Client,R88839,,9173928375,5164455587/9178093066/8882353972,https://getskt.com/,,,HA BO KITCHEN R88839,,,,,ask for client service number 2220,,
+Wed  08/02,Existing Client,R81902,,9195923881,8888569583,DM,,,,,,,,,,
+Wed  08/02,Inbound Qualified,,,3473287442,8888968962,SMS,,Outbound,Superior sushi,917676,日餐,Pickup,NJ,说之前有接到打到餐馆的电话，这家餐馆堂吃和来取，前台有请一个FT，想从周五周六PT开始尝试；餐馆新开门，礼拜五周末会有二三十单，但是单子一般比较大$80+；也有另一家中日餐来取，可能也会想考虑试用,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021p6C2EAI/view,
+Wed  08/02,Inbound Qualified,,,4079672888,8885200811,DM,郑老板,DM,Super8,,中日,Delivery,"Fl, Orlando",前台请了一个FT，大概60%是电话单，没算过总共多少单；前台两条线路，想要忙的时候转给我们来接,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231xlPEAQ/view,
+Wed  08/02,Internal,Wrong number,,6463319672,,-,Lisa,,,,,,,,,
+Wed  08/02,Inbound Qualified,,,7202994230,8888968962,SMS,陈老板娘,SMS,Golden City,7576225858,中餐外卖,Delivery,VA,看到30天试用短信，想尝试；现在自己做前台，80-90%都是电话单，有网络单，也有自己送外卖；想了解结束试用正常收费情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPcyEAG/view,
+Wed  08/02,Unqualified,Other product inquiry,,6468973091,8885200811,DM,,DM,,,,,,收到传单，打来确认我们是不是只是接单，想要marketing服务，digital marketing；电话单不多，有到店点餐，网络单子,,
+Wed  08/02,Unqualified,Restaurant Cannot Serve,,3472727664,9179858867/ 8885200811,"Sales, DM",李老板,search,,,Hibachi2u,Pickup,NY,自己网页搜索，电话点单，去客人家里做；电话都是自己来接，主要帮客人；,,
+Wed  08/02,Unqualified,Business Partners,,7206404116,8888988389,No Channel Mapped,Alex,Zoom,,,,,,"Looking for Andrew Lin, alex.lackey@zoom.us",,
+Wed  08/02,Inbound Qualified,,,7188012826,8885200811,DM,陈老板,DM,,,中餐外卖,Pickup,FL,现在前台自己在做或者小孩，自己在做忙不过来，也要做油锅，所以想让我们接；不清楚有多少电话单，蛮多的，想了解收费情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231zcoEAA/view,
+Wed  08/02,Inbound Qualified,,,2398227337,8882353972,https://getskt.com/,Queemly,Outbound,,,中餐带sushi,Pickup,MI,之前有人打电话到餐馆，餐馆中餐为主带一点sushi；现在前台自己接，电话有两条线，也有堂吃；问电话速度快不快，机器怎么弄，想了解收费情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231zcpEAA/view,
+Wed  08/02,Abandoned,CBNA,,3016588698,8888968962,SMS,,,,,,,,https://wondersco.lightning.force.com/one/one.app#eyJjb21wb25lbnREZWYiOiJmb3JjZVNlYXJjaDpzZWFyY2hQYWdlRGVza3RvcCIsImF0dHJpYnV0ZXMiOnsidGVybSI6IiAoMzAxKSA2NTgtODY5OCIsInNjb3BlTWFwIjp7InR5cGUiOiJUT1BfUkVTVUxUUyJ9LCJjb250ZXh0Ijp7IkZJTFRFUlMiOnt9LCJzZWFyY2hTb3VyY2UiOiJBU1NJU1RBTlRfRElBTE9HIiwiZGlzYWJsZUludGVudFF1ZXJ5IjpmYWxzZSwiZGlzYWJsZVNwZWxsQ29ycmVjdGlvbiI6ZmFsc2UsInNlYXJjaERpYWxvZ1Nlc3Npb25JZCI6IjEwNjRjMWFmLTA3ZmUtNGZiYi0xNGUzLTYzMWI0MDhjNGJjMyIsImRlYnVnSW5mbyI6eyJhcHBOYW1lIjoiTGlnaHRuaW5nU2FsZXMiLCJhcHBUeXBlIjoiU3RhbmRhcmQiLCJhcHBOYW1lc3BhY2UiOiJzdGFuZGFyZCIsImxvY2F0aW9uIjoic2ZhOmFuYWx5dGljc0hvbWUiLCJzb2JqZWN0VHlwZSI6IlJlcG9ydCJ9fSwiZ3JvdXBJZCI6IkRFRkFVTFQifSwic3RhdGUiOnt9fQ%3D%3D,,
+Wed  08/02,Internal,Test,,3472312591,,-,Ricky,,,,,,,,,
+Wed  08/02,Existing Client,R85689,,7193608888,8888988389/5164455587/9178093066,No Channel Mapped,,,,,,,,"Ask for finance about deposit return, told 2220 number",,
+Wed  08/02,Internal,Test,,3472312591,,-,Ricky,,,,,,,,,
+Wed  08/02,Unqualified,Not Restaurant Owner,,6168089117,8888968962,SMS,,SMS,,,,,,找工作要接外卖，收到914短信说包住底薪之类的,,
+Wed  08/02,Inbound Qualified,,,6038661348,8885200811,DM,Alice,SMS,Bamboo Garden Restaurant,(207) 361-4388,中餐,Pickup,ME,收到30天试用短信，想尝试并了解正常费率；目前都是自己在前台接，主要都是电话单，没算过每天多少，店里点餐比较少，也有堂吃,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKI9AEAW/view,
+Wed  08/02,Abandoned,CBNA,,5168708377,8888968962,SMS,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSPhHEAW/view,,
+Wed  08/02,Existing Client,R81817,,5619098625,8885868359,DM,,,,,,,,"Ask for support, told 2220 number",,
+Wed  08/02,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,"Answered, no one speaking and hanged up",,
+Wed  08/02,Inbound Qualified,,,2565201758,8888968962,SMS,周老板娘,SMS,,,日餐,Delivery,NY,收到30天试用广告，想来了解一下之后怎么收费；基本来都是来取，有单独请人送外卖大概一天20几单；前台晚上忙请了两个人，中午一个人够了；单子金额都比较大，一天大概$3000-4000，一个月差不多十几万；有在餐馆老板群里，评论褒贬不一，所以打来想在了解一下费率问题10,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00002324drEAA/view,
+Wed  08/02,Abandoned,Called again,,9713779738,8888968962,SMS,,,,,,,,找工作，问有没有在餐馆的工作或者提供住宿,,
+Wed  08/02,Unqualified,Not Restaurant Owner,,9713779738,8888968962,SMS,,,,,,,,找工作，问有没有在餐馆的工作或者提供住宿,,
+Thu  08/03,Unqualified,Null,,4433191222,8888988389,No Channel Mapped,,,,,,,,"Answered, no one speaking and hanged up",,
+Thu  08/03,Inbound Qualified,,,4703503720,8888968962,SMS,李老板,SMS,,,中餐,Pickup,GA,收到30天免费试用短信，想了解尝试；电话单能有有50%，说不上来有多少单，也有堂吃和第三方外卖；电话线路2条，前台一个人,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000020hwTiEAI/view,
+Thu  08/03,Unqualified,Null,,7733225580,8888968962,SMS,,,,,,,,接通后说有电话进来就挂掉了,,
+Thu  08/03,Inbound Qualified,,,3149336813,8885200811,DM,董老板,DM,,,中餐,Pickup,MO,收到DM，想了解一下费率；每个月差不多两万多生意，电话单有多少没算过；现在太太在做前台，有时候想休息，所以想考虑用食客通,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPQUEA4/view,
+Thu  08/03,Inbound Qualified,,,6178168786,8885200811,DM,陈老板娘,DM,,,中日,Delivery,MA,看到30天试用DM，想了解怎么用怎么收费；老板娘说前台都是请PT接的，有的时候她老公自己会接；电话单不清楚有多少，有Uber Doordash送外卖，也有自己送外卖的时候但是非常少；想了解具体的收费状况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232AjFEAU/view,
+Thu  08/03,Inbound Qualified,,,6099327188,,-,赵老板,Email,,,中餐,Pickup,NJ,收到email，想了解具体操作和费率；前台有请经理，但是周末两天休息，有两条电话，每天有三四十电话单；简单介绍流程，询问能不能有人到店里安装机器，打印机出单问题；个人手机联系6099327188；Inbound number：(856) 457-3033,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232B8YEAU/view,
+Thu  08/03,Unqualified,Null,,2015027730,8888988389,No Channel Mapped,,,,,,,,Called back hanged me up,,
+Thu  08/03,Inbound Qualified,,,9175177735,8888968962,SMS,欧阳老板,DM,,,中餐,Delivery,Orlando FL,收到30天免费试用DM，想了解什么情况；电话单一个月有四五万，电话四条线路，现在一个人专门接电话，夫妻店；也有几个朋友在用了，想试试看然后把全部电话放到这边，想知道具体收费状况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOUZEA4/view,
+Thu  08/03,Existing Client,R85781,,3479355251,8888988389 / 9178191188,No Channel Mapped,,,,,,,,,,
+Thu  08/03,Unqualified,Restaurant Cannot Serve,,9176031881,8885200811,DM,刘老板,DM,,,poke,Pickup,CA,Poke，Doordash有一万多，电话上3-4单；有客人就是想电话点单，不是很多电话生意,,
+Thu  08/03,Abandoned,CBNA,,5182408188,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/03,Existing Client,R83029,,7026958286,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/04,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Fri  08/04,Inbound Call,"40k GMV, feel fee too high",,9179698268,8888968962,SMS,朱,DM,,,asian ,Pickup,IN,4w电话单，讲了大概，觉得费用很贵。预算就在$2000左右,https://wondersco.lightning.force.com/one/one.app#eyJjb21wb25lbnREZWYiOiJmb3JjZVNlYXJjaDpzZWFyY2hQYWdlRGVza3RvcCIsImF0dHJpYnV0ZXMiOnsidGVybSI6IjkxNzMwMjgxMzciLCJzY29wZU1hcCI6eyJ0eXBlIjoiVE9QX1JFU1VMVFMiLCJuYW1lc3BhY2UiOiIiLCJsYWJlbCI6IlRvcCBSZXN1bHRzIiwibGFiZWxQbHVyYWwiOiJUb3AgUmVzdWx0cyIsInJlc3VsdHNDbXAiOiJmb3JjZVNlYXJjaDpwcmVkaWN0ZWRSZXN1bHRzIn0sImNvbnRleHQiOnsiRklMVEVSUyI6e30sInNlYXJjaFNvdXJjZSI6IkFTU0lTVEFOVF9ESUFMT0ciLCJkaXNhYmxlSW50ZW50UXVlcnkiOmZhbHNlLCJkaXNhYmxlU3BlbGxDb3JyZWN0aW9uIjpmYWxzZSwic2VhcmNoRGlhbG9nU2Vzc2lvbklkIjoiNTNjOTcyNjgtNjljOS0xODY0LTE4YTAtNTIzMjkzMTg2ZjVmIiwiZGVidWdJbmZvIjp7ImFwcE5hbWUiOiJMaWdodG5pbmdTYWxlcyIsImFwcFR5cGUiOiJTdGFuZGFyZCIsImFwcE5hbWVzcGFjZSI6InN0YW5kYXJkIiwibG9jYXRpb24iOiJvbmU6cmVjb3JkSG9tZUZsZXhpcGFnZTJXcmFwcGVyIiwic29iamVjdFR5cGUiOiJMZWFkIn19LCJncm91cElkIjoiREVGQVVMVCJ9LCJzdGF0ZSI6e319,
+Fri  08/04,Inbound Qualified,,,9737278298,8888988389,No Channel Mapped,R88213 林,DM,,,,Pickup,NJ,R88213 老板打进来准备开第二家店，然后也用我们服务,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232K8kEAE/view,
+Fri  08/04,Inbound Qualified,,,6462020074,8882063982,Influencer,王,Youtube,,,中餐店,Pickup,PA,家里人做前台，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022qvwgEAA/view,
+Fri  08/04,Inbound Qualified,,,8472239970,,-,ms.林,DM,,,中餐，,Pickup,IL,"这几天自己做，平时有请人,3w总金额，1.5w左右电话单",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKZI5EAO/view,
+Fri  08/04,Existing Client,R85362,,6464107982,8888968962,SMS,R85362,DM,,,,,,,,
+Fri  08/04,Inbound Qualified,,,9704761657,,-,收到SMS填了表格，但是有个男士业务经理聊过说网路电话不好就没有后文了；两家餐馆，一家做美式中餐，May Palace；另一家叫做Asobi Teppanyaki，都在Colorado，想先试用一家，然后感觉好的好的话另一家也直接用；说太难请人了，现在回电话联系,SMS,,,美式中餐,Pickup,CO,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGfHEAW/view,
+Fri  08/04,Inbound Qualified,,,3016588698,8888968962,SMS,郑老板娘,SMS,,,中餐,Delivery,DC,老板娘自己在前面接电话，有请PT,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO7qEAG/view,
+Fri  08/04,Abandoned,CBNA,,3146489477,8888968962,SMS,,,,,,,,,,
+Fri  08/04,Unqualified,Null,,8002926650,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/04,Inbound Qualified,,,9175187292,8885200811,DM,陈老板,DM,,,美式中餐,Pickup,PA,老板自己在接，生意不稳定，有的时候忙，有的时候不忙，员工不好安排，有朋友在用,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232OUeEAM/view,
+Fri  08/04,Inbound Qualified,,,8608996598,8888968962,SMS,陈老板,SMS,,,美式中餐,Delivery,MA,1个parttime，1个全职，有朋友在用,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232OUeEAM/view,
+Sat  08/05,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Sat  08/05,Unqualified,Null,,85190817,8888667688,SMS,,,,,,,,,,
+Sat  08/05,Existing Client,R85553,,6469828800,8882353972,https://getskt.com/,R85553,,,,,,,,,
+Sat  08/05,Unqualified,Null,,36873115,8888988389,No Channel Mapped,,,,,,,,,,
+Sat  08/05,Inbound Call,,,9173028137,,,,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232Tl1EAE/view,
+Sat  08/05,Abandoned,CBVM,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Sat  08/05,Inbound Qualified,,,9173028137,8885200811,DM,AVY,DM,,,美式中餐,Pickup,,"sound is interest with our service, but she is prefer someone who can speak English to discuss with her. right now she is working front and kitchen, need help on it.",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232Tl1EAE/view,
+Sat  08/05,Inbound Qualified,,,9172091759,8888968962,SMS,林老板娘,SMS,,,美式中餐,Pickup,az,老板收到我们的SMS，第一次咨询，想要详细了解下我们的服务，以及收费和优惠活动，现在可以直接打回去联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232V0QEAU/view,
+Sat  08/05,Existing Client,R81925,,6084068989,8888988389,No Channel Mapped,,,,,,,,,,
+Sat  08/05,Existing Client,R81925,,6084068989,8888988389,No Channel Mapped,,,,,,,,,,
+Sat  08/05,Unqualified,Null,,6468281655,,-,,,,,,,,,,
+Sat  08/05,Internal,Wrong number,,9179588867,,-,Eelin,,,,,,,,,
+Sun  08/06,Abandoned,CBNA,,8438611551,8885200811,DM,,,,,,,,,,
+Sun  08/06,Inbound Qualified,,,6144256180,8882353972,https://getskt.com/,马老板娘,SMS,,,美式中餐,Delivery,OH,收到30天试用短信，填写表格想尝试，但是没有ae回电；想做PT，想要每周四五六，晚上最忙的时间从4:30pm开始交给食客通；前台有一个人接电话，也有个合伙人现在在国内；电话每天大概有三四十单，大概一个月四五万，全部生意八九万；咨询了客人刷信用以及能不能厨房出单的问题,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOmyEAG/view,
+Sun  08/06,Inbound Qualified,,,6788622155,8885200811,DM,张老板,Client Referral,,,中餐,Pickup,FL,朋友有在用，跟张老板讲可以试试；餐馆开业一周，做点心面食，电话单比较多没算过，每天肯定多过30单了；请了一个前台，要两条电话线路；咨询是不是人工接单、以及怎么出单，简单介绍，老板想了解怎么收费,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024G7NBEA0/view,
+Sun  08/06,Existing Client,R81587,,6464312582,,-,,,,,,,,,,
+Sun  08/06,Unqualified,Not Restaurant Owner,,6262368784,,-,,,,,,,,洛杉矶按摩店,,
+Mon  08/07,Unqualified,Null,,3347777512,8888969395,Google Display,,,,,,,,"Nobody speaking, just noisy sounds",,
+Mon  08/07,Inbound Qualified,,,7182882386,8888968962,SMS,Tina,WeChat - Ads,,,中餐,Delivery,NY,电话单很多，来取加送外卖的单一天250-300单，2-3条电话线；前台有请人，但是请人太麻烦了而且不稳定；简单介绍流程，问送餐客人地址和来取付现金相关问题，想了解我们的具体的服务操作和收费情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQMsEAO/view,
+Mon  08/07,Unqualified,Restaurant Cannot Serve,,2013678803,8885200811,DM,李老板,DM,,,中餐,Delivery,NJ,看到微信30天试用广告，想了解怎么做；普通话讲一点点，沟通比较慢，来客人了说稍等打回来,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOpoEAG/view,
+Mon  08/07,Inbound Qualified,,,6466512905,8885200811,DM,李老板娘,DM,,,中餐外卖,Pickup,MI,收到DM想了解怎么收费；前台自己在做，有2条电话线，总共一天有100单，没算过电话单有多少；生意挺好，有时候挺忙的，想了解具体怎么收费,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GJDgEAO/view,
+Mon  08/07,Unqualified,Not Restaurant Owner,,4088760886,8882356373,Radio,,Radio,,,,,,以为是我们能打电话到餐馆去点外卖,,
+Mon  08/07,Inbound Qualified,,,7757776107,8888968962,SMS,Cindy,Client Referral,,,中餐也有一点点sushi,Pickup,,朋友介绍，告知Cindy30天免费试用短信，想了解尝试；店里绝大部分是中餐，有做一点点sushi卷；请了两个企台，母亲也帮接电话，但是英语不好，想说交给我们来接，尤其是繁忙时间；一天电话单大概有70-80单，电话线路两条；Cindy问说能不能电话响到第四五声我们再接起来，以及具体操作和费率，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GJYFEA4/view,
+Mon  08/07,Inbound Qualified,,,9176690176,8885200811,DM,董老板,DM,,,美式中餐,Pickup,NC,收到DM30天免费试用，电话线路两条，自己在做前台，有客人到店点餐，dinner可能一个月1.5w+；现在一个礼拜七天营业，想先从6天dinner交给我们；咨询怎么服务流程，有什么机器，如果客人没有来取餐费用问题，感兴趣餐馆电脑POS，想了解具体收费情况，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GLSIEA4/view,
+Mon  08/07,Abandoned,CBVM,,4702797541,,-,,,,,,,,"3s hang up, call back voice mail",,
+Mon  08/07,Abandoned,,,9173301859,,,,,,,,,,,,
+Tue  08/08,Unqualified,Null,,2093408017,8888988389,No Channel Mapped,,,,,,,,"Nobody speaking, just noisy sounds",,
+Tue  08/08,Inbound Call,,,6469324346,8888968962,SMS,陈小姐,Ads,,,中餐外卖,Delivery,Toronto,帮朋友问有没有加拿大的服务，中餐外卖，咨询操作、基本费率、机器以及,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GTMkEAO/view,
+Tue  08/08,Unqualified,Null,,2402015384,8882353972,https://getskt.com/,,,,,,,,marketing research call,,
+Tue  08/08,Unqualified,Not Restaurant Owner,,9496785188,8882353972,https://getskt.com/,,,,,,,,找工作，建立发邮箱,,
+Tue  08/08,Unqualified,Not Restaurant Owner,,6267314088,8882353686,Radio ads,,,,,,,,美容院,,
+Tue  08/08,Inbound Qualified,,,6464688812,8885200811,DM,董老板娘,DM,,,中餐,Pickup,AL,收到30天试用广告，想尝试，了解正常收费费率；前台自己在做，两条线路；电话单不多20-40单，网络单子比较多,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GTmjEAG/view,
+Tue  08/08,Inbound Qualified,,,6463881179,8885877618,SMS,陈小姐,DM,,,中餐buffet,Pickup,IL,收到DM广告，想了解优惠和具体的费率；陈小姐要去上学，不能一直在店里接电话，之后店里有人接但是英文不标准；平均一天30单，一条线路，不确定有多少生意，多的时候50-60单,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GUSqEAO/view,
+Tue  08/08,Inbound Qualified,,,9179295801,8888968962,SMS,陈,Client Referral,,,中餐店,,NJ,"之前朋友有用过，朋友介绍的，前台缺人，平时家里人帮忙，最近没办法做,明确希望尝试我们的服务",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GUQaEAO/view,
+Tue  08/08,Existing Client,R85359,,9178287115,8882353972,https://getskt.com/,,,,,,,,问公司开到几点，过来交钱，告知联系经理帮忙安排,,
+Tue  08/08,Unqualified,Business Partners,,7632923524,8888988389,No Channel Mapped,,,,,,,,"Company rep look for Francesco Vitug, HR partner, submited whichever marketing number for some information",,
+Tue  08/08,Unqualified,Null,,2013678803,8885200811,DM,,,,,,,,"Answered, nobody speaking and hanged up",,
+Tue  08/08,Inbound Qualified,,,2013678803,8885200811,DM,李老板,DM,,,中餐外卖,Delivery,NJ,收到30试用的DM，想了解结束之后什么收费；前台都是自己做，两条电话线；一天大概20几单电话单，有到店里点餐的客人，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOpoEAG/view,
+Tue  08/08,Unqualified,Null,,3213768887,8888988389,No Channel Mapped,,,,,,,,"Called back but no sound, could not be connected",,
+Tue  08/08,Unqualified,Business Partners,,6028478797,8882353972,https://getskt.com/,,,,,,,,Called from employment company asking for HR manager,,
+Tue  08/08,Abandoned,,,6028478797,8882353972,https://getskt.com/,,,,,,,,,,
+Tue  08/08,Unqualified,Other product inquiry,,9175822735,8888988389,No Channel Mapped,,,,,,,,问有没有点餐的平板电脑卖,,
+Tue  08/08,Inbound Call,,,8327882676,8882063982,Influencer,,Radio,,,中餐外卖,Pickup,MI,应该是听广播又听到广告前台有请一个人，电话单价格应该不是很高；只想了解大概收费情况，不想跟业务经理聊，讲了优惠也不想，说忙之后有需要再打,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GgobEAC/view,
+Wed  08/09,Unqualified,Business Partners,,6513720609,8888988389,No Channel Mapped,,,,,,,,"look for marketing manager, cold call for business partnership",,
+Wed  08/09,Unqualified,Null,,6827273125,8888988389,No Channel Mapped,,,,,,,,Answered nobody speaking,,
+Wed  08/09,Inbound Qualified,,,9176379875,8888969083,Google SEM,张老板,Client Referral,,,中餐外卖,Pickup,CT,有很多朋友都在用；目前前台有请人，电话单一天大概有50多单，想把dinner/周五这样忙的时间交给我们来接，想了解具体怎么收费，现在回电话,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GgivEAC/view,
+Wed  08/09,Inbound Qualified,,,6314063731,8888969083,Google SEM,郑小姐,DM/Client Referral,,,中餐外卖,Pickup,NY,有朋友在用，每个月也都有收到DM；餐馆在Long Island，想先做周末PT，一天电话电话单多过50单；想了解怎么收费，稍等会电话联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GhxIEAS/view,
+Wed  08/09,Existing Client,R85968,,9175928230,8885200811,DM,,,,,,,,onboarding 客户来咨询是否有小嘉这个业务员,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002Ugc8yAAB/view,
+Wed  08/09,Unqualified,Business Partners,,6502592058,8882356322,Newspaper,,,,,,,,媒体广告，世界日报world journal问广告刊登到期是否续期,,
+Wed  08/09,Internal,Wrong number,,6463319672,,-,Lisa,,,,,,,,,
+Wed  08/09,Inbound Qualified,,,5108612231,8885200811,DM,Sam,DM,,,美式中餐,Pickup,CA,老板说7w多电话单，了解了我们是根据帮餐馆接的电话总营业额抽成，觉得这种方式有点贵，还有比较担心接电话的质量，想要详细了解下，看下能不能给餐馆做个改变。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022Fl2xEAC/view,
+Wed  08/09,Unqualified,Null,,Anonymous,8885200811,DM,,,,,,,,"Answered, nobody speaking and hanged up",,
+Wed  08/09,Inbound Call,,,6263911131,8882353972,https://getskt.com/,,,,,美式中餐,Pickup,OR,帮朋友餐馆问，请人做前台，但是英文不太好；就想了解一下最低费率，然后再商量一下；不愿意对接业务经理,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GoBjEAK/view,
+Wed  08/09,Unqualified,Business Partners,,6502592058,8882353972,https://getskt.com/,,,,,,,,媒体广告，世界日报world journal 3:30pm截止，说就没有办法续登了,,
+Wed  08/09,Inbound Call,,,9703065099,8885200811,DM,吴小姐,SMS,,,美式中餐,,CO,收到SMS填了表格，但是有个男士业务经理聊过说网路电话不好就没有后文了；两家餐馆，一家做美式中餐，May Palace；另一家叫做Asobi Teppanyaki，都在Colorado，想先试用一家，然后感觉好的好的话另一家也直接用；说太难请人了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGfHEAW/view,
+Wed  08/09,Inbound Call,,,2398227337,8888667688,SMS,,Google,,,,,,说从Google上面搜索到的号码，打过问哪一家公司，解释食客通然后说好像打过了就挂掉了；peter在联络，老板娘应该是在对比服务,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000231zcpEAA/view,
+Wed  08/09,Inbound Qualified,,,6193796511,8885200811,DM,王小姐,DM,,,中餐外卖,Pickup,CA,收到DM，想了解我们服务操作和收费；店里有dine-in & to-go，外卖70%，有请人做前台，一天电话大概40单；餐馆在加州San Diego，现在回电联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GoBiEAK/view,
+Wed  08/09,Unqualified,Null,,9034931341,8888969395,Google Display,,,,,,,,,,
+Thu  08/10,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Thu  08/10,Inbound Qualified,,,8563984225,8885200811,DM,叶老板娘,朋友介绍,,,Asian ,Delivery,NJ,平时是老板娘自己在接电话，,https://wondersco.lightning.force.com/lightning/r/Contact/0038b00003AgN21AAF/view,
+Thu  08/10,Inbound Qualified,,,6464923287,8888968962,SMS,周老板,"SMS,DM",,,美式中餐,Delivery,NY,平时是有一个全职在前面做，有可能要不做了，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GsmqEAC/view,
+Thu  08/10,Existing Client,R85302,,8044840966,8888988389,No Channel Mapped,R85302,DM,,,,,,现在做的来取，有意转成送餐，询问收费,,
+Thu  08/10,Unqualified,Business Partners,,9174104425,8882353972,https://getskt.com/,,,,,,,,Looking for Stephen Terry,,
+Thu  08/10,Unqualified,Null,,9174104425,8888988389,No Channel Mapped,,,,,,,,hang up,,
+Thu  08/10,Inbound Qualified,,,9178689869,8882063982,Influencer,陈,DM,,,日餐,Pickup,,"股东，很多店都有股份,打过来咨询我们的服务，想说如果有新开店，可以试下我们服务，问了费用问题，觉得7%太高，觉得有点贵，又有点犹豫。希望在价格方面能更优惠一点。有时间可以再打过去深入沟通下。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GxCFEA0/view,
+Thu  08/10,Inbound Qualified,,,6462405253,8885200811,DM,黄,DM,,,美式中餐,Pickup,NC,平时是老板娘自己在前面接，打算做兼职，每天下午四点到10点，,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002VqHxdAAF/view,
+Fri  08/11,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Fri  08/11,Inbound Qualified,,,2028348211,8888969083,Google SEM,王angela,小红书,,,美式中餐,Pickup,VA,"30年老店，之前有收到过广告，之前都没有咨询过,现在想详细了解下，看下有没有机会可以尝试，看到30天免费试用活动。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024H3fwEAC/view,
+Fri  08/11,Unqualified,Null,,9362261009,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/11,Inbound Qualified,,,4164739780,8885200811,DM,,DM,,,,Pickup,ON,"店位于加拿大安省 日餐 铁板烧
+现在人工比较贵 所以老板想了解一下我们这边的服务内容 还有收费
+Pick up only 暑假 来取的订单占了总营业额的20% 冬季 开始忙的时候 来取的订单占营业额的50%
+Client is concerned about how we handle reservation request 因为他们就两个铁板桌子 大部分客人都是提前打电话订位置的 担心用我们服务reservation会变的混乱",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024H4tPEAS/view,
+Fri  08/11,Abandoned,,,6317290182,,,,,,,,,,hang up after 3 seconds,,
+Fri  08/11,Unqualified,Null,,4042795155,8882353909,WeChat - Ads,,,,,铁板,,,,,
+Fri  08/11,Unqualified,Null,,4042795155,8882353909,WeChat - Ads,,,,,,,,,,
+Fri  08/11,Inbound Qualified,,,9173301859,8888969083,Google SEM,,,,,美式中餐,Delivery,IL,平时有一个在前台，老板娘更多的是在后面做事，有时候还不在店里，忙不过来，有兴趣做兼职，要是服务好的话也可以做全职。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024H4etEAC/view,
+Fri  08/11,Existing Client,R81631,,6467336786,8888988389,No Channel Mapped,,,,,美式中餐,Pickup,,现在parttime，不忙，想改成PT no schedule,,
+Fri  08/11,Inbound Qualified,,,3479098158,8885200811,DM,杨,DM,,,美式中餐,Delivery,NJ,平时自己在前面接电话，晚餐比较忙，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJPPEA4/view,
+Fri  08/11,Inbound Qualified,,,9103868036,8888968962,SMS,刘,SMS,,,美式中餐,Pickup,NC,现在是自己在接，太累，朋友有用，2年前听一个朋友用了一个礼拜就取消了，说当时人员不够，常常hold着客人，已经解释过了。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024H5gdEAC/view,
+Fri  08/11,Existing Client,R83853,,4057122633,8888988389,No Channel Mapped,,,,,,,,打进来要买一台新的打印机,,
+Fri  08/11,Unqualified,Null,,8002006781,,,,,,,,,,,,
+Fri  08/11,Existing Client,R83225,,9349498724,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/11,Unqualified,Not Restaurant Owner,,3478261860,8882353619,WeChat - Ads,,,,,,,,印刷厂,,
+Fri  08/11,Inbound Qualified,,,3477591808,8888968962,SMS,林老板,DM,,,日料,Pickup,FL,老板一直有收到我们DM，有好几家店点，不完全算是连锁店，餐做的日料，铁板寿司快餐；有两家店想使用服务Osaka 8503184888，Lin hibachi 2292538858；Osaka这家电话单昨天有三千块，前台两条电话线，有请一个人，主要想下午晚上给我们来接，中午一般不忙；另外一家也打算做，一天差不多一千块钱这样；,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHCiEAO/view,
+Fri  08/11,Inbound Qualified,,,7572888885,8882353972,https://getskt.com/,江老板,DM,,,中餐,Delivery,FL,之前有收到传单，也在网站上看到过30天试用弹窗；身边没有人在用，所以想打过来详细了解一下服务收费手续费；餐馆主要是手机电话，有一台有线；一天电话单平均30-50单，最多一百来单，平均20多块钱一单；也在用beyondmenu网络单子，但是对信用卡刷卡有顾虑，就是如果客人卡号给错了或者之后他撤销付款，在那边就很难解决，想知道我们怎么处理；问了$2/小时，解释了我们收费方式没讲具体费率；稍等联系就可以,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HFAREA4/view,
+Sat  08/12,Unqualified,Null,,6087121461,8885869039,SMS,,,,,,,,wrong number dialed,,
+Sat  08/12,Inbound Qualified,,,6463883623,8888968962,SMS,黄老板/黄小姐,SMS,,,美式中餐,Pickup,NY,黄老板8.1有收到30天试用短信，现在才看到；之前有开过餐馆，九月一号接手新餐馆，想直接用了，问我们寄机器什么的；新餐馆每个月电话有两万多，也有客人来点餐，在纽约上州；让联系他女儿直接聊操作和之后收费，5166378303,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HFLoEAO/view,
+Sat  08/12,Existing Client,R88209,,9172138326,8888988389,No Channel Mapped,陈老板,DM,,,中餐,Pickup,OH,一个月电话单有五六万，有请前台，两条电话线；还有另一家餐馆，问如果第二家放过来有没有什么优惠这样，让十分钟内尽快回电话，等一下忙起来可能就不接电话了；assigned to CSM Nina Xing,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002L17guAAB/view,
+Sat  08/12,Unqualified,Null,,9102623614,8888968962,SMS,,,,,,,,Answered nobody speaking,,
+Sun  08/13,Unqualified,Not Restaurant Owner,,6467045698,8882353972,https://getskt.com/,,,,,,,,来点外卖,,
+Sun  08/13,Abandoned,"Called again, qualified",,3479098158,8885200811,DM,江老板/杨Summer,,,,,,,,,
+Sun  08/13,Abandoned,"Called again, qualified",,3479098158,8885200811,DM,江老板/杨Summer,,,,,,,,,
+Sun  08/13,Inbound Call,,,3479098158,8885200811,DM,江老板/杨Summer,DM,,,中餐,Delivery,NJ,每个三四万电话生意，自己在做前台；想咨询一下费率，太太之前咨询过；之前看到网上说服务不好有顾虑，现在有需要而且看到有试用所以也想了解下具体收费和其他情况；之前有联系两个经理，老范和Pony，要求跟其他业务经理或者负责人沟通,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJPPEA4/view,
+Sun  08/13,Unqualified,Not Restaurant Owner,,6262031566,8888969083,Google SEM,,,,,,,,找熊猫外卖，说有Uber22块钱的单子，打错电话,,
+Sun  08/13,Inbound Qualified,,,3194571991,8888968962,SMS,陈老板娘,DM,China One,3197523888,美式中餐,Pickup,IA,说以前也有我们电话打到餐馆，收到30试用广告，想了解怎么操作；餐馆China One，3197523888，电话上一万多两万单子，主要都是客人来取也有一点堂吃；说她以前餐馆有用过食客通，后来停掉了；今天休息，稍等回电话联系就好,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NaNAEA0/view,
+Mon  08/14,Internal,Test,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,
+Mon  08/14,Abandoned,CBNA,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/14,Abandoned,CBNA,,8059125256,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/14,Inbound Qualified,,,9175159908,8888969083,Google SEM,郑老板,DM,,,中餐,Pickup,WI,有朋友在用，也有收到DM；电话单差不多三四十单，晚上比较多单子；前台自己在做；简单了解服务操作以及FT&PT区别，想咨询具体的费率和优惠，现在联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HVI6EAO/view,
+Mon  08/14,Inbound Qualified,,,5707093330,8888968962,SMS,王老板,DM,,,中餐,Pickup,PA,有收到30天试用DM，电话自己在接，一个月大概一万多两万的生意；想着是下午晚上完全交给我们接，因为之前有请PT，现在没了只有一个人做前面；咨询FT&PT收费区别，解释PT月费和有单才收费，没讲抽成%；前面郑老板娘打过来的，后面在跟王老板聊，等下联系王老板手机，5706512939,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HVreEAG/view,
+Mon  08/14,Inbound Qualified,,,2268830187,8885200811,DM,Julie,DM,,,中餐,Delivery,Toronto，Canada,客户讲粤语，普通话不是很好沟通比较慢；加拿大多伦多餐馆，外卖餐馆做中餐杂吃；收到宣传单，80%是来取，也有人送餐；一天30-40单子，也没有很具体的算过；简单咨询跟我们怎么合作&操作，想了解费率，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HYjuEAG/view,
+Mon  08/14,Inbound Call,帮老板打电话问的,,9193083968,8885200811,DM,Evan（老板）,DM,,,中餐,Delivery,VA,VA 送餐 前台帮老板打过来咨询我们的服务，知道我们现在有试用活动，但是想先跟老板商量一下，之后再打电话回来进行沟通。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HWPCEA4/view,
+Mon  08/14,Inbound Qualified,,,9176552168,8888968962,SMS,李小姐,有朋友用/也有打电话,,,中餐,Pickup,DE,朋友推荐用食客通很方便，以前也有电话打到餐馆；说以前有小姐做前台，现在没有了，想用服务；没算过多少电话单，但是基本都是电话单，没做堂吃；因为现在不好请人，所以想了解一下怎么操作和收费情况；现在就联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCUDEA4/view,
+Mon  08/14,Inbound Qualified,,,6207570118,8888968962,SMS,Ten老板,之前的老板在用,,,中餐,Pickup,KS,原来餐馆老板用过食客通，但是现在机器已经都寄回来了；Ten接手过来，前台在请人但接电话需要我们服务；中餐外卖，基本都是都是电话单来取，堂吃很少，没算过电话有多少单；原来餐馆电话7852126188/6189，想咨询收费情况，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HaTsEAK/view,
+Mon  08/14,Existing Client,R81912,,6263761191,8888667688,SMS,,,,,,,,,,
+Mon  08/14,Inbound Qualified,,,7189023323,8885200930,Redbook,江老板,朋友在用/SDR,,,中餐,Delivery,FL,说之前有同事联系过他，加了几次微信都没加上；想了解一下收费和优惠，介绍了30天试用；根据上一周的估计的一天大概打电话的客人$700-1100；前台有请三个人做，但是老外不稳定，自己去餐馆的时候也不定能帮忙接电话，所以打算试一下我们来接电话；打算先开始用PT，说他之前也有介绍了好几个朋友在用，简单介绍服务流程，需要什么机器，现在有空，请回电联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKE5VEAW/view,
+Mon  08/14,Inbound Qualified,,,9496903799,8888667688,SMS,Louis,YouTube-Ads,,,中餐,Pickup,CA,在YouTube上面看到广告，咨询价格，了解FT&PT收费区别；电话单能占到50%，不方便透露有多少钱；问了说机器这方便如果出问题怎么处理，能不能修，做相应解释；想探讨具体费率和优惠问题，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HdcFEAS/view,
+Mon  08/14,Inbound Call,,,9493888868,8882353686,Radio ads,Peter,Radio,,,中餐,Delivery,"Beverly, CA","English-speaking male owner, Peter, who also spoke Cantonese; restaurant with dine-in, phone orders and delivery (service by third parties and themselves); 30% were phone orders, others went to dine-in and online orders; we briefly explained our service and way of charging, and they wanted to know about the detailed charge percentage (mentioned that for platforms like Grubhub, they charge like 20% or more); explained to Peter that we will need to know his average order size and monthly revenue to let AE give him a price offer, but Peter said he was on his way to deliver, and needed to discuss this with his store manager; he will call back later.
+Peter，讲广东话，也可以英语沟通；餐厅有堂食、电话订单和外卖（由第三方和他们自己送外卖）；30% 是电话订单，其他是堂食和在线订单；简单介绍了我们的服务和收费方式，他们想知道详细的收费比例（提到 Grubhub 等平台的收费是 20% 或更高）； 向 Peter 解释说，需要跟业务经理聊，需要知道他的平均订单量和每个月电话营业额，才能让给他一个报价，但 Peter 说他正在送货的路上，需要和他的店长讨论一下；他稍后会再打来电话。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HjFMEA0/view,
+Tue  08/15,Existing Client,R85575,,9543389980,8888988389,No Channel Mapped,,,,,,,,,,
+Tue  08/15,Abandoned,CBNA,,7736450534,8888988389,No Channel Mapped,,,,,,,,,,
+Tue  08/15,Inbound Qualified,,,7189027180,8888969083,Google SEM,王老板娘,DM,China King,(352) 589-9888,美式中餐,Pickup,FL,收到30天试用DM，想了解怎么操作和收费；前台自己在接电话，两条电话线，估计每个月有两万多电话生意，没算过大概一天多少单子，也有walkin客人；想了解电话上刷信用卡怎么操作，也了解有没有网络订单的服务，现在回电联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDPOEA4/view,
+Tue  08/15,Abandoned,CBNA,,7277394588,8885877618,SMS,,,,,,,,,,
+Tue  08/15,Inbound Call,,,2402743055,8888969083,Google SEM,郑老板娘,,,,中餐,Delivery,,电话三四万，打过来只想了解怎么收费；只想知道一个范围，说就是了解一下就挂掉了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024Ho6ZEAS/view,
+Tue  08/15,Internal,Test,,4434697500,8882353821,WeChat - Blog,Whitney,,,,,,,,,
+Tue  08/15,Existing Client,R81587,,6464312582,8888069153,No Channel Mapped,,,,,,,,,,
+Tue  08/15,Inbound Qualified,,,7404082431,8882353972,https://getskt.com/,陈老板,DM,,,中餐,Pickup,OH,有朋友在用， 也收到了30天试用DM，问是真的假的，想了解怎么合作现在还能不能试用；电话单平常大概一天八十单，周末更多一些，有请别人在做前台，电话线一条；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQUsEAO/view,
+Wed  08/16,Internal,Test,,6465208898,,-,收到SMS，免费试用一个；电脑和手写单一半一半，前台之前清了PT，小孩子开学就不做了,,,,,,,,,
+Wed  08/16,Internal,Test,,9179858867,,-,Ricky,,,,,,,,,
+Wed  08/16,Inbound Qualified,,,9196999760,8885200811,DM,陈老板娘,DM,,,中餐外卖,Pickup,NC,收到30天试用广告，想试用并了解之后的收费情况；前台有请PT，也有walkin；平均一天30-50单，店里一天总的营业额$2000；现在就回电，等下有事情,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024HxCQEA0/view,
+Wed  08/16,Unqualified,Not Restaurant Owner,,6783656130,8882353619,WeChat - Ads,聂先生,网站,,,,,,加盟，想帮别人安装机器，找工作,,
+Wed  08/16,Existing Client,R85677,,9179810277,8888968962,SMS,,,,,,,NC,,,
+Wed  08/16,Abandoned,CBNA,,7042487841,8888667688,SMS,,,,,,,,,,
+Wed  08/16,Abandoned,CBNA,,3472966073,8885877618,SMS,,,,,,,,,,
+Wed  08/16,Abandoned,CBNA,,7605021407,,-,,,,,,,,,,
+Wed  08/16,Inbound Qualified,,,9044154495,8888968962,SMS,邱老板,SMS,,,日料,Pickup,FL,前两天有SDR联系，老板考虑使用服务，但是之后没有业务经理联系，现在回电【SDR Note：外卖+堂吃，生意16-17萬，有興趣了解更多，FL卅 明天周日下年5點准時聯糸他】,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOUfEAO/view,
+Wed  08/16,Inbound Qualified,,,9178467832,8888968962,SMS,林老板,DM,,,中餐外卖,Delivery,,中餐外卖，有送餐，电话单有30-40单，福州老板，说几年前有联系过；问他问题他只回复想知道怎么收费，告知要业务经理了解情况，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024I3MGEA0/view,
+Wed  08/16,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,没接到电话，打回去说他没有打过来，也没有收到信息，也不想咨询；挂断,,
+Wed  08/16,Unqualified,Not Restaurant Owner,,5166610298,8888968962,SMS,,,,,,,,"Speaking English, talking about other matter",,
+Wed  08/16,Unqualified,Opt-out,,6463389464,8888968962,SMS,,,,,,,,让我们不要在发短信了，总是一段一段，再发要报警了,,
+Wed  08/16,Unqualified,Null,,4058261065,8888968962,SMS,,,,,,,,Nobody,,
+Wed  08/16,Inbound Qualified,,,6266953703,8888968962,SMS,殷先生,SMS,,,兰州拉面,Pickup,CA,一个月电话上30%是外卖，其中包括电话餐，但没具体算过多少钱，也有在用其他四个平台；一般打进来中文客人偏多，但也都能讲英文；老板有两家店，前台都是店长在处理，近期在考虑拓展；店加州洛杉矶，点餐可能有一点点复杂，想了解一下怎么操作收费,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024I3Y2EAK/view,
+Wed  08/16,Inbound Qualified,,,9173405101,8885877618,SMS,林老板娘,DM,,,中餐外卖,Pickup,NY,想了解一下怎么收费，一个月大概三四万，都是自己接电话，也有请一个PT，但是过段时间要请假有事情；想四点到八点多用我们的服务，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024I3yUEAS/view,
+Wed  08/16,Inbound Qualified,,,9174450666,8888968962,SMS,Michael郑,SMS,,,中餐外卖,Delivery,CT,之前就收到30天试用短信，填写表格没有人联系；电话单占了一半生意，一天大概有100单；想要做PT晚上五点到十点这样；一般陌生电话不接，要先发短信联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNh1EAG/view,
+Wed  08/16,Abandoned,CBNA,,9293407727,8888968962,SMS,,,,,,,,,,
+Thu  08/17,Inbound Qualified,Call back,,4156465268,8888968962,SMS,Rolla,,,,越南餐,,CA,"CA,越南餐，饮料店，老板娘讲广东话，约了8/18下午2点联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FkmLEAS/view,
+Thu  08/17,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Internal,Test,,3472312591,,-,,,,,,,,,,
+Thu  08/17,Abandoned,CBVM,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/17,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,,,
+Thu  08/17,Unqualified,Business Partners,,7632923524,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/17,Inbound Qualified,,,8457658031,8885200811,DM,董老板,DM,,,美式中餐,Pickup,NY,第一次咨询，前面自己在接，收到DM免费试用一个月，一个人也忙不过，手机号码9172260506，餐馆电话8457658031,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKE9YEAW/view,
+Thu  08/17,Unqualified,Business Partners,,9205668650,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/17,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,,,
+Thu  08/17,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,,,
+Thu  08/17,Abandoned,,,8087265942,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/17,Inbound Call,,,9179695577,8882353805,Douyin,郑老板娘,抖音,,,美式中餐,Delivery,NY上州,前面自己在接，咨询费用，讲了大概是在7%-8%， 觉得贵,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IEykEAG/view,
+Thu  08/17,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Thu  08/17,Unqualified,Null,,6463937079,8888968962,SMS,,,,,,,,,,
+Fri  08/18,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Fri  08/18,Inbound Qualified,,,3473358931,8885200811,DM,陈老板,DM ,,,美式中餐,Pickup,DC,高兴趣度，有亲戚也在用，提到免费一个月服务，解释了信用卡服务，有兴趣也用信用卡服务，具体的费率还没介绍,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IKTLEA4/view,
+Fri  08/18,Inbound Call,,,5145739669,8885200811,DM,张老板,DM ,,,日餐,Pickup,CANAda,看到头一个月免费，介绍了我们服务如何帮餐馆接电话，以及大概的收费，但是想要自己在考虑一下，需要会在打回来。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IKqtEAG/view,
+Fri  08/18,Abandoned,,,Anonymous,8885868359,DM,,,,,,,,,,
+Fri  08/18,Abandoned,,,2568571067,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/18,Unqualified,Null,,3474632592,8888988389,No Channel Mapped,,,,,,,,"Try to call us few time, but its might be a issue in their end, unable to communication",,
+Fri  08/18,Unqualified,Null,,3474632592,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/18,Unqualified,Null,,3474632592,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/18,Inbound Qualified,,,9178851530,8888968962,SMS,Jenny,,,,美式中餐,Pickup,NY,曼哈顿一家中餐馆，老板娘说这家店里好像就一个电话，问了收费，跟她讲了大概7%左右，还解释了信用卡方面得问题，后来比较忙，过两天再联系，同意先加个微信，电话号码就可以直接搜索到。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSR9NEAW/view,
+Fri  08/18,Unqualified,Null,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/18,Unqualified,Not Restaurant Owner,,6463937079,8888968962,SMS,,,,,,,,,,
+Fri  08/18,Unqualified,Not Restaurant Owner,,6463937079,8888968962,SMS,,,,,,,,,,
+Fri  08/18,Inbound Qualified,,,4084396808,8888968962,SMS,王,DM,,清蒸马家馆,美式中餐,Pickup,CA,CA的店，客户群体40%讲普通话，很希望跟我们合作，解释过了 超过10%得中文客户没办法接，还是想再做一个沟通，讲了费率可能在7%左右，想先试着做个兼职服务，一小时内回电，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSPYrEAO/view,
+Fri  08/18,Abandoned,"Called again, qualified",,9176501032,8882353619,WeChat - Ads,,,,,,,,,,
+Fri  08/18,Abandoned,"Called again, qualified",,9176501032,8885200811,DM,,,,,,,,,,
+Fri  08/18,Unqualified,Null,,9176501032,8885200811,DM,,,,,,,,,,
+Fri  08/18,Inbound Qualified,,,9176501032,8885200811,DM,李老板娘，,,,,美式中餐,Pickup,VA,朋友介绍的，朋友在用，自己接电话，讲了大概收费在7%，有意尝试我们的服务， 想了解后续的流程，可能之后会做兼职，提到了兼职$200的事情。可以先加个微信，今晚9点或者九点半后再联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024INZyEAO/view,
+Fri  08/18,Inbound Qualified,,,4026098470,8888969083,Google SEM,Cris,DM,,,美式中餐,Delivery,NE,电话单40k，有做送餐，解释了2块钱一小时的事情，看到我们的免费试用一个月活动，想要确认下收费的费率，有大意愿想做个尝试，现在可以回电话。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IW5fEAG/view,
+Sat  08/19,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Sat  08/19,Inbound Qualified,,,3478962602,8885200811,DM,林老板,DM,,,美式中餐,Pickup,NY,"第一次咨询，以前认识的在用兼职，偶尔送1-2外卖, 讲了费率大概在7%-8%，自己说电话单有5w以上，跟老板讲了5w以上可能在价格上有一些优惠。主要觉得有点贵。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IYjAEAW/view,
+Sat  08/19,Inbound Qualified,,,2708897500,8888968962,SMS,陈老板,SMS,,,美式中餐,Delivery,KY,老板娘自己在前面接，另外一个兼职，合适的话让老板娘多休息，可以带小孩。可以先搜电话号码加下老板微信，约了晚上10点以后电话联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IZKpEAO/view,
+Sat  08/19,Unqualified,Not Restaurant Owner,,6269778677,8882353619,WeChat - Ads,,,,,,,,找送餐工作的,,
+Sat  08/19,Inbound Qualified,,,4238388308,8888968962,SMS,董老板,SMS,,,亚洲餐,Pickup,TN,"online order, 现在缺人手，5w-6w，免费试用一个月，老板说，",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024IaCDEA0/view,
+Sat  08/19,Inbound Qualified,,,6262971179,8888968962,SMS,Andy,,,,美式中餐,Pickup,CA,送餐的比较少，问题特别多，还要求我们上门服务，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOGSEA4/view,
+Sat  08/19,Unqualified,Not Restaurant Owner,,6463937079,8888968962,SMS,,,,,,,,,,
+Sat  08/19,Inbound Qualified,,,8437981410,8888569583,DM,张老板,DM,,,美式中餐加铁板,Pickup,SC,平时自己在接，平时小孩放假接电话，要上学了，想考虑下用食客通还是请个兼职，对兼职服务有兴趣，提到免费试用30天，现在回电，解释了4.5小时，没提200费用,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOxxEAG/view,
+Sat  08/19,Abandoned,"Called again, qualified",,8624529670,8885200811,DM,,,,,,,,,,
+Sat  08/19,Inbound Qualified,,,8624529670,8885200811,DM,李老板,DM,,,美式中餐,Delivery,NJ,有朋友在用我们服务，明确说想要试我们服务，没问收费啥的，知道大概的流程，现在回电话。,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WXPZdAAP/view,
+Sun  08/20,Internal,,,5857329192,,-,,,,,,,,,,
+Sun  08/20,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Sun  08/20,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Sun  08/20,Unqualified,Null,,3047903829,8885868359,DM,,,,,,,,,,
+Sun  08/20,Inbound Qualified,,,5028442006,8882353821,WeChat - Blog,郑,微信,,,,,,第一次咨询，自己在前面接电话，5026333030，最近开始忙起来，想要了解我们服务，知道30天试用活动，后来忙起来了，没收集太多信息。6464273432,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002Vss4kAAB/view,
+Sun  08/20,Inbound Qualified,,,3525931255,8885200811,DM,林,DM,chopstick,,美式中餐,Pickup,FL,知道有一个朋友在用，收到广告，知道免费30天活动，想要试一试，提了收费大概7%左右，表示可以接受。,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002VsrvxAAB/view,
+Mon  08/21,Internal,Test,,9175932967,8885868359,DM,Karen,,,,,,,,,
+Mon  08/21,Abandoned,CBVM,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/21,Unqualified,Null,,5854694105,8885200811,DM,,,,,,,,打回去说回头再给我打过来，现在有事,,
+Mon  08/21,Inbound Qualified,,,5854694105,8885200811,DM,郭老板娘,DM,,,中餐外卖,Delivery,NY,常常有打电话到餐馆，也有传单送到餐馆；自己做前台，一天不忙的时候40-50单，多的时候80-90单；想先做PT，咨询费率范围；询问餐馆有做promotion，客人用coupon结账我们怎么收费，或者客人点餐没有来取怎么办；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDjYEAW/view,
+Mon  08/21,Inbound Qualified,,,6465418828,8888968962,SMS,郭老板娘,SMS,,,传统中餐,Pickup,PA,收到30天试用短信，感兴趣，填写联系方式但是没人联系；前台自己在做，之前有小孩子帮忙接电话，现在去上学了；周一不开门，自己打电话过来咨询；大多数都是来取，也有少数熟悉的客人要送外卖，问能不能这些客人打她手机，她自己决定送不送；没具体算过有多少电话单或者营业额，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO4wEAG/view,
+Mon  08/21,Internal,Test,,9175932967,8885868359,DM,Karen,,,,,,,,,
+Mon  08/21,Unqualified,Null,,2568571097,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/21,Abandoned,CBNA,,2016441470,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/21,Abandoned,"Called again, qualified",,7188871666,8888968962,SMS,,,,,,,,,,
+Mon  08/21,Inbound Qualified,,,6315629999,8888968962,SMS,郑老板,朋友推荐,,,中餐外卖,Delivery,NY,准备盘一家纽约长岛外卖店，8/28接手；这家餐馆以前第三方平台都没做，70-80% pickup，剩下有delivery单子；之前请人送餐，接手过来老婆在做waitress但是英语不好，担心前台接不好生意差，老板自己做炒锅；老板手机号可以搜索到微信，以前做汽车行业,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024ItmhEAC/view,
+Mon  08/21,Inbound Qualified,,,7188871666,8888968962,SMS,林老板,SMS,,,中餐外卖,Pickup,NY,前台自己在做加一个PT，女儿也在帮忙；一个月6-7万生意，两条电话线；考虑PT，问可不可以4:30-10:00pm，餐馆已经30多年了；问都有什么机器，想了解费率有没有优惠，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GIW5EAO/view,
+Mon  08/21,Existing Client,R85958,,3027271149,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/21,Internal,Test,,9175932967,8882356322,Newspaper,Karem,,,,,,,,,
+Mon  08/21,Abandoned,CBNA,,6172500208,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/21,Unqualified,Not Restaurant Owner,,7752470335,8882063982,Influencer,,,,,,,,按摩店,,
+Fri  08/11,Unqualified,Not Restaurant Owner,,3478261860,,,,,,,,,,,,
+Tue  08/22,Unqualified,Not Restaurant Owner,,4196748476,8882063982,Influencer,,,,,,,,餐馆客人，问是不是用我们点餐会便宜，收到了sms campaign,,
+Tue  08/22,Inbound Call,,,8043497075,8885200811,DM,理,,,,中餐,Pickup,VA,看到我们的DM，询问了我们免费试用活动的事情，简单了解了下我们的服务，咨询了兼职服务，没有提具体的费用，现在店里人手够，不想跟AE再沟通，先了解一下，之后需要会在联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024J27JEAS/view,
+Tue  08/22,Abandoned,"Called again, qualified",,9292589541,,,,,,,,,,,,
+Tue  08/22,Inbound Qualified,,,9292589541,8882353972,https://getskt.com/,张,抖音 dm,,,中餐,Delivery,ny,"9月初接手新餐馆,想要详细了解下我们服务，包括具体的收费方式，现在回电话。",https://wondersco.lightning.force.com/lightning/r/Opportunity/0068b00001SQgioAAD/view,
+Tue  08/22,Unqualified,Business Partners,,9294194949,8882353972,https://getskt.com/,,,,,,,,,,
+Tue  08/22,Internal,Test,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,
+Tue  08/22,Internal,Test,,6465208898,,-,Ricky,,,,,,,,,
+Tue  08/22,Abandoned,CBNA,,6317059906,8888988389,No Channel Mapped,,,,,,,,,,
+Tue  08/22,Abandoned,CBVM,,2132592618,8888988389,No Channel Mapped,,,,,,,,,,
+Tue  08/22,Abandoned,CBVM,,8005395775,8888988389,No Channel Mapped,,,,,,,,,,
+Tue  08/22,Inbound Qualified,,,6266202278,8882353972,https://getskt.com/,Chris,广告/华人资讯网,,,中餐奶茶小吃,Pickup,CA,网站看到广告，餐馆将要开业；中餐奶茶小吃，上午下午菜单不一样，还没开业也不确定有多少电话单，简单咨询服务和收费方式，FT和PT区别，想进一步了解，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022Flf7EAC/view,
+Tue  08/22,Abandoned,,,5105209056,8885868359,DM,,,,,,,,,,
+Tue  08/22,Existing Client,R85991,,9103868036,8888968962,SMS,,,,,,,,,,
+Tue  08/22,Existing Client,R85991,,9103868036,8882353972,https://getskt.com/,,,,,,,,,,
+Wed  08/23,Existing Client,R85977,,8563984225,8888988389,No Channel Mapped,,,,,,,,,,
+Wed  08/23,Inbound Qualified,,,4029061887,8888969083,Google SEM,张老板,DM,,,中餐,Pickup,NE,没算过电话单每天有多少，执意咨询费率，讲了来取的收费方式，说不合理，讲他有从别人那里了解到收费不一样，说如果店里六万生意不如直接找人来接，要找业务经理直接聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JDXVEA4/view,
+Wed  08/23,Abandoned,CBVM,,5733664639,8888968962,SMS,,,,,,,,,,
+Wed  08/23,Unqualified,Null,,4244237008,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/24,Unqualified,Not Restaurant Owner,,5164619307,8882353680,WeChat - Ads,,,,,,,,按摩店，说是小郭推荐的,,
+Thu  08/24,Inbound Qualified,,,9142260114,8882353972,https://getskt.com/,孟老板,,,,中餐,Pickup,NY,十月份餐馆开店，想知道我们具体怎么收费，不然就要请人了；老板按一天一百单计算，百分之六七十都是电话单，说如果如果请人还可以做其他事情，想看是哪一个更便宜；现在回电，要了解费率,https://wondersco.lightning.force.com/lightning/r/Contact/0038b00003BIGZ1AAP/view,
+Thu  08/24,Inbound Call,,,9177676626,8888969083,Google SEM,,微信广告/短视频,,,中餐,Delivery,,还没开餐馆，亲戚有开餐馆；就是看到微信短视频来了解一下怎么操作，收费范围，等以后需要再联系；拉着加微信，说发送优惠/行业讯息，都不要,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AhUNEA0/view,
+Thu  08/24,Inbound Qualified,,,3479631486,8888667688,SMS,林老板,朋友在用,,,中餐,Pickup,AL,前台自己在做，电话单没算过有多少，两条线路；听朋友说准备用，他也想来咨询看看怎么做；想了解怎么收费，怎么操作，现在回电,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WXMh1AAH/view,
+Thu  08/24,Unqualified,Null,,4244237008,8888988389,No Channel Mapped,,,,,,,,Nobody speaking ,,
+Thu  08/24,Inbound Qualified,,,5636399888,8888969083,Google SEM,陈老板,朋友在用,,,中餐,Delivery,IA,有朋友在用，想要咨询；电话单一天大概30-40单，前台自己做，每个月电话单大概三万；希望了解费率，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JPiZEAW/view,
+Thu  08/24,Unqualified,Other product inquiry,,4083187114,8888968962,SMS,,SMS,,,中餐,,,咨询服务方式，问电话接单有什么优势；然后讲说他店里电话单5-10单，一天开10个小时，主要还是靠网络平台，不想继续聊,,
+Thu  08/24,Abandoned,CBVM,,3473161824,8888968962 / 9179858867,"SMS, Sales",,,,,,,,,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024GIJ4EAO/view,
+Thu  08/24,Inbound Qualified,,,9053488888,8885200811,DM,江老板,DM,,,中日餐,Delivery,"Ontario, Canada",收到DM，30天试用咨询；在多伦多，有四五家餐馆，有送餐；前台请的专门接电话的人，想说如果我们能帮他就不用请人了；想了解怎么操作，什么费率，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JQiBEAW/view,
+Thu  08/24,Abandoned,CBVM,,3473161824,8888968962 / 9179858867,"SMS, Sales",,,,,,,,,,
+Thu  08/24,Abandoned,"Called again, qualified",,9178225578,,,,,,,,,,,,
+Fri  08/25,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Fri  08/25,Inbound Qualified,,,4054301131,8888969083,Google SEM,Eric,,,,美式外卖,Pickup,OK,"确认9/1/2023 接手新餐馆，暂时做来取，之后可能送餐,说了如果有免费试用的话，会愿意尝试。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JVYrEAO/view,
+Fri  08/25,Inbound Qualified,,,9293405935,8882353972,https://getskt.com/,林老板,SMS，DM,,,美式,Delivery,NY,家庭店，平时自己人在前面接电话，看到免费试用活动，想要尝试一下，4-5点回电，可以先发条短信介绍自己，几点回电以及联系方式,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JVfTEAW/view,
+Fri  08/25,Internal,Test,,9175932967,8882356322,Newspaper,Karen,,,,,,,,,
+Fri  08/25,Unqualified,Not Restaurant Owner,,3302438556,8888968962,SMS,,,,,,,,,,
+Fri  08/25,Unqualified,Restaurant Cannot Serve,,7733225580,8888968962,SMS,Jimmy,,,,意大利餐,,,,,
+Fri  08/25,Abandoned,CBNA,,2139211736,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/25,Inbound Qualified,,,9172242537,8888968962,SMS,Nina,SMS,,,日餐,Pickup,FL,前台自己在前面接，说忙得过来，解释了怎么帮餐馆接电话，问了收费，只讲了大概7-8%，兴趣度一般，但是可以跟AE再联系，详细的了解下，要求先短信上面联系。,,
+Fri  08/25,Inbound Qualified,,,9179815081,8888968962,SMS,周,SMS,,,美式中餐,Delivery,bk,之前咨询过，想要试用免费30天的活动，问了送餐信用卡的问题，已经解释过了，但是收费内容都没说，先发短信，介绍自己，再约时间联系。,,
+Fri  08/25,Unqualified,Business Partners,,9178680888,8888968962,SMS,卖餐盒的，寻求合作,,,,,,,,,
+Fri  08/25,Inbound Qualified,,,9294882373,8888968962,SMS,李,SMS,,,美式中餐,Pickup,SC,目前还比较稳定，2个前台，7-8万，想要知道具体的费率，应该考虑先做兼职，减轻繁忙时段的压力，现在尽快回电，知道免费试用的活动。,,
+Fri  08/25,Existing Client,R85331,,9173457849,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/25,Inbound Qualified,,,"2023991725
+ 2022973174",8888968962,SMS,南,,,,中西餐,Delivery,DC,有朋友在用我们服务，2个前台，平时一个人就可以接，忙的时候2个人接，想要了解详细的情况,,
+Fri  08/25,Inbound Qualified,,,9178225578,8888968962,SMS,陈,SMS,,,日中,Delivery,NC,老婆一个人在接，忙的时候其他人帮忙接，,,
+Fri  08/25,Inbound Qualified,,,5745006757,8888968962,SMS,吴老板，,SMS,,,日餐,Pickup,IN,餐馆需要四台打印机，想要咨询具体的收费，以及后续如果要用食客通服务的流程。,,
+Fri  08/25,Abandoned,CBVM,,9176028859,8888968962,SMS,,,,,,,,,,
+Fri  08/25,Inbound Qualified,,,9173499799,8888968962,SMS,朱,SMS,,,中餐外卖,Delivery,,夫妻店，前面平时老板娘在接，有的时候也会忙不过来在考虑再请一个前台或者用我们食客通。可能电话单在1-2万想要在考虑一下。可以发短信给老板娘，保持联系。,,
+Fri  08/25,Inbound Qualified,,,7185643209,8888968962,SMS,jiang,SMS，DM,,,中餐外卖,Pickup,FL,不是第一次自诩，对我们的兼职服务很感兴趣，具体的收费没讲，知道我们有免费30天的活动，现在回电，要是没接就是说明在忙,,
+Fri  08/25,Abandoned,CBNA,,8084581300,8888988389,No Channel Mapped,,,,,,,,,,
+Fri  08/25,Inbound Call,,,9178281528,8888969083,Google SEM,,,,,,,,朋友介绍的，还在看店，先做个咨询，之后会再联系，福州人,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JakjEAC/view,
+Sat  08/26,Abandoned,Missed,,9176028859,,,,,,,,,,,,
+Sat  08/26,Internal,Test,,6465208898,8888988389,No Channel Mapped,Ricky,,,,,,,,,
+Sat  08/26,Inbound Call,,,6463129806,8888969083,Google SEM,林,,,,中餐外卖,,PA,还没买餐馆，餐馆拿下来以后准备用我们服务，先打过来咨询，大概还需要一个月,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JfrREAS/view,
+Sat  08/26,Inbound Qualified,,,9177833885,8888968962,SMS,陈,SMS,,,中餐外卖,Delivery,NY,听说朋友有在用，1.5半前台，想要尝试兼职，提了$200兼职费用，收费在7点多到8点多，想要用免费试用活动。,,
+Sat  08/26,Unqualified,Restaurant Cannot Serve,,9173283611,8888968962,SMS,Simon,,,,,,,第一次咨询，有两家餐馆，韩国炸鸡店和麻辣香锅店,,
+Sat  08/26,Inbound Qualified,,,9178558881,8888968962,SMS,福州老板,,,,亚洲餐,Delivery,DE,福州人，做亚洲餐，兴趣度很大，想要试我们服务，提到收费大概在7点多到8点多，要求会讲福州话的经理明天中文12点左右回电话，解释了信用卡方面的问题，以及怎么帮餐馆接电话。听到朋友谣传说食客通服务态度不好，已经解释过了，,,
+Sat  08/26,Unqualified,Not Restaurant Owner,,4058261065,8888968962,SMS,,,,,,,,,,
+Sat  08/26,Inbound Qualified,,,9179295339,8888968962,SMS,赵小姐,SMS,,,日餐,Pickup,GA,日本餐，收到免费试用的短信，打过来咨询，想要询问具体的收费和操作流程，晚上10点以后联系。觉得我们收费方式有一点点高。,,
+Sat  08/26,Abandoned,,,7172547536,8888968962,SMS,,,,,,,,,,
+Sun  08/27,Inbound Qualified,,,2157305888,8888968962,SMS,郑老板,DM,,,中餐,Delivery,PA,经常有收到寄到店里的DM；一天电话单50多单，多的时候80几，大概10-20%的外送；简单介绍服务操作和收费方式，老板想了解具体费率和有没有优惠,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNi9EAG/view,
+Sun  08/27,Inbound Qualified,,,4015959205,8888969083,Google SEM,何老板,DM,,,中餐,Delivery,RI,一直有收到DM，也有电话打到店里，但是之前都不需要，现在孩子要上学，想说用一下；电话单不一定，平时大概30-40单，周末能有50-60单，有请人外送，三分之一都是外送单；咨询服务流程操作客人投诉怎么处理，问schedule是不是可以随意调整，做了简单的解释,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JntmEAC/view,
+Mon  08/28,Abandoned,CBNA,,3176261271,8888969083,Google SEM,,,,,,,,,,
+Mon  08/28,Inbound Qualified,,,6462519040,8888968962,SMS,陈老板娘,SMS,,7177512667/8,中餐,Pickup,PA,收到SMS免费试用一个月，想咨询服务；前台两条线路，电脑和手写单一半一半，前台之前清了PT，小孩子开学不做了，现在自己在做；简单了解服务流程，问现在店里没有网怎么办，之前是从隔壁店拉的网络线路，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNpGEAW/view,
+Mon  08/28,Existing Client,R85967,,2013678803,8888988389,No Channel Mapped,,,,,,,,,,
+Mon  08/28,Inbound Call,,,9178558881,8888968962,SMS,,,,,,,,前几天打来AE未联系客户,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JhQbEAK/view,
+Mon  08/28,Inbound Qualified,,,9178878302,8888968962,SMS,郑老板娘,SMS,,,中餐,Pickup,OH,收到30天试用的短信，想了解情况还能不能做；一天大概有70单，夫妻店，担心自己小餐馆我们接不接；前台自己接，女儿有帮忙，一条电话线路；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JvBaEAK/view,
+Mon  08/28,Unqualified,Null,,9292165408,8888968962,SMS,,,,,,,,Wrong number dialed,,
+Mon  08/28,Inbound Qualified,,,6086588077,8888968962,SMS,陈老板娘,SMS,,,日餐,Pickup,Wisconsin,收到SMS 30天试用，朋友也有在用&推荐；两家餐厅，一家川菜馆+中餐，中国客人&留学生居多，已告知不一定接；所以想先尝试另一家纯日餐，sushi+hibachi，电话一天20几单，一半电话一半网络单子，电话都是来取，外送都是让客人去doordash这种点，前台有专门请人；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JwfqEAC/view,
+Mon  08/28,Unqualified,Null,,8084581305,8888988389,No Channel Mapped,,,,,,,,"Answered, no body speaking",,
+Tue  08/29,Inbound Qualified,,,6465100768,,-,林,DM,,,中餐,Pickup,ohio,第一次咨询，说收到看到折扣优惠，有认识的朋友在用我们服务，有推荐过她来用我们服务，自己在前面接电话，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024K7REEA0/view,
+Tue  08/29,Inbound Qualified,,,9173768933,,-,邱,DM,,,日餐,Pickup,TN,7-8w生意， 6万左右外卖，6个 礼拜天， 一个前台，一个服务员，想说我们的服务合适的话，就只要留一个服务员就好了。,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WYgwmAAD/view,
+Tue  08/29,Abandoned,,,9177557766,,-,,,,,,,,Hanged up 4s,,
+Tue  08/29,Inbound Qualified,,,"6462672368
+8608288808",,-,董先生,DM,,,中日餐,Pickup,CT,收到DM，想了解一下；百分之六七十都是电话单，全部生意有四五万；简单了解怎么出单，有没有那种忙的时候插上线路，不忙直接拔掉，做了相应解释，对PT感兴趣，现在也有请人，就像忙的时候交给我们，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEFdEAO/view,
+Tue  08/29,Unqualified,Not Restaurant Owner,,4196748476,,-,,,,,,,,点餐平台咨询,,
+Tue  08/29,Inbound Qualified,,,7812981062,,-,黄先生,,,,中餐,Pickup,MA,在网上做了登记，但是没有人回复；中餐外卖，90%都是电话单，之后要做doordash，月营业额电话单有五六万；了解收费感觉有点贵，提及PT，现在回电了解更具体情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024JjBdEAK/view,
+Tue  08/29,Abandoned,,,2627442791,,-,,,,,,,,Hanged up 5s,,
+Tue  08/29,Abandoned,,,2627442791,,-,,,,,,,,Hanged up 1s,,
+Tue  08/29,Unqualified,Null,,2132592618,,-,,,,,,,,Nobody speaking,,
+Tue  08/29,Inbound Qualified,,,5163881888,,-,陈,SMS,,,中餐外卖,Delivery,长岛,第一次咨询，看到免费试用一个月的服务的活动，需要跟老板确认下是否还能能享受到这个优惠活动，跟老板解释过我们的收费方式，讲了是按照平均单大小来决定收费，没讲具体多少，现在可以回电，先留个联系方式。,,
+Wed  08/30,Unqualified,Null,,6083358350,,-,,,,,,,,Nobody speaking,,
+Wed  08/30,Unqualified,Null,,6083358350,,-,,,,,,,,Nobody speaking,,
+Wed  08/30,Existing Client,R86102,,9174151769,,-,林老板,Telemarketer,,5164709547,日餐,Delivery,,三十天试用想参加，电话单大概一天30-40%，前台有单独请人； alex的account,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002Vss2sAAB/view,
+Wed  08/30,Unqualified,Null,,2132592618,,-,,,,,,,,Nobody speaking,,
+Wed  08/30,Inbound Qualified,,,"2023622030
+2022933138",,-,"林老板娘
+Steven",DM,,,亚洲餐,Delivery,DC,4+2+3 9台打印机，现在前台缺人，难请人，需要找个专门接电话的，想要详细咨询我们的服务，,,
+Wed  08/30,Inbound Call,,,4128886867,,-,,DM,,,中餐,Pickup,PA,一天大概50-60单，前台自己在做，有时候来不急接想交给我们，问能不能忙的时候用，不忙的时候就不用；一定要咨询收费，解释6.99，老板问能不能低一点；问有什么机器，解释电话转接器，他说他们没Wi-Fi也没法连电脑，解释不相关，然后老板就说不要再打给他了，拉着加微信也就说不要再打了就挂断了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AhwVEAS/view,
+Wed  08/30,Internal,Testing,,3472312591,,-,Ricky,,,,,,,,,
+Wed  08/30,Inbound Qualified,,,7639231687,,-,潘老板,DM,,,美式中餐,Pickup,Ms,5-6w电话单每个月，解释了怎么帮忙接电话，店里2台打印机，信用卡和电脑连在一起，讲了费率可能是在7%左右，觉得有一点贵，平时自己家里人在前面接电话，一般就是老板和他女儿，忙的时候女儿在店里打工，看到免费试用的活动，之前填了表，没有人联系他。现在先回电介绍下自己，,,
+Wed  08/30,Abandoned,,,9173924303,,-,,,,,,,,"Hanged up 1s, CBNA",,
+Wed  08/30,Unqualified,Null,,2568572512,,-,,,,,,,,,,
+Wed  08/30,Abandoned,,,2016441470,,,,,,,,,,,,
+Wed  08/30,Inbound Qualified,,,6263211460,,-,Susan,DM,,,中餐,Pickup,AZ,之前一直收到DM，但不太清楚我们怎么做，打来简单咨询操作流程；没算过一天多少电话单，周末单子比较多；感兴趣PT，想说忙的时候可以帮到她；问会怎么接单提供什么机器，她店里没有打印机；咨询收费，讲了6.99；本来想要一个业务经理电话，说她自己联系，说不定一会儿有事或怕陌生电话；说先发短信,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024ni7VEAQ/view,
+Wed  08/30,Unqualified,Null,,8186407256,,-,,,,,,,,,,
+Wed  08/30,Unqualified,Null,,8186407256,,-,,,,,,,,,,
+Wed  08/30,Inbound Qualified,,,6462698933,,-,高老板娘,,,,中餐泰餐,Delivery,NY,以前咨询过，前两年以前没有PT，并且业务不忙，所以就没有做；在Brooklyn主要是中餐，近期有另一家泰餐并过来；了解PT，周末大概比较忙，前台有请人自己也在做，但是不想一直忙前面；店里四条线路，如果目前店里两条线，电话有两三万，加上并过来有四条线总共五六万，客人来取和请人送餐各占一半；提到也有收到30天试用的广告，想说先做PT周末帮他们接两条线，现在回电话,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO0hEAG/view,
+Wed  08/30,Existing Client,R85609,,7067556582,,-,,,,,,,,,,
+Wed  08/30,Unqualified,Null,,5807689008,,-,,,,,,,,,,
+Thu  08/31,Inbound Qualified,,,4786369549,8888667688,SMS,Andy高,,,,中餐外卖,Pickup,GA,之前在网络上看到，从没了解过，打来咨询服务流程和收费；这家店刚买下来，之前老板自己接电话，接受过来讲英文的人不好请，想说了解一下我们；一天至少40-50单电话，了解了FT&PT，问我们接电话他这边用不用接起来，讲了可以实时监听，想了解具体费率等情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024noTQEAY/view,
+Thu  08/31,Inbound Qualified,,,3173668308,8882353972,https://getskt.com/,郑老板娘,有朋友用/DM,,,寿司铁板一点中餐,Pickup,PA,有朋友在用，也有收到过DM；没算过一天多少电话单，有做Beyondmenu，也有来店里取餐的客人；问打印机如果店里的不适配怎么办；了解餐馆具体情况的时候老板娘说，直接找业务经理聊，不想一遍遍说营业额或者有多少电话单的情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKP7vEAG/view,
+Thu  08/31,Inbound Call,,,8173325609,8885200811,DM,餐馆电话,,,,中餐汉堡,Pickup,TX,"english speake, 收到月饼的DM,简单的介绍了下我们的服务，需要SDR再跟进.",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NaldEAC/view,
+Thu  08/31,Abandoned,CBNA,,3203855344,8888988389,No Channel Mapped,,,,,,,,Called back twice no sound,,
+Thu  08/31,Inbound Qualified,,,5043260802,8885200811,DM,钟老板娘,DM,,,手抓海鲜,Delivery,lo,第一次咨询，前台收银准备辞职，目前前台也要打包，看到广告DM，也知道其他家的电话服务，想要做个比较。有送餐公司送餐。,,
+Thu  08/31,Inbound Qualified,,,9172169951,8885200811,DM,林老板,DM,,,中餐外卖,Delivery,NY,收到月饼DM，中餐外卖店，来取也有请人送外卖；想了解具体的收费情况，解释要业务经理了解具体情况，要求直接业务经理联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024nrjrEAA/view,
+Thu  08/31,Unqualified,Not Restaurant Owner,,6415690743,8888968962,SMS,,,,,,,,按摩店，寻求合作，暂时接不了,,
+Thu  08/31,Inbound Call,,,9178807730,8888667688,SMS,Tina,,,,中餐外卖,Delivery,NJ,之前手机上看到广告，忘记具体是哪里了；中餐外卖店，想请食客通做PT，有请人送外卖；一天电话上大概500块，想了解怎么收费，介绍了PT月费，没给抽成%说要业务经理了解情况；问有没有一个月试用或者其他优惠，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024ngbeEAA/view,
+Thu  08/31,Inbound Qualified,,,3192430578,8885200811,DM,李老板,DM,,,美式中餐,Delivery,CA,第一次咨询，老板2个全职前台，10点后，8-9万生意额，加州全外卖店，现在有用4个平台，比较在意收费问题，想要了解具体收费情况，如果合适会直接做，high GMV，讲广东话。,,
+Thu  08/31,Inbound Qualified,,,9174205820,8888969083,Google SEM,Susan,,,,中餐外卖,Delivery,NY,以前有收到过短信和广告，咨询30天试用还有没有；在Brooklyn，有自己送外卖；店十一点开门，但老板娘这边可能有时候十一点半才到店，所以想先请食客通接一下，半天尝试一下；让业务经理直接回电话，想知道还能不能试用,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOR9EAO/view,
+Thu  08/31,Abandoned,CBNA,,19722750346,,-,,,,,,,,,,
+Thu  08/31,Inbound Qualified,,,8507367275,8888968962,SMS,郑老板,DM,,,中餐外卖,Pickup,FL,之前一直有收到DM，但是不感兴趣；自己在做前台，现在想说会有很忙的时候，想说跟我们合作看；咨询服务流程，有什么机器，说店里没有打印机，解释打印机情况后他说两人店这种需要一台在前台就行；来取，也有第三方平台和walkin，想知道具体怎么收费，现在比较有空，请回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024ns7qEAA/view,
+Thu  08/31,Unqualified,Null,,8888305461,8888988389,No Channel Mapped,,,,,,,, Noise sound,,
+Thu  08/31,Inbound Qualified,,,6175158903,8888969083,Google SEM,王老板,,,,中餐外卖,Pickup,MA,咨询PT，也提到之前有打电话给他讲了30天试用；自己一个人搞餐馆，以前厨房两个人，现在厨房不稳定，老板自己要去做；前台请了PT，但是是PT也不是很稳定，容易请假；餐馆一天营业额1000块钱，周末多些，每个月大概3万；想长期合作，所以想知道费率和怎么使用，要求尽快回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNgJEAW/view,
+Thu  08/31,Existing Client,R85065,,3177938703,8888988389,No Channel Mapped,,,,,,,,,,
+Thu  08/31,Inbound Qualified,,,"9053568668
+9053581389",8885200811,DM,阮老板,DM,,,中餐外卖,Delivery,Canada,收到DM打来咨询怎么操作和收费；电话大概有20-30单，不固定；前台现在服务员在接，99%都是讲英文的客人；加拿大客人，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024nuOHEAY/view,
+Fri  09/01,Existing Client,R83376,,7577989573,8885868359,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV2
+Fri  09/01,Unqualified,Restaurant Cannot Serve,,4046604040,8885200811,DM,Italian,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/01,Unqualified,Business Partners,,6319643385,8882353972,https://getskt.com/,Looking for a job,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  09/01,Inbound Qualified,,,4436534377,8888969083,Google SEM,司徒老板，,google,,,美式中美,Pickup,MD,老板之前有用过我们服务，后来店卖掉了，现在在MD有新开的店，想了解下我们现在有的优惠活动，对我们的服务流程基本都了解，目前店里2个电话线，1个前台小姐，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024nznsEAA/view,Mkt_PaidSearch_Google_AllCampaigns
+Fri  09/01,Inbound Qualified,Call Back,,7346049092,8885200811,DM,,DM,,,中餐,Pickup,MI,以前有咨询过，后来决定不做，前台自己在做，收到DM月饼，9月开始餐馆忙起来了，就想咨询一下我们的服务，看下能不能帮到餐馆，提到平时可能忙不过来。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024nzcqEAA/view,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/01,Existing Client,R88882,,4144129692,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Fri  09/01,Abandoned,CBNA,,9173924303,8888988389,No Channel Mapped,,,,,,,,"Hanged up 3s, CBNA",,Mkt_General_All_Migration
+Fri  09/01,Unqualified,Null,,2568572529,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Fri  09/01,Unqualified,Null,,2054094976,8882353619,WeChat - Ads,,,,,,,,,,Mkt_WeChatAds_WeChat_General
+Fri  09/01,Unqualified,Null,,3472958072,8885200811,DM,,,,,,,,"English speaker, receive DM with Chinese, doesn't understand it, call back and inquire, no interest.",,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/01,Unqualified,Business Partners,,9174122532,8888988389,No Channel Mapped,收废油，寻求合作,林老板,,,,,,,,Mkt_General_All_Migration
+Fri  09/01,Unqualified,Not Restaurant Owner,,8647209777,8888969083,Google SEM,找饭团的,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Fri  09/01,Unqualified,Business Partners,,6503988806,8882356322,Newspaper,杨华,,大纪元时报,,,,,,,MKT_Newspaper_All_General
+Sat  09/02,Internal,Testing,,6465208898,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Sat  09/02,Existing Client,R86019,,7404082431,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Sat  09/02,Unqualified,Other product inquiry,,8473124056,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Sat  09/02,Existing Client,R83279,,3476542226,8882353972,https://getskt.com/,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Sat  09/02,Inbound Qualified,,,9179916819,8882353972,https://getskt.com/,陈老板娘,,,,中餐外卖,Pickup,SC,"忙店，有西班牙客人,咨询我们服务，比较在意价格，没提具体费率，只说按照接的电话单营业额抽成，对税后抽成可能也有点顾虑，半小时内回电。想看看抽成再决定做不做。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024o85VEAQ/view,Mkt_DirectSEO_Internal_AllTraffic
+Sat  09/02,Abandoned,,,7577391286,8888968962,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Sat  09/02,Inbound Qualified,,,9172398927,8888968962,SMS,李老板，,,,,中餐外卖,Delivery,NJ,现在想做兼职，白天不忙，希望晚上帮忙接电话，有朋友在用，兴趣度比较大，对我们的服务也比较认同。现在可以回个电话留个联系方式，老板希望周一休息的时候详细聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024o8anEAA/view,Mkt_SMS_Internal_General
+Sat  09/02,Abandoned,Missed,,7182882587,8888667688,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Sat  09/02,Unqualified,Other product inquiry,,7182882587,8888667688,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Sat  09/02,Inbound Qualified,,,6265222005,8888968962,SMS,Cici,SMS,,,美式中餐,Delivery,CA,收到我们的SMS广告免费试用，有意想要尝试我们服务，已经解释过了免费试用活动已经结束，但是老板娘表示如果还有免费试用的机会的话，愿意尝试合作，半小时内回电。,https://wondersco.lightning.force.com/lightning/r/Opportunity/0068b00001T7wCDAAZ/view,Mkt_SMS_Internal_General
+Sat  09/02,Abandoned,Missed,,6463274581,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Sat  09/02,Existing Client,R82655,,6463274581,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Sat  09/02,Inbound Qualified,,,9172978001,8888968962,SMS,李老板娘,SMS,,,中餐外卖,Pickup,NJ,第一次咨询，希望在3%-4%，目前是自己在前面接电话，就老板娘自己在前面接电话。价格合适的话可以考虑合作。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oA9xEAE/view,Mkt_SMS_Internal_General
+Sun  09/03,Inbound Qualified,,,2409195545,8885200811,DM,Kristen Lee,Referral,,,中餐外卖,Delivery,MD,"老板娘讲英文，想跟我们合作，有朋友在用我们服务，推荐她用；Kristen目前自己在接电话，有两条线路；70%来取和外送(自己请的人)，30%online点餐；愿意业务经理回电告知具体费率和操作，说下午四点前回电，稍等可以联系
+New client who want to partner with us, recommended by a friend who is currently using our service; Kristen is handling phone call by herself, with 2 phone lines; 70% delivery or pickup, 30% online; wanted manager to call back and tell more about pricing, asked to call back before 4pm",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCI4EAO/view,Mkt_DM_Snowflake_MooncakeV1
+Sun  09/03,Inbound Qualified,,,2029857936,8882353972,https://getskt.com/,郑老板,Referral,,,美式中餐,Pickup,GA,朋友在MS开餐馆，推荐说还不错；来取，有外卖平台，一天有30多单，帮亲戚来联系食客通服务，实施舅舅夫妇两人的店，经常忙不过来会请郑先生来帮忙；咨询收费情况FT&PT，机器都有什么&打印机费率，了解公司规模什么人接电话，问其他业务；近期没有收到优惠短信/DM，业务经理现在回电聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oFm4EAE/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/04,Inbound Qualified,,,6466423114,8882353972,https://getskt.com/,李老板,DM,,,美式中餐,Pickup,NJ,之前有收到DM，最近的有优惠的DM可能还没收到；暂时没有online order，电话正常40单，多的时候80-90单；前台目前自己在做，想请人但是还没请到，所以来咨询；了解了FT & PT收费情况，愿意进一步了解，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oIzoEAE/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/04,Inbound Call,,,2108370478,8885200811,DM,Selim Sharif,DM,Phoenix Chinese Cafe,,美式中餐,Pickup,TX,"Saw our DM and wondered what was the dessert on the picture, and if we can sell it to them or where they can buy one for customers; Phoenix Chinese Cafe, changed owner since last January; probably 10% Chinese-speaking customers who can also speak English, majority were English-speaking; first time hearing this, so he also asked about charging % and operation process; there were phone orders, but not much high volume, interested in PT service to handle rush hours. Selim needs to discuss with his manager over this and do more research, will call back when decision is made",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO41EAG/view,Mkt_DM_Snowflake_MooncakeV1
+Mon  09/04,Inbound Qualified,,,9176223083,8882353972,https://getskt.com/,Peter,朋友推荐,,,中日餐,Pickup,AL,朋友有在用，推荐来用一下；中日餐，餐馆新开张，有平台点单/和到店点餐，不清楚有多少电话单；咨询费率和收费方式，以及签不签合同，介绍了PT但是没有提及200月费，问机器邮寄要多久；问公司地址，说有空来看看，现在回电了解更具体情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oKVZEA2/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/04,Inbound Qualified,,,4038894508,8882353972,https://getskt.com/,陈老板娘,Youtube广告,,,美式中餐,Delivery,Canada,YouTube上面看到广告，想了解怎么操作；简单介绍操作流程和收费方式，因为有汇率和税率问题，之后要再跟经理聊；问怎么能确保帮他们餐馆接上电话，客人投诉怎么处理，咨询了送餐服务，想进一步了解收费等情况，请尽快回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oKftEAE/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/04,Inbound Qualified,,,9175888108,8888968962,SMS,郑老板,DM,,,中餐外卖,Pickup,FL,上来直接说的要开通食客通服务，收到DM刚刚有扫码填表，其他朋友的店也有在用；中餐外卖店，都是来取，一天100-120多电话店，月营业额八万多，前台有请PT；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oLcvEAE/view,Mkt_SMS_Internal_General
+Mon  09/04,Inbound Qualified,,,9176636615,8882353972,https://getskt.com/,连文秀？,朋友在用,,,中餐外卖,Pickup,MA,有朋友在用，考虑PT，dinner交给我们；问单子进不进电脑系统，咨询费率，说以前好像没这么贵，还问要不要签合同，都做了相应简答；老板娘说她叫lian wenxiu？但是salesfoce有记录是May吴，请现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPdfEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Tue  09/05,Unqualified,Null,,2014742016,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Tue  09/05,Unqualified,Null,,2019077662,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Tue  09/05,Inbound Qualified,,,3479355068,8888968962,SMS,Vicky,SMS,,,中餐外卖,Delivery,CT,之前有收到短信，也说有打到过店里；一天总的订单平均80-90单，电话单差不多60-70单，也有online/uber，没算过电话营业额；不需要FT，想说lunch忙不过来，或者晚上想早点走的时候交给我们来接；现在回电，了解更具体费率,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oTUREA2/view,Mkt_SMS_Internal_General
+Tue  09/05,Unqualified,Null,,5043132487,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Tue  09/05,Existing Client,R85786,,6464643077,8888988389,No Channel Mapped,,,,,,,,上来就报了R85786，然后问他签的是什么合同FT or PT plan，打到财务部让联系业务部查系统记录,,Mkt_General_All_Migration
+Tue  09/05,Existing Client,R85786,,6464643077,8888988389,No Channel Mapped,,,,,,,,又打来说上周一联系业务经理改了PT，为什么系统里还是FT，问能不能改PT当天生效，说帮他联系业务经理回电，可能还在电话上；一定要问不到一万块怎么收费，然后就挂断了,,Mkt_General_All_Migration
+Tue  09/05,Inbound Qualified,,,8649416418,8885200811,DM,林老板,DM,,,中餐外卖,Pickup,SC,有收到中秋月饼DM；没算过有多少电话单，营业额差不多3万多；想了解具体收费和优惠情况，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oXUZEA2/view,Mkt_DM_Snowflake_MooncakeV1
+Tue  09/05,Inbound Qualified,,,9175171205,8888969083,Google SEM,林老板娘,DM,,,中餐外卖,Delivery,IL,收到中秋DM；没算过一天多少电话单，外送单差不多10几个；咨询收费，解释了有单收费没单不收费，给了一个范围未告知具体数字，业务经理回电话聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oXzsEAE/view,Mkt_PaidSearch_Google_AllCampaigns
+Tue  09/05,Inbound Qualified,,,9178227887,8885200811,DM,董老板,Website/DM,,,中餐外卖,Delivery,PA,之前收到免费试用，还在网站上填了表格但是没有人联系，这个月收到中秋DM；大概一天电话单50-70多单，周末多个20-30单；自己加请人，想咨询具体操作收费，请业务经理打两次电话，或提前发短信，老板说怕漏掉电话,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232NUqEAM/view,Mkt_DM_Snowflake_MooncakeV1
+Tue  09/05,Inbound Call,,,5853836088,8888569583,DM,,Email,,,泰餐堂吃,Pickup,NY ,一个月800-1000电话单，月营业额有将近四万大概，感觉收费有点贵，不如请人，讲了PT；email里面中餐通讯看到广告，跟168什么餐厅电脑放在一起，以为我们有POS想咨询对比来着,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AhutEAC/view,Mkt_DM_Snowflake_Migration
+Tue  09/05,Unqualified,Business Partners,,9294639116,8885753251,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Wed  09/06,Unqualified,Null,,7348583374,8882353972,https://getskt.com/,,,,,,,,"Picked up, no one speaking",,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/06,Unqualified,Null,,4802277678,8888968962,SMS,,,,,,,,"Picked up, no one speaking",,Mkt_SMS_Internal_General
+Wed  09/06,Inbound Call,,,6462566280,8882353807,Chinese Website,杨老板,网上找的,,,中餐外卖,Delivery,NY Jamica,不做网络平台，之前在网上搜索的，现在想了解一下，一天80-90单，电话80%，自己和请了全职；股份制,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AhPTEA0/view,Mkt_General_All_Migration
+Wed  09/06,Abandoned,,,2016441470,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Wed  09/06,Abandoned,,,8186407256,8888667688,SMS,,,,,,,,Hanged up 6 seconds,,Mkt_SMS_Internal_General
+Wed  09/06,Unqualified,Null,,9739864111,8882353972,https://getskt.com/,,,,,,,,"English speaking, called back but hanged up",,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/06,Unqualified,Not Restaurant Owner,,4058261065,8888968962,SMS,,,,,,,,Hanged up 6 seconds,,Mkt_General_All_Migration
+Wed  09/06,Unqualified,Null,,7206385384,8888988389,No Channel Mapped,,,,,,,,Wrong number dialed,,Mkt_General_All_Migration
+Wed  09/06,Abandoned,,,3472045558,8888968962,SMS,,,,,,,,Hanged up 6 seconds,,Mkt_SMS_Internal_General
+Wed  09/06,Abandoned,,,9793139896,8888968962,SMS,,,,,,,,"Hanged up 6 seconds, called back no answer",,Mkt_SMS_Internal_General
+Wed  09/06,Existing Client,R82655,,6463274581,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Thu  09/07,Abandoned,,,6102455891,8882356322,Newspaper,,,,,,,,,,MKT_Newspaper_All_General
+Thu  09/07,Unqualified,Null,,9175173803,8888968962,SMS,,,,,,,,以为是卖月饼的，想要订购,,Mkt_General_All_Migration
+Thu  09/07,Inbound Qualified,,,3475360841,8885200811,DM,朱老板,DM,,,中餐外卖,Delivery,VA,收到广告，也有朋友在用；上来直接讲想想做PT，有请人送外卖； 没算过有多少电话，前台有请人，自己也会去做；现在回电，了解收费等细节问题,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024osL3EAI/view,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/07,Inbound Qualified,,,9172070314,8888968962,SMS,谭老板,DM,,,日料铁板,Pickup,CT,收到中秋DM，想问我们怎么收费；做铁板，没算过有多少电话单，大概一天10-15；之前是自己人在接电话，就是不想接了所以想要请我们来接；现在回电话了解费率和优惠详细情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024osZoEAI/view,Mkt_SMS_Internal_General
+Thu  09/07,Unqualified,Null,,9789544589,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/07,Unqualified,Null,,3173080096,8888968962,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Thu  09/07,Inbound Qualified,,,3616585161,8882353972,https://getskt.com/,陈老板,,,,中餐外卖和buffet,Delivery,TX,四五年之前了解过，近期没有收到宣传；中餐外卖和buffet，也有自助点餐和网络订餐；有三台电脑，窗口/外卖/自己点餐，外卖和电话点餐一天差不多1100；需要PT服务，比如12-3，晚上6-8，还没解释要4.5hrs；在网站上看到50%的优惠，想了解情况，解释了按照电话营业额抽成，没讲具体，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO2xEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Thu  09/07,Inbound Qualified,,,6467635066,8888968962,SMS,江老板,SMS,,,中餐外卖,Delivery,ND,一直有收到SMS，看到了中秋折扣优惠；一天电话单没算过多少，一个月可能是两万电话营业额，老板想知道这样怎么收费；前台专门请了人，自己没在做；现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oxyfEAA/view,Mkt_SMS_Internal_General
+Thu  09/07,Inbound Qualified,,,4802084126,8882353680,WeChat - Ads,欧阳老板,WeChat - Ads,,,中餐外卖,Delivery,AZ,微信看到广告，想咨询怎么收费；中餐有外送；追问费率问题，给了范围，咨询怎么出单到餐馆要不要手动输入电脑；老板现在在开车，说过半个小时在回电具体聊,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oyL0EAI/view,Mkt_WeChatAds_WeChat_General
+Thu  09/07,Inbound Qualified,,,6465057704,8888968962,SMS,王老板娘,DM,,,中餐外卖,Pickup,OH,收到月饼DM，50/25/10，想咨询怎么弄；一天没算过有多少道，前台自己在做，跟业务经理直接沟通费率优惠等问题,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKG0EAO/view,Mkt_SMS_Internal_General
+Thu  09/07,Abandoned,,,4802084126,8882353680,WeChat - Ads,,,,,,,,,,Mkt_WeChatAds_WeChat_General
+Thu  09/07,Inbound Call,,,8182331888,8885200811,DM,,,,,,,,昨晚电话打来问免费送一份奇华月饼是什么意思，解释要跟业务经理咨询沟通，说算了就挂断了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024oz37EAA/view,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/07,Inbound Call,,,6468868201,8888988389,No Channel Mapped,肖老板,SMS,,,日料,Pickup,,有一家店日餐两三个月之后开门，今天有收到短信就想说先来了解一下；现在在一家店中餐店兼职在用食客通；有一部分在Uber，电话单到时候都是客人来取，咨询收费情况，考虑怎么去请人；说到时候再联系,https://wondersco.lightning.force.com/lightning/r/00Q8b000024p3bPEAQ/view,Mkt_General_All_Migration
+Fri  09/08,Unqualified,Null,,9175173803,8888968962,SMS,,DM,,,,,,No one speaking,,Mkt_SMS_Internal_General
+Fri  09/08,Unqualified,Business Partners,,7186660266,8882353807,Chinese Website,,DM,,,,,,寻求商务合作，公司是做信用卡支付,,Mkt_General_All_Migration
+Fri  09/08,Unqualified,Business Partners,,7186660266,8888968962,SMS,,DM,,,,,,寻求商务合作，公司是做信用卡支付,,Mkt_SMS_Internal_General
+Fri  09/08,Inbound Qualified,,,9175176780,8885200811,DM,连老板,DM,,,中餐外卖,Pickup,OH,朋友那边收到宣传活动，自己之前也有收到30天试用DM；餐馆马上要接手，不确定具体多少电话单；咨询要不要连电脑，有什么机器，咨询多少天上线；主要想了解怎么收费和优惠，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pBdEEAU/view,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Inbound Qualified,,,4016597283,8888968962,SMS,江老板娘,DM,,,中餐外卖,Delivery,RI,收到DM，罗德岛餐馆，咨询操作流程，信用卡怎么收费，客人给卡号decline的话他们可不可以自己联系；说之前看到30天试用，解释活动已经过期，现在也有别的优惠，老板娘说，跟你们业务经理聊一下，想就是想先试一下，如果没有试用有可能就不想继续谈了；请现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNfZEAW/view,Mkt_SMS_Internal_General
+Fri  09/08,Abandoned,,,5198848929,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Inbound Call,,,5198848929,8885200811,DM,,DM,,,中餐外卖,Pickup,Canada,Canada餐馆，餐馆电话，帮老板来了解一下收费情况，以为也能像Uber一样提供online/外卖服务等等一体的，做了相应解释；不愿给personal contact,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AhHBEA0/view,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Abandoned,,,6479225385,8882353972,https://getskt.com/,李老板娘,DM,,,中餐外卖,Delivery,Canada,收到中秋DM，在加拿大送餐大概两三单，电话单一天20-30单，周末会多一些；老板娘现在自己在前面接电话，想着如果有人来帮她接电话，这样自己可以不用每天呆在餐馆，可以去活动一下；想了解费率算一下收费合不合算，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pCktEAE/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  09/08,Inbound Qualified,,,6479225385,8882353972,https://getskt.com/,李老板娘,DM,,,中餐外卖,Delivery,Canada,收到中秋DM，在加拿大送餐大概两三单，电话单一天20-30单，周末会多一些；老板娘现在自己在前面接电话，想着如果有人来帮她接电话，这样自己可以不用每天呆在餐馆，可以去活动一下；想了解费率算一下收费合不合算，,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pCktEAE/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  09/08,Existing Client,R81358,,3478275599,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Fri  09/08,Existing Client,R81358,,3478275599,8888988389,No Channel Mapped,,,,,,,,DRAGON ONE R81358，想推荐朋友，有很多家餐馆在用我们服务了，要经理回电话给她,,Mkt_General_All_Migration
+Fri  09/08,Inbound Call,,,2098892638,8885200811,DM,,,,,,,,老板填写了DM扫码的信息，Leon有在联系，这边不跟进,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pDxaEAE/view,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Unqualified,Business Partners,,7732618389,8888988389,No Channel Mapped,,,,,,,,,,Mkt_General_All_Migration
+Fri  09/08,Abandoned,,,6268610535,8885200811,DM,,DM,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Abandoned,,,5086153893,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Fri  09/08,Abandoned,,,2098892638,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Sat  09/09,Abandoned,,,2098892638,,-,黄老板,DM,,,食品批发,Delivery,CA,最近有收到中秋的DM，想了解一下怎么操作和收费；一半客人都是讲英文，另一半是中文或者粤语但是也讲英文；说是做食品批发的，一天营业15-18个小时，三百到四百个电话,,Campaign Name
+Sat  09/09,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,Mkt_Display_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,,,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,Mkt_Display_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,Mkt_Display_Google_AllCampaigns
+Sat  09/09,Internal,,,9172939576,8888969395,Google Display,Kiera,,,,,,,,,Mkt_Display_Google_AllCampaigns
+Sat  09/09,Internal,,,6465208898,,-,Ricky,,,,,,,,,Campaign Name
+Sat  09/09,Internal,,,6465208898,,-,Ricky,,,,,,,,,Campaign Name
+Sat  09/09,Inbound Qualified,,Yannie,7182000900,8888969083,Google SEM,林老板,,,,中餐外卖,Delivery,NY,餐馆不够人手需要一位前台帮忙接电话；现在前台是老板自己在接；所以联系我们想了解我们的服务；简单咨询了收费，什么机器，如何出单，做了相应的简介，每个月差不多4万；老板说如果收费便宜的话，他有两家餐馆都想使用我们的服务，另外一家是日餐的。今晚9.30pm联系老板。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKE9TEAW/view,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/09,Abandoned,,,2159893420,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Sat  09/09,Abandoned,,,2159893420,8885200811,DM,,,,,,,,,,Mkt_DM_Snowflake_MooncakeV1
+Sat  09/09,Inbound Qualified,,Eelin,2159893420,8885200811,DM,刘小姐,DM,,,中餐外卖,Pickup,PA,"收到我们明信片广告， 之前都没理会， 然后有个师傅就向她提议使用skt, 刘小姐 （手机： 2159893420）， 中餐， 只做来取， 目前电话自己接，淡季大概在40-50 单， 旺季60单-100左右， 要求09/10/2023. 10-11am， 她一点才开工",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pN4vEAE/view,Mkt_DM_Snowflake_MooncakeV1
+Sat  09/09,Inbound Qualified,,Eelin,5104348132,8882356322,Newspaper,郭老板,DM,,,中美餐,Pickup,CA,郭老板， 加州， 中美餐， 只做来取， 老板问价钱， 想了解我们的服务,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHk3EAG/view,MKT_Newspaper_All_General
+Sat  09/09,Unqualified,Not Restaurant Owner,Kiera,6264082378,8882063982,Influencer,,,,,,,,,,Mkt_Influencer_Youtube_General
+Sun  09/10,Inbound Qualified,,Yannie,6465250676,8882353972,https://getskt.com/,李老板,网上找的,,,手抓海鲜,Pickup,NY,现在有一位前台帮忙打包的，想找帮忙接电话的，简单咨询了如何出单，收费，需要什么机器，信用卡，pt和ft的区别；每个月至少3万，老板打算做日本拉面外卖；还有咨询以下问题，麻烦和老板解释一下；今天大概5.30pm联系；,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pTsKEAU/view,Mkt_DirectSEO_Internal_AllTraffic
+Sun  09/10,Inbound Call,,Yannie,9176828773,8882353680,WeChat - Ads,,Referral,,,,,,老板说是朋友介绍的，餐馆是中餐，来取&外送，简单咨询收费和设备押金，考虑一下先有兴趣再联系我们。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pbbDEAQ/view,Mkt_WeChatAds_WeChat_General
+Sun  09/10,Inbound Call,,Yannie,3106910981,8885200811,DM,,收到广告单,,,,,,老板娘不愿意提供餐馆资料，只是要知道收费而已，然后说有兴趣会再联系就挂了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pbfjEAA/view,Mkt_DM_Snowflake_MooncakeV1
+Sun  09/10,Inbound Qualified,,Kiera,6479788858,8885200811,DM,张老板,DM,,,日料,Delivery,Canada,加拿大日料餐馆，收到信件来咨询一下操作和收费；基本上都是来取，一周有2-3个餐馆自己的外送；有平台单子和堂食，也有自己网站online order；有单独请了前台，现在回电了解收费等情况,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pWWkEAM/view,Mkt_DM_Snowflake_MooncakeV1
+Mon  09/11,Unqualified,Business Partners,Eelin,3472708876,8888988389,No Channel Mapped,,,,,,,,"english speaking, call back, he is looking a staff from finance department, refer he call to 9172852220",,Mkt_General_All_Migration
+Mon  09/11,Existing Client,R81902,Eelin,9195923881,8888569583,DM,,,,,,,,Client called in to check customer number,,Mkt_DM_Snowflake_Migration
+Mon  09/11,Unqualified,,Eelin,8664801620,8888988389,No Channel Mapped,,,,,,,,only fax machines sound,,Mkt_General_All_Migration
+Mon  09/11,Inbound Qualified,,Sean,3176655272,8888969083,Google SEM,陈老板娘,DM,,,中餐外卖,Delivery,IN,中餐，有做送餐 也有和doordash第三方平台合作。有收到我们的广告，已经知道skt是怎么接电话的，打过来咨询怎么收费 看看合不合适。前台请了一个PT 忙的时候才过来帮忙。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pctnEAA/view,Mkt_PaidSearch_Google_AllCampaigns
+Mon  09/11,Unqualified,Not Restaurant Owner,Kelvin,9176553053,8882353972,https://getskt.com/,,,,,,,,说是找工的，让他上到我们网站联系我们,,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/11,Unqualified,Not Restaurant Owner,Eelin,9176553053,8888968962,SMS,,,,,,,,林小姐， 9176553053， 说找工,,Mkt_SMS_Internal_General
+Mon  09/11,Existing Client,R81688,Kelvin,8133236446,8882353972,https://getskt.com/,女老板,,,,,,,"餐馆是CityBuffet, 餐馆8133814281, 老板说要退回机器，给不到RID, 也不知到如何联系经理，在驾车，发了短信让他联系9172852220。",,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/11,Abandoned,,Yannie,8186407256,8882353685,SMS,,,,,,,,Hanged up 4 seconds，打回去没有接电话,,Mkt_SMS_Internal_General
+Mon  09/11,Existing Client,R81688,Yannie,8133236446,8882353972,https://getskt.com/,女老板,,,,,,,老板娘联系进来要退还机器给食客通，提供了2220的号码。,,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/11,Inbound Qualified,,Sean,9173489396,8888968962,SMS,,,,,Asian cuisine,Pickup,,新开的一间餐馆准备做Asian cuisine和奶茶。之前这间店是做中餐的现在顶下来换了餐馆类型。目前还不确定会有多少营业额，有可能和doordash之类第三方平台合作，也有问我们skt有没有送餐。看到我广告很久了，也有朋友在用。老板娘要求半小时内回电，介绍一下操作流程和费率,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024peP3EAI/view,Mkt_SMS_Internal_General
+Mon  09/11,Existing Client,R86099,Sean,5108610923,6465686232,-,Ms frannie,,,,,,,技术问题 要找小张或是食客通技术部5，关于call forward一类的问题 电讯公司要求提供多一个号码之类的 （已经联系技术部同事回电给老板娘）,,Mkt_General_All_Migration
+Mon  09/11,Unqualified,Business Partners,Yannie,4168755186,8882356373,Radio,Mr.Alfled,,,,,,,在电台听到我们的广告，他本身也是做电台，地点在多伦多，想找负责广告的同事。,,Mkt_General_All_Migration
+Mon  09/11,Existing Client,R86086,Kelvin,9178878302,8888968962,SMS,郑老板娘,,Lucky Wok,7409220915,,,,"郑老板娘，R86086, 老板娘说他周五第一天上线然后我们接错了，老板娘说他的外卖没有税，可是我们有加，老板娘试着联系业务部Ailin可是没接，业务部没回复，客服说会处理可是到现在都没跟进，老板没有CSM的专线/号码，所以不知道要找谁，说了会帮他反馈，会回电跟进。我和CSM Meghan 说了老板娘的问题。",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WWOtYAAX/view,Mkt_General_All_Migration
+Mon  09/11,Existing Client,R81999,Kiera,9179413222,8888988389,No Channel Mapped,,,,,,,,说从上周五到现在的信用卡钱都没有转，之前联系了财务部让联系业务经理，微信找Nina说周末不方便回电周一会回复，但是到现在都没收到消息；如果继续问题还不解决就要取消信用卡的服务，,,Mkt_General_All_Migration
+Mon  09/11,Existing Client,,Kiera,9173229971,8882353972,https://getskt.com/,,,,,,,,说我们接了外卖单子，但是他们已经下班不送外卖；要怎么跟客人讲,,Mkt_DirectSEO_Internal_AllTraffic
+Tue 09/12,Unqualified,Null,Eelin,8556423355,8888988389,No Channel Mapped,,,,,,,,only fax machines sound,,Mkt_General_All_Migration
+Tue  09/12,Unqualified,Null,Yannie,7168819900,,-,,,,,,,,餐馆号码，打回去说了食客通前台就挂了,,Mkt_General_All_Migration
+Tue  09/12,Existing Client,R85891,Eelin,3472499341,8888988389,No Channel Mapped,陈小姐,,,,,,,餐馆： GREAT WALL， 老板娘问他的30天免费试用几时结束？ 他提到前两天已经打来问过，可是没人回电给他， 他也想了解，免费试用结束后，接下去怎样,,Mkt_General_All_Migration
+Tue  09/12,Unqualified,,Eelin,8033769711,,,,,,,,,,No body speaking,,Mkt_General_All_Migration
+Tue  09/12,Unqualified,Null,Eelin,2568572412,8888988389,No Channel Mapped,,,,,,,,"Phone answered, nobody speaking; CALL BACK, IS PHONE MACHINE",,Mkt_General_All_Migration
+Tue  09/12,Inbound Qualified,,Yannie,2049637968,8888988389,No Channel Mapped,Mr.Bod,DM,,,日餐,Pickup,Canada,收到广告单咨询一下我们的服务如何操作，收费；目前不确定有多少营业额，老板想了解我们的优惠和收费的税率，老板今天不方便，明天早上11am联系（注:有时差一个小时）,,Mkt_General_All_Migration
+Tue  09/12,Inbound Qualified,,Kelvin,9058052578,8885200811,DM,Mr.Steven,DM,China Star,9056316390,中餐,Delivery,Canada,看到我们的广告，中餐外卖，前台自己接，忙得接不来，接电话打包收银全部自己做，说了可以分担压力，介绍了pt服务可以挑忙的时间帮忙，说了$200底薪，说了抽成在7%左右，具体需要看菜单和餐馆实际情况而定，有提到五六日比较忙，简单介绍我们的操作，介绍代刷服务，有问到税费收费，说了每个地方的税都不一样，具体让业务经理通知他，今晚9-10点方便回电，手机号搜不了微信,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024ptemEAA/view,Mkt_DM_Snowflake_MooncakeV1
+Tue  09/12,Existing Client,R81902,Eelin,9195923881,8888569583,DM,李老板,,,,,,,老板打进来说， 他的menu有东西更改， 他联系了2220的号码， 也微信了， 可是没回复， 打到我们这里来,,Mkt_DM_Snowflake_Migration
+Wed  09/13,Inbound Qualified,,Kelvin,9174287779,8888968962,SMS,连老板,SMS/DM,Da Hang Kitchen,5167980284,中餐,Delivery,NY,"收到我们的短信和看到广告，中餐外卖(自己请师傅送）,前台自己接，接电话打包收银全部自己做，有时忙不过来，说了可以分担压力，介绍了pt服务可以挑忙的时间帮忙，老板想要分开下午晚上接，说了需要连续4.5小时，说了具体抽成需要看菜单和餐馆实际情况而定，有朋友在用我们的服务，想了解具体收费，看能不能帮到餐馆，手机号能加微信，今天下午2-3点方便回电，说了让他发menu给业务经理看",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NYwJEAW/view,Mkt_General_All_Migration
+Wed  09/13,Existing Client,R86152,Eelin,3475360841,8885200811,DM,朱老板,,,,,,,老板说收到机器， 应该要怎样启动？ 跟老板提到会帮他转达技术部门，可是麻烦他自己也联系客服部门 （9172852220）,,Mkt_DM_Snowflake_MooncakeV1
+Wed  09/13,Inbound Qualified,,Kelvin,5038878848,8888968962,SMS,甄老板,DM,,,中餐,Pickup,OR,"5038878848，餐馆在OR，Portland, 广东话，国语也行，甄老板，DM, 看到我们的广告，老板说现在难请人想和我们合作，他觉得符合他的要求所以想多了解，中餐，来取，online order用着Qmenu, 可是觉得他们收费贵，说了我们公司也有10+年的经验，接电话绝对是最好，有企台接电话，太太有时候也会来帮忙可是老板不想要他那么累，不在的时候就会接不来，老板管理厨房，介绍了pt服务可以挑忙的时间帮忙，外卖一个月的营业额大概在3-4W,说了收费大概在6-7%，需要看菜单和餐馆实际情况而定，有单才有收费，说了有优惠的活动，有提到需要改menu的话要如何处理，说了有专线可以直接联系我们更新菜单上的问题，老板希望我们能够成为一个平台就是专门接电话也比较周到，说了能够帮到而且也能听回录音，老外客人比较多，中国客人少，老板的手机号可以加微信，发了好友申请，老板忘了餐馆号码，老板说他会发menu给我，这周比较忙，会跟他约个时间让经理回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000024pdG2EAI/view,Mkt_SMS_Internal_General
+Wed  09/13,Inbound Qualified,,Eelin,6466838922,8885200931,WeChat - Blog,车小姐,Client Referal/ wechat ads,,,中餐,Pickup,NY,Inbound Qualified- 车小姐 （(646) 683-8922）， 朋友介绍和从微信一直收到我们的广告， 想要知道目前有什么优惠？中餐外卖， 只是来取，一天电话单超过50单或以上， 有问到， pt/ft， 问价钱， 告诉老板娘，业务经理需要看了menu才懂价钱。老板娘说下午她会忙， 可以大概9点才联系她吗？,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFEeEAO/view,MKT_WeChatVideo_WeChat_Mid-autumn
+Wed  09/13,Inbound Call,,Eelin,6172868186,8888968962,SMS,林老板,,,,日餐,,,老板问我们有online order 服务吗？老板说有朋友阻止他加入skt， 叫他加入Online order (超大）， 老板说都是福州人，想看我们有的话想用我们。 老板提到， jessica follow up 他很长的时间了。 说如果有 online order 了麻烦jessica 联系他,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOe6EAG/view,Mkt_SMS_Internal_General
+Wed  09/13,Unqualified,Business Partners,Eelin,7348583374,8882353972,https://getskt.com/,,,,,,,,looking for HR department， advise call to 9172852220,,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/13,Abandoned,Business Partners,Sean,7348583374,8882353972,https://getskt.com/,,,,,,,,Hanged up 6 seconds,,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/13,Unqualified,Business Partners,Sean,7348583374,8882353972,https://getskt.com/,,,,,,,,"Picked up, no one speaking。called back ，is citi bank",,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/13,Inbound Qualified,,Eelin,6476337813,8885200811,DM,姚老板,DM,,,日餐,Pickup,CA,"Inbound Qualified- 姚老板, (手机：(647) 633-7813）日餐， 来取， 问价钱，目前多数订单是来自ONLINE, 可是假日还是有一定的电话订单， 目前遇到的问题是假日或周末，他们忙着准备食材。没办法接。 餐馆有几个股东，要求了解更多信息后，跟股东讨论，是否要用pt服务，有解释pt, 最少要用4.5小时",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000250dE8EAI/view,Mkt_DM_Snowflake_MooncakeV1
+Wed  09/13,Unqualified,Null,Sean,6476337813,8885200811,DM,,,,,,,,"Picked up, no one speaking。called back no answer",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOe6EAG/view,Mkt_DM_Snowflake_MooncakeV1
+Wed  09/13,Abandoned,,Sean,6172868186,8888968962,SMS,,,,,,,,Hanged up 4 seconds。called back no answer,,Mkt_SMS_Internal_General
+Wed  09/13,Abandoned,,Sean,6172868186,8888968962,SMS,,,,,,,,Hanged up 4 seconds。called back no answer,,Mkt_SMS_Internal_General
+Wed  09/13,Internal,,Yannie,9179858867,,-,,,,,,,,Automated marketing call,,Campaign Name
+Wed  09/13,Inbound Qualified,,Yannie,6047268099,8882353972,https://getskt.com/,May,DM,,,港式餐,Pickup,"Canada,Vancouver",收到广告单想了解我们的服务如何帮到餐馆，简单咨询了操和机器，想了解价格和送餐服务。美东时间晚上8pm，温哥华时间下午5pm-6pm之间联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000251uT3EAI/view,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/13,Existing Client,R88987,Eelin,8438140594,8882353972,https://getskt.com/,,,,,,,,"Customer mention want check order and suddenly silent, call back, customer mention cs solve the problem",,Mkt_DirectSEO_Internal_AllTraffic
+Wed  09/13,Inbound Qualified,,Kiera,2503821514,8885200811,DM,Sharon,DM,Koto Sushi Izakaya,,日餐,Pickup,"Canada,Victoria",收到中秋DM50/25/10，简单介绍操作流程，咨询收费情况；电话单都是客人来取，电话外卖大概20%，也有网络订单和客人来点，前台自己人在接；现在回电，老板娘会跟负责人也一起听电话,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000251xeOEAQ/view,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/14,Existing Client,R83957,Kelvin,9132336211,8888969083,Google SEM,女老板,,LAO PEKING CHINESE RESTAURANT,8164613564,,,,老板说他退回机器了，想知道我们这里收到了没。说了让他联系负责的经理，可是他没听电话。会帮他通知一声。,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002IAjZiAAL/view,Mkt_PaidSearch_Google_AllCampaigns
+Thu  09/14,Unqualified,Not Restaurant Owner,Kelvin,8142214827,8885200559,No Channel Mapped,,,,,,,,说要找silveredge公司，说了不是，应该是打错号码了（英文）,,Mkt_General_All_Migration
+Thu  09/14,Inbound Call,,Yannie,4153491764,8882353972,https://getskt.com/,女老板,小红书,,,,,California,老板娘说餐馆在加州，有几家买外店，咨询着信用卡的问题中途忙说再打回来就挂了,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WaErjAAF/view,Mkt_DirectSEO_Internal_AllTraffic
+Thu  09/14,Inbound Qualified,,Yannie,6823936288,8882353972,https://getskt.com/,孙老板娘,小红书,,,日餐,Pickup,Texas,现在有前台接电话，但是前台需要做打包，来不及接电话，所以电话想让我们来接，电话单不会很多，咨询了收费大概在7%上下，有提及到有免费试用的活动，现在联系她。,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WaF08AAF/view,Mkt_DirectSEO_Internal_AllTraffic
+Thu  09/14,Inbound Qualified,,Kelvin,4153491764,8882353972,https://getskt.com/,Kiki,小红书,,,中餐,Delivery,Southern California,"广东人，国语也行， 在小红书看到我们，昨天有填资料，中餐，外卖, 餐馆叫Cooking Kata，在加州南山区 southern california，旧机场附近，没给餐馆号码，餐馆电话是直接转到去他的手机号,，想知道什么餐馆用着我们的服务因为他认识很多餐馆的老板，有问到关于clover信用卡公司，想问能不能直接转给他户口，说了需要1-2天看银行的processing time,想知道关于手续费和报税的问题, 方便5.30让业务经理回电给他",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WaErjAAF/view,Mkt_DirectSEO_Internal_AllTraffic
+Thu  09/14,Unqualified,Null,Kelvin,9379637992,8888969395,Google Display,女老板,,,,,,,"老板娘一直hello,hello,hello,然后打回去直接转去留言",,Mkt_Display_Google_AllCampaigns
+Thu  09/14,Inbound Call,,Kiera,9172268118,8888968962,SMS,,SMS,,,中餐外卖,Delivery,NY,一直有收到短信，中餐外卖，4-9pm送餐有10单；前台自己接，有时候请PT；咨询费率问题，问客人收钱怎么收，信用卡怎么收，怎么给公司付钱，怎么出单；餐馆有两部电话，应该是想PT，一直讲4-8pm给我们是不是一样抽成；讲了有优惠跟业务经理聊，老板娘说不要跟我讲优惠反正以后一样要收费，最后说到考虑一下再打吧就是接挂电话了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO89EAG/view,Mkt_SMS_Internal_General
+Fri  09/15,Abandoned,,Eelin,8324663511,8888968962,SMS,,,,,,,,call back no answer,,Mkt_SMS_Internal_General
+Fri  09/15,Abandoned,,Eelin,6178203125,8885877618,SMS,,,,,,,,call back no answer,,Mkt_SMS_Internal_General
+Fri  09/15,Unqualified,Null,Eelin,6178203125,8885877618,SMS,Tifanfy,,,,,,,"Tifanfy, line not clear, cant heard each other voice. inform customer will ask next day sdr call back again",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AYS8EAO/view,Mkt_SMS_Internal_General
+Sat  09/16,Inbound Qualified,,Sean,6178203125,8885877618,SMS,Tifanfy,Client Referral,,,中餐外卖,Pickup,MA,老板娘顶下餐馆，现在办理着过户。目前餐馆是中餐外卖，说顶下来后也会是做中餐，但不确实会不会改menu 和 不确定会不会自己送餐。老板娘说听这家餐馆的老板说平均营业额4-5w 但不确定是否是这个数额。告知了来取的大概费率，想了解详细操作流程和上线时间,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025AYS8EAO/view,Mkt_SMS_Internal_General
+Sat  09/16,Inbound Qualified,,Sean,9497262510,8882353972,https://getskt.com/,Daniel,Google,,,中餐,Pickup,CA,需要代接电话服务，在Google上搜寻才看到我们。一天电话单最少10单，有和doordash之类第三方平台合作。想了解具体怎么操作和怎么收费。现在就可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025Ad2fEAC/view,Mkt_DirectSEO_Internal_AllTraffic
+Sun  09/17,Unqualified,Restaurant Cannot Serve,Kiera,8194466828,8888969083,Google SEM,,有朋友推荐,,,,Pickup,"Canada, Quebec",在Quebec，现在想送外卖，想降低人工成本；但是餐馆80%都是讲法语的，剩下讲英语，告知暂时无法服务；老板娘还挺希望我们可以帮忙接，因为前台就她自己，厨房的人也不会接，感觉比较可惜,,Mkt_PaidSearch_Google_AllCampaigns
+Sun  09/17,Inbound Qualified,,Kiera,8083338616,8888968962,SMS,陈老板娘,SMS,,,手抓海鲜,Pickup,AL,之前收到短信，怕是诈骗，昨天听到表哥说有这个公司，所以打电话来咨询，问想使用的话是怎么做；电话单一直很多，没具体算过，前台请的PT，想咨询费率，介绍了收费方式，说具体抽成和优惠和业务经理聊，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQYZEA4/view,Mkt_SMS_Internal_General
+Sun  09/17,Inbound Qualified,,Sean,6783082543,8882063982,Influencer,周老板,Client Referral,,,,Pickup,,平均单30块钱，一天大概有30单。周末晚上时段比较忙 简单讲解了有PT/FT 想询问看看怎么收费的，说店里请个PT大概11块钱 如果划算的话考虑。想了解怎么具体怎么收费的，餐馆刚刚更改菜单 大概下个星期才会收到新的菜单，如果想看旧的菜单现在会有。明天早上11点-1点都可以联系,,Mkt_Influencer_Youtube_General
+Sun  09/17,Abandoned,,Sean,2565201758,8888968962,SMS,,,,,,,,hang up 1sec ，CB no answer,,Mkt_SMS_Internal_General
+Sun  09/17,Abandoned,,Sean,2565201758,8888968962,SMS,,,,,,,,Hanged up 7 seconds  ，CB no answer,,Mkt_SMS_Internal_General
+Sun  09/17,Inbound Qualified,,Sean,9418558859,8885200811,DM,许老板娘,DM,,,,Pickup,,之前有联系过我们skt，因为当时店里刚起步 所以没有用我们服务，刚好最近收到传单 所以打来了解一下收费。电话单占营业额50% 具体没算过一天又多少单。没有请人送外卖说是因为不稳定 请人难。现在就可以回电 如果不行的话就明天早上8.30联系，手机电话3473303636，店里电话9418558859,,Mkt_DM_Snowflake_MooncakeV1
+Sun  09/17,Abandoned,,Sean,2565201758,8888968962,SMS,,,,,,,,问我们是哪里，说是skt后 就hangup了,,Mkt_SMS_Internal_General
+Mon  09/18,Inbound Qualified,,Yannie,3367756699,8885877618,SMS,Mr. 潘 （Mike）,Client Referral;DM,,,中餐,Pickup,NC,现在前台自己在接电话，忙的时候来不及接，想找pt帮忙接电话，简单咨询了收费，朋友和老板说有免费试用的活动，指定Jessica联系，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKLfVEAW/view,Mkt_General_All_Migration
+Mon  09/18,Inbound Call,,Yannie,7313372085,8888968962,SMS,,,,,,,,咨询是不是有送月饼,https://wondersco.lightning.force.com/lightning/r/Account/0018b00002Ue3MIAAZ/view,Mkt_General_All_Migration
+Mon  09/18,Unqualified,Not Restaurant Owner,Yannie,7033108485,8888969395,Google Display,,,,,,,,"call wrong number, find his order",,Mkt_Display_Google_AllCampaigns
+Tue  09/19,Internal,,Eelin,9175932967,8885200559,No Channel Mapped,Karen,,,,,,,phone is rang 1 time and line cut off. call back 3 times is no answer,,Mkt_General_All_Migration
+Tue  09/19,Existing Client,R81587,Eelin,6464312582,8888069153,Email,陈老板,,,,,,,"R81587 want check his customer order, refer contact cs",,Mkt_General_All_Migration
+Tue  09/19,Internal,,,9172939576,8888969083,Google SEM,Kiera,,,,,,,Test Call,,Mkt_PaidSearch_Google_AllCampaigns
+Tue  09/19,Internal,,,9172939576,8888968962,SMS,Kiera,,,,,,,Test Call,,Mkt_SMS_Internal_General
+Tue  09/19,Inbound Qualified,,Eelin,6467048794,8888968962,SMS,饶先生,Client Referral;DM,,,日餐,,Texas,目前店在做装修，老板是做铁板烧和寿司日餐， 想要将外卖电话交给别人接，会有来取和送餐， 老板要知道收费， 和信用卡的收费,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKP6BEAW/view,Mkt_General_All_Migration
+Wed  09/20,Abandoned,,Eelin,6319338886,8888968962,SMS,,,,,,,,"call back twice, voice mail",,Mkt_General_All_Migration
+Wed  09/20,Internal,,Eelin,9175932967,,-,Karen,,,,,,,"rang for 1 second, call back twice no answer",,Mkt_General_All_Migration
+Wed  09/20,Unqualified,Not Restaurant Owner,Kiera,9293407932,8882353718,No Channel Mapped,张老板,,,,,,PA,张老板说他餐馆在用食客通服务了，忘记R ID 提供餐馆电话6105323053(Yummy Yummy R88231)，问过老板R88231在salesforce的那些电话号码他都不熟悉；说他之前还推荐了北卡的一家餐馆，电话2526400542(China King R81877)，,,Mkt_General_All_Migration
+Wed  09/20,Unqualified,Null,Sean,9178559486,8888968962,SMS,,,,,,,,"Picked up, no one speaking，CB she said wrong press",,Mkt_General_All_Migration
+Wed  09/20,Inbound Qualified,,Sean,3154160886,8888969083,Google SEM,,,,,,Delivery,,每个月都有收到我们的传单，之前收到免费试用的，今天打过来想详细了解怎么操作和收费的，想把电话都给我们接 她就做打包。因为也听到朋友说skt用的不错。电话单大概有60-70单。想先了解skt的优势再去说服她先生 老板娘说她先生比较保守 之前餐馆要装上电脑也不让，所以想详细了解后再和老板商量,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025BPtdEAG/view,Mkt_PaidSearch_Google_AllCampaigns
+Thu  09/21,Inbound Qualified,,Kiera,6266898897,8882353619,WeChat - Ads,吴老板,佛人咨询,China Express,2817410642,中餐,Pickup,TX,老板说在佛人(华人?)资讯看到广告，新开门餐馆在休斯顿；没算过多少电话单，也有网络平台和walkin；想着用了食客通就不用请人接电话了，想了解怎么收费和近期优惠，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025BVW5EAO/view,Mkt_WeChatAds_WeChat_General
+Thu  09/21,Unqualified,Null,Kiera,6266898897,8882353807,Chinese Website,吴老板,佛人咨询,China Express,2817410642,中餐,Pickup,TX,老板重复打进来了,,Mkt_General_All_Migration
+Thu  09/21,Existing Client,R81902,Eelin,9195923881,8888569583,DM,,,,,,,,"Miss call and call back, client mention his issue is solve",,Mkt_DM_Snowflake_Migration
+Thu  09/21,Inbound Qualified,,Kelvin,2044702246,8885200811,DM,朱老板,DM,Peking Chinese Restaurant,2044532458/2044532439,美式中餐,Delivery,"Canada, Corydon","朱老板，广东话，国语也行，收到广告DM, 餐馆在Canda, Peking Chinese Restaurant (2044532458/2044532458), 美式中餐，送外卖(Doordash,ubereat),老人家不会叫外卖就自己送餐给他们，目前还没有网站，前台有请pt接，自己也有接，介绍了pt服务可以挑忙的时间帮忙，简单介绍了操作，想了解怎么收费，比较忙，约了今晚10点方便让经理回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025BaSxEAK/view,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/21,Unqualified,Null,Eelin,3062494446,8888968358,WeChat - Ads,,,,,,,,pickup but no voice,,Mkt_WeChatAds_WeChat_General
+Thu  09/21,Unqualified,Not Restaurant Owner,Eelin,9293407932,8888968962,SMS,张老板,,,,,Pickup,PA,"老板说之前他介绍过一间餐馆给我们，（2528649909， china king, ）， 要确认介绍费， 目前介绍另一家 （HAPPY WOK II, (610) 328-3663, 敦老板， 手机： 9172088836, ，中餐， 暂时外卖来取）",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJKwEAO/view,Mkt_SMS_Internal_General
+Thu  09/21,Inbound Qualified,,Eelin,9293407932,8888968962,SMS,张老板,,,,,,PA,"他说刚才有人联系他，然后说微信他，可是他的微信跟电话号码是没连在一起的. 要求刚才联系他的人加他的微信号 ""zhangfuck11""",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025BYzVEAW/view,Mkt_SMS_Internal_General
+Thu  09/21,Abandoned,,Eelin,9177701969,8888968962,SMS,,,,,,,,misscall and call back twice no answer,,Mkt_SMS_Internal_General
+Thu  09/21,Unqualified,Not Restaurant Owner,Eelin,7188780225,8888968962,SMS,高老板,SMS,,,,,,收到中秋节优惠，可是他不是做餐馆， 不适合,,Mkt_SMS_Internal_General
+Thu  09/21,Unqualified,Null,Kelvin,9177701969,8888968962,SMS,,,,,,,,"pickup but no voice, call back but CNA, might be spam call",,Mkt_SMS_Internal_General
+Thu  09/21,Inbound Qualified,,Sean,9176917261,8888968962,SMS,薛老板娘,SMS,,,中餐,Pickup,,老板娘说现在餐馆人手不够，所以打过来询问收费是怎么样的(说了大概在6.多%-7.多%)。有和doordash第三方平台合作。一直有收到我们SMS/传单。一天大概30-40个电话单。老板娘也有问起机器的问题，简单讲解会寄机器给她。说让业务经理回电让她了解收费/操作和最近优惠，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOHxEAO/view,Mkt_SMS_Internal_General
+Fri  09/22,Unqualified,Null,Kelvin,6464201734,8888968962,SMS,,,,,,,,"pickup but no voice, called back but caller mentioned he didn't call to skt, wrongly pressed",,Mkt_SMS_Internal_General
+Fri  09/22,Inbound Qualified,,Sean,3478637193,8888968962,SMS,,,,,中餐,Pickup,TX,有一直收到我们广告SMS/DM。平日电话单80-90单，星期五可能会到150单，前台忙不过来 打过来想质询一下怎么操作，和收费。 如果那个手机没有接打另一个手机 @9144390415  现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKPePEAW/view,Mkt_SMS_Internal_General
+Sat  09/23,Inbound Qualified,,Sean,9544713913,8888969083,Google SEM,冯老板,DM,,,中餐,Delivery,,有收到我们广告，每天单子大概有90单，前台忙不过来 所以打过来咨询一下收费和怎么操作的。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025ByfdEAC/view,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/23,Unqualified,Not Restaurant Owner,Eelin,9176677638,8882353972,https://getskt.com/,,,,,,,,"call in EST 10.58pm, looking for job, advise contact 2220",,Mkt_DirectSEO_Internal_AllTraffic
+Sat  09/23,Abandoned,,Sean,6462626965,8888968962,SMS,,,,,,,,call back 老板说晚点打过来 hang up,,Mkt_SMS_Internal_General
+Sat  09/23,Inbound Qualified,,Sean,6462626965,8888968962,SMS,陈老板,SMS,,,中餐,Delivery,,老板收到广告 关于折扣50%，平时前台电话都是自己接 想轻松一点，不想那么忙， 所以打过来询问了解看看合不合适。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKO4kEAG/view,Mkt_SMS_Internal_General
+Sat  09/23,Inbound Qualified,,Sean,9172829409,8888968962,SMS,周老板,client referral,,,中餐,Delivery,,最近餐馆缺人手 请人需要4000-5000块钱，就问了朋友有没有接电话服务的，所以介绍了我们skt。没算过一天电话单多少，主要就是想找个接电话的，然后老板自己送餐。明天下午2.30-4点之间联系，如果手机没接就打到餐馆 9127567887,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKHgHEAW/view,Mkt_SMS_Internal_General
+Sat  09/23,Unqualified,Null,Sean,9176698953,8888968962,SMS,,,,,,,,Hanged up 5 seconds，打回去老板说是小孩按错了,,Mkt_SMS_Internal_General
+Sat  09/23,Unqualified,Not Restaurant Owner,Sean,9498221009,8882353619,WeChat - Ads,,,,,,,,找工作，打来询问是不是有请打电话的，提供了2220电话,,Mkt_WeChatAds_WeChat_General
+Sat  09/23,Unqualified,Null,Sean,3342882448,8882353990,WeChat - Ads,,,,,,,,picked up but no one speaking，CB picked up no one speaking,,Mkt_General_All_Migration
+Sun  09/24,Unqualified,Null,Eelin,3474904458,8888969395,Google Display,,,,,,,,pickup but no voice,,Mkt_Display_Google_AllCampaigns
+Mon  09/25,Inbound Qualified,,Yannie,6465773451,8882353972,https://getskt.com/,ms.林,有朋友推荐,,,中餐,Pickup,,目前有两位FT的前台，最近忙不过来所以想了解我们的服务，简单咨询了什么机器，如何操作，收费大概7%；有提到免费试用的活动，现在联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025CN8sEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  09/25,Inbound Qualified,,Yannie,3476816686,8888968962,SMS,mr.郑,收到短信,,,日餐,Pickup,,现在自己接前台电话，一时忙不过来，咨询了收费，什么机器，有兴趣我们免费试用的活动，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKObQEAW/view,Mkt_SMS_Internal_General
+Mon  09/25,Abandoned,,Eelin,6085663330,8885869039,SMS,,,,,,,,"rang for 8 seconds, call back and mention skt, hang up twice and not answer for twice as well",,Mkt_General_All_Migration
+Mon  09/25,Abandoned,,Eelin,3232375481,8888969395,Google Display,,,,,,,,"RANG 5 SECONDS, CALL BACK TWICE NO ANSWER",,Mkt_Display_Google_AllCampaigns
+Mon  09/25,Abandoned,,,9094375341,8885200930,Redbook,,,,,,,,,,Mkt_Redbook_Redbook_General
+Tue  09/26,Internal,,,9173829263,,-,,,,,,,,,,Campaign Name
+Tue  09/26,Internal,,,9173829263,,-,,,,,,,,,,Campaign Name
+Tue  09/26,Internal,,,9173829263,,-,,,,,,,,,,Campaign Name
+Tue  09/26,Internal,,,9173829263,,-,,,,,,,,,,Campaign Name
+Tue  09/26,Internal,,,9173829263,,-,,,,,,,,,,Campaign Name
+Tue  09/26,Inbound Qualified,,Yannie,9179070652,8888968962,SMS,ms.张,收到广告,,,中餐,Pickup,Minnesota,有一位pt前台；晚餐时间忙不过来想了解我们的服务；如果用到我们的服务合适，还有另外一家餐馆也是 想用食客通；想尝试免费试用的活动；现在联系,https://wondersco.lightning.force.com/lightning/r/Opportunity/0068b00001TAtN9AAL/view,Mkt_SMS_Internal_General
+Tue  09/26,Inbound Qualified,,Eelin,3022127207,8889091828,Email,郑,广告,,,中餐,Pickup,DE,"想了解收费，老板也问如果指定的时间接可以吗？解释了可以ot/ft, 收费要看menu先",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025ChYjEAK/view,Mkt_General_All_Migration
+Tue  09/26,Internal,,Kelvin,9172852220,8883065813,No Channel Mapped,Marketing,,,,,,,Marketing,,Mkt_General_All_Migration
+Tue  09/26,Internal,,Sean,126263909,,-,,,,,,,,Test call,,Campaign Name
+Tue  09/26,Internal,,Kelvin,6012626390,8883065813,No Channel Mapped,,,,,,,,Test call,,Mkt_General_All_Migration
+Tue  09/26,Internal,,Kelvin,25492251,,-,,,,,,,,Test call,,Campaign Name
+Tue  09/26,Internal,,Sean,126263909,,-,,,,,,,,Test call,,Campaign Name
+Tue  09/26,Inbound Qualified,,Sean,4088386383,8888969083,Google SEM,Mr周,DM,,,中餐,Pickup,,老板说收到我们广告，想打来过先了解一下，刚开始问老板做什么类型餐馆时 说是“中餐吧” ，主动问了我们接单人员在哪里上班 也有问是不是会 中文/英文/西语？。讲解了接单流程，老板有问是不是call forwarding(已经解释)。讲解了费率6.多-7点多%。有重复询问老板电话单大概多少，但是不愿意透露，说先看吧 了解一下。老板也有询问能不能提供正在用着skt服务的餐馆电话号码 他想联系问看看用的如何。现在可以回电 但是老板说有时候在忙可能会miss掉，如果miss掉就发讯息先联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025LBjaEAG/view,
+Wed  09/27,Inbound Call,,Eelin,6478677711,8888968962,SMS,龚先生,朋友介绍,,,中餐,Pickup,CA,老板不要业务经理联系，因为他的店要在2/3个月后才开， 中餐， 来取，老板说他朋友也在使用skt,,Mkt_SMS_Internal_General
+Wed  09/27,Unqualified,Not Restaurant Owner,Eelin,3473685681,8882353680,WeChat - Ads,,,,,,,,问我们有招代理吗？建议联系2220 号码,,Mkt_WeChatAds_WeChat_General
+Wed  09/27,Inbound Qualified,,Eelin,3128236207,8888968962,SMS,黄老板,收到广告,Yamato,7153096030,日餐,Pickup,WL,"店名: YAMATO, 店的联系号码：7153096030， 做日餐都是来取， 老板问了怎样操作，如何上线，和怎样确认要用skt.",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKI0xEAG/view,Mkt_SMS_Internal_General
+Wed  09/27,Inbound Qualified,,Eelin,9178641049,8888968962,SMS,杨老板,收到广告/朋友介绍,China House,8509732532,中餐,Pickup,FL,"来取， 老板说要做full time 的，店名： china house,店号码： 8509732532， 老板要知道收费， 解释要业务经理看了menu才能确认，要求经理联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDEBEA4/view,Mkt_SMS_Internal_General
+Wed  09/27,Inbound Qualified,,Yannie,9173025398,8888969083,Google SEM,ms.lisa,收到广告,,,中餐,Pickup,Boston,目前有一位ft前台，一时晚餐很忙想有人帮忙接电话，简单咨询收费大概7%，如何操作，机器，pt和ft的区别。有提到免费试用的活动，现在联系。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025LLyvEAG/view,Mkt_PaidSearch_Google_AllCampaigns
+Wed  09/27,Abandoned,,Sean,9094375341,,-,,,,,,,,"rang for 7 second, call back twice no answer",,Campaign Name
+Thu  09/28,Unqualified,Business Partners,Kelvin,9176838711,8882353821,WeChat - Blog,Christine,,,,,,,李锦记食品公司打来谈合作，给了2220号码,,Mkt_WeChatBlogs_WeChat_General
+Thu  09/28,Inbound Qualified,,Kelvin,3306733878,8885200811,DM,林老板娘,之前SDR有联系过,Main Moon,(330) 673-3888,中餐,Pickup,OHIO,"6463096303, 之前有一个SDR小姐联系他，之前因为在忙所以不能聊，有给了号码可是联系不上， 知道有免费试用的活动，也有看到我们的广告，中餐，来取， 说了收费6.99%, 老板娘想要让我们接pt, 说了最少接4.5小时, 想要从4pm开始接到9pm, 餐馆9点打样， 老板娘想要客人到店刷卡，说了也可以代刷，老板娘想知道关于报税的问题和具体收费，今晚9左右方便回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKi3EAG/view,Mkt_DM_Snowflake_MooncakeV1
+Thu  09/28,Inbound Qualified,,Sean,9178631333,8882353972,https://getskt.com/,Mr秋,Previous cilent,,,中餐,Pickup,,老板打过来直接说明要加入skt，因为前一家餐馆和我们合作，现在接手一家新的餐馆 也打算和我们合作。一天电话单多少还不清楚 因为刚接手的餐馆，有和老板说这个月有优惠(没具体说什么优惠)，会请业务经理联系他。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025LYxEEAW/view,Mkt_DirectSEO_Internal_AllTraffic
+Thu  09/28,Inbound Call,,Sean,4433598338,8888969083,Google SEM,,,,,,Pickup,,中日餐 来取，半个月电话单有5-6w，老板重复询问费率 怎么算，说了大概6-多%-7.多% 标准价格 但需要看了菜单才能知道确实价格的，有提到说这几个月有折扣，老板说需要考虑考虑 在联系我们,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025LnTXEA0/view,Mkt_PaidSearch_Google_AllCampaigns
+Fri  09/29,Inbound Call,,Kelvin,9179099752,8888969083,Google SEM,黄先生,朋友介绍,,,中餐,Pickup,,"听别人说关于食客通的服务，所以帮朋友问而已，自己没开餐馆的。他的朋友是中餐，来取，说了大概6-7%,送餐7-8%,前台自己接电话，说了我们主要是帮忙接电话，陆续推出了送餐可是收费比较复杂，说了是每个月头结账，转到我们户口就好了，说了有几百块的押金，没有合约，取消就会退回了。需要会联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025LnTrEAK/view,Mkt_PaidSearch_Google_AllCampaigns
+Fri  09/29,Inbound Qualified,,Sean,9014876213,8888969083,Google SEM,derek,DM,,,中餐/粤餐,Pickup,,老板知道skt很久了很久之前收到了DM但是不见了，打过来想咨询具体怎么收费和操作。老板说有2家餐馆(2隔壁但是已经合并，有2个menu) ，一天电话但不太确定是多少 可能20单这样。老板有点急着挂电话，说可以联系他但是先加他微信(手机号)。老板说粤语但是也能说中文,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNjfEAG/view,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/30,Inbound Qualified,,Kelvin,3472639889,8888968962,SMS,林老板,DM,Spring,3154282222,中餐,Pickup,NY,新接手的餐馆，想用我们的服务，说了收费大概在7%左右，说了有免费试用的活动，目前没送餐，打算多一两周请到师傅再送，说了我们也推出了送餐服务，说了需要1-2周的时间来上线，老板有点急想要早点用，说了需要看菜单的难易程度，老板说普通的中餐menu而已，今天12pm方便回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKErHEAW/view,Mkt_SMS_Internal_General
+Sat  09/30,Inbound Qualified,,Eelin,4437369988,8882353972,https://getskt.com/,Mr. Jack,DM,LUCKY STAR,4105487177,中日餐,Pickup,MD,"Mr. Jack, 手机： (443) 736-9988。 店名： Lucky Star， （4105487177）， 中餐寿司， 来取和送餐也有。送餐多数是网上订单， 部分也是自己送餐。 电话订单多数是来取的。老板问关于printer set up 和顾客付款方式。 老板说1小时后他得空，需要业务经理联系他",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCWfEAO/view,Mkt_DirectSEO_Internal_AllTraffic
+Sat  09/30,Inbound Qualified,,Eelin,5012780763,8888969083,Google SEM,兰姐,website,,,美式中餐,Pickup,CO,老板娘外卖店在筹备中，在网上看见我们的广告， 要询问几点， 关于我们的收费，信用卡收费，送餐收费 等等的，要求业务经理尽快联系她。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025M4AiEAK/view,Mkt_PaidSearch_Google_AllCampaigns
+Sat  09/30,Inbound Qualified,,Eelin,2175905014,8885200811,DM,杨先生,DM,TOKYO CHICK,6264608005,日本炸鸡,Delivery,CA,老板要找可以接西班亚语的接单员，老板要求业务经理回电解释收费，刷卡收费的资料给他。老板说我们可以到他的网站看下他的menu (https://www.tokyochick.com/）,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJA9EAO/view,Mkt_DM_Snowflake_MooncakeV1
+Sun  10/01,Inbound Qualified,,Eelin,3126787882,,-,汤老板,youtube/ DM,Gee N Jays,8478418888,美式中餐,Pickup,IL,老板要询问我们的收费， 信用卡手费等等的。 老板有提到，他们的顾客多数讲西班牙语。要求业务经理联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJA9EAO/view,Campaign Name
+Mon  10/02,Unqualified,Not Restaurant Owner,Yannie,6096656445,8885200811,DM,,,,,,,,looking for job,,Mkt_DM_Snowflake_MooncakeV1
+Mon  10/02,Inbound Qualified,,Eelin,7054468098,8885200811,DM,Peter,DM,98 SUPER PANDA,7054468098,中餐,Delivery,CA,老板要了解我们的收费，服务，和如何接单，刚要开始解释，老板说他在忙，要求业务经理明天早上才打给他，老板说可以让业务经理先开下他的menu (https://www.98superpanda.ca/),https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025MMDpEAO/view,Mkt_DM_Snowflake_MooncakeV1
+Mon  10/02,Inbound Qualified,,Yannie,8058812220,8885200811,DM,Mr. 许,DM,,,中餐,Pickup,CO,餐馆经营不到一年，现在有一位前台帮忙，想了解我们的服务，一天差不多有十几个电话单；咨询如何操作，什么机器，提及到免费试用的活动；明天3pm左右联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022FmDdEAK/view,Mkt_DM_Snowflake_MooncakeV1
+Mon  10/02,Unqualified,Business Partners,Eelin,3324566048,8889091828,No Channel Mapped,Iris,,btb international,,,,,"request call back, she is looking for marketing department, about the NRA conferences, the number she call in is her direct number, english speaker",,Mkt_General_All_Migration
+Mon  10/02,Unqualified,Not Restaurant Owner,Eelin,9295961088,8882353972,https://getskt.com/,,,,,,,,"Rang 5 seconds, call back 2nd times, answer call, is bout job vacancy, refer him call to 2220",,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/02,Inbound Qualified,,Eelin,3128858860,8888968358,WeChat - Ads,关老板,WeChat - Ads,,,日餐,Pickup,IL,"老板目前是用ubereat, 电话订单只是来取，老板第一次知道我们skt, 要知道我们怎样操作和收费，和怎样帮他跟顾客收钱， 老板说可以现在联系他",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025MNXXEA4/view,Mkt_WeChatAds_WeChat_General
+Mon  10/02,Inbound Qualified,,Yannie,7854919016,8882353972,https://getskt.com/,Ms.郑,DM/TK,,,中餐,Pickup,KS,一天的电话单有十几20通；现在有一位pt的前台，最近也不好请人，老板娘想到电话让我们来接，前台工作老板娘自己做，咨询了如何操作，收费大概在7%这样，现在联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025MORsEAO/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/02,Inbound Qualified,,Yannie,4806587966,8885200811,DM,Mr Hu Kai,Email,,,中餐,Delivery,AZ,Mr. Hu Kai；email； 中餐；来取；收到我们的email想要了解更多我们的服务；现在回电（老板只会说英文）,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025BlaAEAS/view,Mkt_DM_Snowflake_MooncakeV1
+Mon  10/02,Abandoned,,Eelin,9209016892,8882353686,Radio ads,,,,,,,,,,Mkt_Radio_Misc_General
+Tue  10/03,Inbound Qualified,,Eelin,2675187319,8888969083,Google SEM,Eddie,website,CHINA MOON,6105225622,中餐,Delivery,PA,"询问如何上线， 和价格, 有送餐，送餐是自己送的",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJ2lEAG/view,Mkt_General_All_Migration
+Tue  10/03,Inbound Call,,Kelvin,6173063978,8885200811,DM,张老板,DM,KING DOH RESTAURANT,3148216988,中餐,Delivery,MO,"经常收到广告，堂吃外卖，外卖一天才7-8单而已(Doordash)，白区，前台自己接，也有请pt帮忙，介绍了pt服务可以挑忙的时间帮忙，有提到周五,六,日比较忙。有问到收费，说了大概7%，需要看菜单和餐馆实际情况而定，有单才收，confirmation order不收。有说免费试用的活动，老板只是咨询而已，说要让经理回电可是不愿意，要自己回电。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKnHEAW/view,Mkt_General_All_Migration
+Tue  10/03,Inbound Qualified,,Yannie,7722654281,8882353680,WeChat - Ads,男老板,DM,,,中餐,Pickup,Florida,老板说前台不稳定想了解我们的服务，咨询了价格；由于老板地区哪里下雨，线路不是很好；所以有些资料没有问到，老板说现在很忙，明天大概1pm这样才联系他,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025MbXYEA0/view,Mkt_WeChatAds_WeChat_General
+Tue  10/03,Inbound Qualified,,Kelvin,9082650768,8885200811,DM,刘老板娘,DM,KING WOK,9736916988,中餐,Delivery,NJ,前台自己和2个小孩接，晚餐时间会忙得接不来，介绍了pt服务可以挑忙的时间帮忙，老板说家人朋友没有用过所以比较担心，说了有免费试用可以试看能不能帮到，简单介绍了如何操作，说了有押金(没说$500). 要咨询收费，让经理6.30pm回电，忙的话再约时间他都ok,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOubEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Wed  10/04,Inbound Qualified,,Eelin,2053621601,8885200811,DM,王老板,DM/ SMS,NEW CHINA,2053382361,中餐,Pickup,AL,"兴趣pt, 目前有用 ubereat, 兴趣pt, 想了解收费，和目前有什么优惠, 老板要求业务经理联系，打去他不得空，就请晚上再试",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKGWnEAO/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Wed  10/04,Unqualified,Null,Eelin,9548350302,8882353909,WeChat - Ads,,,,,,,,wrong number,,Mkt_WeChatAds_WeChat_General
+Wed  10/04,Inbound Qualified,,Sean,3472318860,8888968962,SMS,刘老板娘,SMS,,,中餐/日餐,Delivery,NY,中餐有点日餐，外送。电话都是老板娘自己在接，多少单一天没算过 但是不多，主要都是onlineorder。老板娘收到免费试用SMS，所以打来了解一下怎么操作的，简单介绍了我们如何接电话。老板娘想了解收费是多少,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKP0HEAW/view,Mkt_SMS_Internal_General
+Wed  10/04,Unqualified,Null,Sean,9548350302,8882353909,WeChat - Ads,,,,,,,,picked up but no one speaking,,Mkt_WeChatAds_WeChat_General
+Wed  10/04,Abandoned,,Sean,9548350302,8882353909,WeChat - Ads,,,,,,,,ring 6 seconds hanged up，CB is automated voice,,Mkt_WeChatAds_WeChat_General
+Wed  10/04,Inbound Call,,Eelin,2039476690,8885200811,DM,BOBBY,DM,,,亚洲餐,,,老板要找Beyond man， 不是我们skt,,Mkt_DM_Snowflake_OctoberFreeTrial
+Wed  10/04,Inbound Qualified,,Kelvin,8473124056,8885200811,DM,Alex,DM,SIMPLYTHAI,8475098424,泰餐,Delivery,IL,"(只会说英文) 餐馆隔壁在用着我们的服务了，所以有兴趣想要试看，前台自己接电话而已，介绍了pt服务，简单介绍我们如何操作，说了免费试用的活动，让经理晚上9点CDT，10点EST回电,他什么时间都ok,只要不是rush hour就好",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIysEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Wed  10/04,Abandoned,,Eelin,8326914796,8888968962,SMS,,,,,,,,"call in EST 10.59p, call back twice no answer",,Mkt_SMS_Internal_General
+Thu  10/05,Inbound Qualified,,Eelin,9178335663,8885200811,DM,Stephine,DM,China Wok,6092421887,中餐,Delivery,NJ,"主要询问delivery services, 告知需要用我们skt 服务我们才提供这个delivery services. 老板娘要了解收费和delivery, 老板娘的店是做中餐，来取和送餐都有",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSR6cEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/05,Unqualified,Null,Eelin,7204515618,8882353972,https://getskt.com/,RAY,,,,,,,"scam call, mention want us refund 190.99 and 43 dollar, ask for which restaurant few times he hang up the call.",,Mkt_DirectSEO_Internal_AllTraffic
+Thu  10/05,Inbound Qualified,,Eelin,7245503224,8888968962,SMS,肖小姐 (shirley),client refer,,,美式中餐,Pickup,PA,刚接手餐馆，要多2/3个星期后才接手，目前询问我们怎样操做，和价钱。 老板娘要知道了后决定开店要请人没有， 解释了打印机价钱，和500抵押钱,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025N42OEAS/view,Mkt_SMS_Internal_General
+Thu  10/05,Inbound Call,,Eelin,6267318778,8888968962,SMS,Leo,SMS,,,美式中餐,Pickup,TX,刚接手餐馆3个月， 电话暂时不多， 询问价钱， 和怎样操作，可是不要我们联系，要跟股东商量先,,Mkt_SMS_Internal_General
+Thu  10/05,Unqualified,Null,Eelin,3145325727,8885200811,DM,,,,,,,,phone machine,,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/05,Inbound Qualified,,Eelin,6267318778,8888968962,SMS,Leo,SMS,MEET SPICE,8324373369,美式中餐,Pickup,TX,老板再次打进来，决定要试用， 老板发了menu进来， 刚接手餐馆3个月， 电话暂时不多， 询问价钱， 和怎样操作,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIFoEAO/view,Mkt_SMS_Internal_General
+Thu  10/05,Inbound Call,,Kelvin,3473698469,8885200811,DM,张女士,SMS,,,中日餐,Delivery,NJ,还没接手餐馆，预计11月中旬营业，简单介绍了我们的服务如何操作，介绍pt服务，说了4.5小时，可以监听，接错单如何处理，说了收费大概7%左右，他觉得有点高，说了免费试用的活动，只是打来咨询而已，需要会再联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025N4WWEA0/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/05,Inbound Qualified,,Sean,6466170567,8888968962,SMS,Mr余,cilent referral,,,手抓海鲜,Pickup,,现在是手抓海鲜，之后有打算改menu做中日餐。打算试一试skt做个backup 如果以后缺人就不用担心，电话单不确定有多少 但是不是很多。简单介绍了我们如何接电话，老板想了解详细操作和收费，也有说这个月有优惠(没确实说什么优惠)。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025N53yEAC/view,Mkt_SMS_Internal_General
+Thu  10/05,Unqualified,,Sean,2678086873,8882353802,DM,,,,,,,,ring 6 seconds hanged up,,Mkt_DM_Snowflake_Migration
+Thu  10/05,Unqualified,,Sean,2678086873,8885868359,DM,,,,,,,,ring 5 seconds hanged up ，CB forwarded to voicemail,,Mkt_DM_Snowflake_MooncakeV2
+Thu  10/05,Inbound Qualified,,Sean,6183055933,8885200811,DM,Ms Vicky,,,,中餐,Pickup,,送餐都是走online。之前有一直收到我们广告。一个月营业额4-5w电话单有一半 差不多 但是不太确定。打过来想询问看看收费怎么样的，如果合适的话 打算skt帮忙接电话 老板娘专注出餐和打包。告知费率6.99% ，这个月有优惠(没确实说什么优惠)。老板娘说先加她微信(手机号) 发个资料给他看看 因为要和她姐姐讨论一下,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025N5P1EAK/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/05,Inbound Qualified,,Eelin,6099327188,8888968962,SMS,George,SMS,,,美式中餐,Pickup,NJ,"Mr。 george, 收到sms, 要了解价钱和操作， 要求业务经理联系，老板会讲中文，可是多数他都是用英文沟通",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b0000232B8YEAU/view,Mkt_SMS_Internal_General
+Thu  10/05,Unqualified,Not Restaurant Owner,Yannie,8135145888,8885753251,No Channel Mapped,,,,,,,,looking for job,,Mkt_General_All_migration
+Fri  10/06,Abandoned,,Kelvin,9173537292,8888968962,SMS,,,,,,,,"ringed 2 seconds hanged up, callback mentioned wrong number",,Mkt_SMS_Internal_General
+Fri  10/06,Inbound Qualified,,Kelvin,6785886385,8888968962,SMS,Jacky,DM,Dynasty Restaurant-Newnan,7702515418,中餐,Delivery,GA,"外卖都只让Doordash,Ubereat送，有请前台接电话，不过忙的时候就接不来，有说了送餐服不过对我们接电话的服务比较感兴趣，毕竟他知道我们在这行有经验，简单介绍如何操作，对pt比较感兴趣，介绍了pt服务可以挑忙的时间帮忙，有提到免费试用活动，要了我的名字，让经理现在可以回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NZm7EAG/view,Mkt_SMS_Internal_General
+Fri  10/06,Unqualified,Not Restaurant Owner,Kelvin,2093269999,8888968962,SMS,,,,,,,,按摩店，想找我们代接电话，说了我们只是帮餐馆而已,,Mkt_SMS_Internal_General
+Fri  10/06,Abandoned,,Kelvin,2678086873,8883065813,No Channel Mapped,,,,,,,,ring 5 seconds hanged up ，CB forwarded to voicemail,,Mkt_General_All_migration
+Fri  10/06,Inbound Qualified,,Kelvin,9173627199,8888968962,SMS,赵老板,,Yim's Taste,5169311651,中餐,Delivery,NY,"外卖（2-3miles请师傅送，比较远都让ubereat送），餐馆改名了Yim's Taste, 前台有ft接，2条线，忙的时间需要我们帮忙，简单介绍了我们的服务，介绍了pt服务，说了免费试用活动，有兴趣试看，现在可以让经理回电",,Mkt_SMS_Internal_General
+Fri  10/06,Unqualified,Not Restaurant Owner,Kelvin,9176022125,8885753251,No Channel Mapped,,,,,,,,美容店，看到广告想找我们代接电话，说了我们只是帮餐馆而已,,Mkt_General_All_migration
+Fri  10/06,Abandoned,,Kelvin,9179456065,8888968962,SMS,,,,,,,,"missed call, 打回去说太太已经打来了，餐馆是Great Wall II",,Mkt_SMS_Internal_General
+Fri  10/06,Inbound Qualified,,Kelvin,9175190059,8888968962,SMS,郑老板娘,Email,Great Wall II,6096463939,中餐,Delivery,NJ,前台自己接，一般2-3个电话打进来都很急，到了旺季可能接不了，简单介绍如何操作，说到有代刷服务，自己刷也行，想咨询收费，说了需要看菜单和平均单收个固定价，说了免费试用的活动，今天4点方便回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIxAEAW/view,Mkt_SMS_Internal_General
+Fri  10/06,Inbound Qualified,,Sean,9173537292,8888968962,SMS,林老板,Previous client,,,中餐,Pickup,NC,以前有用过我们服务 后来疫情没用了，打来想了解现在是skt是怎么操作 有没有和之前不一样，也说他女儿也在用我们skt服务。有说之前用我们服务时 大概电话单有2w，现在超过 但是多少不太清楚。老板说让说福州话的AE联系他 ，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025NL85EAG/view,Mkt_SMS_Internal_General
+Fri  10/06,Abandoned,,Sean,2678086873,8888069153,No Channel Mapped,,,,,,,,ring 6 seconds hanged up ，CB forwarded to voicemail,,Mkt_General_All_migration
+Fri  10/06,Inbound Qualified,,Sean,6265489025,8888968962,SMS,Mr干,DM,,,中餐,Pickup,seattle,收到免费试用DM，前台忙不过来，所以打过来问问免费试用是怎么样/然后我们是怎么接单。餐馆外卖为主，送餐都是走doordash ubereat，营业额少说有4-5w。现在可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025NMjREAW/view,Mkt_SMS_Internal_General
+Sat  10/07,Abandoned,,Kelvin,6033200043,8885200811,DM,,,,,,,,ring 5 seconds hanged up ，CB forwarded to voicemail,,Mkt_DM_Snowflake_OctoberFreeTrial
+Sat  10/07,Unqualified,Null,Sean,6263841166,8888968962,SMS,,,,,,,,picked up but no one speaking，CB customer said busy,,Mkt_SMS_Internal_General
+Sun  10/08,Existing Client,R81915,Eelin,6463882881,8882353680,WeChat - Ads,林 （R81915）,,CHINA EXPRESS,,,,,"要介绍亲戚使用skt, 帮忙打来问价钱。亲戚的店在纽约。 要求亲戚资料，老板说多会儿叫他自己打来",,Mkt_WeChatAds_WeChat_General
+Sun  10/08,Existing Client,R86177,Eelin,2672617929,8885200930,Redbook,陈 (R81677),,CHANG JIANG,,,,,餐馆换了老板， 新老板要换密码，和要询问一些信息，信息assigned cm Olivia,,Mkt_Redbook_Redbook_General
+Sun  10/08,Abandoned,,Eelin,6462386167,8888969395,Google Display,,,,,,,,call back is not such number,,Mkt_Display_Google_AllCampaigns
+Sun  10/08,Inbound Call,,Yannie,6464967650,8885200811,DM,mr.李,,,,,,,老板想接手另外一家餐馆，简单咨询了收费，如何操作，什么机器，身边朋友都有用着我们的服务感觉不错，但是听到说网线时常断网，接手餐馆后打算电话都让我们来接，到时老板会再发菜单给我们,,Mkt_DM_Snowflake_OctoberFreeTrial
+Mon  10/09,Inbound Qualified,,Yannie,6464096931,8882353955,No Channel Mapped,男老板,,,,,,Pickup,前台自己在接，一天大概40-50个电话单，有时候晚餐时间忙不过来，收到广告有免费试用的活动，想用pt帮忙接前台电话，简单咨询了收费7%上下，什么机器，如何操作，老板想知道确实的收费是多少，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025NnwmEAC/view,Mkt_DM_Snowflake_Migration
+Mon  10/09,Unqualified,Not Restaurant Owner,Yannie,4245432967,8882353972,https://getskt.com/,,,,,,,,"ask for the enployment verification,request hr number",,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/09,Inbound Call,,Yannie,7185527899,8882353685,SMS,女老板娘,,,,,,,老板娘想了解我们的服务，现在在忙，等下再打过来,,Mkt_SMS_Internal_General
+Mon  10/09,Internal,Karen,Yannie,9175932967,8882353802,DM,,,,,,,,call back direct transfer to mailbox,,Mkt_DM_Snowflake_Migration
+Mon  10/09,Abandoned,,Yannie,7185527899,8882353685,SMS,,,,,,,,call back no answer,,Mkt_SMS_Internal_General
+Mon  10/09,Abandoned,,Yannie,7185527899,8882353685,SMS,,,,,,,,call back no answer,https://wondersco.lightning.force.com/lightning/r/Contact/0038b00003DhuXBAAZ/view,Mkt_SMS_Internal_General
+Tue  10/10,Unqualified,Null,Yannie,7185527899,,,,,,,,,,老板娘说有人联系他了,https://wondersco.lightning.force.com/lightning/r/Contact/0038b00003DhuXBAAZ/view,Campaign Name
+Tue  10/10,Inbound Qualified,,Yannie,8034648118,8885200811,DM,林老板,,,,中餐,Pickup,,有人联系他关于免费试用的活动，现在有老外帮忙接电话，想要了解收费多少和如何参与免费试用的活动，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021NZbcEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/10,Existing Client,,Yannie,9737573665,8882353821,WeChat-Blog,R8183,,,,,,,咨询我们有没有代接online order的电话,,Mkt_WeChatBlogs_WeChat_General
+Tue  10/10,Abandoned,,Yannie,9737573665,,,,,,,,,,ring 1 second hanged up,,Campaign Name
+Tue  10/10,Inbound Qualified,,Kelvin,5879383899,8885200811,DM,关老板,DM,Dover Kam Kitchen,7804543588,美式中餐,Delivery,Canada,"广东话，国语也行，外卖（skip合作），看到免费试用的活动，简单介绍我们的操作，强调客人打到餐馆会转给我们，而不是打skt的电话，他好像还不是很明白（可以再解释), 老板有提到他的英文不好（可以抓住痛点说我们可以接），说了收费大概7%，需要看平均单和菜单，收费是每个月结账，有个partner，现在可以回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025O8AmEAK/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/10,Abandoned,,Eelin,3522507376,8885200811,DM,,,,,,,,"rang 1 second, call back twice is voicemail",,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/10,Inbound Qualified,,Sean,8324196496,8888969083,Google SEM,杰克,DM,,,中餐,,,有做外送但是不多 都是自己送。电话但多数不太确定 说是应该有30-40单左右。想了解skt是因为是想提升餐厅经营，想看做个对比用skt和请人的稳定/经营成本。想了怎么收费 现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025OAKuEAO/view,Mkt_PaidSearch_Google_AllCampaigns
+Tue  10/10,Unqualified,Null,Eelin,8324196496,8888969083,Google SEM,杰克,,,,,,,"说有个未接来电， 回电。 检查后因为ae 联系不到， sean call back, 通知老板，5分钟内ae 回电，叫他留意电话",,Mkt_PaidSearch_Google_AllCampaigns
+Wed  10/11,Abandoned,,Yannie,3143647455,8882353718,No Channel Mapped,,,,,,,,call back direct transfer to mailbox,,Mkt_SMS_Internal_General
+Wed  10/11,Unqualified,Null,Yannie,8635145589,8882353809,Youtube - Channel,,,,,,,,接了直接挂电话，打回去直接转去voicemail,,Mkt_YoutubeChannel_Youtube_General
+Wed  10/11,Unqualified,Other product inquiry,Kelvin,5877788888,8885200811,DM,林老板,DM,,,日餐,Delivery,,"收到flyer, 他误会我们的服务是帮忙推广餐馆，给他带来流量，他以为只要点进我们的链接就能注册了，也有提到我们是否有app平台推广他的餐馆，问了flyer哪一个部分让他误会了，老板给不出答案，说了我们是代接餐馆号码，简单介绍我们的服务，餐馆目前足够人手，需要时会联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025OLskEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Wed  10/11,Inbound Qualified,,Kelvin,5177211083,8882063982,Influencer,陆老板,DM,CHINA FLAVOR,5177211083,中餐,Delivery,MI,"广东话，国语也行，之前一直收到广告但是生意好不需要我们的服务，外卖（Grubhub,Doordash）,之前餐馆被进贼然后机器被弄坏，现在他提早关门，导致生意不好，现在修好了，想让我们接电话，他想要让我们都接confirmation order的电话，他有另一个餐馆在3miles以内，Colala Express。他晚上会在另一家店，他想要把单子都打到两边，2间都让我们接，不介意多收钱，只要能做到就好，（不确定他为何要这样做，ae可以问问看）说了会通知经理，让他看看如何帮到，他不给手机号，让我们联系餐馆号码，他每天都会在，现在回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFmREAW/view,Mkt_Influencer_Youtube_General
+Thu  10/12,Inbound Qualified,,Eelin,7046399988,8885200811,DM,林小姐,,SPRING GARDEN CHINESE RESTAURANT,7046399988,中餐,Pickup,NC,"9802342208， 老板娘打进来指明要找jessica, 说7月时jessica 联系30天免费试用，她现在要签下，问要多少天可以发设备给她，要求jessica,尽快联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000023k4WyEAI/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/12,Inbound Qualified,,Eelin,4158899237,8882353686,Radio Ads,荣先生,radio-ads,CHINA HOUSE,4158979630,中餐,Pickup,CA,"荣先生, 广东话， 提到目前有间公司也帮他们接order， 听到收音机广告，对我们服务有兴趣， 有大概解释了流程，和大概得收费是在 百分之7左右。 老板了解30天免费试用，要求业务经理联系。 老板说请打手机，如果没接请打店的号码",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKEeAEAW/view,Mkt_Radio_Misc_General
+Thu  10/12,Existing Client,,Kelvin,6263761191,8888667688,SMS,R81912,,,,,,,打错号码，要打给客服,,Mkt_SMS_Internal_General
+Thu  10/12,Inbound Qualified,,Eelin,2363351033,8885200811,DM,谢老板,,FRUITVALE KITCHEN,,中餐,Pickup,CA,"餐馆差不多要开了，要试用skt, 要了解价钱，操作， 麻烦业务经理回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025ObwOEAS/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/12,Abandoned,,Sean,4236222333,8885200811,DM,,,,,,,,picked up but no one speaking，CB forwarded to voicemail,,Mkt_DM_Snowflake_OctoberFreeTrial
+Fri  10/13,Unqualified,Business Partners,Sean,7029131485,8882353619,WeChat - Ads,,,,,,,,在LA 举办讲座，关于 “信托税务房屋产权” 想邀请我们参加,,Mkt_WeChatAds_WeChat_General
+Fri  10/13,Unqualified,Other product inquiry,Sean,2068831104,8885200811,DM,,,,,,,,老板娘以为我们是整合uber doordash 的平台，店里也没电话单 客人打过来 是发二维码 让他们在线上点餐 付款之后才过来店里拿 或是 online 送餐，二维码是用着叫 39mi？的公司。平时也没几个客人打到店里来。,,Mkt_DM_Snowflake_OctoberFreeTrial
+Sat  10/14,Inbound Call,,Kelvin,6138321888,8885200811,DM,,DM,Happy Times Pizza,6138321888,中泰餐,Delivery,CANADA ONTARIO,"说英文，老板说他看到邮箱收到传单全是中文，好奇我们是做什么，简单介绍我们的服务，canadian chinese thai cuisine, 外卖(Doordash,ubereat), 说了收费大概7%，他说只是问问而已，不给餐馆号码，对我们服务没兴趣",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025P1jNEAS/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Sat  10/14,Unqualified,Null,Kelvin,3147059295,8888667688,SMS,,,,,,,,对方说英文，打错号码了,,Mkt_SMS_Internal_General
+Sat  10/14,Inbound Qualified,,Kelvin,6128062143,8885200811,DM,KK,DM,HONGKONG GARDEN,9522043747,中餐,Delivery,MN,"外卖（Doordash,ubereat,自己也有driver）, 之前有另一个餐馆开通过，想要在这间餐馆免费试用一个月，今天什么时间都方便，现在回电也行",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKKvwEAG/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Sat  10/14,Unqualified,Null,Kelvin,2153546543,8882353972,https://getskt.com/,,,,,,,,"对方说英文，说要找StevenLin/Hamza, 说要联系客服，给了2220电话",,Mkt_DirectSEO_Internal_AllTraffic
+Sat  10/14,Inbound Qualified,,Sean,3473152018,8882353972,https://getskt.com/,Mr李,cilent referral,,,Japanese,Pickup,,现在目前电话单大概10多单 ，现在有打算一起做中餐 老板预计加了中餐后。生意会好 因为海鲜单价比较高。现在餐馆前台电话是老板在接，如果做中餐的话就需要再厨房 没办法接电话了，所以打过来询问下具体操作和费用。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025P5HqEAK/view,Mkt_DirectSEO_Internal_AllTraffic
+Sat  10/14,Inbound Qualified,,Sean,6789798488,8882353685,SMS,alex,,,,,,,打过来是想询问信用卡费率，已经解释需要和接电话服务绑定一起。不愿意做过多的沟通，说只是想知道信用卡费率多 如果是和他现在店里一样 那没必要换，也不愿意透露现在他店里的刷卡费率。老板想知道信用卡费率能不能便宜点 如果便宜就用我们服务,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKNvmEAG/view,Mkt_SMS_Internal_General
+Sun  10/15,Inbound Call,,Eelin,6468751910,8882353972,https://getskt.com/,白老板,抖音,,,美式中餐,Pickup,CA,想开餐馆，打进来问流程和价钱,,Mkt_DirectSEO_Internal_AllTraffic
+Sun  10/15,Inbound Qualified,,Eelin,6268617782,8888968962,SMS,刘老板,SMS,CHINA CITY,9858673700,中餐,Pickup,LA,"刘老板,(626) 861-7782， 收到SMS广告， 想了解目前的优惠和价钱， 有几个顾虑
+1. 老板目前是有朋友在使用skt, 他朋友提到我们接单员的口音，他说外国口音的英语，导致顾客不明白
+2. 如果同一时间3个电话进来我们怎样处理
+3. 老板需要2架打印机",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKK46EAG/view,Mkt_SMS_Internal_General
+Sun  10/15,Inbound Qualified,,Eelin,3156902246,8888969083,Google SEM,高老板,DM,LINGLING CHINESE,3153319358,中餐,Pickup,NY,"高老板,  有兴趣知道优惠和价钱，老板问了几个问题，要我们确认的
+1. 老板要知道突然时间繁忙时，我们是怎样控制那个延迟准备时间。
+2. 一天大概70单, 现在他请part time, 一个时间 $17，用我们会便宜过这个价钱吗？",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKENTEA4/view,Mkt_PaidSearch_Google_AllCampaigns
+Mon  10/16,Inbound Qualified,,Yannie,9173997772,8882353680,WeChat - Ads,朱老板,,,,中餐,Pickup,New Jersey,餐馆下个月开店，想用FT帮忙接电话，菜单是弄好了，有告知收费大概7%上下，想了解我们的服务，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025XpIgEAK/view,Mkt_WeChatAds_WeChat_General
+Mon  10/16,Abandoned,,Yannie,4124350163,8882353909,WeChat - Ads,,,,,,,,call back direct transfer to mailbox,,Mkt_WeChatAds_WeChat_General
+Mon  10/16,Inbound Call,,Eelin,9172503368,8885200811,DM,陈老板,telemarketer,Qing Mu,6105366588,,,,"customer call in verified are we have a AE is call Zhigang, because worry is scammer",,Mkt_DM_Snowflake_OctoberFreeTrial
+Mon  10/16,Abandoned,,Eelin,8569062701,8882356322,Newspaper,,,,,,,,call back twice no answer,,MKT_Newspaper_All_General
+Mon  10/16,Inbound Qualified,,Eelin,6478189880,8882353685,SMS,林老板,client refer,,,美式中餐,Pickup,CA,林老板， 朋友介绍的， 要了解操作和价钱。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025XwNsEAK/view,Mkt_SMS_Internal_General
+Mon  10/16,Unqualified,Opt-out,Yannie,Anonymous,8885200811,DM,陈老板,,Sushi Ya 2,9737640636,,,,老板态度很不好一直投诉骂粗话说不要再发垃圾广告、短信给他，他的网站有很多好评不需要我们的服务，为什么还要花钱用我们的服务，说了很多次还要收到广告，他说他很忙不要再收到了还要丢这些垃圾,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000021pBnjEAE/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/17,Unqualified,Not Restaurant Owner,Eelin,9176600762,8882353972,https://getskt.com/,,,,,,,,"looking for job, advise call 2220",,Mkt_DirectSEO_Internal_AllTraffic
+Tue  10/17,Unqualified,Null,Yannie,7328819108,8888968962,SMS,,,,,,,,picked up but no one speaking then hang up,,Mkt_SMS_Internal_General
+Tue  10/17,Inbound Qualified,,Yannie,6468528228,8882353972,https://getskt.com/,陈老板娘,telemarketer,CHINA INN,,中餐,Pickup,,老板娘收到我们的电话有免费试用的活动，目前有前台帮忙；想了解如何参与免费试用的活动；简单咨询了收费大概7%上下；什么机器，如何操作，信用卡代收。老板娘问送外卖给客人后如果客人给小费怎么处理？是现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKP1zEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Tue  10/17,Internal,,Kelvin,9175932967,8882353685,SMS,Karen,,,,,,,Marketing test call,,Mkt_SMS_Internal_General
+Tue  10/17,Abandoned,,Sean,4802277678,8888968962,SMS,,,,,,,,picked up but no one speaking，CB CNA,,Mkt_SMS_Internal_General
+Tue  10/17,Existing Client,,Sean,9176678385,8888968962,SMS,,current client,HONG KONG RESTAURANT R86259,,,,,已经是我们客户了 昨天第一天上线，但是刚刚收到免费试用DM 有点疑惑所以打来问问。,,Mkt_SMS_Internal_General
+Tue  10/17,Unqualified,Null,Sean,3478345379,8888968962,SMS,,,,,,,,老外，打过来 说不知道我们是谁 也听不懂我们说什么byebye hanged up,,Mkt_SMS_Internal_General
+Tue  10/17,Inbound Qualified,,Kelvin,9175199788,8882353685,SMS,Linda,SMS,Neptune Cafe,2013339337,中餐,Delivery,NJ,"自己已经卖掉餐馆，现在转手的那个餐馆已经用着skt了，之前在爸爸的餐馆打工，不过已经让给弟弟了，想要弟弟那里免费试用看看， 因为弟媳自己接，不想要他那么累和辛苦，因为弟媳的英文没那么好，他的弟弟之所以不考虑我们是因为听人说我们接不好，会赶走客人，他也担心费用的问题，说了投诉电话我们可以处理, 会中英西班牙语, 弟弟的餐馆是Neptune Cafe NJ，中餐，外卖，杂区，简单介绍我们的操作，说了上线需要时间，可以争取11月免费接到12月，说了试用后打印机租金$6.99，偏向pt,说了可以挑忙的时间帮忙，说了底薪$200，老板娘一直对我们的老板非常好感，觉得他对福州人的贡献很大，please handle with care, 比较想要ae用福州话跟他聊，想要ae,老板娘和弟弟一起通话（3方），今晚9.30pm可以试看回电，他不确定弟弟什么时间方便，他要求ae发短信跟他约个时间也行",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKORrEAO/view,Mkt_SMS_Internal_General
+Wed  10/18,Unqualified,Restaurant Cannot Serve,Yannie,9172936566,8888968962,SMS,女老板娘,,,,越南餐,,,老板娘咨询我们是否可以接越南餐，因为很多越南人打进来不会说英文，主要是咨询我们客服会不会说越南语。,,Mkt_SMS_Internal_General
+Wed  10/18,Inbound Qualified,,Eelin,8325030453,8882353685,SMS,陈小姐,DM,Imperial Pho,3663776380,越南餐,Pickup,TX,"陈小姐, 8325030453, 老板娘目前有前台可是不稳定，有时来有时没来。 也有编班的工作人员。 老板娘有兴趣pt",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025YRG0EAO/view,Mkt_SMS_Internal_General
+Wed  10/18,Abandoned,,Kelvin,9178053888,8888968962,SMS,,,,,,,,callback twice voicemail,,Mkt_SMS_Internal_General
+Wed  10/18,Abandoned,,Kelvin,4019969833,8888969083,Google SEM,,,,,,,,"pickup but no sound, callback twice straight to voicemail",,Mkt_PaidSearch_Google_AllCampaigns
+Wed  10/18,Inbound Qualified,,Kelvin,6316817918,8882353685,SMS,Denna,SMS,CHEF KING INC,6313510969/6318897991,中餐,Delivery,NY,"外卖（自己送）, 前台有请pt帮忙，西班牙客人占一半，前台只会简单的西班牙语很难沟通，说了我们能接中英西班牙语，偏向pt,晚餐时间很忙，周末也是，要知道费率，说了需要看菜单和实际情况而定，大概7%，会跟老公商量，让经理周五晚上9点左右联系",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDb2EAG/view,Mkt_SMS_Internal_General
+Thu  10/19,Inbound Qualified,,,9542425683,8888969083,Google SEM,Jimmy,DM/SMS,China Lane Restaurant,(954) 961-5454,中餐,Delivery,FL,"打来咨询免费试用，收到30天试用的DM和SMS，餐馆生意比较好想问之后怎么收费(没有透露抽成，告知需了解平均单营业额等)；
+80%自己来取，20%是有请人送餐；餐馆前台原先请了一个FT和PT，但是后来PT不做了，想用我们PT来试用一下；咨询问比如今天几小时，明天全天这种可不可以，解释PT时间段可以协商，临时需要建议提前沟通；
+想了解每个月怎么收费，说如果费率太高也会吃不消；建议先试用，过后才能了解那种方案合适他；最后咨询给我们付款的话怎么报税。现在回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDSIEA4/view,Mkt_PaidSearch_Google_AllCampaigns
+Thu  10/19,Unqualified,Business Partners,Eelin,9177929988,8888968358,WeChat - Ads,,,,,,,,"mention want contact CEO, looking for business opportunity",,Mkt_WeChatAds_WeChat_General
+Thu  10/19,Inbound Qualified,,Eelin,6464138059,8888969083,Google SEM,林老板,DM,New Asia Buffet,3374602004,,Pickup,LA,"林老板,  buffet, 可是满多的外卖， 一天10-20多单, 想了解收费，操作，和如果一些不是外卖单我们会怎样处理",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJvHEAW/view,Mkt_PaidSearch_Google_AllCampaigns
+Thu  10/19,Abandoned,,Yannie,6263283918,8882353685,SMS,,,,,,,,callback direct to voicemail,,Mkt_SMS_Internal_General
+Thu  10/19,Abandoned,,Yannie,6263283918,8882353685,SMS,,,,,,,,一接电话就挂了，再打回去没人接,,Mkt_SMS_Internal_General
+Thu  10/19,Unqualified,Not Restaurant Owner,Yannie,5168933331,8882353685,SMS,,,,,,,,咨询能不能帮忙接指甲店的预约,,Mkt_SMS_Internal_General
+Thu  10/19,Abandoned,,Yannie,6465093553,8888968962,SMS,,,,,,,,call back direct transfer to mailbox,,Mkt_SMS_Internal_General
+Thu  10/19,Abandoned,,Yannie,6465093553,8888968962,SMS,,,,,,,,call back direct transfer to mailbox,,Mkt_SMS_Internal_General
+Thu  10/19,Inbound Call,,Kelvin,6785592850,8885200811,DM,,DM,,,中餐,Delivery,,"收到广告，老板不给名字和餐馆号码，一直问关于收费，说了大概7%，老板说很贵，他的营业额大概有5w, 说了免费试用活动，简单介绍我们的服务，餐馆24h, 有问到信用卡的费率，说了需要经理看了餐馆实际情况而定然后回电，盖了两次电话很不耐烦。",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001zSQEwEAO/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/19,Existing Client,,Kelvin,2488904115,8888569583,DM,,,,,,,,老板娘说他要关掉食客通，让他联系负责的经理，一直要求我们关掉，他之前已经没用我们的服务了，他说已经几个月打扰了他的餐馆号码，给了餐馆号码，手机号也搜不到，让他联系2220,,Mkt_DM_Snowflake_Migration
+Thu  10/19,Inbound Qualified,,Sean,3475574234,8888968962,SMS,翁老板,DM,,,中餐,Pickup,,时常看到我们广告偶尔收到电话 也有收到DM，之前的前台辞职了 打过来想询问怎么收费的。一天电话单大概有50单。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025ID5TEAW/view,Mkt_SMS_Internal_General
+Thu  10/19,Unqualified,Not Restaurant Owner,Sean,6787016412,8885753251,No Channel Mapped,,,,,,,,menu sifu打过来问有没有需要,,Mkt_General_All_migration
+Fri  10/20,Inbound Qualified,,Kelvin,6265601934,8885200811,DM,Linda,DM,Hunan Chinese Restaurant,2252916868,中餐,Delivery,LA,"老板娘叫Linda, 6265601934， 人很好有礼貌，之前经理联系的是他的老公姓曹，他回国了，现在一个人打理，中餐，有外卖,也有堂吃，看到免费试用的广告，想试试看，简单介绍我们的操作，餐馆已经40年了，餐馆很大有7000squareft, 可能需要多的打印机，说了很多餐馆也用着我们的服务，反应也很热烈，现在可以联系",https://wondersco.lightning.force.com/lightning/r/Account/0018b00002WZdx3AAD/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Fri  10/20,Abandoned,,Yannie,9175932967,8883065813,Email,,,,,,,,call back direct transfer to mailbox,,Mkt_Email_Internal_General
+Fri  10/20,Inbound Qualified,,Yannie,4086696668,8882353685,SMS,Annie,,Kumino China Restaurant,4082551288,上海餐,Pickup,,主要堂吃比较多，电话单一天10-20多单，想了解收费。有告知免费试用的活动，现在回电。,,Mkt_SMS_Internal_General
+Fri  10/20,Inbound Qualified,,Sean,7809780160,8885200811,DM,Mr唐,client refer,,,,Pickup,,打算开新的餐馆 打过来咨询怎么收费，收费标准是怎么样的，有没有送餐服务。还有因为有些可能打过来可能说要换东西 加个1-2块钱，这种情况怎么处理。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025IPvNEAW/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Fri  10/20,Unqualified,Business Partners,Yannie,3128854441,8888969083,Google SEM,,,,,,,,咨询怎么做代理，让他联系2220的号码,,Mkt_PaidSearch_Google_AllCampaigns
+Fri  10/20,Abandoned,Null,Sean,7029131407,8882353619,WeChat - Ads,,,,,,,,picked up  but no one speaking，CB Phone not available,,Mkt_WeChatAds_WeChat_General
+Sat  10/21,Inbound Qualified,,Kelvin,3477518289,8888969395,Google Display,赵老板娘,Website,NEW KING YEN CHINESE RESTAURANT,4137866288,中餐,Delivery,MA,餐馆也有收到我们打来的电话，简单介绍我们的服务，说了我们是按照单子来抽成而不是小时，说了免费试用的服务，想要11月试看我们的服务，偏向pt在忙的时间帮忙接，前台自己在接，说了收费需要看餐馆实际情况而定，大概在7%左右，今天1-2PM方便通话，4点后就开始忙了,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKLUoEAO/view,Mkt_Display_Google_AllCampaigns
+Sat  10/21,Inbound Qualified,,Sean,7572854628,8888968962,SMS,陈老板娘,SMS,,,,Delivery,,收到免费试用短信 打过来想问看怎么样的，一个月电话单有2w营业额。有做送餐 但是送餐部分不多。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000022r23xEAA/view,Mkt_SMS_Internal_General
+Sat  10/21,Inbound Qualified,,Kelvin,3474254407,8882353685,SMS,陈老板,Organic Direct,New Eastern Chinese Restaurant,7184798004,中餐,Delivery,NY,没说哪里看到食客通，只说做餐馆的肯定知道我们的服务，中餐，外卖，身边做餐馆的都有在用着我们的服务，知道免费试用的服务，想让我们帮忙，要咨询收费，现在可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKFryEAG/view,Mkt_SMS_Internal_General
+Sun  10/22,Unqualified,Not Restaurant Owner,Eelin,7024677186,8882623650,Youtube - Ads,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+Sun  10/22,Unqualified,Not Restaurant Owner,Eelin,7024677186,8882623650,Youtube - Ads,,,,,,,,,,MKT_YouTubeAds_YouTube_General
+Sun  10/22,Abandoned,,,5188177949,8882353685,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Mon  10/23,Unqualified,Not Restaurant Owner,Eelin,4152838868,8882353972,https://getskt.com/,,,,,,,,"caller mention he is from a advertising company, he know wonders boss, and he lost the number, ask me boss number, refer to 2220",,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/23,Inbound Qualified,,Eelin,5068981658,8885200811,DM,陈小姐,DM,WOK IN,5062143888,中餐,Pickup,CA,收到广告免费试用30天， 有兴趣了解，和想知道细节， 要求业务经理回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025J1FuEAK/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Mon  10/23,Inbound Qualified,,Eelin,9292048260,8888969083,Google SEM,杨小姐,Organic Direct,,,美式中餐,,MD,平均一天又40-50单外卖， 目前有前台，老板娘认为请人 成本高，想了解我们的收费和可以怎样帮他减低成本,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025IMZzEAO/view,Mkt_PaidSearch_Google_AllCampaigns
+Mon  10/23,Inbound Call,,Eelin,3474254407,8882353685,SMS,,,,,,,,老板要求之前联系他的业务经理联系他， 他要试用。,https://wondersco.lightning.force.com/lightning/r/Contact/0038b00003DusF4AAJ/view,Mkt_SMS_Internal_General
+Mon  10/23,Inbound Qualified,,Eelin,6478851325,8882353685,SMS,林小姐,DM,,,日餐,Pickup,东区,"大概30-40 单， 多数来取， 两间日本餐， 两位老板一起打进来问，问了很多技术性的问题。比如有老顾客要找老板聊天我们怎样处理， 有遇到顾客要换menu的东西怎样处理， pos system, 等等。",,Mkt_SMS_Internal_General
+Mon  10/23,Inbound Qualified,,Sean,9294714007,8882353972,https://getskt.com/,Danny,Dm,,,日餐,Pickup,TX,电话不是很多  每天10-15，平均 30￥主要都是堂吃 。看见其他外卖餐馆用我们服务。2个月前收到我们DM  ，当时没怎么想 今天打来是想说前台一直需要有人接电话 如果交给我们接会不会比较好，然后想知道怎么个收费。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025J58hEAC/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/23,Inbound Call,,Sean,9149133413,8882353805,Douyin,老板娘,,,,,,,3474254407 的老板娘，说想换个AE跟进,,MKT_Douyin_Douyin_General
+Mon  10/23,Inbound Qualified,,Sean,2892693838,8885200811,DM,Cindy,Dm,,,日餐,,加拿大,收到免费试用DM，电话单不多 ，老板想着前台不用请专门接电话的 请个打包的就可以，简单介绍了我们如何接电话，打来想问看是怎么收费和怎么操作。现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025J7asEAC/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Mon  10/23,Inbound Qualified,,Eelin,6464670112,8882623650,Youtube - Ads,李老板,SMS,,,中餐,Pickup,CA,weekday大概40-50单，weekend 比较多， 来取比较多,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025J7x3EAC/view,MKT_YouTubeAds_YouTube_General
+Mon  10/23,Inbound Qualified,,Sean,9293549864,8888968962,SMS,Mr tony,SMS,,,中餐,,KS,准备新开一家餐馆，做中餐外卖，还不确定会不会有送餐。之前老板在别的餐馆打工时有了解到我们，今天打过来是想知道怎么操作和怎么收费,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025J8sFEAS/view,Mkt_SMS_Internal_General
+Tue  10/24,Inbound Qualified,,Eelin,5189018608,8888968962,SMS,黄小姐,organic direct,GOLDEN BIRD CHINESE RESTAURANT,5183843300,中餐,Pickup,NY,有前台， 一天大概有70单， 老板娘要了解价钱， 优惠和送餐,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDy1EAG/view,Mkt_SMS_Internal_General
+Tue  10/24,Inbound Qualified,,Eelin,2018883923,8888969083,Google SEM,郭老板,SMS,JADE DRAGON,2015990962,美式中餐,Pickup,NJ,老板要了解目前30天免费试用的信息和价钱,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJZIEA4/view,Mkt_PaidSearch_Google_AllCampaigns
+Tue  10/24,Inbound Qualified,,Eelin,2016758888,8885200811,DM,潘老板,SMS,HUNAN EXPRESS,2013841880,中餐,Delivery,NJ,平常日50多单，周末大概80多单，老板提到，繁忙时间都是晚餐，要了解pt/ft. 老板询问关于送餐服务和价钱。,,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/24,Inbound Call,,Sean,7655430071,8885200811,DM,elsa,DM,,,中餐/点心,Pickup,,以为是想ubereat doordash那样的平台，电话单不是很多，都是online。介绍了免费试用 告知了费率大概7% 需要先考虑一下,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025JOrPEAW/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/24,Unqualified,Null,Eelin,6469820993,8885200811,DM,,,,,,,,"AFTER GREETING, LINE CUT OFF, CALL BACK TWICE GO TO VOICEMAIL",,Mkt_DM_Snowflake_OctoberFreeTrial
+Tue  10/24,Abandoned,,Eelin,6086043869,8885869039,SMS,,,,,,,,"ANSWER THE CALL, LINE IS CUT OFF, CALL BACK NO ANSWER",,Mkt_General_All_migration
+Tue  10/24,Abandoned,,Sean,4805302480,,,,,,,,,,picked up but hang up immediately ， CB Phone not available,,Campaign Name
+Wed  10/25,Inbound Qualified,,Eelin,9178558378,8888968962,SMS,王老板,SMS,,,川菜,Delivery,NY,老板目前是有一间餐馆， 他要开一间新店， 想讲接电话这部分交给skt做，老板要了解操作，我们怎样可以帮助到他，价钱和除了接电话我们还有什么服务。 有提到我们有推出送餐服务， 他也提到，他也是交给外面送餐公司送的。问我们的有什么分别,,Mkt_SMS_Internal_General
+Wed  10/25,Abandoned,,Eelin,7573320964,8888968962,SMS,,,,,,,,call back and hang up,,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Null,Eelin,8457290281,8888968962,SMS,,,,,,,,Wrong Number,,Mkt_SMS_Internal_General
+Wed  10/25,Abandoned,,Sean,5105694400,8888968962,SMS,,,,,,,,picked up but no one speaking ， CB no pickup,,Mkt_SMS_Internal_General
+Wed  10/25,Inbound Call,,Sean,2175307020,8888968962,SMS,,,,,,,,老外，收到我们SMS 不懂我们是干嘛的，解释了我们有代接电话服务 可以帮他餐馆接 有餐馆 但他不需要,,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,,Sean,6178558230,8888968962,SMS,,,,,,,,老外，打过来说 “F** Y** stop texting me”,,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Null,Eelin,2077459061,8888968962,SMS,,,,,,,,"mention receive our call from this number, but check at history is no this number call out",,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Not Restaurant Owner,Yannie,7047133700,8888968962,SMS,,,,,,,,老外，要order food,,Mkt_SMS_Internal_General
+Wed  10/25,Inbound Qualified,,Yannie,7168001888,8882353821,WeChat-Blog,郑老板,Client Referral,,,中餐,Pickup,,老板说朋友介绍我们的服务所以联系我们咨询收费，大概了解如何操作，什么机器&收费，有和老板说如果同时有几位客人打进来的话我们有多条线路客人不需要在线上等候，老板咨询了如果我们系统有问题我们如何帮餐馆接订单？有提到免费试用的活动。现在老板在忙，要求明天才回电。,,Mkt_WeChatBlogs_WeChat_General
+Wed  10/25,Unqualified,Not Restaurant Owner,Sean,9546964075,8888968962,SMS,,,,,,,,第一次打过来 接了不说话，收到我们SMS CB 是个老外 说话很小声很模糊 完全听不清楚，问有没有餐馆 回答什么也没听见 说CB我们,,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Not Restaurant Owner,Yannie,9546964075,8888968962,SMS,,,,,,,,接了就挂了，打回去说话不清楚然后说等下再打过来就挂了,,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Null,Eelin,4753430333,8888968962,SMS,,,,,,,,"mention around12.40 receive our call, and now is return call. but check at history is no this number call out",,Mkt_SMS_Internal_General
+Wed  10/25,Unqualified,Not Restaurant Owner,Kiera,7579202894,8888968962,SMS,,,,,,,,"Spoke English, did not know what is Wonders and not a restaurant owner; hanged up",,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Not Restaurant Owner,Yannie,9144246763,8882353972,https://getskt.com/,,,,,,,,"looking for job, advise call 2220",,Mkt_DirectSEO_Internal_AllTraffic
+Thu  10/26,Unqualified,Null,Yannie,6502781167,8888968962,SMS,,,,,,,,"call back ,pick up after hang up",,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,,Yannie,8436379625,8888968962,SMS,林老板,Client Referral/DM,,,中餐,Delivery,,"生意额大概有2w5,经常收到我们短信/广告知道有免费试用的活动；老板朋友的餐馆打算卖掉问他要不要接手，餐馆的人手不够，以前老板是做厨房的，前台没有做过所以有想到食客通就联系我们咨询收费多少，我和老板说需要看菜单，老板要知道大概多少，有告知收到大概在7%左右，有咨询怎么付费给我们，现在回电",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025JwzWEAS/view,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,,Yannie,6465088121,8888968962,SMS,Richard,SMS,,8566857382,拉面店,Pickup,,目前前台自己接/老婆接前台电话，但是英文不是很好，所以想到找食客通FT接前台电话，电话单大概一天也不多5-10单，简单咨询怎么操作，什么机器/收费，有提及到免费试用的活动，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025JxsCEAS/view,Mkt_SMS_Internal_General
+Thu  10/26,Existing Client,R83356,Eelin,9738748533,8888968962,SMS,林老板,,,,,,,"existing customer check tor his wrong order, slack account csm about it",,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Call,,Yannie,3129669936,8888968962,SMS,,,,7738717777,,,,老板娘收到sms全部是中文不明白我们写什么，如果要合作的话请去他的餐馆谈合作不要发sms给他,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKIzkEAG/view,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Null,Eelin,6467391959,8888968962,SMS,,,,,,,,"english speaker, mention we sms him, and he return call",,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Call,,Eelin,4344207570,8888968962,SMS,,,,,,,,打进来问价钱，然后突然断线， 打回去没接听,,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,,Sean,2062714545,8888968962,SMS,Vicky,SMS,,,,,seattle, 对我们服务有兴趣，简单介绍了我们代接电话的服务。对我们服务有兴趣 想知道收费和怎么操作。现在回电 老板是外国人说英文,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025JyvPEAS/view,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,Null,Yannie,9176097267,8888968962,SMS,,,,,,,,"收到sms,不知道我们做什么",,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,,Eelin,6463710006,8888968962,SMS,黄小姐,SMS,,,中餐,Pickup,,要了解30天免费试用，老板要了解价钱 和操作可是暂时不要业务经理联系,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Null,Eelin,8702436062,8888968962,SMS,,,,,,,,"english speaker, mention we sms her, and she return call",,Mkt_SMS_Internal_General
+Thu  10/26,Abandoned,,Yannie,3158770320,8888968962,SMS,,,,,,,,接了电话就挂了,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Not Restaurant Owner,Yannie,9732961265,8888968962,SMS,,,,,,,,收到我们的sms，他说不是经营餐馆的，打错电话,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,,Sean,8187443161,8888968962,SMS,,,,,,,,是个老外 。收到我们miss call，打过来问是哪里，介绍了wonders 代接电话，没兴趣,,Mkt_SMS_Internal_General
+Thu  10/26,Abandoned,,Sean,7188085330,8888968962,SMS,,,,,,,,,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,,Eelin,8087815226,8888968962,SMS,,,,,,,,call wrong number,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,,Eelin,9174685731,8888968962,SMS,,,,,,,,call wrong number,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,,Eelin,4697742267,8888968962,SMS,,,,,,,,"english call, mention receive sms, explain we are from wonders, hang up immediately ",,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Call,,Yannie,6265603160,8888968962,SMS,女老板娘,,,,,,,老板娘说我们的收费很高，暂时不适合现在的餐馆，但是可能另外一家餐馆适合，有兴趣会再联系我们,,Mkt_SMS_Internal_General
+Thu  10/26,Inbound Qualified,,Eelin,3217200656,8885200811,DM,老板娘,,NEW CHINA,3218687588,,,,老板娘要了解收费和优惠，可是老板娘说不大会听普通话，要求讲福州话的联系她,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDROEA4/view,Mkt_DM_Snowflake_OctoberFreeTrial
+Thu  10/26,Inbound Qualified,,Eelin,3124780864,,-,BEN,,,,中餐,Pickup,,目前有一个前台，老板问价钱，和关于需要交税吗？问如何操作,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025K0QyEAK/view,Campaign Name
+Thu  10/26,Inbound Call,,Sean,6306399869,8888968962,SMS,,,,,,,,老板今天收到SMS，想了解。但是老板那讯号非常不好听不到说什么，说会用另一个电话打过来,,Mkt_SMS_Internal_General
+Thu  10/26,Abandoned,,Sean,3129669936,8888968962,SMS,,,,,,,,picked up but hangup immediately,,Mkt_SMS_Internal_General
+Thu  10/26,Abandoned,,Yannie,3129669936,8888968962,SMS,,,,,,,,接了没有说话,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Null,Eelin,4048250888,8888968962,SMS,,,,,,,,call wrong number,,Mkt_SMS_Internal_General
+Thu  10/26,Unqualified,Null,Eelin,8188047003,8888968962,SMS,,,,,,,,call wrong number,,Mkt_SMS_Internal_General
+Thu  10/26,Abandoned,,Sean,2675367333,8882356373,Radio,,,,,,,,"rang 0 second ，call back ,pick up after hang up",,Mkt_Radio_Misc_General
+Fri  10/27,Unqualified,Not Restaurant Owner,Kiera,9294714702,8882353972,https://getskt.com/,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,Not Restaurant Owner,Kiera,9294714702,8882353972,https://getskt.com/,,,,,,,,Saying about delivery or package something; not restaurant owner,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,Null,,9513154470,8888968962,SMS,,,,,,,,"English speaking ask if this number is 8888968962; explained we are wonders and asked if he want to inquire about service, hanged up directly",,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,Null,Sean,6267662017,8888968962,SMS,,,,,,,,一直骂人 要求不要在发讯息和打给他,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Call,,Sean,6788639983,8888968962,SMS,,,,,,Delivery,,"打过来只是想询问费用多,怎么收费不愿意过多交流，知道费率后就 hangup了 -来取 说了费率大概7% -中餐 有请师傅送餐",,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Kiera,7183882807,8885877618,SMS,Lisa,SMS,Loving Hut,7183887567/7183882807,素食,Delivery,NY,"- Brooklyn Williambury全素食(亚洲菜品)，餐单比较复杂(客人要加东西或者搭配)
+- 都是讲英文的客人，问我们是否可以接，以做解释
+- 前台自己接也有请人，大概两年前有跟我们谈，但是后面觉得需要不大就没聊了
+- 近期有收到免费试用活动SMS，考虑了一下想参加试用；说反正试用两星期就都知道合不合适了
+- 自己有送餐，说如果你们也有，也可以一起都给你们做咯",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOc6EAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Abandoned,,Sean,9292691311,8882353972,https://getskt.com/,,,,,,,,picked up but no one speaking，CB twice picked up also no one speaking,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Abandoned,,Sean,9173853282,8888968962,SMS,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,9173853282,8888968962,SMS,杨老板,SMS,,,中餐,Delivery,Virginia,收到sms，打过来想询问怎么收费的，有做送餐但是送餐就只有一点。现在可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025KDiaEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Call,,Sean,6788639983,8888968962,SMS,,,,,,,,刚刚打过来了，本来是要帮朋友询问 但是刚刚已经打过来 知道费率了，又介绍了免费试用 没有合约 说会和朋友说一下,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,9173853282,8888968962,SMS,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,9723227451,8888968962,SMS,苏老板娘,SMS,,,美式中餐,Pickup,德州,收到免费试用SMS，打过来询问怎么收费 。餐馆新开门，目前有2个人在接电话，解释了我们有单才有收费 对新开的餐馆比较合适。 简单介绍了我们如何接电话。1个小时后可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKJ3cEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,9378306188,8888968962,SMS,Mr曾,SMS,,,中餐来取,,,收到SMS，打过来询问怎么收费和我们怎么操作的。一天电话单大概有30单  也有online。老板手机讯号好像不太好 如果手机听不清楚可以打到餐馆号码，1个小时后可以联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025KE9rEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,5085788588,8888968962,SMS,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Kiera,3478859707,8888968962,SMS,Whitney,SMS/DM,Bamboo Creek Restaurant,,中餐,Pickup,FL,"- 收到30免费试用SMS&DM；店里有两条电话线，问可不可以只让我们接一条线路，可不可以上午他们自己接，下午一个时间之后交给我们接
+- 全部中餐，都是客人来取；同时有Beyond也有自己网站/online order
+- 确认30天试用期间有没有费用，机器要不要付钱，解释了打印机免租，未提及押金
+- 咨询是按照电话线还是菜单怎么收费，简单解释收费方式，告知需要业务经理聊%
+- 最后咨询什么时候寄机器，大概多久能用，解释要具体看之后跟经理和技术人员沟通情况",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKDCjEAO/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,5085788588,8888968962,SMS, MR 江,SMS,,,,Pickup,麻省,"收费免费试用SMS，打过来询问怎么收费。前台有请人有自己家人。星期1 下午1-2点联系 可以先加微信介绍
+-简单介绍如何接电话和收费大概7%
+-客人询问菜单有些东西换菜的价格问题(已经解释)
+-月电话单有2w 解释大概收费1400比较他请人便宜非常多
+-有个顾虑就是我们不能和POS连接，目前餐馆有很多打印机",,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,2096889801,8888968962,SMS,,,,,,,,picked up but hangup immediately ， CB CNA,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,2096889801,8888968962,SMS,,,,,,,,picked up but hangup immediately ， CB CNA,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Existing Client,,Sean,9172916918,8882353955,No Channel Mapped,,,,,,,,HUNAN R83693   ，5177489306  餐馆被车撞了，打过来让我们知道不要接单了,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Abandoned,,Sean,9172916918,8882353955,No Channel Mapped,,,,,,,,missed ，CB CNA,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,9175932967,8882353685,SMS,,,,,,,,ring 5sec ，call back direct transfer to mailbox,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Abandoned,,,6464968036,8888969083,Google SEM,,,,,,,,,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Abandoned,Null,Sean,9178689939,,-,,,,,,,,missed ，CB CNA,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Existing Client,,Sean,6467248088,,-,,,,,,,,missed，CB - 正在用着我们服务 通知我们换了刷卡公司不知道有没有影响 也想把她餐馆的银行账号也换另一个 。解释需要找财务部，老板说OK,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,6464968036,8888969083,Google SEM,老板娘,Organic - Direct,,,中餐,,,打过来想询问怎么收费 ，对PT有兴趣 ，想中午给我们接2个小时(已经解释最少需要4.5小时)。老板娘现在比较忙 很着急的挂了电话。半小时后可以联系,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025KR15EAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,3472136615,,-,,,,,,,,在  ChineseLA.com 看到我们招聘的讯息 打来询问，给了2220电话 (有解释不是餐馆),,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Unqualified,,Sean,9293579777,,-,,,,,,,,问是平台还是app，指甲店有没有接,,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,3478612448,,-,陈老板娘,Client Referral,,,中餐,Delivery,,老板娘说之前打过来有问费率大概是7.多-8.多，她朋友告知他超过5w营业额费率3%是什么情况。说电话营业额有5w。现在可以回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOH5EAO/view,Mkt_DirectSEO_Internal_AllTraffic
+Fri  10/27,Inbound Qualified,,Sean,6785882286,,-,Mr刘,DM,,,中餐,,GA,收到免费试用DM，打过来想询问怎么收费和怎么操作。一天电话单大概有1000块，现在回电,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKOccEAG/view,Mkt_DirectSEO_Internal_AllTraffic
+Sun  10/29,Unqualified,Opt-out,Yannie,3033243588,8888968962,SMS,,,,,,,,打电话进来说我们乱发信息，一直骂人，说为什么乱乱发短信给他，他都不是做餐馆的，再发就投诉我们,,Mkt_DirectSEO_Internal_AllTraffic
+Sun  10/29,Inbound Qualified,,Eelin,4436836453,8888969083,Google SEM,李老板,organic direct,FOUR SEASONS CHINESE FOOD AND SANDWICHES,4105581010,中餐,Pickup,MD,"老板询问价钱和优惠
+老板目前都是来取的， 想发展送餐，要了解送餐收费和怎样操作
+老板想问，打印机可以选择用自己的吗？ 有提到押金500， 他OK",https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b00001xKCLIEA4/view,Mkt_DirectSEO_Internal_AllTraffic
+Sun  10/29,Unqualified,Null,Yannie,9177148383,8888969083,Google SEM,,,,,,,,打回去说打错电话了,,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/30,Inbound Qualified,,Yannie,8628129932,8888069153,Email,林老板,SMS,New Peking,3042636544,中餐,Pickup,WV,老板时常收到我们的短信，也知道有免费试用活动，电话单一天大概有20-30，目前有前台帮忙，由于有做堂吃前台也是需要帮忙一时电话来不及接所以就想找我们合作，咨询PT&FT的区别，什么机器，收费。收费的话我说需要看菜单和餐馆的实际情况才可以给他具体的定价。现在回电。,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025KXvBEAW/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/30,Inbound Call,,Yannie,9178558378,8882353972,https://getskt.com/,王老板,,,,,,,老板inbound打进来说要到我们的公司参观，发公司地址给他,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025Ji64EAC/view,Mkt_DirectSEO_Internal_AllTraffic
+Mon  10/30,Inbound Call,,Kiera,6467031157,8888968962,SMS,Jane,,Good Taste Chinese ,(646) 703-1157,中餐,,,老板娘打来说以前有AE联系过，但是两遍短短续续就没有聊下去了，加微信也没加上；问免费试用活动，还提及以前有一个费用问题经理说请别人回电但一直没联系上；请现在回电沟通,,
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,-,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+,,,,,,,,,,,,,,,,Campaign Name
+Mon  10/30,Inbound Call,,Yannie,9178558378,,,王老板,,,,,,,老板inbound打进来说要到我们的公司参观，发公司地址给他,https://wondersco.lightning.force.com/lightning/r/Lead/00Q8b000025Ji64EAC/view,
+Mon  10/30,Inbound Call,,Kiera,6467031157,,,Jane,,Good Taste Chinese ,(646) 703-1157,中餐,,,老板娘打来说以前有AE联系过，但是两遍短短续续就没有聊下去了，加微信也没加上；问免费试用活动，还提及以前有一个费用问题经理说请别人回电但一直没联系上；请现在回电沟通,,
+Mon  10/30,Unqualified,Not Restaurant Owner,Eelin,5163690837,,,,,,,,,,"he say he receive our marketing sms, he do not have any restaurant",,

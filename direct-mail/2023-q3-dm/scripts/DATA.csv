@@ -1,0 +1,774 @@
+﻿fill_info,State,Contact_Title,Year_Established,Employee_Size,Country,Campaign_Name,New_Category
+0,DC,OWNER,1970,9,USA,Apple,Unknown
+0,DC,OWNER,1970,9,USA,Apple,Unknown
+1,NJ,Unknown,1988,4,USA,Apple,Unknown
+0,CA,OWNER,1988,9,USA,Apple,Unknown
+0,MA,OWNER,1994,9,USA,Apple,Unknown
+0,MA,OWNER,1994,9,USA,Apple,Unknown
+0,NY,Unknown,1996,4,USA,Apple,Unknown
+0,NY,OWNER,1997,9,USA,Apple,Unknown
+0,CA,MANAGER,2000,4,USA,Apple,Unknown
+0,GA,Unknown,2002,4,USA,Apple,Unknown
+1,OH,Unknown,2003,4,USA,Apple,Unknown
+0,FL,MANAGER,2003,4,USA,Apple,Unknown
+0,UT,OWNER,2007,9,USA,Apple,Unknown
+0,NV,Unknown,2008,9,USA,Apple,Unknown
+0,TX,OWNER,2009,19,USA,Apple,Unknown
+0,IL,MANAGER,2012,9,USA,Apple,Unknown
+0,MN,MANAGER,2013,4,USA,Apple,Unknown
+0,TX,MANAGER,2015,19,USA,Apple,Unknown
+0,TX,Unknown,2016,9,USA,Apple,Unknown
+0,FL,OWNER,2017,9,USA,Apple,Unknown
+0,FL,OWNER,2017,9,USA,Apple,Unknown
+0,FL,OWNER,2017,9,USA,Apple,Unknown
+0,FL,Unknown,2018,4,USA,Apple,Unknown
+0,NV,Unknown,2021,9,USA,Apple,Unknown
+0,CA,Unknown,NA,1,USA,Apple,Chinese
+0,NJ,Unknown,NA,1,USA,Apple,Japanese
+0,LA,Unknown,NA,1,USA,Apple,Japanese
+0,MI,Unknown,NA,2,USA,Apple,Japanese
+0,OR,Unknown,NA,2,USA,Apple,Chinese
+0,OR,Unknown,NA,2,USA,Apple,Chinese
+0,NJ,Unknown,NA,2,USA,Apple,Cajun_Seafood
+0,CA,OWNER,NA,2,USA,Apple,Chinese
+0,SC,Unknown,NA,2,USA,Apple,Chinese
+0,FL,Unknown,NA,2,USA,Apple,Chinese
+0,CA,Unknown,NA,3,USA,Apple,Japanese
+0,DE,Unknown,NA,3,USA,Apple,Chinese
+0,VA,Unknown,NA,3,USA,Apple,Asian_Fusion
+0,AB,OWNER,NA,4,Canada,Apple,Chinese
+0,ON,OWNER,NA,4,Canada,Apple,Chinese
+0,ON,OWNER,NA,4,Canada,Apple,Chinese
+0,ON,OWNER,NA,4,Canada,Apple,Japanese
+0,ON,OWNER,NA,4,Canada,Apple,Japanese
+0,ON,OWNER,NA,4,Canada,Apple,Japanese
+0,ON,OWNER,NA,4,Canada,Apple,Chinese
+0,AB,OWNER,NA,4,Canada,Apple,Chinese
+1,BC,OWNER,NA,4,Canada,Apple,Chinese
+0,BC,OWNER,NA,4,Canada,Apple,Chinese
+0,BC,OWNER,NA,4,Canada,Apple,Chinese
+0,ND,MANAGER,NA,4,USA,Apple,Unknown
+0,IN,OWNER,NA,4,USA,Apple,Unknown
+0,OH,MANAGER,NA,4,USA,Apple,Unknown
+0,TX,MANAGER,NA,4,USA,Apple,Unknown
+0,NY,Unknown,NA,4,USA,Apple,Unknown
+0,MO,Unknown,NA,4,USA,Apple,Unknown
+0,LA,Unknown,NA,4,USA,Apple,Unknown
+0,IN,Unknown,NA,4,USA,Apple,Unknown
+0,NJ,Unknown,NA,4,USA,Apple,Unknown
+0,PA,Unknown,NA,4,USA,Apple,Unknown
+1,GA,Unknown,NA,4,USA,Apple,Unknown
+0,VA,Unknown,NA,4,USA,Apple,Unknown
+1,NC,OWNER,NA,4,USA,Apple,Unknown
+0,CA,MANAGER,NA,4,USA,Apple,Unknown
+0,NY,Unknown,NA,4,USA,Apple,Unknown
+0,TN,MANAGER,NA,4,USA,Apple,Japanese
+0,OH,PRESIDENT,NA,4,USA,Apple,Cajun_Seafood
+0,CA,Unknown,NA,4,USA,Apple,Chinese
+0,GA,OWNER,NA,4,USA,Apple,Unknown
+0,TX,OWNER,NA,4,USA,Apple,Unknown
+1,FL,OWNER,NA,4,USA,Apple,Unknown
+0,NY,OWNER,NA,4,USA,Apple,Unknown
+0,FL,OWNER,NA,4,USA,Apple,Unknown
+0,CA,MANAGER,NA,4,USA,Apple,Unknown
+0,NY,OWNER,NA,4,USA,Apple,Unknown
+0,CA,PARTNER,NA,4,USA,Apple,Unknown
+0,VA,OWNER,NA,4,USA,Apple,Unknown
+0,IN,OWNER,NA,4,USA,Apple,Unknown
+0,FL,OWNER,NA,4,USA,Apple,Unknown
+0,FL,OWNER,NA,4,USA,Apple,Unknown
+0,NV,OWNER,NA,4,USA,Apple,Unknown
+1,NY,MANAGER,NA,4,USA,Apple,Unknown
+0,PA,OWNER,NA,4,USA,Apple,Unknown
+0,MO,OWNER,NA,4,USA,Apple,Unknown
+0,MA,MANAGER,NA,4,USA,Apple,Unknown
+0,OK,OWNER,NA,4,USA,Apple,Unknown
+0,OK,OWNER,NA,4,USA,Apple,Unknown
+0,MI,OWNER,NA,4,USA,Apple,Unknown
+0,NY,OWNER,NA,4,USA,Apple,Unknown
+0,MI,OWNER,NA,4,USA,Apple,Unknown
+0,AZ,Unknown,NA,5,USA,Apple,Chinese
+0,MA,Unknown,NA,5,USA,Apple,Chinese
+0,MA,Unknown,NA,5,USA,Apple,Chinese
+0,MA,Unknown,NA,5,USA,Apple,Chinese
+0,CA,Unknown,NA,5,USA,Apple,Japanese
+0,NY,PRESIDENT,NA,5,USA,Apple,Chinese
+0,OH,Unknown,NA,6,USA,Apple,Cajun_Seafood
+0,SC,Unknown,NA,6,USA,Apple,Japanese
+0,TN,Unknown,NA,6,USA,Apple,Chinese
+1,FL,Unknown,NA,6,USA,Apple,Cajun_Seafood
+0,CA,PRESIDENT,NA,6,USA,Apple,Chinese
+0,CA,SECRETARY,NA,6,USA,Apple,Japanese
+0,NY,Unknown,NA,7,USA,Apple,Cajun_Seafood
+0,NY,Unknown,NA,7,USA,Apple,Cajun_Seafood
+0,VA,Unknown,NA,7,USA,Apple,Japanese
+0,CA,Unknown,NA,7,USA,Apple,Japanese
+0,CA,PRINCIPAL,NA,7,USA,Apple,Japanese
+1,CA,Unknown,NA,7,USA,Apple,Japanese
+0,OR,Unknown,NA,7,USA,Apple,Japanese
+0,NJ,Unknown,NA,7,USA,Apple,Japanese
+0,AZ,Unknown,NA,7,USA,Apple,Chinese
+1,CA,Unknown,NA,7,USA,Apple,Chinese
+1,CA,Unknown,NA,7,USA,Apple,Chinese
+1,CA,Unknown,NA,7,USA,Apple,Chinese
+1,CA,Unknown,NA,7,USA,Apple,Chinese
+0,CA,Unknown,NA,7,USA,Apple,Japanese
+0,CA,Unknown,NA,7,USA,Apple,Japanese
+0,MS,Unknown,NA,7,USA,Apple,Cajun_Seafood
+0,NY,Unknown,NA,7,USA,Apple,Japanese
+0,NY,Unknown,NA,7,USA,Apple,Chinese
+0,CA,PRINCIPAL,NA,7,USA,Apple,Chinese
+0,VA,Unknown,NA,7,USA,Apple,Japanese
+0,UT,PRESIDENT,NA,7,USA,Apple,Japanese
+0,WA,Unknown,NA,7,USA,Apple,Japanese
+0,CA,Unknown,NA,7,USA,Apple,Chinese
+0,CA,PRINCIPAL,NA,7,USA,Apple,Chinese
+0,MA,PRINCIPAL,NA,8,USA,Apple,Japanese
+1,UT,Unknown,NA,8,USA,Apple,Japanese
+0,AZ,Unknown,NA,8,USA,Apple,Japanese
+0,CA,Unknown,NA,8,USA,Apple,Chinese
+0,KS,ADMINISTRATION,NA,8,USA,Apple,Japanese
+0,KS,ADMINISTRATION,NA,8,USA,Apple,Japanese
+0,CA,Unknown,NA,8,USA,Apple,Chinese
+0,CA,Unknown,NA,8,USA,Apple,Chinese
+0,CA,Unknown,NA,8,USA,Apple,Japanese
+0,MA,PRINCIPAL,NA,8,USA,Apple,Japanese
+0,MA,PRINCIPAL,NA,8,USA,Apple,Japanese
+0,MA,PRINCIPAL,NA,8,USA,Apple,Japanese
+0,TX,Unknown,NA,8,USA,Apple,Asian_Fusion
+0,GA,Unknown,NA,8,USA,Apple,Chinese
+0,ON,OWNER,NA,9,Canada,Apple,Chinese
+0,ON,Unknown,NA,9,Canada,Apple,Japanese
+1,AB,Unknown,NA,9,Canada,Apple,Chinese
+1,AB,Unknown,NA,9,Canada,Apple,Chinese
+1,AB,Unknown,NA,9,Canada,Apple,Chinese
+0,BC,Unknown,NA,9,Canada,Apple,Japanese
+0,BC,Unknown,NA,9,Canada,Apple,Japanese
+0,BC,OWNER,NA,9,Canada,Apple,Japanese
+0,BC,MANAGER,NA,9,Canada,Apple,Chinese
+0,BC,MANAGER,NA,9,Canada,Apple,Chinese
+0,BC,MANAGER,NA,9,Canada,Apple,Chinese
+0,ON,OWNER,NA,9,Canada,Apple,Chinese
+0,ON,OWNER,NA,9,Canada,Apple,Chinese
+0,ON,OWNER,NA,9,Canada,Apple,Chinese
+0,ON,OWNER,NA,9,Canada,Apple,Chinese
+0,SK,OWNER,NA,9,Canada,Apple,Chinese
+0,NY,Unknown,NA,9,USA,Apple,Unknown
+0,FL,Unknown,NA,9,USA,Apple,Unknown
+0,TN,Unknown,NA,9,USA,Apple,Unknown
+0,TN,Unknown,NA,9,USA,Apple,Unknown
+0,TN,Unknown,NA,9,USA,Apple,Unknown
+0,TN,Unknown,NA,9,USA,Apple,Unknown
+0,TN,Unknown,NA,9,USA,Apple,Unknown
+0,WA,Unknown,NA,9,USA,Apple,Unknown
+0,OK,Unknown,NA,9,USA,Apple,Unknown
+0,PA,Unknown,NA,9,USA,Apple,Unknown
+0,TX,Unknown,NA,9,USA,Apple,Unknown
+0,FL,Unknown,NA,9,USA,Apple,Unknown
+0,FL,Unknown,NA,9,USA,Apple,Chinese
+0,CA,Unknown,NA,9,USA,Apple,Japanese
+0,CA,OWNER,NA,9,USA,Apple,Chinese
+0,SC,Unknown,NA,9,USA,Apple,Japanese
+0,CA,CHIEF_EXECUTIVE_OFFICER,NA,9,USA,Apple,Japanese
+0,AL,MANAGING_PARTNER,NA,9,USA,Apple,Cajun_Seafood
+0,CA,PRINCIPAL,NA,9,USA,Apple,Japanese
+0,OH,MANAGING_MEMBER,NA,9,USA,Apple,Cajun_Seafood
+0,CO,Unknown,NA,9,USA,Apple,Chinese
+0,VA,MANAGER,NA,9,USA,Apple,Unknown
+0,VA,MANAGER,NA,9,USA,Apple,Unknown
+0,CO,OWNER,NA,9,USA,Apple,Unknown
+0,FL,VICE PRESIDENT,NA,9,USA,Apple,Unknown
+0,FL,PRESIDENT,NA,9,USA,Apple,Unknown
+0,FL,VICE PRESIDENT,NA,9,USA,Apple,Unknown
+0,FL,OWNER,NA,9,USA,Apple,Unknown
+0,LA,PRESIDENT,NA,9,USA,Apple,Unknown
+0,CA,OWNER,NA,9,USA,Apple,Unknown
+0,VA,OWNER,NA,9,USA,Apple,Unknown
+0,GA,MANAGER,NA,9,USA,Apple,Unknown
+0,IL,OWNER,NA,9,USA,Apple,Unknown
+0,TX,OWNER,NA,9,USA,Apple,Unknown
+0,PA,PRESIDENT,NA,9,USA,Apple,Unknown
+0,CA,OWNER,NA,9,USA,Apple,Unknown
+0,CA,OWNER,NA,9,USA,Apple,Unknown
+0,FL,MANAGER,NA,9,USA,Apple,Unknown
+0,VA,Unknown,NA,10,USA,Apple,Chinese
+0,OR,Unknown,NA,10,USA,Apple,Japanese
+0,OR,Unknown,NA,10,USA,Apple,Japanese
+0,CA,Unknown,NA,10,USA,Apple,Asian_Fusion
+0,NJ,OWNER,NA,10,USA,Apple,Chinese
+0,NE,Unknown,NA,10,USA,Apple,Chinese
+0,NJ,PRINCIPAL,NA,10,USA,Apple,Chinese
+0,LA,Unknown,NA,10,USA,Apple,Cajun_Seafood
+0,SC,Unknown,NA,11,USA,Apple,Japanese
+0,CA,Unknown,NA,11,USA,Apple,Chinese
+0,WV,Unknown,NA,11,USA,Apple,Japanese
+0,FL,Unknown,NA,11,USA,Apple,Chinese
+0,TX,GENERAL_MANAGER,NA,12,USA,Apple,Chinese
+0,TX,Unknown,NA,12,USA,Apple,Japanese
+0,NJ,PRESIDENT,NA,12,USA,Apple,Japanese
+0,FL,Unknown,NA,12,USA,Apple,Japanese
+0,NC,Unknown,NA,13,USA,Apple,Japanese
+0,CA,Unknown,NA,13,USA,Apple,Chinese
+0,IN,Unknown,NA,13,USA,Apple,Japanese
+1,TX,Unknown,NA,15,USA,Apple,Chinese
+0,IA,Unknown,NA,17,USA,Apple,Japanese
+0,PA,Unknown,NA,18,USA,Apple,Chinese
+0,AZ,MEMBER,NA,18,USA,Apple,Japanese
+0,BC,Unknown,NA,19,Canada,Apple,Chinese
+0,ON,OWNER,NA,19,Canada,Apple,Chinese
+0,BC,OWNER,NA,19,Canada,Apple,Chinese
+0,VA,Unknown,NA,19,USA,Apple,Unknown
+0,MI,OWNER,NA,19,USA,Apple,Unknown
+0,MI,OWNER,NA,19,USA,Apple,Unknown
+0,NE,OWNER,NA,19,USA,Apple,Unknown
+0,VA,OWNER,NA,19,USA,Apple,Unknown
+0,TX,MANAGER,NA,19,USA,Apple,Unknown
+1,IL,Unknown,NA,20,USA,Apple,Chinese
+0,IN,Unknown,NA,28,USA,Apple,Japanese
+0,CA,Unknown,NA,28,USA,Apple,Asian_Fusion
+0,MA,Unknown,NA,33,USA,Apple,Japanese
+0,PA,Unknown,NA,35,USA,Apple,Japanese
+0,NS,OWNER,NA,49,Canada,Apple,Chinese
+0,BC,OWNER,NA,49,Canada,Apple,Chinese
+0,MA,OWNER,NA,49,USA,Apple,Unknown
+0,MA,OWNER,NA,49,USA,Apple,Unknown
+0,ON,Unknown,NA,99,Canada,Apple,Chinese
+0,MN,FINANCE EXEC,NA,49,USA,Apple,Unknown
+0,SC,OWNER,NA,49,USA,Apple,Unknown
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+1,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Japanese
+1,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Japanese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,ON,Unknown,NA,NA,Canada,Apple,Chinese
+0,MB,Unknown,NA,NA,Canada,Apple,Chinese
+0,AB,Unknown,NA,NA,Canada,Apple,Chinese
+0,AB,Unknown,NA,NA,Canada,Apple,Cajun Seafood
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Chinese
+0,AB,Unknown,NA,NA,Canada,Apple,Chinese
+0,AB,Unknown,NA,NA,Canada,Apple,Cajun Seafood
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,AB,Unknown,NA,NA,Canada,Apple,Japanese
+0,BC,Unknown,NA,NA,Canada,Apple,Chinese
+0,BC,Unknown,NA,NA,Canada,Apple,Chinese
+0,BC,Unknown,NA,NA,Canada,Apple,Japanese
+0,BC,Unknown,NA,NA,Canada,Apple,Japanese
+0,BC,Unknown,NA,NA,Canada,Apple,Japanese
+0,BC,Unknown,NA,NA,Canada,Apple,Chinese
+1,BC,Unknown,NA,NA,Canada,Apple,Chinese
+0,BC,Unknown,NA,NA,Canada,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Unknown
+0,MI,Unknown,NA,NA,USA,Apple,Unknown
+1,CO,Unknown,NA,NA,USA,Apple,Unknown
+0,WA,Unknown,NA,NA,USA,Apple,Unknown
+1,FL,Unknown,NA,NA,USA,Apple,Unknown
+0,OH,Unknown,NA,NA,USA,Apple,Unknown
+0,VT,Unknown,NA,NA,USA,Apple,Unknown
+0,CO,Unknown,NA,NA,USA,Apple,Unknown
+0,VA,Unknown,NA,NA,USA,Apple,Unknown
+0,VA,Unknown,NA,NA,USA,Apple,Unknown
+0,FL,Unknown,NA,NA,USA,Apple,Unknown
+0,CA,Unknown,NA,NA,USA,Apple,Unknown
+0,MA,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+1,ME,Unknown,NA,NA,USA,Apple,Chinese
+0,CT,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,NJ,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,NJ,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,NJ,Unknown,NA,NA,USA,Apple,Chinese
+1,NY,Unknown,NA,NA,USA,Apple,Chinese
+0,PA,Unknown,NA,NA,USA,Apple,Unknown
+0,PA,Unknown,NA,NA,USA,Apple,Japanese
+0,PA,Unknown,NA,NA,USA,Apple,Japanese
+0,PA,Unknown,NA,NA,USA,Apple,Japanese
+0,PA,Unknown,NA,NA,USA,Apple,Japanese
+0,PA,Unknown,NA,NA,USA,Apple,Japanese
+0,DE,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,MD,Unknown,NA,NA,USA,Apple,Unknown
+0,MD,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,MD,Unknown,NA,NA,USA,Apple,Unknown
+0,VA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,NC,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,NC,Unknown,NA,NA,USA,Apple,Japanese
+0,GA,Unknown,NA,NA,USA,Apple,Japanese
+0,GA,Unknown,NA,NA,USA,Apple,Japanese
+0,GA,Unknown,NA,NA,USA,Apple,Japanese
+0,FL,Unknown,NA,NA,USA,Apple,Japanese
+0,FL,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,FL,Unknown,NA,NA,USA,Apple,Chinese
+0,FL,Unknown,NA,NA,USA,Apple,Japanese
+0,FL,Unknown,NA,NA,USA,Apple,Japanese
+0,OH,Unknown,NA,NA,USA,Apple,Japanese
+0,OH,Unknown,NA,NA,USA,Apple,Japanese
+1,OH,Unknown,NA,NA,USA,Apple,Japanese
+0,OH,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,MI,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,MT,Unknown,NA,NA,USA,Apple,Japanese
+0,MT,Unknown,NA,NA,USA,Apple,Japanese
+0,MT,Unknown,NA,NA,USA,Apple,Japanese
+0,KS,Unknown,NA,NA,USA,Apple,Japanese
+0,LA,Unknown,NA,NA,USA,Apple,Japanese
+0,AR,Unknown,NA,NA,USA,Apple,Japanese
+0,AR,Unknown,NA,NA,USA,Apple,Japanese
+0,OK,Unknown,NA,NA,USA,Apple,Japanese
+0,TX,Unknown,NA,NA,USA,Apple,Japanese
+1,TX,Unknown,NA,NA,USA,Apple,Chinese
+0,TX,Unknown,NA,NA,USA,Apple,Unknown
+0,CO,Unknown,NA,NA,USA,Apple,Japanese
+0,UT,Unknown,NA,NA,USA,Apple,Japanese
+0,UT,Unknown,NA,NA,USA,Apple,Japanese
+0,NM,Unknown,NA,NA,USA,Apple,Unknown
+0,CA,Unknown,NA,NA,USA,Apple,Unknown
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Asian_Fusion
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+1,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Chinese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,CA,Unknown,NA,NA,USA,Apple,Japanese
+0,OR,Unknown,NA,NA,USA,Apple,Japanese
+0,OR,Unknown,NA,NA,USA,Apple,Cajun_Seafood
+0,OR,Unknown,NA,NA,USA,Apple,Japanese
+0,OR,Unknown,NA,NA,USA,Apple,Japanese
+0,NA,Unknown,NA,NA,USA,Apple,Unknown
+0,NY,OWNER,NA,NA,USA,Apple,Unknown
+0,NJ,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,DC,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,FL,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,FL,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,MI,OWNER,2007,NA,USA,New_Restaurants,Unknown
+0,TX,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,CA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,CA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,NY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,NY,Unknown,2012,NA,USA,New_Restaurants,Unknown
+0,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,PA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,WA,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,MN,OWNER,2016,NA,USA,New_Restaurants,Unknown
+0,MD,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,WY,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,OH,Unknown,NA,NA,USA,New_Restaurants,Unknown
+0,CA,OWNER,2019,NA,USA,New_Restaurants,Unknown
+1,QC,Unknown,NA,NA,Canada,Summer,Chinese
+0,ON,Unknown,NA,NA,Canada,Summer,Japanese
+0,AB,Unknown,NA,NA,Canada,Summer,Chinese
+0,BC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,MB,General,NA,NA,Canada,Summer,Chinese
+0,QC,Owner,NA,NA,Canada,Summer,Japanese
+0,NS,Finance,1985,NA,Canada,Summer,Asian Fusion
+0,AB,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,QC,Unknown,NA,NA,Canada,Summer,Japanese
+0,QC,Unknown,NA,NA,Canada,Summer,Japanese
+0,ON,Unknown,NA,NA,Canada,Summer,Chinese
+0,ON,Unknown,NA,NA,Canada,Summer,Chinese
+0,QC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,ON,Owner,NA,NA,Canada,Summer,Chinese
+0,ON,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,NS,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,QC,Owner,NA,NA,Canada,Summer,Asian Fusion
+0,AB,Owner,NA,NA,Canada,Summer,Chinese
+0,QC,General,NA,NA,Canada,Summer,Chinese
+0,MB,Owner,NA,NA,Canada,Summer,Japanese
+0,ON,Unknown,NA,NA,Canada,Summer,Chinese
+0,BC,Unknown,NA,NA,Canada,Summer,Chinese
+0,QC,Unknown,NA,NA,Canada,Summer,Chinese
+0,AB,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,SK,Unknown,NA,NA,Canada,Summer,Chinese
+0,ON,Owner,NA,NA,Canada,Summer,Asian Fusion
+0,BC,Unknown,2017,NA,Canada,Summer,Chinese
+0,QC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Summer,Japanese
+0,MB,Unknown,NA,NA,Canada,Summer,Chinese
+0,QC,General,NA,NA,Canada,Summer,Chinese
+0,QC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,AB,General,NA,NA,Canada,Summer,Chinese
+0,BC,General,NA,NA,Canada,Summer,Chinese
+0,ON,Owner,2014,NA,Canada,Summer,Japanese
+0,ON,General,NA,NA,Canada,Summer,Chinese
+0,QC,General,NA,NA,Canada,Summer,Japanese
+0,ON,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,QC,Unknown,NA,NA,Canada,Summer,Japanese
+0,ON,Unknown,NA,NA,Canada,Summer,Chinese
+0,NB,Unknown,2017,NA,Canada,Summer,Asian Fusion
+0,ON,General,NA,NA,Canada,Summer,Asian Fusion
+1,SK,General,1985,NA,Canada,Summer,Chinese
+0,BC,Owner,NA,NA,Canada,Summer,Chinese
+0,ON,Unknown,NA,NA,Canada,Summer,Japanese
+0,QC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,QC,Unknown,NA,NA,Canada,Summer,Chinese
+0,BC,Unknown,NA,NA,Canada,Summer,Chinese
+0,QC,Unknown,NA,NA,Canada,Summer,Asian Fusion
+0,QC,Owner,1991,NA,Canada,Summer,Chinese
+0,NS,Owner,NA,NA,Canada,Summer,Japanese
+0,ON,Owner,NA,NA,Canada,Summer,Japanese
+0,AB,Unknown,NA,NA,Canada,Summer,Chinese
+0,BC,Unknown,NA,NA,Canada,Summer,Chinese
+0,NL,Owner,NA,NA,Canada,Free_Trail,Chinese
+0,NB,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,NB,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,QC,Back of the House,2015,NA,Canada,Free_Trail,Japanese
+0,QC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,QC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,QC,Owner,2017,NA,Canada,Free_Trail,Asian Fusion
+0,QC,General,2016,NA,Canada,Free_Trail,Japanese
+0,QC,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,ON,Owner,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Owner,NA,NA,Canada,Free_Trail,Japanese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+1,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,ON,Owner,2014,NA,Canada,Free_Trail,Japanese
+0,ON,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,ON,Unknown,1999,NA,Canada,Free_Trail,Chinese
+0,ON,General,NA,NA,Canada,Free_Trail,Chinese
+0,MB,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,MB,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,SK,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,SK,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,SK,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,SK,Unknown,NA,NA,Canada,Free_Trail,Asian Fusion
+0,AB,Owner,NA,NA,Canada,Free_Trail,Chinese
+0,AB,Owner,NA,NA,Canada,Free_Trail,Asian Fusion
+0,AB,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,AB,Unknown,2018,NA,Canada,Free_Trail,Asian Fusion
+0,BC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,BC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,BC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,BC,Unknown,NA,NA,Canada,Free_Trail,Chinese
+0,BC,Unknown,2016,NA,Canada,Free_Trail,Asian Fusion
+0,BC,Owner,NA,NA,Canada,Free_Trail,Chinese
+1,BC,Owner,NA,NA,Canada,Free_Trail,Chinese
+0,BC,Unknown,NA,NA,Canada,Free_Trail,Japanese
+0,AL,Unknown,NA,NA,USA,Mooncake,Chinese
+0,AL,Unknown,NA,NA,USA,Mooncake,Japanese
+0,AR,Unknown,NA,NA,USA,Mooncake,Japanese
+0,CA,Unknown,2006,NA,USA,Mooncake,Chinese
+0,CA,Unknown,NA,NA,USA,Mooncake,Japanese
+1,CA,Unknown,NA,NA,USA,Mooncake,Japanese
+0,CA,Unknown,1996,NA,USA,Mooncake,Japanese
+1,CA,Owner,1991,NA,USA,Mooncake,Chinese
+1,CA,Owner,2010,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,CA,Owner,2018,NA,USA,Mooncake,Chinese
+1,CA,Owner,1996,NA,USA,Mooncake,Chinese
+0,CA,Unknown,2007,NA,USA,Mooncake,Chinese
+0,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Szechuan
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,CA,Owner,NA,NA,USA,Mooncake,Asian Fusion
+1,CA,Owner,NA,NA,USA,Mooncake,Chinese
+0,CA,Owner,2002,NA,USA,Mooncake,Chinese
+0,CA,General,2007,NA,USA,Mooncake,Japanese
+0,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,CA,Owner,2005,NA,USA,Mooncake,Japanese
+1,CA,Owner,1966,NA,USA,Mooncake,Chinese
+1,CA,Unknown,2012,NA,USA,Mooncake,Asian Fusion
+0,CO,Owner,NA,NA,USA,Mooncake,Japanese
+1,CO,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CO,Unknown,NA,NA,USA,Mooncake,Japanese
+1,DC,Unknown,NA,NA,USA,Mooncake,Japanese
+1,DC,Owner,2005,NA,USA,Mooncake,Chinese
+0,FL,Unknown,2000,NA,USA,Mooncake,Chinese
+0,FL,Owner,NA,NA,USA,Mooncake,Chinese
+1,FL,General,2016,NA,USA,Mooncake,Japanese
+1,FL,Unknown,NA,NA,USA,Mooncake,Chinese
+0,FL,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,FL,Unknown,2019,NA,USA,Mooncake,Chinese
+1,FL,General,NA,NA,USA,Mooncake,Chinese
+0,FL,Unknown,NA,NA,USA,Mooncake,Japanese
+1,FL,Owner,2007,NA,USA,Mooncake,Chinese
+1,FL,Owner,2016,NA,USA,Mooncake,Japanese
+0,GA,Unknown,2010,NA,USA,Mooncake,Japanese
+0,IL,General,1998,NA,USA,Mooncake,Japanese
+0,IL,Owner,1999,NA,USA,Mooncake,Japanese
+0,IL,Unknown,2020,NA,USA,Mooncake,Japanese
+1,IL,Owner,1991,NA,USA,Mooncake,Chinese
+1,IN,Owner,1995,NA,USA,Mooncake,Chinese
+1,IN,Owner,2003,NA,USA,Mooncake,Chinese
+1,IN,Unknown,2012,NA,USA,Mooncake,Japanese
+0,KY,Unknown,2021,NA,USA,Mooncake,Asian Fusion
+0,LA,Owner,1972,NA,USA,Mooncake,Asian Fusion
+0,LA,Owner,1918,NA,USA,Mooncake,Asian Fusion
+0,LA,Front of the House,NA,NA,USA,Mooncake,Asian Fusion
+0,LA,Owner,2001,NA,USA,Mooncake,Asian Fusion
+0,LA,Owner,2004,NA,USA,Mooncake,Japanese
+0,LA,Owner,1950,NA,USA,Mooncake,Asian Fusion
+1,LA,Unknown,NA,NA,USA,Mooncake,Japanese
+0,MD,Unknown,NA,NA,USA,Mooncake,Chinese
+1,MD,Owner,1989,NA,USA,Mooncake,Chinese
+0,MD,Owner,NA,NA,USA,Mooncake,Asian Fusion
+0,MD,General,1990,NA,USA,Mooncake,Asian Fusion
+0,MD,General,NA,NA,USA,Mooncake,Chinese
+1,MI,General,1977,NA,USA,Mooncake,Chinese
+0,MI,Unknown,NA,NA,USA,Mooncake,Chinese
+1,MI,Unknown,2011,NA,USA,Mooncake,Chinese
+0,MI,Owner,2004,NA,USA,Mooncake,Chinese
+1,MI,Owner,2006,NA,USA,Mooncake,Chinese
+1,MN,Owner,1994,NA,USA,Mooncake,Chinese
+0,MO,Unknown,NA,NA,USA,Mooncake,Japanese
+0,MO,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,MO,Owner,1993,NA,USA,Mooncake,Chinese
+1,MS,Unknown,NA,NA,USA,Mooncake,Japanese
+1,MS,Owner,2013,NA,USA,Mooncake,Japanese
+1,NC,General,2004,NA,USA,Mooncake,Chinese
+1,NC,Unknown,2001,NA,USA,Mooncake,Chinese
+1,NC,Owner,2007,NA,USA,Mooncake,Japanese
+1,NV,Unknown,1996,NA,USA,Mooncake,Chinese
+0,OH,General,2014,NA,USA,Mooncake,Japanese
+0,OH,Owner,2005,NA,USA,Mooncake,Asian Fusion
+0,OH,Owner,1985,NA,USA,Mooncake,Chinese
+1,OH,Unknown,2009,NA,USA,Mooncake,Chinese
+1,OH,Owner,2012,NA,USA,Mooncake,Japanese
+0,OK,Unknown,NA,NA,USA,Mooncake,Chinese
+0,OR,Unknown,NA,NA,USA,Mooncake,Japanese
+0,OR,General,1988,NA,USA,Mooncake,Chinese
+0,PA,Unknown,2012,NA,USA,Mooncake,Chinese
+1,PA,Owner,2003,NA,USA,Mooncake,Chinese
+1,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,PA,Unknown,NA,NA,USA,Mooncake,Japanese
+0,PA,Unknown,NA,NA,USA,Mooncake,Japanese
+0,PA,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,PA,Unknown,2015,NA,USA,Mooncake,Chinese
+0,PA,Unknown,2001,NA,USA,Mooncake,Chinese
+1,SC,Owner,NA,NA,USA,Mooncake,Asian Fusion
+1,SC,Owner,NA,NA,USA,Mooncake,Japanese
+0,TN,Owner,2010,NA,USA,Mooncake,Japanese
+1,TN,Owner,2007,NA,USA,Mooncake,Chinese
+1,TN,Unknown,2002,NA,USA,Mooncake,Chinese
+0,TX,Owner,2001,NA,USA,Mooncake,Chinese
+1,TX,Unknown,2002,NA,USA,Mooncake,Chinese
+0,TX,Unknown,1993,NA,USA,Mooncake,Asian Fusion
+0,TX,Unknown,NA,NA,USA,Mooncake,Japanese
+0,TX,Owner,NA,NA,USA,Mooncake,Chinese
+0,TX,Unknown,2018,NA,USA,Mooncake,Japanese
+0,UT,Owner,2010,NA,USA,Mooncake,Asian Fusion
+0,UT,Sales & Marketing,2016,NA,USA,Mooncake,Asian Fusion
+0,UT,Unknown,NA,NA,USA,Mooncake,Japanese
+1,VA,Owner,2000,NA,USA,Mooncake,Asian Fusion
+1,VA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,VA,Unknown,2009,NA,USA,Mooncake,Chinese
+1,VA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,WA,Owner,1995,NA,USA,Mooncake,Chinese
+0,WA,Owner,2018,NA,USA,Mooncake,Chinese
+0,WA,Owner,2015,NA,USA,Mooncake,Asian Fusion
+1,WA,General,1990,NA,USA,Mooncake,Chinese
+1,AL,Unknown,NA,NA,USA,Mooncake,Japanese
+1,AL,General,1993,NA,USA,Mooncake,Chinese
+0,AL,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,AL,Owner,2001,NA,USA,Mooncake,Chinese
+0,AL,Owner,2007,NA,USA,Mooncake,Japanese
+1,AR,Unknown,NA,NA,USA,Mooncake,Japanese
+0,AR,Owner,2005,NA,USA,Mooncake,Cajun
+1,CA,Owner,1987,NA,USA,Mooncake,Chinese
+1,CA,Unknown,2018,NA,USA,Mooncake,Japanese
+1,CA,General,2004,NA,USA,Mooncake,Chinese
+1,CA,Unknown,2021,NA,USA,Mooncake,Chinese
+1,CA,Owner,NA,NA,USA,Mooncake,Chinese
+0,CA,Owner,1989,NA,USA,Mooncake,Chinese
+1,CA,General,NA,NA,USA,Mooncake,Asian Fusion
+1,CA,Unknown,NA,NA,USA,Mooncake,Japanese
+1,CA,Unknown,2021,NA,USA,Mooncake,Chinese
+0,CA,Owner,NA,NA,USA,Mooncake,Sichuan
+0,CA,Owner,1994,NA,USA,Mooncake,Chinese
+0,CA,Unknown,2010,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,2019,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,CA,Unknown,NA,NA,USA,Mooncake,Japanese
+1,CA,Owner,2020,NA,USA,Mooncake,Chinese
+1,CA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,CO,General,2007,NA,USA,Mooncake,Chinese
+0,DC,Unknown,NA,NA,USA,Mooncake,Japanese
+0,DE,Unknown,NA,NA,USA,Mooncake,Japanese
+0,FL,Unknown,NA,NA,USA,Mooncake,Japanese
+0,FL,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,FL,Back of the House,2020,NA,USA,Mooncake,Japanese
+1,FL,Owner,2007,NA,USA,Mooncake,Chinese
+0,FL,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+1,FL,Owner,2010,NA,USA,Mooncake,Chinese
+1,GA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,GA,Owner,2010,NA,USA,Mooncake,Chinese
+1,GA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,GA,Unknown,NA,NA,USA,Mooncake,Japanese
+1,GA,Owner,NA,NA,USA,Mooncake,Asian Fusion
+0,IL,General,2007,NA,USA,Mooncake,Chinese
+1,IL,General,2012,NA,USA,Mooncake,Japanese
+1,IL,Owner,2017,NA,USA,Mooncake,Chinese
+0,IL,Unknown,NA,NA,USA,Mooncake,Japanese
+1,IL,Unknown,2002,NA,USA,Mooncake,Chinese
+1,IN,General,2000,NA,USA,Mooncake,Chinese
+1,IN,Owner,1994,NA,USA,Mooncake,Chinese
+0,IN,Unknown,NA,NA,USA,Mooncake,Chinese
+0,LA,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+1,LA,Owner,NA,NA,USA,Mooncake,Chinese
+0,MD,Unknown,NA,NA,USA,Mooncake,Japanese
+0,MD,Unknown,NA,NA,USA,Mooncake,Japanese
+0,MD,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,MN,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,MN,Owner,1989,NA,USA,Mooncake,Chinese
+1,MN,Owner,NA,NA,USA,Mooncake,Chinese
+1,MO,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+1,MO,Unknown,NA,NA,USA,Mooncake,Japanese
+0,MO,Owner,NA,NA,USA,Mooncake,Chinese
+0,MO,Unknown,NA,NA,USA,Mooncake,Japanese
+1,MS,Owner,2003,NA,USA,Mooncake,Japanese
+0,NC,Unknown,NA,NA,USA,Mooncake,Japanese
+0,NC,Owner,2004,NA,USA,Mooncake,Japanese
+0,NC,Front of the House,2015,NA,USA,Mooncake,Japanese
+0,NC,Unknown,NA,NA,USA,Mooncake,Japanese
+0,NC,Owner,2001,NA,USA,Mooncake,Chinese
+0,NE,Owner,2017,NA,USA,Mooncake,Japanese
+1,NV,Owner,NA,NA,USA,Mooncake,Japanese
+0,NV,Owner,2008,NA,USA,Mooncake,Japanese
+0,NV,Unknown,2015,NA,USA,Mooncake,Japanese
+0,OH,Owner,2009,NA,USA,Mooncake,Japanese
+1,OH,Unknown,NA,NA,USA,Mooncake,Japanese
+1,OH,Owner,2007,NA,USA,Mooncake,Chinese
+0,OH,Owner,1996,NA,USA,Mooncake,Chinese
+0,OH,Unknown,NA,NA,USA,Mooncake,Chinese
+0,OH,Unknown,NA,NA,USA,Mooncake,Chinese
+0,OR,Unknown,NA,NA,USA,Mooncake,Japanese
+0,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,PA,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+1,PA,Owner,1995,NA,USA,Mooncake,Chinese
+1,PA,Owner,1994,NA,USA,Mooncake,Chinese
+1,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+1,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,PA,Owner,2003,NA,USA,Mooncake,Chinese
+1,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,PA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,SC,Unknown,NA,NA,USA,Mooncake,Japanese
+1,TN,Owner,2012,NA,USA,Mooncake,Chinese
+0,TN,Unknown,2006,NA,USA,Mooncake,Asian Fusion
+1,TN,General,2009,NA,USA,Mooncake,Japanese
+0,TX,Unknown,NA,NA,USA,Mooncake,Asian Fusion
+0,TX,Unknown,NA,NA,USA,Mooncake,Cajun
+0,TX,Unknown,2019,NA,USA,Mooncake,Asian Fusion
+1,TX,Unknown,NA,NA,USA,Mooncake,Japanese
+1,TX,Unknown,NA,NA,USA,Mooncake,Chinese
+0,TX,Owner,2017,NA,USA,Mooncake,Chinese
+0,TX,Unknown,NA,NA,USA,Mooncake,Chinese
+0,TX,Owner,2004,NA,USA,Mooncake,Japanese
+1,UT,Owner,2013,NA,USA,Mooncake,Japanese
+0,UT,Owner,2008,NA,USA,Mooncake,Asian Fusion
+1,VA,Unknown,2002,NA,USA,Mooncake,Chinese
+1,VA,Owner,NA,NA,USA,Mooncake,Chinese
+0,VA,Owner,2004,NA,USA,Mooncake,Japanese
+1,WA,Owner,2000,NA,USA,Mooncake,Chinese
+1,WA,Unknown,NA,NA,USA,Mooncake,Chinese
+0,WA,Owner,2008,NA,USA,Mooncake,Japanese
+0,WA,Owner,1987,NA,USA,Mooncake,Chinese
+1,WI,Unknown,NA,NA,USA,Mooncake,Japanese
+0,WI,Owner,1999,NA,USA,Mooncake,Asian Fusion
+1,WI,Unknown,NA,NA,USA,Mooncake,Japanese
+0,WV,Owner,1994,NA,USA,Mooncake,Chinese
+1,WV,Unknown,NA,NA,USA,Mooncake,Chinese
+0,BC,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,BC,Owner,1993,NA,Canada,Mooncake,Japanese
+0,SK,Owner,NA,NA,Canada,Mooncake,Chinese
+1,SK,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,MB,Owner,NA,NA,Canada,Mooncake,Japanese
+0,BC,Owner,NA,NA,Canada,Mooncake,Japanese
+0,ON,Owner,NA,NA,Canada,Mooncake,Chinese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,AB,Owner,NA,NA,Canada,Mooncake,Asian Fusion
+1,BC,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+1,NB,Unknown,NA,NA,Canada,Mooncake,Chinese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,MB,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Japanese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Owner,NA,NA,Canada,Mooncake,Japanese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Taiwanese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,NL,Owner,NA,NA,Canada,Mooncake,Chinese
+1,MB,Unknown,2018,NA,Canada,Mooncake,Japanese
+0,MB,Owner,NA,NA,Canada,Mooncake,Chinese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Japanese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,ON,Owner,NA,NA,Canada,Mooncake,Chinese
+1,BC,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,BC,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,BC,Unknown,2014,NA,Canada,Mooncake,Asian Fusion
+0,NL,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+0,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Owner,NA,NA,Canada,Mooncake,Chinese
+0,NL,Owner,NA,NA,Canada,Mooncake,Chinese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+0,AB,Owner,NA,NA,Canada,Mooncake,Asian Fusion
+0,NS,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Owner,2011,NA,Canada,Mooncake,Asian Fusion
+1,SK,Owner,NA,NA,Canada,Mooncake,Chinese
+1,AB,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,NS,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,BC,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,AB,Unknown,NA,NA,Canada,Mooncake,Japanese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+1,SK,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+0,NS,General,NA,NA,Canada,Mooncake,Chinese
+1,ON,Unknown,NA,NA,Canada,Mooncake,Asian Fusion
+0,ON,Owner,NA,NA,Canada,Mooncake,Japanese
+0,ON,Owner,NA,NA,Canada,Mooncake,Asian Fusion
+1,ON,Unknown,NA,NA,Canada,Mooncake,Chinese
+0,ON,Unknown,NA,NA,Canada,Mooncake,Japanese

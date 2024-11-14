@@ -1,0 +1,197 @@
+---
+title: "Untitled"
+output: html_document
+date: "2024-01-03"
+---
+```{r}
+unique_scan <- read_csv("Clean-Data/unique_scan.csv")
+
+```
+
+```{r}
+unique_scan |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+
+```
+
+
+
+```{r}
+unique_scan |> 
+  group_by(language_test) |> 
+  summarise(counts=n())
+```
+
+```{r}
+clean_inbound_call <- read_csv("Clean-Data/clean_inbound_call.csv")
+
+clean_inbound_call |> 
+  group_by(language_test) |> 
+  summarise(counts=n())
+
+clean_inbound_call |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+
+```{r}
+clean_form_submission  <- read_csv("Clean-Data/clean_form_submission.csv")
+clean_form_submission |> 
+  anti_join()
+```
+
+```{r}
+clean_form_submission |> 
+  group_by(language_test) |> 
+  summarise(counts=n())
+```
+```{r}
+clean_form_submission |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+december_dm_lead <- read_csv("Clean-Data/december_dm_lead.csv")
+
+```
+
+```{r}
+december_dm_lead |> 
+  filter(flow == "webflow" &
+           mql == TRUE) |>
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+december_dm_lead |> 
+  filter(flow == "inbound call" &
+           mql == TRUE) |>
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+december_dm_lead |> 
+  filter(sql == TRUE) |>
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+december_dm_lead |> 
+  filter(cw == TRUE) |>
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+december_dm_lead |> 
+  filter(flow == "webflow" &
+           mql == TRUE) |>
+  group_by(language_test) |> 
+  summarise(counts=n())
+
+december_dm_lead |> 
+  filter(flow == "inbound call" &
+           mql == TRUE) |>
+  group_by(language_test) |> 
+  summarise(counts=n())
+```
+```{r}
+december_dm_lead |> 
+  filter(sql == TRUE) |>
+  group_by(language_test) |> 
+  summarise(counts=n())
+
+```
+```{r}
+december_dm_lead |> 
+  filter(cw == TRUE) |>
+  group_by(language_test) |> 
+  summarise(counts=n())
+```
+```{r}
+december_dm_lead |> 
+  filter(cw == TRUE) |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+```{r}
+
+december_dm_lead |> 
+  filter(types == "jotform") |> 
+  filter(mql == TRUE) |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+
+december_dm_lead |> 
+  filter(types == "inbound call") |> 
+  filter(mql == TRUE) |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+```{r}
+december_dm_lead |> 
+  filter(types == "inbound call") |> 
+  filter(mql == TRUE) |> 
+  group_by(drop_group) |> 
+  summarise(counts=n())
+```
+
+
+
+
+
+```{r}
+drop1_no_drop2 <- read_csv("Clean-Data/Drop_1_no_Drop2.csv")
+```
+
+
+```{r}
+drop1_no_drop2 |> 
+  filter(mql == TRUE) |> 
+  group_by(flow) |> 
+  summarise(counts=n())
+
+drop1_no_drop2 |> 
+  filter(sql == TRUE) |> 
+  group_by(flow) |> 
+  summarise(counts=n())
+
+drop1_no_drop2 |> 
+  filter(cw == TRUE) |>
+  summarise(counts=n())
+
+
+drop1_no_drop2 |> 
+  filter(mql == TRUE) ->x
+```
+
+```{r}
+
+december_dm_lead |> 
+  filter(flow=='webflow') -> jot_form_leads
+
+jot_form_leads |> 
+  filter(drop_group=='Drop 1 - US') -> jot_form_leads_drop1
+
+jot_form_leads |> 
+  filter(drop_group=='Drop 1 - US' & mql == TRUE) -> jot_form_leadsdrop1_mql
+
+write_csv(jot_form_leadsdrop1_mql, "Clean-Data/jot_form_leadsdrop1_mql.csv")
+
+```
+
+
+
+```{r}
+
+december_dm_lead |> 
+  filter(drop_group == 'Drop 2 - US' & flow == 'webflow') -> leads_web_drop2
+```
+
