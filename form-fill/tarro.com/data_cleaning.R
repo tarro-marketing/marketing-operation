@@ -19,14 +19,14 @@ gs4_auth_configure(path = client_secret_path)
 gs4_auth(email = email, cache = TRUE)
 
 ###########################################################################
-# update line 28
-# update line 144
+# update line 6
+# update line 129
 
 ###########################################################################
 
 
 setwd("~/marketing-operation")
-folder_path <- here("form-fill", "tarro.com", "2024-11-11")
+folder_path <- here("form-fill", "tarro.com", "2024-12-02")
 filenames <- list.files(folder_path, pattern = "\\.csv$", full.names = TRUE)
 
 
@@ -49,17 +49,17 @@ file_names <- as.data.frame(colnames(combo_data)) |>
 
 # Define the list of columns to combine for each field
 fields <- list(
-  phone_number_combined = c("Phone Number", "Phone Number 2", "Phone Number 4", 
-                            "Mobile Number", "New Client’s Mobile Number", 
+  phone_number_combined = c("Phone Number", "Phone Number 2", "Phone Number 4",
+                            "Mobile Number", "New Client’s Mobile Number",
                             "Prospect’s Mobile Number"),
   email_combined = c("Email", "Email 6", "Email 8", "Email 10", "Email Address", "邮箱地址"),
-  first_name_combined = c("First Name", "First Name 2", "First Name 4", 
+  first_name_combined = c("First Name", "First Name 2", "First Name 4",
                           "First Name 5", "First Name 8", "名"),
-  last_name_combined = c("Last Name", "Last Name 2", "Last Name 5", 
+  last_name_combined = c("Last Name", "Last Name 2", "Last Name 5",
                          "Last Name 7", "Last Name 8", "姓"),
-  cuisine_type_combined = c("Cuisine Type", "Cuisine Type 2", "Cuisine Type 4", 
+  cuisine_type_combined = c("Cuisine Type", "Cuisine Type 2", "Cuisine Type 4",
                             "Cuisine Type 6", "cuisine-type", "请选餐馆菜系"),
-  restaurant_name_combined = c("Restaurant Name", "Restaurant Name 2", 
+  restaurant_name_combined = c("Restaurant Name", "Restaurant Name 2",
                                "Restaurant Name 3", "Restaurant Name 8", "餐馆名字")
 )
 
@@ -150,14 +150,14 @@ summary_table <- final_data_clean |>
 
 sheet_write(final_data_clean,
             ss = "18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE",
-            sheet = "11/11")
+            sheet = "12/02")
 
 ## refresh/overwrite from A170 because everytime is exracting all forms
 range_write(
   final_data_clean,
   ss = "18y8li4QmbStR-6XFc-Vx8o9qzTDJrGIExAObVzG8RpE",
   sheet = "All Formfills",
-  range = "A170",
+  range = "A269",
   col_names = TRUE,
   reformat = FALSE
 )
