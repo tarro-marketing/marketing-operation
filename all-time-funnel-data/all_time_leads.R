@@ -34,8 +34,8 @@ all_lead__r <-
 all_lead__c <- all_lead__r |>
   mutate(
     mobile_primary = str_replace_all(mobile_primary, "[^\\d]", ""),
-    business_phone = str_replace_all(
-      str_replace_all(business_phone, "-", ""),
+    business_phone_line_1 = str_replace_all(
+      str_replace_all(business_phone_line_1, "-", ""),
       "[^0-9]", ""
     ),
     flow_type = case_when(
@@ -72,7 +72,15 @@ all_lead__c <- all_lead__r |>
       TRUE ~ FALSE
     )
   ) |>
+  rename(business_phone = business_phone_line_1) |>
   select(mel, mql, sql, onboarded, everything())
 
+sheet_write(all_lead__c,
+            ss="1KRaC1IeLlMmufiiOuPnicMJr132LP9MYl4eRDVKXS3k",
+            sheet="2024 Raw Data")
 
 write_csv(all_lead__c, "/Users/yukachen/marketing-operation/all-time-funnel-data/all_time_leads.csv")
+
+
+write_csv(all_lead__c, "/Users/yukachen/marketing-operation/all-time-funnel-data/all_time_leads_1_14_2025.csv")
+

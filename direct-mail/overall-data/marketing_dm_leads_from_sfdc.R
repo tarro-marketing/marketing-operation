@@ -10,7 +10,7 @@ source("/Users/yukachen/marketing-operation/data/lead_campaign.R")
 
 dm_lead_campaign_c <- final_campaign_sfdc_lead |>
   filter(
-    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024")
+    str_detect(campaign_name, "(?i)Mkt_DM_Snowflake_2024") | str_detect(campaign_name, "(?i)Mkt_DM_Snowball_2024")
   )
 
 write_sheet(dm_lead_campaign_c,
@@ -20,4 +20,4 @@ write_sheet(dm_lead_campaign_c,
 
 rm(list = setdiff(ls(), c("dm_lead_campaign_c")))
 
-co
+

@@ -5,6 +5,7 @@ library(httr)
 library(googlesheets4)
 library(keyring)
 library(here)
+library(janitor)
 
 
 client_secret_path <- keyring::key_get(
@@ -69,15 +70,16 @@ for (field in names(fields)) {
     mutate(!!field := coalesce(!!!select(combo_data, any_of(fields[[field]]))))
 }
 
-combo_data__c  <- combo_data
+combo_data__c  <- combo_data |>
+  clean_names()
 
 
 # Select the coalesced columns and any additional necessary columns
 final_data <- combo_data__c |>
   select(
-    Date, filename, utm_campaign, phone_number_combined, email_combined,
+    date, filename, utm_campaign, phone_number_combined, email_combined,
     first_name_combined, last_name_combined, cuisine_type_combined,
-    restaurant_name_combined
+    restaurant_name_combined, current_page
   )
 
 # keywords that need to be filter out
@@ -95,7 +97,8 @@ rname_pattern <- paste(rname_keywords, collapse = "|")
 final_data_clean <- final_data |>
   mutate(
     phone_number_combined =
-      str_replace_all(phone_number_combined, "[^\\w-]+", "")
+      str_replace_all(phone_number_combined, "[^\\w-]+", ""),
+    url = str_remove_all(current_page, "https://(www\\.tarro\\.com|tarr-001\\.webflow\\.io)/|\\?.*")
   ) |>
   mutate(
     form_path = str_replace(
@@ -103,17 +106,16 @@ final_data_clean <- final_data |>
                           "^/Users/yukachen/marketing-operation/form-fill/tarro\\.com/\\d{4}-\\d{2}-\\d{2}/",
                           ""),
     form_path = str_replace(form_path, "-\\d{4}-\\d{2}-\\d{2}\\.csv$", ""),
-    Date = mdy_hms(Date)
+    Date = mdy_hms(date)
   ) |>
   select(form_path, everything()) |>
-  select(-filename) |>
+  select(-filename, -current_page) |>
   filter(
-    !str_detect(email_combined, regex(email_pattern, ignore_case = TRUE)),
-    !str_detect(first_name_combined, regex(fname_pattern, ignore_case = TRUE)),
-    !str_detect(last_name_combined, regex(lname_pattern, ignore_case = TRUE)),
-    !str_detect(restaurant_name_combined,
-                regex(rname_pattern, ignore_case = TRUE))
-  ) |>
+    (is.na(email_combined) | !str_detect(email_combined, regex(email_pattern, ignore_case = TRUE))),
+    (is.na(first_name_combined) | !str_detect(first_name_combined, regex(fname_pattern, ignore_case = TRUE))),
+    (is.na(last_name_combined) | !str_detect(last_name_combined, regex(lname_pattern, ignore_case = TRUE))),
+    (is.na(restaurant_name_combined) | !str_detect(restaurant_name_combined, regex(rname_pattern, ignore_case = TRUE)))
+  )|>
   distinct(phone_number_combined, email_combined,
            first_name_combined, last_name_combined, .keep_all = TRUE) |>
   mutate(

@@ -22,9 +22,9 @@ data_split <- data %>%
   mutate(Channel_Count = n_distinct(`Lead Channel List`)) %>%
   ungroup() %>%
   mutate(`Credit` = `Total Leads` / Channel_Count) %>%
-  select(`Lead Create Month`,`Lead Channel List`, Group, `Credit`) |> 
-  left_join(channel, by = join_by(`Lead Channel List` == lead_source)) |> 
-  select(-`Lead Channel List`) |> 
+  select(`Lead Create Month`,`Lead Channel List`, Group, `Credit`) |>
+  left_join(channel, by = join_by(`Lead Channel List` == lead_source)) |>
+  select(-`Lead Channel List`) |>
   rename(`Lead Channel` = lead_channel)
 
 # Summarize the data by channel and group
@@ -38,14 +38,14 @@ print(summary_data)
 
 
 
-data_final <- summary_data |> 
-  pivot_wider(names_from = Group, values_from = `Total Leads`) |> 
+data_final <- summary_data |>
+  pivot_wider(names_from = Group, values_from = `Total Leads`) |>
   replace_na(list(`Rejected Lead` = 0, `Unqualified Lead` = 0))
 
 data_percent <- data_final %>%
   mutate(Total = rowSums(select(., Other,`Rejected Lead`, `Unqualified Lead`), na.rm = TRUE)) %>%
   mutate(across(c(`Rejected Lead`, `Unqualified Lead`), ~ round(.x / Total * 100, 1), .names = "Percent_{col}")) |>
-  mutate(across(starts_with("Percent_"), ~ paste0(.x, "%"))) |> 
+  mutate(across(starts_with("Percent_"), ~ paste0(.x, "%"))) |>
   mutate(across(everything(), ~ replace(.x, is.nan(.x), NA)))
 
 
@@ -61,19 +61,19 @@ total_credit <- summary_data %>%
   summarize(Total_Credit = sum(`Total Leads`))
 
 
-rejected <- data_percent |> 
-  select(`Lead Create Month`, `Lead Channel`, `Percent_Rejected Lead`) |> 
+rejected <- data_percent |>
+  select(`Lead Create Month`, `Lead Channel`, `Percent_Rejected Lead`) |>
   pivot_wider(names_from = `Lead Channel`, values_from = `Percent_Rejected Lead`)
 
 total <- data_percent %>%
   select(`Lead Create Month`, `Lead Channel`, Total) %>%
   pivot_wider(names_from = `Lead Channel`, values_from = Total) %>%
-  mutate(Total = rowSums(select(., -`Lead Create Month`), na.rm = TRUE)) |> 
+  mutate(Total = rowSums(select(., -`Lead Create Month`), na.rm = TRUE)) |>
   select(`Lead Create Month`, Total)
-  
 
-unqualified <- data_percent |> 
-  select(`Lead Create Month`, `Lead Channel`, `Percent_Unqualified Lead`) |> 
+
+unqualified <- data_percent |>
+  select(`Lead Create Month`, `Lead Channel`, `Percent_Unqualified Lead`) |>
   pivot_wider(names_from = `Lead Channel`, values_from = `Percent_Unqualified Lead`)
 
 print(total_credit)
