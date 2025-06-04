@@ -11,7 +11,7 @@ source("~/marketing-operation/max_requested_reports/individual_channel_performan
 
 
 lead_2024 <- all_lead__c |>
-  filter(first_mel_year == 2024) |>
+  filter(first_mel_year == 2023) |>
   select(-first_mel_year) |>
   select(first_mel_month, everything())
 
@@ -26,7 +26,7 @@ data_split <- lead_2024 |>
 
 
 
-write_csv(data_split, "~/marketing-operation/max_requested_reports/individual_channel_performance/2024_lead_c.csv")
+write_csv(data_split, "~/marketing-operation/max_requested_reports/individual_channel_performance/2023_lead_c.csv")
 
 rm(list = setdiff(ls(), "data_split"))
 

@@ -19,4 +19,4 @@ aggregated_table <- data_split |>
             .groups = "drop")
 
 
-write_csv(aggregated_table, "/Users/yukachen/marketing-operation/max_requested_reports/individual_channel_performance/aggregated_table.csv", na = "")
+write_csv(aggregated_table, "/Users/yukachen/marketing-operation/max_requested_reports/individual_channel_performance/aggregated_table_2023.csv", na = "")

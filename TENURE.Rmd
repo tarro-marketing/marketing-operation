@@ -1,0 +1,181 @@
+```{r}
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+client_tenure_correlation <- read_csv("~/Downloads/client_tenure_correlation.csv")
+client_data <- client_tenure_correlation |> 
+  clean_names()
+
+client_data <- client_data |> 
+  mutate(
+    cuisine_filtered = case_when(
+      str_detect(cuisines_regional, regex("chinese|taiwanese|szechuan|cantonese|sichuan|mongolian|mandarin|hong kong|chinsese", ignore_case = TRUE)) ~ "Chinese",
+      str_detect(cuisines_regional, regex("japanese",ignore_case = TRUE)) ~ "Japanese",
+      str_detect(cuisines_regional, regex("cajun",ignore_case = TRUE)) ~ "Cajun",
+      str_detect(cuisines_regional, regex("american",ignore_case = TRUE)) ~ "American",
+      TRUE ~ "Others"
+    )
+  )
+```
+
+```{r}
+client_tenure_summary <- client_data |> 
+  mutate(
+    across(where(is.character), ~ replace_na(.x, "No Data")),
+    across(where(is.double), ~ replace_na(.x, -1))
+  ) |> 
+  group_by(tenure_in_complete_months) |> 
+  summarise(count = n())
+
+print(client_tenure_summary)
+head(client_data)
+```
+
+```{r}
+client_data |> 
+  drop_na(tenure_in_complete_months) |> 
+  filter((tarro_active_status == 'suspended' | tarro_active_status == 'canceled') & 
+         tenure_in_complete_months < 12) |> 
+ggplot(aes(x = tarro_region, y = tenure_in_complete_months)) +
+  geom_boxplot(fill = "skyblue", outlier.color = "red", outlier.shape = 1) +
+  stat_summary(fun = mean, geom = "point", shape = 20, size = 3, color = "blue") +
+  labs(title = "Client Tenure by Region",
+       subtitle = "tenure < 12 months",
+       x = "Region",
+       y = "Tenure (Completed Months)") +
+  theme_minimal()
+```
+```{r}
+
+client_data |> 
+  filter(cuisine_type != "unknown" & tenure_in_complete_months < 12) |> 
+  drop_na(tenure_in_complete_months) |> 
+  mutate(cuisine_type = recode(cuisine_type,
+                          "chinese" = "Chinese",
+                          "japanese" = "Japanese",
+                          "unknown" = "Unknown",
+                          "chinese_japanese" = "Chinese Japanese",
+                          "advanced" = "Advanced")) |> 
+  ggplot(aes(x = cuisine_type, y = tenure_in_complete_months)) +
+  geom_boxplot(fill = "skyblue", outlier.color = "red", outlier.shape = 1) +
+  stat_summary(fun = mean, geom = "point", shape = 20, size = 3, color = "blue") +
+  labs(title = "Client Tenure by Cuisine Type",
+       subtitle = "tenure < 12 months",
+       x = "Cuisine Type (Tarro's Database)",
+       y = "Tenure (Completed Months)") + 
+
+  theme_minimal()
+```
+
+
+```{r}
+client_tenure <- client_tenure |> 
+  mutate(
+    cuisine_filtered = case_when(
+      str_detect(cuisines_regional, regex("chinese|taiwanese|szechuan|cantonese|sichuan|mongolian|mandarin|hong kong|chinsese", ignore_case = TRUE)) ~ "Chinese",
+      str_detect(cuisines_regional, regex("japanese",ignore_case = TRUE)) ~ "Japanese",
+      str_detect(cuisines_regional, regex("cajun",ignore_case = TRUE)) ~ "Cajun",
+      str_detect(cuisines_regional, regex("american",ignore_case = TRUE)) ~ "American",
+      TRUE ~ "Others"
+    )
+  )
+```
+
+```{r}
+client_tenure |> 
+    ggplot(aes(x = gmv_level_voice_platform, y = tenure_in_complete_months)) +
+    geom_boxplot()+
+    labs(
+    x = "gmv level (voice platform)",
+    y = "tenure in complete months"
+    ) +
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+```{r}
+client_tenure |> 
+  drop_na(median_price) |> 
+  filter(tenure_in_complete_months<30) |> 
+  ggplot(aes(x = median_price, y = tenure_in_complete_months)) +
+  geom_point()+
+  labs(
+    x = "median price",
+    y = "tenure in complete months"
+  ) +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+```{r}
+client_tenure |> 
+  drop_na(visibility_score) |> 
+  filter(tenure_in_complete_months<30) |> 
+  ggplot(aes(x = visibility_score, y = tenure_in_complete_months)) +
+  geom_point()+
+  labs(
+    x = "visibility score",
+    y = "tenure in complete months"
+  ) +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+client_tenure |> 
+  drop_na(vitality_score) |> 
+  filter(tenure_in_complete_months<30) |> 
+  ggplot(aes(x = vitality_score, y = tenure_in_complete_months)) +
+  geom_point()+
+  labs(
+    x = "visibility score",
+    y = "tenure in complete months"
+  ) +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+```{r}
+client_tenure |> 
+  drop_na(cuisine_filtered) |> 
+  filter(tenure_in_complete_months<30) |> 
+  ggplot(aes(x = cuisine_filtered, y = tenure_in_complete_months)) +
+  geom_point()+
+  geom_smooth()
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+
+#### zip code for existing client
+
+```{r}
+zip_code_tenure_correlation <- read_csv("~/Downloads/Tenure Project - client with zipcode info.csv") |> clean_names()
+
+head(zip_code_tenure_correlation)
+```
+
+```{r}
+zip_code_tenure_correlation |> 
+  filter(!is.na(population_band) & population_band != "No Data" & tenure_in_complete_months < 12) |> 
+  drop_na(tenure_in_complete_months) |>
+  ggplot(aes(x = population_band, y = tenure_in_complete_months)) +
+  geom_boxplot(fill = "skyblue", outlier.color = "red", outlier.shape = 1) +
+  stat_summary(fun = mean, geom = "point", shape = 20, size = 3, color = "blue") +
+  labs(title = "Population Band vs Tenure",
+       subtitle = "tenure < 12 months",
+       x = "Population Band",
+       y = "Tenure (Completed Months)") +
+  theme_minimal()
+```
+```{r}
+zip_code_tenure_correlation |> 
+  filter(!is.na(density_band) & density_band != "No Data"& tenure_in_complete_months < 12) |> 
+  drop_na(tenure_in_complete_months) |>
+  ggplot(aes(x = density_band, y = tenure_in_complete_months)) +
+  geom_boxplot(fill = "skyblue", outlier.color = "red", outlier.shape = 1) +
+  stat_summary(fun = mean, geom = "point", shape = 20, size = 3, color = "blue") +
+  labs(title = "Density Band vs Tenure",
+       subtitle = "tenure < 12 months",
+       x = "Density Band",
+       y = "Tenure (Completed Months)") +
+  theme_minimal()
+```
+
