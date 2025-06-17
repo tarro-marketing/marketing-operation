@@ -31,7 +31,7 @@ all_opportunity__r <-
 
 #################### Cleaning Data ##########################
 
-opportunity <- all_opportunity__r |> 
+opportunity <- all_opportunity__r |>
   mutate(SQL = TRUE,
          CW = if_else(stage == "Closed Won", TRUE,FALSE),
          Onboarded = if_else(stage == "Onboarded", TRUE,FALSE)

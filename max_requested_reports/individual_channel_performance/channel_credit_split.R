@@ -7,15 +7,15 @@ library(keyring)
 library(janitor)
 
 
-source("~/marketing-operation/max_requested_reports/individual_channel_performance/all_time_leads.R")
+#source("~/marketing-operation/max_requested_reports/individual_channel_performance/all_time_leads.R")
 
 
-lead_2024 <- all_lead__c |>
-  filter(first_mel_year == 2023) |>
+lead_2025 <- all_lead__c |>
+  filter(first_mel_year == 2025) |>
   select(-first_mel_year) |>
   select(first_mel_month, everything())
 
-data_split <- lead_2024 |>
+data_split <- lead_2025 |>
   mutate(lead_channel_split = str_split(lead_channel, ";\\s*"),
          total_leads = 1) |>
   unnest(lead_channel_split) |>
@@ -26,9 +26,9 @@ data_split <- lead_2024 |>
 
 
 
-write_csv(data_split, "~/marketing-operation/max_requested_reports/individual_channel_performance/2023_lead_c.csv")
+write_csv(data_split, "~/marketing-operation/max_requested_reports/individual_channel_performance/2025_lead_c.csv")
 
-rm(list = setdiff(ls(), "data_split"))
+rm(list = setdiff(ls(), "data_split","all_lead__c"))
 
 
 

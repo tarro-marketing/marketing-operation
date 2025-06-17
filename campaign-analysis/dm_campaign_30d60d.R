@@ -7,7 +7,8 @@ library(keyring)
 library(janitor)
 library(here)
 
-setwd(here("campaign-analysis"))
+current_path <- getwd()
+setwd(here(paste0(current_path,"past_products/campaign-analysis")))
 source("campaignmembers_opportunities.R")
 
 ################### loading data ###########################

@@ -5,7 +5,9 @@ library(httr)
 library(googlesheets4)
 library(keyring)
 library(janitor)
+library(here)
 
+setwd(here("past projects"))
 
 client_secret_path <- keyring::key_get(
   service = "googlesheets4",
@@ -24,7 +26,7 @@ all_lead__r <-
   read_sheet(
     ss = "1xy2bw5ckuUod-5In2iZZuWxuIxvMqzI-fF_jODddGVg",
     sheet = "[all time] Marketing MEL/MQL Report",
-    range = "A:AM"
+    range = "A:AN"
   ) |>
   clean_names()
 
@@ -32,43 +34,36 @@ all_lead__r <-
 
 
 all_lead__c <- all_lead__r |>
-  filter( !is.na(latest_campaign),
-          !str_detect(latest_campaign, "outbound")) |>
+  filter(
+    !is.na(latest_campaign),
+    !str_detect(latest_campaign, "outbound")
+  ) |>
   mutate(
+    # parse dates…
     first_mel_timestamp = parse_date_time(first_mel_timestamp, orders = c("ymd HMS", "ymd")),
-    first_mel_month = format(first_mel_timestamp, "%Y-%m"),
-    first_mel_year = year(first_mel_timestamp)
+    first_mel_month     = format(first_mel_timestamp, "%Y-%m"),
+    first_mel_year      = year(first_mel_timestamp)
   ) |>
   mutate(
-    mobile_primary = str_replace_all(mobile_primary, "[^\\d]", ""),
-    business_phone_line_1 = str_replace_all(
-      str_replace_all(business_phone_line_1, "-", ""),
-      "[^0-9]", ""
-    ),
-    is_onboarded = case_when(stage == "Onboarded" ~ TRUE, TRUE ~ FALSE),
-    is_sql = case_when(
-      opportunity_id != "" ~ TRUE,
-      TRUE ~ FALSE
-    ),
-    is_mql = case_when(
-      !(is.na(latest_mql_time_stamp))&
-        !(unqualified_reason %in%
-          c(
-            "Current Client",
-            "Duplicate",
-            "Not a Restaurant"
-          )) ~ TRUE,
-      TRUE ~ FALSE
-    ),
-    is_mel = case_when(
-      !(is.na(first_mel_timestamp)) &
-      !(unqualified_reason %in% c("Current Client", "Duplicate")) ~ TRUE,
-      TRUE ~ FALSE
-    )
-  ) |>
-  rename(business_phone = business_phone_line_1) |>
-  select(is_mel, is_mql, is_sql, is_onboarded, everything())
+    # coerce to character _before_ cleaning
+    mobile_primary = as.character(mobile_primary) |>
+      str_replace_all("[^\\d]", ""),
+    business_phone = as.character(business_phone_line_1) |>
+      str_replace_all("[^\\d]", ""),
 
-write_csv(all_lead__c, "~/marketing-operation/max_requested_reports/individual_channel_performance/all_time_leads_1_14_2025.csv", na = "")
+    is_cw  = (stage %in% c("Closed Won", "Onboarded")) |
+      (stage == "Closed Lost" & stage_at_closed_lost == "Closed Won"),
+
+    is_sql = opportunity_id != "",
+
+    is_mql = !is.na(latest_mql_time_stamp) &
+      !unqualified_reason %in% c("Current Client", "Duplicate", "Not a Restaurant"),
+
+    is_mel = !is.na(first_mel_timestamp) &
+      !unqualified_reason %in% c("Current Client", "Duplicate")
+  ) |>
+  select(is_mel, is_mql, is_sql, is_cw, everything())
+
+write_csv(all_lead__c, "~/marketing-operation/max_requested_reports/individual_channel_performance/all_time_leads_2025.csv", na = "")
 
 rm(list = setdiff(ls(), "all_lead__c"))
