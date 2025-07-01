@@ -7,12 +7,12 @@ library(keyring)
 library(janitor)
 library(here)
 
-current_path <- getwd()
-setwd(here(paste0(current_path,"past_products/campaign-analysis")))
+setwd(here("campaign-analysis"))
 source("campaignmembers_opportunities.R")
 
 ################### loading data ###########################
 
+# https://docs.google.com/spreadsheets/d/1IYMZ0a-yL7LQUgCsy6EZnSjHLBKXC48P9QRE9Kh8Jzo/edit?gid=1306183246#gid=1306183246
 campaign_information <-
   read_sheet(
     ss = "1IYMZ0a-yL7LQUgCsy6EZnSjHLBKXC48P9QRE9Kh8Jzo",

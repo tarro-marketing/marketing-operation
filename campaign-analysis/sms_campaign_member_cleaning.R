@@ -12,6 +12,7 @@ source("campaignmembers_opportunities.R")
 
 ################### loading data ###########################
 
+# https://docs.google.com/spreadsheets/d/1IYMZ0a-yL7LQUgCsy6EZnSjHLBKXC48P9QRE9Kh8Jzo/edit?gid=1869439398#gid=1869439398
 campaign_information <-
   read_sheet(
     ss = "1IYMZ0a-yL7LQUgCsy6EZnSjHLBKXC48P9QRE9Kh8Jzo",
@@ -189,5 +190,7 @@ write_sheet(rid_data, ss = "1FzgPs09F7h4Uaf737JTxGgZn9xZXM5c65otU47Kn9i8", sheet
 
 
 write_sheet(campaign_member_data_c, ss = "1FzgPs09F7h4Uaf737JTxGgZn9xZXM5c65otU47Kn9i8", sheet = "campaign_member_data_c")
+
+# https://docs.google.com/spreadsheets/d/1FzgPs09F7h4Uaf737JTxGgZn9xZXM5c65otU47Kn9i8/edit?gid=0#gid=0
 
 

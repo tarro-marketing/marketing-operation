@@ -4,5 +4,8 @@
     "r.linting.nameLength": true,
     "r.linting.snakeCase": false,
     "r.dependencyChecks": true,
-    "r.linting.maxLineLength": 120
+    "r.linting.maxLineLength": 120,
+    "terminal.integrated.env.osx": {
+        "CENSUS_API_KEY": "47f1b66837eba16d39b853916662babf3fd5b027"
+    }
 }
