@@ -1,0 +1,838 @@
+Snowball Map,Name,Street,City/Town,State/Province Code,Zip/Postal Code,Phone,Cuisines (Regional),Menu Type,Agent Tier,Able to take?,Agent Tiering after NW
+1,Teriyaki Plus,11512 124th Ave NE,Kirkland,WA,98033,4258275679,Japanese,,,Yes - considering what's available on the online menu
+2,Teriyaki Plus,12720 4th Ave W,Everett,WA,98204,4253487894,Japanese; Chinese,,,Yes - considering what's available on the online menu
+3,Teriyaki Plus,19939 Ballinger Way NE,Shoreline,WA,98155,2063619811,Japanese,,,Yes - considering what's available on the online menu
+4,Teriyaki Plus,2100 N Northgate Way,Seattle,WA,98133,2063683474,Japanese,,,Yes - considering what's available on the online menu
+5,Teriyaki Plus,4001 Airport Way S,Seattle,WA,98108,2066244890,Japanese,,,Yes - considering what's available on the online menu
+6,So Tasty,15920 NE 8th St,Bellevue,WA,98008,4253626186,Chinese,,,Yes - but no alcoholic drinks over the phone
+7,The Crab Pot,2 Lake Bellevue Dr,Bellevue,WA,98005,4254552244,American; Creole; Cajun,,,Yes - but no alcoholic drinks over the phone
+8,Mr. Huang Clay Pot Chicken Express,1336 156th Ave NE,Bellevue,WA,98007,4254658967,Chinese,,,Yes - as long this will be set up the same way in the online menu or ask & click set up.
+9,Teriyaki Bowl,4207 Gilman Ave W,Seattle,WA,98199,2062824476,Japanese,,,YES
+10,12 Moons Asian Bistro,37500 SE North Bend Way,Snoqualmie,WA,98065,4258881234,Japanese; Chinese,,,YES
+11,5 Corners Teriyaki,8410 Main St,Edmonds,WA,98026,4257745775,Japanese,CJ,Tier 3,YES,T3 Advance
+12,8 Asian Cuisine,2402 Auburn Way S,Auburn,WA,98002,8008044944,Chinese,,,YES
+13,A Burger Place,11601 Harbour Pointe Blvd,Mukilteo,WA,98275,4254930593,Japanese,ADV,Tier 3,YES,T3 Advance
+14,aa Sushi,9730 NE 119th Way,Kirkland,WA,98034,4258217989,Japanese,,,YES
+15,Aberdeen Cafe,721 M St NE,Auburn,WA,98002,4258918064,Cantonese,CH,Tier 2,YES,Week 1- 4
+16,Acacia Teriyaki,4026 148th Ave NE,Redmond,WA,98052,4258850574,Japanese,,,YES
+17,Akane,14136 NE Woodinville Duvall Rd,Woodinville,WA,98072,4252862243,Japanese,JAP,Tier 3,YES,T3 Advance
+18,Akane Ramen,13210 39th Ave SE,Mill Creek,WA,98296,4252255748,Korean; Japanese,JAP,Tier 3,YES,T3 Advance
+19,Aoki Japanese Grill & Sushi Bar,621 Broadway E,Seattle,WA,98102,2063243633,Japanese,,,YES
+20,Aoki Sushi & Grill,621 Broadway E,Seattle,WA,98102,2065574595,Japanese,,,YES
+21,Apple Teriyaki,11401 Steele St S,Tacoma,WA,98444,2535371835,Japanese,CJ,Tier 3,YES,T3 Advance
+22,Apple Teriyaki,11523 Avondale Rd NE,Redmond,WA,98052,4258834389,Japanese,CH,Tier 2 A,YES,T2 A Team
+23,Apple Teriyaki,27400 Pacific Hwy S,Federal Way,WA,98003,2538390110,Japanese,CH,Tier 2,YES,Week 1- 4
+24,Apple Teriyaki,5604 176th St E,Puyallup,WA,98375,2538752035,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+25,Appletree Teriyaki,8554 Evergreen Way,Everett,WA,98208,4253553322,Japanese,CJ,Tier 3,YES,T3 Advance
+26,Arabic Krispy Krunchy,14415 Tukwila International Blvd,Tukwila,WA,98168,2067471845,Indian; Chinese,CH,Tier 2,YES,T2
+27,Arashi Ramen,17045 Southcenter Pkwy,Tukwila,WA,98188,2532208722,Japanese,,,YES
+28,Arashi Ramen,5401 20th Ave NW,Seattle,WA,98107,2064927933,Japanese,,,YES
+29,Arigato Sushi,6412 Phinney Ave N,Seattle,WA,98103,2069132961,Japanese,,,YES
+30,Ashiya Teriyaki,1233 164th St SW,Lynnwood,WA,98087,4257420670,Japanese,,,YES
+31,Asia Ginger Teriyaki & Roll,4119 4th Ave S,Seattle,WA,98134,2066822444,Korean; Japanese; Chinese,,,YES
+32,Asian Express of Federal Way,31260 Pacific Hwy S,Federal Way,WA,98003,2065922287,Chinese; Thai,CH,Tier 2,YES,Week 1- 4
+33,Asian Kitchen,14409 Greenwood Ave N,Seattle,WA,98133,2064031199,Chinese,,,YES
+34,Asian Table,1428 W Meeker St,Kent,WA,98032,2532773046,Japanese; Chinese,,,YES
+35,Asian Wok,6815 196th St SW,Lynnwood,WA,98036,4257715838,Chinese,,,YES
+36,August Moon Chinese Restaurant,2904 228th Ave SE,Sammamish,WA,98075,4253918888,Chinese,CH,Tier 2 A,YES,T2 A Team
+37,Azuma Sushi,4533 California Ave SW,Seattle,WA,98116,2069371148,Japanese,,,YES
+38,B Won,30919 Pacific Hwy S,Federal Way,WA,98003,2066517780,Chinese,,,YES
+39,Bag O Crab,1295 N 205th St,Shoreline,WA,98133,2065468988,Cajun,,,YES
+40,Ballard Mandarin,5500 8th Ave NW,Seattle,WA,98107,2067825531,Chinese,,,YES
+41,Bamboo Village,4900 Stone Way N,Seattle,WA,98103,2066328888,Chinese,CH,Tier 2 A,YES,T2 A Team
+42,Bao Box,16725 SE 272nd St,Covington,WA,98042,2065139233,Chinese,,,YES
+43,Baron's Sino Kitchen & Bar,500 Bellevue Way NE,Bellevue,WA,98004,4253630000,Chinese,,,YES
+44,BB's Teriyaki Grill,10221 156th St E,Puyallup,WA,98374,2068769105,Japanese,,,YES
+45,BB's Teriyaki Grill,1111 3rd Ave,Seattle,WA,98101,2068769105,Japanese,,,YES
+46,BB's Teriyaki Grill,1568 Highlands Dr NE,Issaquah,WA,98029,2068769105,Japanese,,,YES
+47,BB's Teriyaki Grill,17127 Smokey Point Blvd,Arlington,WA,98223,2068769105,Japanese,,,YES
+48,BB's Teriyaki Grill,210 Westlake Ave N,Seattle,WA,98109,2068769105,Japanese,,,YES
+49,BB's Teriyaki Grill,4221 University Way NE,Seattle,WA,98105,2068769105,Japanese,,,YES
+50,Beijing Chinese Cuisine,1008 Cedar Ave,Marysville,WA,98270,3606537545,Chinese,,,YES
+51,Beijing Garden,3719 Rucker Ave,Everett,WA,98201,4253399319,Chinese,,,YES
+52,Belt Sushi and Roll,16822 Twin Lakes Ave,Marysville,WA,98271,3606523333,Japanese,,,YES
+53,Bento Teriyaki,323 Washington Ave S,Kent,WA,98032,2538524910,Japanese; Vietnamese; Chinese,,,YES
+54,Bento Teriyaki,18931 Bothell Way NE,Bothell,WA,98011,4254899393,Japanese,,,YES
+55,Bento Teriyaki,21919 66th Ave W,Mountlake Terrace,WA,98043,4257756988,Japanese,,,YES
+56,Bento Teriyaki & Sushi,3201 6th Ave,Tacoma,WA,98406,2537590851,Japanese,,,YES
+57,Bento Time,11802 Evergreen Way,Everett,WA,98204,4257107575,Korean; Japanese,,,YES
+58,Bento World,306 Lenora St,Seattle,WA,98121,2064414474,Japanese,,,YES
+59,Bento-ya Goemon,700 NW Gilman Blvd,Issaquah,WA,98027,4256777460,Japanese,,,YES
+60,Best Sushi & Teriyaki,19620 Highway 99,Lynnwood,WA,98036,4256737373,Japanese,,,YES
+61,Best Teriyaki,1437 NW Richmond Beach Rd,Shoreline,WA,98177,2065465777,Japanese,CJ,Tier 3,YES,T3 Advance
+62,Best Teriyaki,812 72nd St E,Tacoma,WA,98404,2534733787,Japanese,CJ,Tier 3,YES,T3 Advance
+63,Best Teriyaki & Sushi,15420 Main St NE,Duvall,WA,98019,4258446134,Japanese; Chinese,,,YES
+64,Best Teriyaki & Wok,11801 NE 160th St,Bothell,WA,98011,4254026400,Japanese,,,YES
+65,Best Wok,19 148th Ave NE,Bellevue,WA,98007,4257477031,Chinese,,,YES
+66,Beyond The Bowl,12518 Lake City Way NE,Seattle,WA,98125,2062574489,Japanese,JAP,Tier 3,YES,T3 Advance
+67,Biang Biang Noodles,601 E Pike St,Seattle,WA,98122,2068098999,Chinese,,,YES
+68,Big Fish Sushi,1410 228th St SE,Bothell,WA,98021,4254869008,Japanese,,,YES
+69,Big Fish Sushi,211 3rd St,Kirkland,WA,98033,4258227163,Japanese,,,YES
+70,Big Fish Sushi,22639 NE Inglewood Hill Rd,Sammamish,WA,98074,4258968063,Japanese,,,YES
+71,Big Fish Susi Restaurant,1410 228th St SE,Bothell,WA,98021,4254869008,Japanese,JAP,Tier 3,YES,T3 Advance
+72,Big Teriyaki,3625 148th St SW,Lynnwood,WA,98087,4256780072,Korean; Japanese,,,YES
+73,Billy Beach Sushi & Bar,5463 Leary Ave NW,Seattle,WA,98107,2062574616,Japanese,,,YES
+74,BittyFish Sushi,3000 184th St SW,Lynnwood,WA,98037,4259770378,Japanese,,,YES
+75,Blazing Crawfish,909 SE Everett Mall Way,Everett,WA,98208,4252129603,Creole; Vietnamese; Cajun,,,YES
+76,blue isalnd sushi,35002 Pacific Hwy S,Federal Way,WA,98003,2538386475,Japanese,JAP,Tier 3,YES,T3 Advance
+77,Blue Island Sushi,35002 Pacific Hwy S,Federal Way,WA,98003,2538385500,Japanese,,,YES
+78,Bobazona,19569 Stevens Pass Hwy,Monroe,WA,98272,3602173051,Taiwanese,ADV,Tier 3,YES,T3 Advance
+79,Botan Ramen N Teriyaki,902 N Broadway,Everett,WA,98201,4252595551,Japanese,,,YES
+80,Botan Ramen n' Bar,2803 Colby Ave,Everett,WA,98201,4254705216,Japanese,,,YES
+81,Bros Teriyaki,5505 24th Ave NW,Seattle,WA,98107,2066981026,Japanese,JAP,Tier 3,YES,T3 Advance
+82,Brother's Chinese Restaurant,16715 52nd Ave W,Lynnwood,WA,98037,4257420766,Chinese,,,YES
+83,Buck's Teriyaki,10611 SE 240th St,Kent,WA,98031,2538504040,Japanese; Chinese,,,YES
+84,Bucks Teriyaki,2000 Benson Rd S,Renton,WA,98055,4252266161,Japanese,,,YES
+85,Buxx Teriyaki,805 S 112th St,Seattle,WA,98168,3602480020,Japanese,CJ,Tier 3,YES,T3 Advance
+86,C C Teriyaki,507 W Casino Rd,Everett,WA,98204,4253556633,Japanese,CJ,Tier 3,YES,T3 Advance
+87,Cafe Bento,10600 Quil Ceda Blvd,Marysville,WA,98271,3607163006,Japanese,CJ,Tier 3,YES,T3 Advance
+88,Cafe Brown,8415 Steilacoom Blvd SW,Lakewood,WA,98498,2532670776,Japanese,CJ,Tier 3,YES,T3 Advance
+89,California Monster Sushi,25620 104th Ave SE,Kent,WA,98030,2538561135,Japanese,CJ,Tier 3,YES,T3 Advance
+90,Call A Chicken,4237 University Way NE,Seattle,WA,98105,2065456979,Chinese,CH,Tier 2,YES,Week 1- 4
+91,Cambodian and Chinese Fast Food,1901 S 72nd St,Tacoma,WA,98408,2533010797,Chinese,,,YES
+92,Canton Noodle House,6008 Martin Luther King Jr Way S,Seattle,WA,98118,2063295650,Chinese,CH,Tier 2,YES,T2
+93,Champion Gourmet Service,18230 E Valley Hwy,Kent,WA,98032,2064821730,Taiwanese,,,YES
+94,Chan's Place,14203 NE Woodinville Duvall Rd,Woodinville,WA,98072,4254832223,Chinese,CH,Tier 2,YES,Week 1- 4
+95,Chef Liao Asian Fusion Cuisine,6012 Phinney Ave N,Seattle,WA,98103,2067896441,Chinese,CH + JAP + VIET + THAI,Tier 3,YES,T3 Advance
+96,Chen's Village,544 Elliott Ave W,Seattle,WA,98119,2062818838,Chinese,CH,Tier 2,YES,T2
+97,Chicken Karaage Express,1510 Belmont Ave,Seattle,WA,98122,2062574289,Japanese,JAP,Tier 3,YES,T3 Advance
+98,Chicken Prince,23830 WA-99,Edmonds,WA,98026,4255828802,Korean; Japanese,,,YES
+99,China Box,12402 SE 38th St,Bellevue,WA,98006,4256443548,Chinese,CH,Tier 2,YES,T2
+100,China Cafe,6812 196th St SW,Lynnwood,WA,98036,4256972103,Chinese,CH,Tier 2 A,YES,T2 A Team
+101,China City,15402 Main St,Mill Creek,WA,98012,4253373600,Chinese,CJ,Tier 2,YES,T2
+102,China Garden,800 164th St SE,Mill Creek,WA,98012,4257452321,Chinese,CH,Tier 2,YES,Week 1- 4
+103,China Harbor Restaurant,2040 Westlake Ave N,Seattle,WA,98109,2062861688,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+104,China House,620 Auburn Way S,Auburn,WA,98002,2533510636,Chinese,CH,Tier 2 A,YES,T2 A Team
+105,Chinnie's Kitchen,626 128th St SW,Everett,WA,98204,4253483020,Chinese,CH,Tier 2,YES,Week 1- 4
+106,Chinook Sushi,Auburn Way S,Auburn,WA,98002,2537374890,Japanese,JAP,Tier 3,YES,T3 Advance
+107,Chopstick Teriyaki,101 SW 41st St,Renton,WA,98057,4256568833,Japanese,CJ,Tier 3,YES,T3 Advance
+108,Chopsticks,21030 108th Ave SE,Kent,WA,98031,2533739250,Chinese,,,YES
+109,Chopsticks,23025 100th Ave W,Edmonds,WA,98020,4257761196,Chinese,,,YES
+110,Chopsticks Cuisine,7347 35th Ave NE,Seattle,WA,98115,2068298933,Japanese,CH,Tier 2,YES,T2
+111,Chopsticks House,414 91st Ave NE,Lake Stevens,WA,98258,4253348714,Chinese,CH,Tier 2 A,YES,T2 A Team
+112,Circle Chinese Cuisine,1734 Central Ave S,Kent,WA,98032,2068299812,Chinese,CH,Tier 2,YES,Week 1- 4
+113,Cloud Cafe,2552 Beacon Ave S,Seattle,WA,98144,2064207954,Japanese; Vietnamese,,,YES
+114,Coopers Express,7410 Lakewood Dr W,Lakewood,WA,98499,25 3 6328847,Cajun,,,YES
+115,Crab King Cajun Boil & Bar,3111 S 38th St,Tacoma,WA,98409,2537532892,Cajun,ADV Cajun,Tier 3,YES,T3 Advance
+116,Cravin Crawfish LLC,5015 Tacoma Mall Blvd,Tacoma,WA,98409,2533008130,Creole; Cajun,CAJUN,Tier 3,YES,T3 Advance
+117,Crawfish House,9826 16th Ave SW,Seattle,WA,98106,2065881613,Creole; Cajun,ADV Cajun,Tier 3,YES,T3 Advance
+118,Crawfish House,247 Park Ave N,Renton,WA,98057,4255726013,Creole; Cajun,CAJUN,Tier 3,YES,T3 Advance
+119,DaeBak Wang Mandoo,33100 Pacific Hwy S,Federal Way,WA,98003,2535179548,Korean; Chinese,CH,Tier 2,YES,Week 1- 4
+120,Daimonji,5963 Corson Ave S,Seattle,WA,98108,2067627820,Japanese,JAP,Tier 3,YES,T3 Advance
+121,DELPHIA'S CAJUN,4735 E Marginal Way S,Seattle,WA,98134,2533217373,Cajun,,,YES
+122,Domo Sushi,4901 Point Fosdick Dr,Gig Harbor,WA,98335,2538510592,Japanese,CJ,Tier 3,YES,T3 Advance
+123,Donburi Station,5503 Airport Way S,Seattle,WA,98108,2067678075,Japanese,JAP,Tier 3,YES,T3 Advance
+124,Donburi Station Bellevue,14339 NE 20th St,Bellevue,WA,98007,4254354010,Japanese,,,YES
+125,Dont Yell At Me,4511 University Way NE,Seattle,WA,98105,2065880719,Chinese; Taiwanese,Beverages,Tier 3,YES,T3 Advance
+126,Dope Braised Meat Bowl,5000 University Way NE,Seattle,WA,98105,2066952883,Chinese,,,YES
+127,Dragon Palace,6996 265th St NW,Stanwood,WA,98292,3606298106,Chinese,CH,Tier 2 A,YES,T2 A Team
+128,Dragon's Bistro,5500 Olympic Dr,Gig Harbor,WA,98335,2538582199,Szechuan; Chinese,CH,Tier 2 A,YES,T2 A Team
+129,Dragon's Crawfish,750 S 38th St,Tacoma,WA,98418,2533010020,Creole; Cajun,CAJUN,Tier 3,YES,T3 Advance
+130,Dumpling & Noodle,11000 NE 10th St,Bellevue,WA,98004,4255592909,Chinese,,,YES
+131,Echigo Teriyaki,520 128th St SW,Everett,WA,98204,4253489490,Japanese; Chinese,,,YES
+132,Engimono Ramen & Dim Sum,1426 S 324th St,Federal Way,WA,98003,2538399988,Japanese,JAP,Tier 3,YES,T3 Advance
+133,Enjoy Teriyaki,1222 Bronson Way N,Renton,WA,98057,4257937333,Japanese; Chinese,,,YES
+134,Express Japan,1402 SE Everett Mall Way,Everett,WA,98208,4254043085,Japanese,JAP,Tier 3,YES,T3 Advance
+135,Famous Kitchen,1802 12th Ave NW,Issaquah,WA,98027,4256570478,Cantonese; Chinese,,,YES
+136,Fashion Dim Sum,22923 Highway 99,Edmonds,WA,98026,4256972886,Chinese,CH,Tier 2,YES,T2
+137,Fast Pho Teriyaki,5604 E Portland Ave,Tacoma,WA,98404,2536257879,Japanese,CH + JAP + VIET,Tier 3,YES,T3 Advance
+138,Fatty Fish Sushi,4809 132nd St SE,Everett,WA,98208,4253322962,Japanese,JAP,Tier 3,YES,T3 Advance
+139,Feast Buffet,485 Renton Center Way SW,Renton,WA,98057,4252351888,Japanese; Chinese,,,YES
+140,Fisherman Jack's,1402 Seiner Dr,Everett,WA,98201,4256103616,Chinese,CH,Tier 2,YES,Week 1- 4
+141,Flo,1150 106th Ave NE,Bellevue,WA,98004,4254534005,Japanese,,,YES
+142,Flying Sushi,5719 N 26th St,Tacoma,WA,98407,2532121432,Japanese,JAP,Tier 3,YES,T3 Advance
+143,FOB Poke Bar,1620 Broadway,Seattle,WA,98122,2064419888,Hawaiian; Japanese,,,YES
+144,FOB Poke Bar,220 Blanchard St,Seattle,WA,98121,2067289888,Hawaiian; Japanese,,,YES
+145,FOB Poke Bar,333 108th Ave NE,Bellevue,WA,98004,4255289888,Hawaiian; Japanese,,,YES
+146,Foo Lam,7101 Martin Luther King Jr Way S,Seattle,WA,98118,2064533498,Chinese,CH,Tier 2,YES,Week 1- 4
+147,Forbidden City,12151 Pacific Ave S,Tacoma,WA,98444,2535488888,Sichuan; Chinese,CH,Tier 2,YES,T2
+148,Fortune Noodle House,4004 NE 4th St,Renton,WA,98056,4252645459,Vietnamese; Chinese; Thai,CH+Thai+Viet,Tier 3,YES,T3 Advance
+149,Fortune Seafood Restaurant,23719 104th Ave SE,Kent,WA,98031,2538527360,Chinese,CH,Tier 2 A,YES,T2 A Team
+150,Four Corner Teriyaki,26927 Maple Valley Black Diamond Rd SE,Maple Valley,WA,98038,4254139538,Japanese,CJ,Tier 3,YES,T3 Advance
+151,Fremont Bowl,4258 Fremont Ave N,Seattle,WA,98103,2065043095,Japanese,JAP,Tier 3,YES,T3 Advance
+152,Fry Pan,15941 Meridian E,Puyallup,WA,98375,2538811501,Chinese,CH,Tier 2,YES,T2
+153,Fu Shen,9019 Aurora Ave N,Seattle,WA,98103,2066243888,Chinese,CH,Tier 2,YES,Week 1- 4
+154,Fuij Steakhouse,7330 164th Ave NE,Redmond,WA,98052,4259685800,Japanese,JAP,Tier 3,YES,T3 Advance
+155,Fuji,5621 196th St SW,Lynnwood,WA,98036,4253617574,Japanese,JAP,Tier 3,YES,T3 Advance
+156,Fuji Steak House,7330 164th Ave NE,Redmond,WA,98052,4259685800,Japanese,,,YES
+157,Furi Chinese Restaurant,546 5th Ave S,Edmonds,WA,98020,4256739933,Chinese,CH,Tier 3,YES,T3 Advance
+158,Gari of Sushi,1209 S 38th St,Tacoma,WA,98418,2534753456,Japanese,JAP,Tier 3,YES,T3 Advance
+159,Genghis Khan Restaurant,82 Stewart St,Seattle,WA,98101,2066823606,Chinese,,,YES
+160,Gim Wah Restaurant,3418 W McGraw St,Seattle,WA,98199,2062847000,Chinese,,,YES
+161,Ginger Teriyaki II,4329 A St SE,Auburn,WA,98002,2533337777,Korean; Japanese,,,YES
+162,Ginza Teriyaki,6828 19th St W,University Place,WA,98466,2535669208,Japanese,CJ,Tier 3,YES,T3 Advance
+163,Go!Teriyaki,11511 NE 195th St,Bothell,WA,98011,4254892901,Korean; Japanese,CJ,Tier 3,YES,T3 Advance
+164,Golden City Buffet,1407 W Main St,Monroe,WA,98272,3608050888,Chinese,CH,Tier 2,YES,Week 1- 4
+165,Golden Daisy Restaurant,2518 Beacon Ave S,Seattle,WA,98144,2063254380,Chinese,CH,Tier 2,YES,Week 1- 4
+166,Golden House Chinese Cuisine,12030 Mukilteo Speedway,Mukilteo,WA,98275,4254388833,Chinese,JAP,Tier 3,YES,T3 Advance
+167,GOLDEN LAND SUSHI,5600 Roosevelt Way NE,Seattle,WA,98105,2065911924,Japanese,JAP,Tier 3,YES,T3 Advance
+168,Good Taste,10013 Shoultes Rd,Marysville,WA,98270,3606539725,Chinese,CH,Tier 2,YES,T2
+169,Good Wok and Teriyaki,10909 Portland Ave E,Tacoma,WA,98445,2535367494,Japanese; Chinese,,,YES
+170,Goofy Goose Burgers & Teriyaki,3702 6th Ave,Tacoma,WA,98406,2537525722,Japanese,CJ,Tier 3,YES,T3 Advance
+171,Grain House,1150 11th Ave,Seattle,WA,98122,2064534594,Japanese; Vietnamese,CH+JAP+VIET,Tier 3,YES,T3 Advance
+172,Grand Buffet,1330 State Ave,Marysville,WA,98270,3606582888,Chinese,CH,Tier 2,YES,Week 1- 4
+173,Great China Restaurant,13501 100th Ave NE,Kirkland,WA,98034,4258211624,Chinese,,,YES
+174,Green Valley,21226 84th Ave S,Kent,WA,98032,2538726820,Chinese,CH,Tier 2,YES,Week 1- 4
+175,Grillbird,6501 35th Ave SW,Seattle,WA,98126,2064024388,Hawaiian; Japanese,JAP,Tier 3,YES,T3 Advance
+176,Gyo Gyo En,2028 8th Ave,Seattle,WA,98121,2068299811,Japanese,,,YES
+177,Hachi-ko,17801 International Blvd,Seatac,WA,98158,2068246300,Japanese,ADV,Tier 3,YES,T3 Advance
+178,Hana 2 Teriyaki,106 SW Campus Dr,Federal Way,WA,98023,2538383830,Japanese,JAP,Tier 3,YES,T3 Advance
+179,Hana Sushi,10114 Main St,Bothell,WA,98011,4254891963,Japanese,JAP,Tier 3,YES,T3 Advance
+180,Hana Teriyaki,4505 S 19th St,Tacoma,WA,98405,2537527033,Japanese; Vietnamese; Chinese,,,YES
+181,Hana Teriyaki Restaurant,106 SW Campus Dr,Federal Way,WA,98023,2538383830,Japanese,JAP,Tier 3,YES,T3 Advance
+182,Hana Two Teriyaki,106 SW Campus Dr,Federal Way,WA,98023,2538383830,Japanese,JAP,Tier 3,YES,T3 Advance
+183,Hanari Cafe,3925 196th St SW,Lynnwood,WA,98036,4256788190,Japanese,,,YES
+184,Hani Hani Poke Ramen Grill,9999 Harbour Pl,Mukilteo,WA,98275,4255120188,Japanese,JAP,Tier 3,YES,T3 Advance
+185,Happy Asian Fast Food,1901 S 72nd St,Tacoma,WA,98408,2533010797,Cambodian; Chinese,,,YES
+186,Happy at the Bay Teriyaki,203 S 2nd St,Renton,WA,98057,4252773200,Japanese; Chinese,,,YES
+187,Happy Hana,3929 Bridgeport Way W,University Place,WA,98466,2535650550,Japanese; Chinese,,,YES
+188,Happy Pho Time,16929 SE 270th Pl,Covington,WA,98042,2536311230,Vietnamese; Chinese,,,YES
+189,Happy Teriyaki,10509 Bridgeport Way SW,Lakewood,WA,98499,2535844839,Japanese,CJ,Tier 3,YES,T3 Advance
+190,Happy Teriyaki,16410 84th St NE,Lake Stevens,WA,98258,3603226979,Chinese,CJ,Tier 3,YES,T3 Advance
+191,Happy Teriyaki,2223 Pacific Ave,Tacoma,WA,98402,2532721544,Japanese,CJ,Tier 3,YES,T3 Advance
+192,Happy Teriyaki,27011 Pacific Hwy S,Des Moines,WA,98198,2064292619,Japanese,CJ,Tier 3,YES,T3 Advance
+193,Happy Teriyaki,4027 Tacoma Mall Blvd,Tacoma,WA,98409,2534745365,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+194,Happy Teriyaki,4910 Pacific Hwy E,Fife,WA,98424,2538963668,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+195,Happy Teriyaki,6007 100th St SW,Lakewood,WA,98499,2535821100,Japanese,CJ,Tier 3,YES,T3 Advance
+196,Happy Teriyaki,9730 WA-532,Stanwood,WA,98292,3606295090,Korean; Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+197,Happy Teriyaki Dupont,1100 Swan Loop,Dupont,WA,98327,2539120700,Japanese,CJ,Tier 3,YES,T3 Advance
+198,Harbor City Restaurant,4816 Pacific Ave,Tacoma,WA,98408,2535033398,Chinese,CH,Tier 2,YES,Week 1- 4
+199,Haru Haru Sushi & Teriyaki,920 15th St SW,Auburn,WA,98001,2539395587,Japanese,JAP,Tier 3,YES,T3 Advance
+200,Henry's Taiwan Kitchen,1207 S Jackson St,Seattle,WA,98144,2067081026,Japanese; Chinese; Taiwanese,,,YES
+201,HK Dim Sum,13200 Aurora Ave N,Seattle,WA,98133,2068299189,Chinese,CH,Tier 2,YES,T2
+202,Ho Sushi Bistro,617 128th St SW,Everett,WA,98204,4254053917,Japanese,JAP,Tier 3,YES,T3 Advance
+203,Hokkaido Ramen Santouka,103 Bellevue Way NE,Bellevue,WA,98004,4254620141,Japanese,JAP,Tier 3,YES,T3 Advance
+204,Hokkaido Ramen Santouka,2626 NE University Village St,Seattle,WA,98105,2065244431,Japanese,JAP,Tier 3,YES,T3 Advance
+205,Hong Kong Restaurant,8843 Pacific Ave,Tacoma,WA,98444,2535312533,Chinese,CH,Tier 2,YES,T2
+206,Hong Kong Seafood Restaurant,9400 Rainier Ave S,Seattle,WA,98118,2067231718,Cantonese; Chinese,,,YES
+207,Honto Teriyaki II,19567 WA-410,Bonney Lake,WA,98391,2538625781,Japanese; Chinese,,,YES
+208,Honto Teriyaki Restaurant,11012 Canyon Rd E,Puyallup,WA,98373,2535369027,Japanese,CH,Tier 2 A,YES,T2 A Team
+209,Hunan Palace,2821 Pacific Ave,Everett,WA,98201,4253393390,Chinese,CH,Tier 2,YES,Week 1- 4
+210,I Love Sandwiches & Teriyaki Deli,14705 Aurora Ave N,Shoreline,WA,98133,2065293221,Vietnamese; Chinese,,,YES
+211,I Love Sushi on Lake Union,1001 Fairview Ave N,Seattle,WA,98109,2066259604,Japanese,JAP,Tier 3,YES,T3 Advance
+212,I Love Teriyaki,3409 Stone Way N,Seattle,WA,98103,2065475330,Japanese,CJ,Tier 3,YES,T3 Advance
+213,I Luv Teriyaki,458 SW Mt Si Blvd,North Bend,WA,98045,4258885544,Japanese,JAP,Tier 3,YES,T3 Advance
+214,Ichi 5 Teriyaki,19916 S Prairie Rd E,Bonney Lake,WA,98391,2538261344,Japanese,CJ,Tier 3,YES,T3 Advance
+215,Ichi Bento,17203 15th Ave NE,Shoreline,WA,98155,2063631663,Japanese,,,YES
+216,Ichi Roll Wok & Teriyaki,306 N 125th St,Seattle,WA,98133,2063635100,Japanese,,,YES
+217,Ichi Teriyaki,1313 W Meeker St,Kent,WA,98032,2538500553,Japanese; Chinese,,,YES
+218,Ichi Teriyaki,14920 Highway 99,Lynnwood,WA,98087,4257432848,Japanese; Chinese,,,YES
+219,Ichi Teriyaki,1706 S 320th St,Federal Way,WA,98003,2535293435,Japanese,,,YES
+220,Ichi Teriyaki,1414 Lake Tapps Pkwy SE,Auburn,WA,98092,2539311045,Japanese,,,YES
+221,Ichiban Sushi Garden,127 15th St SE,Puyallup,WA,98372,2538454222,Korean; Japanese,,,YES
+222,Ichiban Teriyaki,4500 Pacific Hwy E,Fife,WA,98424,2539221637,Japanese,CJ,Tier 3,YES,T3 Advance
+223,Ichiban Teriyaki,7601 Evergreen Way,Everett,WA,98203,4253532354,Japanese; Chinese,,,YES
+224,Ichiro Sushi and Teriyaki,2434 32nd Ave W,Seattle,WA,98199,2062868755,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+225,IJ Sushi Burrito,1267 N 205th St,Seattle,WA,98133,2066294005,Japanese,,,YES
+226,IJ Sushi Burrito,2800 Southcenter Mall,Tukwila,WA,98188,4252440337,Japanese,,,YES
+227,IJ Sushi Burrito,400 Pine St,Seattle,WA,98101,2062584933,Japanese,,,YES
+228,IJ Sushi Burrito,4141 University Way NE,Seattle,WA,98105,2065472168,Japanese,,,YES
+229,Ikiiki,12 Boston St,Seattle,WA,98109,2062846671,Japanese,CH+JAP+THAI,Tier 3,YES,T3 Advance
+230,Ikiiki Sushi,6512 NE Bothell Way,Kenmore,WA,98028,4254869441,Japanese,CH+JAP+THAI,Tier 3,YES,T3 Advance
+231,imperial garden restaurant,18230 E Valley Hwy,Kent,WA,98032,4256560999,Cantonese,,,YES
+232,Imperial Wok,22833 Bothell Everett Hwy,Bothell,WA,98021,4254866362,Chinese,CH,Tier 2,YES,Week 1- 4
+233,International Teriyaki House,1620 S 312th St,Federal Way,WA,98003,2538398588,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+234,Irashai Sushi,2352 California Ave SW,Seattle,WA,98116,2065822033,Japanese,JAP,Tier 3,YES,T3 Advance
+235,Iron Chef,4301 S Meridian,Puyallup,WA,98373,2538483759,Japanese,CH,Tier 2,YES,Week 1- 4
+236,iSushi,1802 12th Ave NW,Issaquah,WA,98027,4253137378,Japanese,CJ,Tier 3,YES,T3 Advance
+237,iSushi,Maple Valley Hwy,Renton,WA,98058,4255726259,Japanese,JAP,Tier 3,YES,T3 Advance
+238,Izumi,12539 116th Ave NE,Kirkland,WA,98034,4258211959,Japanese,,,YES
+239,Jade Garden,3133 Broadway,Everett,WA,98201,4252521663,Chinese,CH,Tier 2,YES,T2
+240,Jade Restaurant & Lounge,8904 Aurora Ave N,Seattle,WA,98103,2062402391,Chinese,CH,Tier 2,YES,Week 1- 4
+241,Japonessa,1400 1st Ave,Seattle,WA,98101,2069717979,Japanese,JAP,Tier 3,YES,T3 Advance
+242,Japonessa Sushi Cocina,500 Bellevue Way NE,Bellevue,WA,98004,4254541585,Japanese,,,YES
+243,JOA Teriyaki,3625 Broadway,Everett,WA,98201,4252589747,Korean; Japanese,,,YES
+244,JOA Teriyaki,3625 Broadway,Everett,WA,98201,4254053476,Japanese; Chinese,,,YES
+245,Johnny's Wok,19626 76th Ave W,Lynnwood,WA,98036,4257753313,Chinese,CH,Tier 2,YES,Week 1- 4
+246,Joy Teriyaki,3908 6th Ave,Tacoma,WA,98406,2537594400,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+247,Joy Teriyaki,1905 Bridgeport Way W,University Place,WA,98466,2537594400,Japanese; Chinese,,,YES
+248,Joybox,15920 NE 8th St,Bellevue,WA,98008,4256448749,Korean; Japanese; Chinese,,,YES
+249,Judy Fu's Snappy Dragon,8917 Roosevelt Way NE,Seattle,WA,98115,2065285575,Chinese,CH,Tier 2,YES,Week 1- 4
+250,Kamakura Japanese Cuisine and Sushi,3520 Fremont Ave N,Seattle,WA,98103,2067081234,Japanese,JAP,Tier 3,YES,T3 Advance
+251,Kamakura Kirkland,10600 NE 68th St,Kirkland,WA,98033,4252421087,Japanese,,,YES
+252,Kami Teriyaki,14129 Juanita Dr NE,Kenmore,WA,98028,4258234777,Japanese,,,YES
+253,Kami Teriyaki,11613 124th Ave NE,Kirkland,WA,98034,4258205726,Korean; Japanese; Chinese,,,YES
+254,Kami Teriyaki,4711 64th St NE,Marysville,WA,98270,3606588696,Japanese,,,YES
+255,Kami Teriyaki,11515 State Ave,Marysville,WA,98271,3606531659,Japanese,,,YES
+256,Kami Teriyaki & Sushi,2902 164th St SW,Lynnwood,WA,98087,4258350121,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+257,Kampai Wings & Teriyaki,17707 Pacific Ave S,Spanaway,WA,98387,2538752201,Japanese; Chinese,,,YES
+258,Kampo Cuisine,739 W Main St,Auburn,WA,98001,2538807807,Chinese,CH,Tier 2 A,YES,T2 A Team
+259,Karaage Setsuna,2429 2nd Ave,Seattle,WA,98121,2064483595,Japanese,,,YES
+260,Katana Sushi,2818 Hewitt Ave,Everett,WA,98201,4255129361,Chinese,JAP,Tier 3,YES,T3 Advance
+261,KF Sushi,2506 S Jackson St,Seattle,WA,98144,2066440156,Japanese,JAP,Tier 3,YES,T3 Advance
+262,KICKIN KAJUN,800 N 10th St,Renton,WA,98057,4252765586,Cajun,Cajun,Tier 3,YES,T3 Advance
+263,Kim's Teriyaki,6810 208th St SW,Lynnwood,WA,98036,4257788010,Japanese; Chinese,,,YES
+264,King Noodle House,7815 Evergreen Way,Everett,WA,98203,4255138888,Chinese,CH,Tier 2,YES,T2
+265,King's Teriyaki,25803 104th Ave SE,Kent,WA,98030,2538503112,Japanese,CJ,Tier 3,YES,T3 Advance
+266,Kisaku Sushi,2101 N 55th St,Seattle,WA,98103,2065459050,Japanese,JAP,Tier 3,YES,T3 Advance
+267,Kiwami Sushi Bar & Sake House,104 Kirkland Ave,Kirkland,WA,98033,4257398899,Japanese,,,YES
+268,Kizuki Ramen & Izakaya,301 Tukwila Pkwy,Tukwila,WA,98188,2069132360,Japanese,,,YES
+269,Kobuta & Ookami Katsu and sake house,121 15th Ave E,Seattle,WA,98112,2067087856,Japanese,,,YES
+270,Kobuta & Ookami Katsu and Sake house,17026 Avondale Way,Redmond,WA,98052,4255224612,Japanese,,,YES
+271,Koibito Sushi & Teriyaki,1201 Dexter Ave N,Seattle,WA,98109,2062822113,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+272,Koko Teriyaki,1520 Wilmington Dr,Dupont,WA,98327,2539125656,Japanese; Chinese,,,YES
+273,Konich's Teriyaki,23217 Pacific Hwy S,Kent,WA,98032,2068784860,Chinese,CJ,Tier 3,YES,T3 Advance
+274,Krab Kingz,11814 Pacific Ave S,Tacoma,WA,98444,2535315777,Southern; Cajun,,,YES
+275,Ku Sushi and Izakaya,5210 University Way NE,Seattle,WA,98105,2065246101,Japanese,CJ,Tier 3,YES,T3 Advance
+276,Kudedon,1323 4th Ave,Seattle,WA,98101,2068871280,Japanese,JAP,Tier 3,YES,T3 Advance
+277,Lan Hand-Pulled Noodles,1203 Pine St,Seattle,WA,98101,2063320220,Chinese,CH,Tier 2,YES,T2
+278,Lee's Grill 'n Bento,3101 184th St SW,Lynnwood,WA,98037,4256788785,Chinese,,,YES
+279,Lee's Kitchen,2409 152nd Ave NE,Redmond,WA,98052,4256293980,Chinese,CH+HOT POT,Tier 3,YES,T3 Advance
+280,Liberty,517 15th Ave E,Seattle,WA,98112,2063239898,Japanese,JAP,Tier 3,YES,T3 Advance
+281,Lin Dumpling and Noodles,4757 12th Ave NE,Seattle,WA,98105,2065226966,Japanese; Chinese,,,YES
+282,Lin Kitchen,4301 Interlake Ave N,Seattle,WA,98103,6266253820,Japanese; Chinese,,,YES
+283,Little Peking,3217 NE Sunset Blvd,Renton,WA,98056,4252551678,Chinese,CH,Tier 2,YES,Week 1- 4
+284,Little Tokyo,1905 S 72nd St,Tacoma,WA,98408,2534746878,Japanese,CJ,Tier 3,YES,T3 Advance
+285,Lucky Chopsticks,24015 SE Kent Kangley Rd,Maple Valley,WA,98038,4254329968,Chinese,CH,Tier 2,YES,Week 1- 4
+286,Lucky Dragon Restaurant,25 95th Dr NE,Lake Stevens,WA,98258,4253972099,Chinese,CH+ADV,Tier 3,YES,T3 Advance
+287,Lucky House,317 E Smith St,Kent,WA,98030,2535201688,Chinese,CH+ADV,Tier 3,YES,T3 Advance
+288,Lucky Star,12958 SE Kent Kangley Rd,Kent,WA,98030,2536308636,Chinese,CH,Tier 2,YES,Week 1- 4
+289,Lucky Star Chinese Restaurant,17615 SE 272nd St,Covington,WA,98042,2536303638,Chinese,CH,Tier 2,YES,Week 1- 4
+290,Lucky Teriyaki,7250 Pacific Ave,Tacoma,WA,98408,2534727387,Korean; Japanese; Chinese,,,YES
+291,Magic Wok,2327 SW 336th St,Federal Way,WA,98023,2538382329,Chinese,CH,Tier 2 A,YES,T2 A Team
+292,Main Garden,24437 Russell Rd,Kent,WA,98032,2538507070,Chinese,CH + ADV,Tier 3,YES,T3 Advance
+293,Mama's Grill 'n Bento Teriyaki,20030 Ballinger Way NE,Shoreline,WA,98155,2062571371,Japanese,,,YES
+294,Mandarin Buffet & Grill,14850 NE 24th St,Redmond,WA,98052,4258853888,Japanese,CH,Tier 2,YES,Week 1- 4
+295,Mandarin Gate,10000 Aurora Ave N,Seattle,WA,98133,2065270709,Chinese,,,YES
+296,Mandarin Kitchen,22612 7th Ave S,Des Moines,WA,98198,2068788511,Chinese,CJ,Tier 3,YES,T3 Advance
+297,Manna Teriyaki,11064 Lake City Way NE,Seattle,WA,98125,2063644064,Japanese,,,YES
+298,Manna Teriyaki,125 SW 148th St,Burien,WA,98166,2064318891,Japanese,,,YES
+299,Manna Teriyaki,205 E Casino Rd,Everett,WA,98208,4253537322,Japanese; Chinese,,,YES
+300,Manna Teriyaki,23805 Highway 99,Edmonds,WA,98026,4256729555,Chinese,,,YES
+301,Maxi's,9611 State Ave,Marysville,WA,98270,3606590879,Chinese,CH + ADV,Tier 3,YES,T3 Advance
+302,May May Hong Kong BBQ,1414 S 324th St,Federal Way,WA,98003,2065922859,Chinese,CH + ADV,Tier 3,YES,T3 Advance
+303,Mee Sum Pastry,1526 Pike Pl,Seattle,WA,98101,2066826780,Chinese,,,YES
+304,Megastar Bbq,212 Central Ave N,Kent,WA,98032,2539813983,Cantonese; Chinese,,,YES
+305,Mei Mei Cafe,1004 NE 50th St,Seattle,WA,98105,2067292218,Cantonese; Chinese,CH,Tier 2,YES,Week 1- 4
+306,Menya Musashi Tsukemen & Ramen,31829 Gateway Center Blvd S,Federal Way,WA,98003,2065922747,Japanese,JAP,Tier 3,YES,T3 Advance
+307,Menya Musashi Vegan Ramen - Federal Way,31829 Gateway Center Blvd S,Federal Way,WA,98003,2065922747,Japanese,JAP,Tier 3,YES,T3 Advance
+308,Mi La Cay,212 12th Ave S,Seattle,WA,98144,2063226840,Vietnamese; Chinese,,,YES
+309,Midori Teriyaki,1120 Howell St,Seattle,WA,98101,2066247273,Japanese,,,YES
+310,Midori Teriyaki,1912 201st Pl SE,Bothell,WA,98012,4254895955,Japanese; Chinese,,,YES
+311,Midori Teriyaki Wok,1202 Supermall Way,Auburn,WA,98001,2532881911,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+312,Migoto,514 12th Ave,Seattle,WA,98122,2063291112,Japanese,JAP,Tier 3,YES,T3 Advance
+313,Mikou Teriyaki,6519 4th Ave S,Seattle,WA,98108,2067636000,Japanese; Chinese,CJ,Tier 3,YES,T3 Advance
+314,Minato,1616 N 45th St,Seattle,WA,98103,2067086729,Japanese,JAP,Tier 3,YES,T3 Advance
+315,Ming China Bistro,7119 Woodlawn Ave NE,Seattle,WA,98115,2065881363,Szechuan,,,YES
+316,Ming Garden,11419 19th Ave SE,Everett,WA,98208,4252255678,Chinese,CH,Tier 2 A,YES,T2 A Team
+317,MiniMoon Dumplings,15600 NE 8th St,Bellevue,WA,98008,4253935028,Chinese,CH,Tier 2,YES,Week 1- 4
+318,MIX Poke Bar,403 Bellevue Sq,Bellevue,WA,98004,4254542217,Hawaiian; Japanese,,,YES
+319,Miyako's Teriyaki & Wok,16516 Twin Lakes Ave,Marysville,WA,98271,3606541920,Japanese,CJ,Tier 3,YES,T3 Advance
+320,Miyako's Teriyaki & Wok,16414 Twin Lakes Ave,Marysville,WA,98271,3606541920,Japanese; Chinese,,,YES
+321,Mizu Japanese Steakhouse,1820 Maple Valley Hwy,Renton,WA,98057,2065759109,Japanese,CJ,Tier 3,YES,T3 Advance
+322,Mizu Japanese Steakhouse,27149 185th Ave SE,Covington,WA,98042,2536381317,Japanese,CJ,Tier 3,YES,T3 Advance
+323,Mizu Japanese Steakhouse,3116 Judson St,Gig Harbor,WA,98335,2538534020,Japanese,JAP,Tier 3,YES,T3 Advance
+324,Modern,6108 Phinney Ave N,Seattle,WA,98103,2064204088,Japanese,JAP,Tier 3,YES,T3 Advance
+325,Modoo 3 Teriyaki,215 Whitesell St NW,Orting,WA,98360,3608938172,Japanese,CH + Jap + Thai,Tier 3,YES,T3 Advance
+326,Momiji SLU,731 Bell St,Seattle,WA,98121,2062571304,Japanese,,,YES
+327,MOMO Sushi,15603 Main St,Mill Creek,WA,98012,4252256590,Japanese,JAP,Tier 3,YES,T3 Advance
+328,Money Frog,1449 E Pine St,Seattle,WA,98122, 20 6 487 9886,Taiwanese,,,YES
+329,Mongolian Grill,13780 NE 175th St,Woodinville,WA,98072,4254853733,Mongolian; Chinese,,,YES
+330,Mongolian Grill,9915 224th St E,Graham,WA,98338,2532622200,Chinese,,,YES
+331,Moontree Sushi And Tapas,516 1st Ave N,Seattle,WA,98109,2064329273,Japanese,JAP,Tier 3,YES,T3 Advance
+332,Moriyama Sushi,1823 Eastlake Ave E,Seattle,WA,98102,2062599569,Japanese,JAP,Tier 3,YES,T3 Advance
+333,Moshi Ramen Bar,110 Tacoma Ave N,Tacoma,WA,98403,2533014688,Japanese,JAP,Tier 3,YES,T3 Advance
+334,Mr. Max Breakfast,1644 140th Ave NE,Bellevue,WA,98005,4256439050,Chinese,CH,Tier 2,YES,T2
+335,Mura Asian Eatery,3216 W Wheeler St,Seattle,WA,98199,2063907148,Korean; Japanese,JAP,Tier 3,YES,T3 Advance
+336,Musashi Newsroom,1448 NW Market St,Seattle,WA,98107,2062883236,Japanese,JAP,Tier 3,YES,T3 Advance
+337,Musashi's,1400 N 45th St,Seattle,WA,98103,2066330212,Japanese,,,YES
+338,Musashi's,2200 W Meeker St,Kent,WA,98032,4253013292,Japanese,,,YES
+339,Musashi's,3720 Factoria Blvd SE,Bellevue,WA,98006,4254639150,Japanese,,,YES
+340,Musashi's,7405 168th Ave NE,Redmond,WA,98052,4252407846,Japanese,,,YES
+341,Musashi's,7729 Center Blvd SE,Snoqualmie,WA,98065,4253892402,Japanese,,,YES
+342,Muto Izakaya,19505 44th Ave W,Lynnwood,WA,98036,4253227599,Japanese,JAP,Tier 3,YES,T3 Advance
+343,Muto Sushi & Bowl,2118 NE 65th St,Seattle,WA,98115,2067735120,Japanese,JAP,Tier 3,YES,T3 Advance
+344,Naha Teriyaki,9322 271st St NW,Stanwood,WA,98292,3606290681,Japanese,CJ,Tier 3,YES,T3 Advance
+345,Nakagawa Japanese Restaurant,1427 228th St SE,Bothell,WA,98021,4254832221,Japanese,JAP,Tier 3,YES,T3 Advance
+346,Nami Sushi,31260 Pacific Hwy S,Federal Way,WA,98003,2539410888,Japanese,JAP,Tier 3,YES,T3 Advance
+347,Nara Teriyaki,15033 Aurora Ave N,Shoreline,WA,98133,2064179978,Korean; Japanese; Chinese,,,YES
+348,Nasai Teriyaki,3221 NE 145th St,Seattle,WA,98155,2063680080,Chinese,,,YES
+349,Nasai Teriyaki,506 228th Ave NE,Sammamish,WA,98075,4258685812,Japanese,,,YES
+350,New China,3414 132nd St SE,Mill Creek,WA,98012,4253384696,Chinese,CH,Tier 2,YES,Week 1- 4
+351,New China Express,2809 Thorndyke Ave W,Seattle,WA,98199,2062174725,Chinese,CH,Tier 2,YES,Week 1- 4
+352,New Luck Toy,5905 California Ave SW,Seattle,WA,98136,2065551212,Chinese,,,YES
+353,New Peking Chinese Restaurant,21179 WA-410,Bonney Lake,WA,98391,2538634485,Chinese,,,YES
+354,New Peking Wok,32921 1st Ave S,Federal Way,WA,98023,2538749301,Chinese,,,YES
+355,New Zen Japanese Restaurant,509 S 3rd St,Renton,WA,98057,4252541599,Japanese,JAP,Tier 3,YES,T3 Advance
+356,Niko Teriyaki,15946 Redmond Way,Redmond,WA,98052,4258816764,Japanese,,,YES
+357,Niku Feast Yakiniku,13200 Aurora Ave N,Seattle,WA,98133,2065881027,Japanese,JAP,Tier 3,YES,T3 Advance
+358,No 1 Teriyaki and Wok,140 SW 148th St,Burien,WA,98166,2069888818,Japanese; Chinese,,,YES
+359,Noble Palace II,1912 Broadway,Everett,WA,98201,4252521100,Chinese,,,YES
+360,Noburu Ramen and Sushi,8900 161st Ave NE,Redmond,WA,98052,4252027231,Japanese,,,YES
+361,Noren,320 E Pike St,Seattle,WA,98122,2063279269,Japanese,,,YES
+362,Nori Presto,12354 15th Ave NE,Seattle,WA,98125,2063673440,Japanese,,,YES
+363,Nori Sushi,27317 Maple Valley Black Diamond Rd SE,Maple Valley,WA,98038,4254336640,Japanese,,,YES
+364,Nori Sushi,32911 1st Ave S,Federal Way,WA,98003,2535178579,Japanese,,,YES
+365,Nori Teriyaki,12502 Mukilteo Speedway,Mukilteo,WA,98275,4252907755,Japanese; Chinese,,,YES
+366,Normandy Teriyaki,17841 1st Ave S,Normandy Park,WA,98148,2062410999,Korean; Japanese,,,YES
+367,North,4311 University Way NE,Seattle,WA,98105,2065456823,Chinese,,,YES
+368,Northern Dumplings House,12085 124th Ave NE,Kirkland,WA,98034,2069028861,Chinese,,,YES
+369,Nuna Ramen,501 N 36th St,Seattle,WA,98103,2062583612,Japanese,,,YES
+370,Oceano Sushi,17917 Bothell Everett Hwy,Bothell,WA,98012,4254154617,Japanese,,,YES
+371,Ohana Teriyaki,212 W Winesap Rd,Bothell,WA,98012,4252458297,Japanese; Chinese,,,YES
+372,OK Wok Teriyaki,21203 52nd Ave W,Mountlake Terrace,WA,98043,4256972007,Japanese,,,YES
+373,Okasan Teriyaki,9805 214th Ave E,Bonney Lake,WA,98391,2538914206,Japanese; Chinese,,,YES
+374,OKI Japan,3500 S Meridian,Puyallup,WA,98373,2533536000,Japanese,,,YES
+375,Okinawa Teriyaki,1100 Western Ave,Seattle,WA,98101,2064472648,Japanese,,,YES
+376,One Teriyaki,17424 WA-9,Snohomish,WA,98296,3606681679,Japanese; Chinese,,,YES
+377,Ooink,1416 Harvard Ave,Seattle,WA,98122,2065687669,Japanese,,,YES
+378,Ooink,3630 Stone Way N,Seattle,WA,98103,2065882035,Japanese,,,YES
+379,Orenji Sushi & Noodles,5625 221st Pl SE,Issaquah,WA,98027,4254651026,Japanese,,,YES
+380,Orient Express,2963 4th Ave S,Seattle,WA,98134,2066820683,Cantonese; Chinese,,,YES
+381,Osaka Grill Teriyaki,18001 Bothell Everett Hwy,Bothell,WA,98012,4254156211,Japanese; Chinese,,,YES
+382,Oshima Sushi,11108 Evergreen Way,Everett,WA,98204,4253569999,Japanese,JAP,Tier 3,YES,T3 Advance
+383,Othello Wok and Teriyaki,4219 S Othello St,Seattle,WA,98118,2068586384,Japanese; Chinese,,,YES
+384,PC Restaurant,1111 228th St SE,Bothell,WA,98021,4258068488,Chinese,,,YES
+385,Peking Garden,1201 Valley Ave E,Sumner,WA,98390,2538919900,Chinese,,,YES
+386,Peking House,17505 15th Ave NE,Shoreline,WA,98155,2063656500,Chinese,,,YES
+387,Peony,10317 Main St,Bellevue,WA,98004,4255027652,Chinese,,,YES
+388,Pho 175 Mill Creek,12906 Bothell Everett Hwy,Everett,WA,98208,4252255914,Vietnamese; Chinese,,,YES
+389,Pho Ha,6519 4th Ave S,Seattle,WA,98108,2067639828,Vietnamese; Chinese; Thai,,,YES
+390,Pho Lewis,14902 Union Ave SW,Lakewood,WA,98498,2535815000,Vietnamese; Chinese,,,YES
+391,Phoenix Pavilion,8714 271st St NW,Stanwood,WA,98292,3606294662,Japanese; Chinese; Thai,,,YES
+392,Pinto Thai Bistro,408 Broadway E,Seattle,WA,98102,2067240559,Japanese; Thai,,,YES
+393,Poke Fresh,1026 NE 65th St,Seattle,WA,98115,2064534349,Japanese,,,YES
+394,Pop Pop Bottle Shop,17618 Vashon Hwy SW,Vashon,WA,98070,,Japanese,,,YES
+395,Q Sushi Bar & Kitchen,20101 44th Ave W,Lynnwood,WA,98036,4253688889,Japanese,,,YES
+396,Rain Cafe,13200 Aurora Ave N,Seattle,WA,98133,2065564677,Japanese,,,YES
+397,Rainbow Wok & Teriyaki,8410 Mukilteo Speedway,Mukilteo,WA,98275,4253532306,Japanese; Chinese,,,YES
+398,Rama House,22010 17th Ave SE,Bothell,WA,98021,4254817262,Chinese; Thai,,,YES
+399,Ramen Danbo,1222 E Pine St,Seattle,WA,98122,2065665479,Japanese,,,YES
+400,Regent Bakery & Cafe,1404 E Pine St,Seattle,WA,98122,2067438866,Chinese,,,YES
+401,Rickshaw Restaurant,322 N 105th St,Seattle,WA,98133,2067890120,Chinese,,,YES
+402,Ringo Wok,12722 SE 312th St,Auburn,WA,98092,2537374865,Japanese; Chinese,,,YES
+403,Rondo,224 Broadway E,Seattle,WA,98102,2065882051,Japanese,,,YES
+404,Rose Garden Chinese Restaurant,13105 Meridian E,Puyallup,WA,98373,2537709988,Chinese,,,YES
+405,Royal Kitchen,13200 NE 20th St,Bellevue,WA,98005,4253788009,Chinese,,,YES
+406,Sahm Gook Jih Palace,21619 Highway 99,Lynnwood,WA,98036,4257719888,Korean; Chinese,,,YES
+407,Sakana Sushi & Kitchen,1520 15th Ave,Seattle,WA,98122,4253892408,Japanese,,,YES
+408,Sam Choy's Poke to the Max - Tacoma,1716 Pacific Ave,Tacoma,WA,98402,2536274099,Japanese,,,YES
+409,Samurai Noodle,4138 University Way NE,Seattle,WA,98105,2065471774,Japanese,,,YES
+410,San Wok Express,20710 108th Ave SE,Kent,WA,98031,2539813078,Chinese,,,YES
+411,Sandwich House TRES,1502 145th Pl SE,Bellevue,WA,98007,4256437333,Japanese,,,YES
+412,SanKai,111 4th Ave N,Edmonds,WA,98020,4254123417,Japanese,,,YES
+413,Sapporo Steakhouse University Place,3810 Bridgeport Way W,University Place,WA,98466,2534333803,Japanese,,,YES
+414,Sapporo Teriyaki,2560 152nd Ave NE,Redmond,WA,98052,4258811110,Japanese,,,YES
+415,Seattle Dumpling Co.,1916 Pike Pl,Seattle,WA,98101,2065961395,Chinese,,,YES
+416,Secret Fort,1911 N 45th St,Seattle,WA,98103,2064201604,Japanese,,,YES
+417,SenSen Ramen & Katsu,17424 Highway 99,Lynnwood,WA,98037,4259676978,Japanese,,,YES
+418,Shaburina,2720 152nd Ave NE,Redmond,WA,98052,4256587185,Japanese; Chinese,,,YES
+419,Shiki,4 W Roy St,Seattle,WA,98119,2062811352,Japanese,,,YES
+420,Shiku Sushi,5310 Ballard Ave NW,Seattle,WA,98107,2065882151,Japanese,,,YES
+421,Shima Japanese Restaurant,10007 270th St NW,Stanwood,WA,98292,3606297799,Japanese,,,YES
+422,Shinya Shokudo,2020 148th Ave NE,Redmond,WA,98052,4256999666,Japanese,,,YES
+423,Shinya Shokudo,2401 3rd Ave,Seattle,WA,98121,2068889009,Japanese,,,YES
+424,Shiro's,2401 2nd Ave,Seattle,WA,98121,2064439844,Japanese,,,YES
+425,Sichuan Cuisine,2010 148th Ave NE,Redmond,WA,98052,4255621552,Sichuan; Chinese,,,YES
+426,Silver Dragon,10730 19th Ave SE,Everett,WA,98208,4253163600,Chinese,,,YES
+427,Soho Teriyaki,10423 SE 240th St,Kent,WA,98031,2538541977,Japanese,,,YES
+428,Solid Modern Teriyaki,15603 Main St,Mill Creek,WA,98012,4253795000,Japanese,,,YES
+429,Souper Pho,2725 N Pearl St,Tacoma,WA,98407,2535033328,Vietnamese; Chinese; Thai,CH + Thai,,YES
+430,Spicy PoPo Szechuan Fish,14701 NE 20th St,Bellevue,WA,98007,4256980160,Chinese,,,YES
+431,Spicy Talk Bistro,12305 120th Ave NE,Kirkland,WA,98034,4258218898,Sichuan,,,YES
+432,Spring Roll House-Deli,1221 S Main St,Seattle,WA,98144,2067261628,Vietnamese; Chinese,,,YES
+433,Star Poke,19926 Aurora Ave N,Shoreline,WA,98133,2068017237,Hawaiian; Japanese,,,YES
+434,Star Sushi & Bar,538 Broadway E,Seattle,WA,98102,2062575127,Japanese,,,YES
+435,Sugo Hand Roll Bar,2001 Western Ave,Seattle,WA,98121,2062680172,Japanese,,,YES
+436,Sumo All You Can Eat Sushi - Tacoma,2919 S 38th St,Tacoma,WA,98409,2532670063,Japanese,,,YES
+437,Sumo Express,2318 Broadway E,Seattle,WA,98102,2064023255,Japanese,,,YES
+438,Sumo Express Sushi - University Way,5000 University Way NE,Seattle,WA,98105,2062571379,Japanese,,,YES
+439,Sumo Sushi,23745 225th Way SE,Maple Valley,WA,98038,4255847034,Japanese,,,YES
+440,Sumo Sushi Bonney Lake,21109 WA-410,Bonney Lake,WA,98391,2534477209,Japanese,,,YES
+441,Sunflower Garden,10410 Greenwood Ave N,Seattle,WA,98133,2062978090,Chinese,,,YES
+442,Sunny Teriyaki,13038 Interurban Ave S,Tukwila,WA,98168,2062438382,Japanese; Chinese,,,YES
+443,Sunny Teriyaki,15830 1st Ave S,Burien,WA,98148,2069886244,Japanese,,,YES
+444,Sunny Teriyaki,17415 Pacific Ave S,Spanaway,WA,98387,2535391911,Chinese,,,YES
+445,Sunny Teriyaki,2020 Maltby Rd,Bothell,WA,98021,4254240303,Japanese,,,YES
+446,Sunny Teriyaki,914 D St NE,Auburn,WA,98002,2533330100,Japanese,,,YES
+447,Sunny Teriyaki,2035 NW Market St,Seattle,WA,98107,2067817838,Chinese,,,YES
+448,Super Buffet,10210 SE 260th St,Kent,WA,98030,2538138889,Chinese,,,YES
+449,Super China Buffet,15323 Westminster Way N,Shoreline,WA,98133,2064179908,Chinese,,,YES
+450,Supreme Dumplings,14603 NE 20th St,Bellevue,WA,98007,8773090955,Chinese,,,YES
+451,Sushi & Wok,5610 176th St E,Puyallup,WA,98375,2533756613,Japanese,,,YES
+452,Sushi Ari,206 39th Ave SW,Puyallup,WA,98373,2534462900,Japanese,,,YES
+453,Sushi Ave,111 Queen Anne Ave N,Seattle,WA,98109,2065800087,Japanese,,,YES
+454,Sushi Blossom,2720 3rd Ave,Seattle,WA,98121,4259002835,Japanese,,,YES
+455,Sushi Cafe,4605 NE 4th St,Renton,WA,98059,4259883650,Japanese,,,YES
+456,Sushi Chinoise,19122 Beardslee Blvd,Bothell,WA,98011,4254020200,Japanese,,,YES
+457,Sushi Hana,18500 33rd Ave W,Lynnwood,WA,98037,4255820322,Japanese,,,YES
+458,Sushi Hana,2020 Maltby Rd,Bothell,WA,98021,4254243339,Japanese,,,YES
+459,Sushi J,15600 NE 8th St,Bellevue,WA,98008,4256981424,Japanese,JAP,Tier 3,YES,T3 Advance
+460,Sushi Joa,2717 78th Ave SE,Mercer Island,WA,98040,2062304120,Japanese,,,YES
+461,Sushi Kappo Tamura,2968 Eastlake Ave E,Seattle,WA,98102,2065470937,Japanese,,,YES
+462,Sushi Kashiba,86 Pine St,Seattle,WA,98101,2064418844,Japanese,,,YES
+463,Sushi Katsu-ya,122 Westlake Ave N,Seattle,WA,98109,2065800080,Japanese,,,YES
+464,Sushi Kaunta,202 W Gowe St,Kent,WA,98032,2532468918,Japanese,,,YES
+465,Sushi Kudasai,10900 NE 4th St,Bellevue,WA,98004,4254556255,Japanese,,,YES
+466,Sushi Kudasai,1420 5th Ave,Seattle,WA,98101,2066828000,Japanese,,,YES
+467,Sushi Kudasai,1501 4th Ave,Seattle,WA,98101,2068394016,Japanese,,,YES
+468,sushi kuma,9441 192nd Ave E,Bonney Lake,WA,98391,2534477845,Japanese,,,YES
+469,Sushi Maki,15710 1st Ave S,Burien,WA,98148,2062426400,Japanese,,,YES
+470,Sushi Me,1299 156th Ave NE,Bellevue,WA,98007,4256449800,Japanese,,,YES
+471,Sushi Nori,2366 Eastlake Ave E,Seattle,WA,98102,2062574213,Japanese,,,YES
+472,Sushi Paradise,729 River Rd,Puyallup,WA,98371,2534455260,Japanese,,,YES
+473,Sushi Revolution,5225 Tacoma Mall Blvd,Tacoma,WA,98409,2534755559,Japanese,,,YES
+474,Sushi Ring,11419 19th Ave SE,Everett,WA,98208,4253852702,Japanese,JAP,Tier 3,YES,T3 Advance
+475,Sushi Spott,1700 132nd St SE,Mill Creek,WA,98012,4253384553,Japanese,,,YES
+476,Sushi Tokyo,6311 Roosevelt Way NE,Seattle,WA,98115,2065262935,Japanese,,,YES
+477,Sushi Ya,6125 100th St SW,Lakewood,WA,98499,2533023365,Japanese,,,YES
+478,Sushi Zen,13206 Bothell Everett Hwy,Mill Creek,WA,98012,4253571611,Japanese,,,YES
+479,Sushi Zone,10024 Main St,Bothell,WA,98011,4254029988,Japanese,,,YES
+480,Sushido,1620 S Mildred St,Tacoma,WA,98465,2535667119,Japanese; Chinese,,,YES
+481,Suzy's Pho Teriyaki,11416 Canyon Rd E,Puyallup,WA,98373,2535315089,Japanese; Vietnamese,,,YES
+482,Swish Swish,3000 184th St SW,Lynnwood,WA,98037,8773093755,Chinese,,,YES
+483,Tacoma's No1 Fried Rice,1201 S 11th St,Tacoma,WA,98405,2536276647,Chinese,,,YES
+484,Tamari Bar,500 E Pine St,Seattle,WA,98122,2069798800,Japanese,,,YES
+485,Taste of Asia,1501 4th Ave,Seattle,WA,98101,2066821913,Chinese,,,YES
+486,Teapot Vegetarian House,15230 NE 24th St,Redmond,WA,98052,4253731888,Chinese,,,YES
+487,Tengu Sushi Japanese Restaurant,311 NE Thornton Pl,Seattle,WA,98125,2065259999,Japanese,JAP,Tier 3,YES,T3 Advance
+488,Teri Fresh,26636 Maple Valley Black Diamond Rd SE,Maple Valley,WA,98038,4255690181,Japanese,,,YES
+489,Teriyaki & Pho,13027 Aurora Ave N,Seattle,WA,98133,2062582180,Japanese,,,YES
+490,Teriyaki & Pho,24024 Bothell Everett Hwy,Bothell,WA,98021,4254080045,Japanese; Chinese,,,YES
+491,Teriyaki and More Edmonds,9808 Edmonds Way,Edmonds,WA,98020,4257719337,Japanese,,,YES
+492,Teriyaki Bistro,6100 E Lake Sammamish Pkwy SE,Issaquah,WA,98029,4254279031,Japanese,,,YES
+493,Teriyaki Bowl,1416 5th St,Marysville,WA,98270,3606592313,Korean; Japanese,,,YES
+494,Teriyaki Bowl,19821 US-2,Monroe,WA,98272,3608055277,Japanese,,,YES
+495,Teriyaki Bowl,22003 66th Ave W,Mountlake Terrace,WA,98043,4256732605,Japanese,,,YES
+496,Teriyaki Bowl,231 Bellevue Way NE,Bellevue,WA,98004,4254517479,Japanese,,,YES
+497,Teriyaki Box,364 Renton Center Way SW,Renton,WA,98057,4252553888,Japanese,,,YES
+498,Teriyaki Box,1518 3rd St,Marysville,WA,98270,3606587778,Korean; Japanese,,,YES
+499,Teriyaki Diner,303 91st Ave NE,Lake Stevens,WA,98258,4253349008,Japanese; Chinese,,,YES
+500,Teriyaki Garden,21210 44th Ave W,Mountlake Terrace,WA,98043,4257786720,Japanese,,,YES
+501,Teriyaki Time,12813 SE 38th St,Bellevue,WA,98006,4256431843,Japanese,,,YES
+502,Teriyaki Time,2109 196th St SW,Lynnwood,WA,98036,4257789019,Japanese; Chinese,,,YES
+503,Teriyaki Time,3008 NE 127th St,Seattle,WA,98125,2063675003,Japanese,,,YES
+504,Teriyaki Town,5605 112th St E,Puyallup,WA,98373,2534452443,Japanese,,,YES
+505,Teriyaki Way,23632 Highway 99,Edmonds,WA,98026,4256723378,Japanese,,,YES
+506,Teriyaki Wok,16747 SE 272nd St,Covington,WA,98042,2536311621,Japanese; Chinese,,,YES
+507,Teriyaki Wok 8,109 N Granite Ave,Granite Falls,WA,98252,3606915852,Japanese; Chinese,,,YES
+508,Teriyaki Wok Express,18500 33rd Ave W,Lynnwood,WA,98037,4257756760,Japanese; Chinese,,,YES
+509,The Bento Box,15119 NE 24th St,Redmond,WA,98052,4256438646,Japanese,,,YES
+510,The Cajun Crawfish,6951 Martin Luther King Jr Way S,Seattle,WA,98118,2064329488,Cajun,Cajun,,YES
+511,The Captain Crab,10310 S Tacoma Way,Lakewood,WA,98499,2535398888,Cajun,Cajun,,YES
+512,The Gokan by Musashi,1412 Harvard Ave,Seattle,WA,98122,2069793930,Japanese,,,YES
+513,The Iron Grill,17017 SE 270th Pl,Covington,WA,98042,2536310101,Mongolian; Chinese,,,YES
+514,The Sushi Samurai,1817 Queen Anne Ave N,Seattle,WA,98109,2067660298,Japanese,,,YES
+515,THEKOI,1552 Commerce St,Tacoma,WA,98402,2532720996,Japanese,,,YES
+516,Thirsty Hop,13102 NE 70th Pl,Kirkland,WA,98033,4258968320,Japanese,,,YES
+517,Tokyo House Restaurant,3323 169th Pl NE,Arlington,WA,98223,3606580228,Japanese,,,YES
+518,Tokyo House Restaurant,500 SE Everett Mall Way,Everett,WA,98208,4253476557,Japanese,,,YES
+519,Tokyo Japanese Restaurant,3500 Factoria Blvd SE,Bellevue,WA,98006,4256415691,Japanese,,,YES
+520,Tokyo Japanese Steak House,1404 S 320th St,Federal Way,WA,98003,2538394352,Japanese,,,YES
+521,Tokyo Japanese Steak House,909 112th Ave NE,Bellevue,WA,98004,4254498567,Japanese,JAP,Tier 3,YES,T3 Advance
+522,Tokyo Stop Teriyaki,1504 145th Pl SE,Bellevue,WA,98007,4256533577,Japanese,,,YES
+523,Tokyo Teriyaki,3110 Judson St,Gig Harbor,WA,98335,2538533232,Japanese,,,YES
+524,Tokyo Teriyaki & Wok,11603 State Ave,Marysville,WA,98271,3606575040,Japanese; Chinese,,,YES
+525,Tokyo Town Teriyaki,21004 108th Ave SE,Kent,WA,98031,2538544937,Japanese,,,YES
+526,Tokyo-ya Ramen,31507 Pacific Hwy S,Federal Way,WA,98003,2065926552,Japanese,,,YES
+527,Top Gun Seafood Restaurant,12450 SE 38th St,Bellevue,WA,98006,4256413386,Chinese,,,YES
+528,Toshi's Teriyaki,10618 Main St,Bellevue,WA,98004,4254538719,Japanese,,,YES
+529,Toshi's Teriyaki,14200 1st Ave S,Burien,WA,98168,2062426551,Japanese,,,YES
+530,Toshi's Teriyaki,8425 SE 68th St,Mercer Island,WA,98040,2062320233,Japanese,,,YES
+531,Toshio's Teriyaki,1706 Rainier Ave S,Seattle,WA,98144,2063236303,Japanese,,,YES
+532,Toulouse Petit Kitchen & Lounge,601 Queen Anne Ave N,Seattle,WA,98109,2064329069,Creole; Caribbean; Cajun,,,YES
+533,Town Story,6211 Evergreen Way,Everett,WA,98203,4252906940,Chinese,,,YES
+534,Tsui Sushi Bar,6421 Latona Ave NE,Seattle,WA,98115,2064023553,Japanese,,,YES
+535,U:Don,1640 12th Ave,Seattle,WA,98122,2064661471,Japanese,JAP,Tier 3,YES,T3 Advance
+536,U:Don,4515 University Way NE,Seattle,WA,98105,2064533788,Japanese,JAP,Tier 3,YES,T3 Advance
+537,Umai Bento,17306 Pacific Ave S,Spanaway,WA,98387,2535373222,Japanese,,,YES
+538,Umami,6421 15th Ave NW,Seattle,WA,98107,2064025040,Hawaiian; Japanese,,,YES
+539,Umami,902 N Broadway,Everett,WA,98201,4253223761,Japanese,,,YES
+540,Umigawa,12670 120th Ave NE,Kirkland,WA,98034,4252421223,Japanese,,,YES
+541,Uncle Lee's,5408 Sand Point Way NE,Seattle,WA,98105,2065230772,Chinese; Thai,,,YES
+542,Uptown China,200 Queen Anne Ave N,Seattle,WA,98109,2062857710,Chinese,,,YES
+543,Urban Chops,512 Auburn Way N,Auburn,WA,98002,2065654430,Vietnamese; Chinese,,,YES
+544,Urban Sushi Kitchen,2001 8th Ave,Seattle,WA,98121,2064486953,Japanese,,,YES
+545,Village Sushi,5211 University Way NE,Seattle,WA,98105,2069856870,Japanese,,,YES
+546,Wabi-Sabi Sushi Bar & Restaurant,4909 Rainier Ave S,Seattle,WA,98118,2067210212,Japanese,,,YES
+547,Wah Kue Cafe,13434 1st Ave S,Burien,WA,98168,2062425454,Chinese,,,YES
+548,Wasabi Bay,16300 Mill Creek Blvd,Mill Creek,WA,98012,4255850836,Japanese,,,YES
+549,Wasabi Factory,7415 Hardeson Rd,Everett,WA,98203,4253530340,Japanese,,,YES
+550,Wasabi Sushi,1202 Pine St,Seattle,WA,98101,2068907056,Japanese,JAP,Tier 3,YES,T3 Advance
+551,Wasabi Sushi & Izakaya,2311 2nd Ave,Seattle,WA,98121,2064416044,Japanese,,,YES
+552,Wild Fish Poke,94 Pike St,Seattle,WA,98101,2064674463,Japanese,,,YES
+553,Wild Ginger Teriyaki,305 Burnett Ave S,Renton,WA,98057,4252279089,Japanese; Chinese,,,YES
+554,Wild Wasabi Japanese Cuisine,19720 44th Ave W,Lynnwood,WA,98036,4257768068,Japanese,,,YES
+555,Wok,305 Harrison St,Seattle,WA,98109,2064482383,Chinese,,,YES
+556,Wok & Bowl,18012 W Valley Hwy,Kent,WA,98032,4256562992,Japanese; Chinese,,,YES
+557,Wok And Pho,900 Meridian Ave E,Milton,WA,98354,2533441326,Vietnamese; Chinese,,,YES
+558,Wok Teriyaki,16415 6th Ave W,Lynnwood,WA,98037,4257459659,Japanese; Chinese,,,YES
+559,Wok Teriyaki IX,2941 S 38th St,Tacoma,WA,98409,2534720108,Japanese; Chinese,,,YES
+560,Wok V Teriyaki,1816 S Mildred St,Tacoma,WA,98465,2535665533,Japanese; Chinese,,,YES
+561,Wonton Noodle House,22511 Highway 99,Edmonds,WA,98026,4257758628,Chinese,,,YES
+562,Wu Li Xiang,723 9th Ave,Kirkland,WA,98033,4254440751,Chinese,,,YES
+563,Yaki Raki,3202 S 23rd St,Tacoma,WA,98405,2532121223,Japanese,,,YES
+564,Yama Si Japanese Kitchen,434 Main Ave S,North Bend,WA,98045,4252929600,Japanese,,,YES
+565,Yang's Dumpling House,8510 122nd Ave NE,Kirkland,WA,98033,4256368893,Chinese,,,YES
+566,YangGuoFu MalaTang,4730 University Way NE,Seattle,WA,98105,2069223496,Chinese,,,YES
+567,YangGuoFu MalaTang,683 156th Ave SE,Bellevue,WA,98007,4253626976,Chinese,,,YES
+568,YangGuoFu YGF MalaTang,4730 University Way NE,Seattle,WA,98105,2069223496,Chinese,,,YES
+569,Yen Ching Restaurant,8765 S Tacoma Way,Lakewood,WA,98499,2535823400,Chinese,CH,Tier 2,YES,Week 1- 4
+570,Yoko Teriyaki,2800 Milton Way,Milton,WA,98354,2539523266,Korean; Chinese,,,YES
+571,Yoroshiku,1913 N 45th St,Seattle,WA,98103,2065474649,Japanese,CJ,Tier 3,YES,T3 Advance
+572,Yoshi Teriyaki & Asian Fusion,11632 WA-99,Everett,WA,98204,4253550828,Japanese,,Tier 3,YES,T3 Advance
+573,Young's Restaurant,9413 16th Ave SW,Seattle,WA,98106,2067623438,Chinese,CH + Thai,Tier 3,YES,T3 Advance
+574,Yum Yum Teriyaki,10641 16th Ave SW,Seattle,WA,98146,2062777901,Chinese,,Tier 3,YES,T3 Advance
+575,Yummy Cafe,4008 NE 55th St,Seattle,WA,98105,2065280570,Chinese,,Tier 3,YES,T3 Advance
+576,Yummy Pho & Teriyaki,5522 E McKinley Ave,Tacoma,WA,98404,2532120760,Japanese; Vietnamese; Chinese,,,YES
+577,Yummy Teriyaki,10844 SE 208th St,Kent,WA,98031,2538131966,Japanese; Chinese,,,YES
+578,Yummy Teriyaki,20631 Bothell Everett Hwy,Bothell,WA,98012,4253980505,Japanese; Chinese,,,YES
+579,Yummy Teriyaki,28849 Military Rd S,Federal Way,WA,98003,2539410225,Japanese,,,YES
+580,Yummy Teriyaki,622 1st Ave N,Seattle,WA,98109,2062817220,Japanese,,,YES
+581,Zen Ramen & Sushi Burrito,1812 S Mildred St,Tacoma,WA,98465,2533286772,Japanese,,Tier 3,YES,T3 Advance
+582,ZEN RAMEN & SUSHI BURRITO,322 Tacoma Ave S,Tacoma,WA,98402,2533023461,Japanese,,Tier 3,YES,T3 Advance
+583,Zen Ramen & Sushi Burrito,528 Garfield St S,Tacoma,WA,98444,2532920731,Japanese,,Tier 3,YES,T3 Advance
+584,ZEN Ramen & Sushi Burrito,8534 S Tacoma Way,Lakewood,WA,98499,2535826713,Japanese,,Tier 3,YES,T3 Advance
+585,Zesty Steakhouse,9905 Bridgeport Way SW,Lakewood,WA,98499,2533007993,Cajun,,Tier 3,YES,T3 Advance
+586,Zushi Sushi,5614 E Lake Sammamish Pkwy SE,Issaquah,WA,98029,4255574474,Japanese,,Tier 3,YES,T3 Advance
+587,Bento Factory,3201 Rucker Ave,Everett,WA,98201,4252582525,Japanese,,Tier 3,YES
+588,Betsutenjin,954 E Union St,Seattle,WA,98122,2064857367,Japanese,,Tier 3,YES
+589,Colby Teriyaki Wok,2232 Colby Ave,Everett,WA,98201,4252584089,Chinese,,Tier 3,YES
+590,Covington Teriyaki,27116 167th Pl SE,Covington,WA,98042,2536396300,Japanese,,Tier 3,YES
+591,Dragon Ball Restaurant,15609 Main St E,Sumner,WA,98390,2538911328,Chinese,,Tier 3,YES
+592,Dragon Pearl Restaurant,15304 1st Ave S,Burien,WA,98148,2062460776,Chinese,,Tier 2,YES
+593,Flying Fish Sushi Bar & Grill,5719 N 26th St,Tacoma,WA,98407,2532121432,Japanese,,Tier 3,YES
+594,Forever Sushi,4301 S Meridian,Puyallup,WA,98373,2532680335,Japanese,,Tier 3,YES
+595,Sunny Teriyaki,3719 88th St NE,Marysville,WA,98270,3606577272,Japanese; Chinese,,,YES
+596,Teriyaki & Burger Stop,3517 Rucker Ave,Everett,WA,98201,4252594291,Japanese,,,YES
+597,Teriyaki Wok,9925 214th Ave E,Bonney Lake,WA,98391,2538911980,Japanese,,,YES
+598,Tokyo Japanese Steakhouse,13317 NE 175th St,Woodinville,WA,98072,4254888786,Japanese,,,YES
+599,Tokyo Teriyaki & Wok,14650 N Kelsey St,Monroe,WA,98272,3607946262,Japanese,,,YES
+600,Urara,82 Stewart St,Seattle,WA,98101,2064515914,Japanese,,,YES
+601,Yamada Teriyaki,345 Andover Park E,Tukwila,WA,98188,2065750741,Japanese,,,YES
+602,Hangry Panda,7815 Aurora Ave N,Seattle,WA,98103,8668426479,Chinese,,,YES
+603,xing xing cafe,10850 Myers Way S,Seattle,WA,98168,2062416054,Chinese,,,YES
+604,Wok Teriyaki II,11430 51st Ave NW,Gig Harbor,WA,98332,2538583303,Japanese,,,YES
+605,Wok & Teriyaki,311 River Rd,Puyallup,WA,98371,2537704988,Chinese,,,YES
+606,Wok This Way,3500 S Meridian,Puyallup,WA,98373,2538644928,Chinese,,,YES
+607,GO!! GO!! Teriyaki,10430 19th Ave SE,Everett,WA,98208,4253382543,Japanese,,,YES
+608,Zhong Qing Ma La Cheng SPICY CHONGQING,18230 E Valley Hwy,Kent,WA,98032,6267669548,Chinese,,Tier 2,YES
+609,Wild Garlic Chinese Restaurant,17650 140th Ave SE,Renton,WA,98058,4252358877,Chinese,,Tier 2,YES
+610,Wok Inn-Wok Out,15225 Union Ave SW,Lakewood,WA,98498,2539838578,Chinese,,Tier 2,YES
+611,Yasuko's Teriyaki,3200 15th Ave W,Seattle,WA,98119,2062830116,Japanese,,Tier 2,YES
+612,Yua Ramen,22511 Highway 99,Edmonds,WA,98026,4258350068,Japanese,,Tier 3,YES
+613,Yum Yum Teriyaki,6111 Lakewood Towne Center Blvd SW,Lakewood,WA,98499,2535818639,Japanese,,Tier 3,YES
+614,Yummy Teriyaki,17218 Redmond Way,Redmond,WA,98052,4258611010,Japanese,,Tier 3,YES
+615,Yume Sushi,3217 W McGraw St,Seattle,WA,98199,2064026397,Japanese,,Tier 3,YES
+616,Yoko's Teriyaki Bistro,34024 Hoyt Rd SW,Federal Way,WA,98023,2538385000,Japanese,,Tier 3,YES
+617,Fuji Teriyaki,17650 140th Ave SE,Renton,WA,98058,4252283422,Japanese,,,YES
+618,Fujiya Japanese Restaurant,1130 Broadway,Tacoma,WA,98402,2536275319,Japanese,,,YES
+619,Golden Daisy Restaurant,17348 Southcenter Pkwy,Tukwila,WA,98188,2066296228,Chinese,,,YES
+620,Golden Phoenix Chinese Restaurant,16915 SE 272nd St,Covington,WA,98042,2536303689,Chinese,,,YES
+621,Happy at the Bay Teriyaki,4910 Point Fosdick Dr,Gig Harbor,WA,98335,2538531555,Japanese,,,YES
+622,Happy Garden Chinese Restaurant,14301 Ambaum Blvd SW,Burien,WA,98166,2062423400,Chinese,,,YES
+623,Happy Teriyaki,12154 Pacific Ave S,Tacoma,WA,98444,2535311818,Japanese,,,YES
+624,Happy Teriyaki 11,717 River Rd,Puyallup,WA,98371,2538486299,Japanese,,,YES
+625,Harvest Wonton Noodle,22931 Highway 99,Edmonds,WA,98026,4259673899,Chinese,,,YES
+626,House Of Teriyaki,15204 Union Ave SW,Lakewood,WA,98498,2535881133,Chinese,,,YES
+627,I Love Ramen,31254 Pacific Hwy S,Federal Way,WA,98003,2538391115,Japanese,,,YES
+628,iSushi & Teriyaki,1225 Center Dr,Dupont,WA,98327,2539648266,Japanese,,,YES
+629,Kami Teriyaki & Sushi,19191 US-2,Monroe,WA,98272,3607947733,Japanese,,,YES
+630,Kiyama Sushi & Bar,8011 20th St SE,Lake Stevens,WA,98258,4256104379,Japanese,,,YES
+631,Kyoto Teriyaki,803 E Pike St,Seattle,WA,98122,2067267610,Japanese,,,YES
+632,Kyoto Teriyaki Restaurant,513 S Meridian,Puyallup,WA,98371,2534351599,Japanese,,,YES
+633,Mama's Teriyaki,3814 Pacific Ave,Tacoma,WA,98418,2534741998,Japanese,,,YES
+634,Mandolin Sushi,3923 S 12th St,Tacoma,WA,98405,2533014969,Japanese,,,YES
+635,Menya Musashi Tsukemen & Ramen,1510 Belmont Ave,Seattle,WA,98122,2062574289,Japanese,,,YES
+636,Miyabi Restaurant,16800 Southcenter Pkwy,Tukwila,WA,98188,2065756815,Japanese,,,YES
+637,Miyabi Sushi,16820 Southcenter Pkwy,Tukwila,WA,98188,2532208677,Japanese,,,YES
+638,Mizuki Buffet,17950 Southcenter Pkwy,Tukwila,WA,98188,2065756988,Japanese,,,YES
+639,Mom's Teriyaki,1115 E Main St,Auburn,WA,98002,2538040436,Japanese,,,YES
+640,Moshi Moshi Sushi & Izakaya,5324 Ballard Ave NW,Seattle,WA,98107,2069717424,Japanese,,Tier 3,YES
+641,New Tokyo Teriyaki,22340 Marine View Dr S,Des Moines,WA,98198,2068240327,Japanese,,,YES
+642,Nikko Teriyaki,4710 42nd Ave SW,Seattle,WA,98116,2069378374,Japanese,,,YES
+643,Rice & Noodles Chinese Kitchen,15600 NE 8th St,Bellevue,WA,98008,4256988980,Japanese; Chinese,,,YES
+644,Sora Sushi,NE Woodinville Dr,Woodinville,WA,98072,4254865858,Japanese,,Tier 3,YES
+645,Sun's Teriyaki,9915 224th St E,Graham,WA,98338,2538463229,Japanese,,,YES
+646,Bamboo Garden Teriyaki,17652 1st Ave S,Burien,WA,98148,2069019225,Japanese,,,YES
+647,Wabi-Sabi Tacoma,2919 S 38th St,Tacoma,WA,98409,2534741650,Japanese,,,YES
+648,Yumiko Teriyaki,517 WA-9 NE,Lake Stevens,WA,98258,4253354444,Japanese,,,YES
+649,Best Teriyaki & Wok,2232 Colby Ave,Everett,WA,98201,4252584089,Japanese,,,YES
+650,Chopstix,311 Center St E,Eatonville,WA,98328,3608326261,Chinese,,,YES
+651,Curry & Ya,500 Mercer St,Seattle,WA,98109,2064533881,Japanese,,,YES
+652,Four Seasons,820 Griffin Ave,Enumclaw,WA,98022,3608256541,Chinese,,,YES
+653,Gikan Teriyaki,900 Meridian Ave E,Milton,WA,98354,2539522333,Japanese,,,YES
+654,Hanami Sushi & Grill,11811 Mukilteo Speedway,Mukilteo,WA,98275,4253484646,Japanese,,,YES
+655,Happy At the Bay,14110 Main St NE,Duvall,WA,98019,4257881754,Japanese,,,YES
+656,Noble Palace,1212 State Ave,Marysville,WA,98270,3606572773,Chinese,,,YES
+657,Noodle & Rice House,504 Barnes Blvd,McChord Air Force Base,WA,98438,2533025320,Chinese,,,YES
+658,Mandarin Chili Chinese Restaurant,23202 57th Ave W,Mountlake Terrace,WA,98043,4257715531,Chinese; Mandarin,,,YES
+659,Imperial Palace Tukwila,15901 W Valley Hwy,Tukwila,WA,98188,4258736093,Chinese,,,YES
+660,Kung Ho Cuisine Of China,3640 Factoria Blvd SE,Bellevue,WA,98006,4256432268,Chinese,,,YES
+661,Janbo Cafe,6125 Evergreen Way,Everett,WA,98203,4253472688,Chinese,,,YES
+662,King Buffet,5303 Evergreen Way,Everett,WA,98203,4253553990,Chinese,,,YES
+663,King Buffet,5313 Evergreen Way,Everett,WA,98203,4253553990,Chinese,,,YES
+664,Magic Dragon,3820 Rainier Ave S,Seattle,WA,98118,2067223292,Chinese,,,YES
+665,Milton Wok,2800 Milton Way,Milton,WA,98354,2068708132,Chinese,,,YES
+666,Miyako's Teriyaki & Wok,13112 39th Ave SE,Everett,WA,98208,4253387620,Chinese,,,YES
+667,Monster Burger,6816 S Tacoma Way,Tacoma,WA,98409,2534747002,Chinese,,,YES
+668,Little Ting's Dumplings,14411 Greenwood Ave N,Seattle,WA,98133,2063633866,Chinese,,,YES
+669,Morning Bites,15230 NE 24th St,Redmond,WA,98052,4256796008,Chinese,,,YES
+670,Jabali Dumplings,Aurora Ave N,Seattle,WA,98133,2065828333,Chinese,,,YES
+671,Lucky Lantern Restaurant,14314 Greenwood Ave N,Seattle,WA,98133,2538934194,Chinese,,,YES
+672,Little Foodies,2217 140th Ave NE,Bellevue,WA,98005,4257462345,Chinese,,,YES
+673,Lucky Chinese Restaurant,6538 4th Ave S,Seattle,WA,98108,2067086518,Chinese,,,YES
+674,Mei Wa Bakery,18230 E Valley Hwy,Kent,WA,98032,2532364559,Chinese,,,YES
+675,New Teriyaki & Wok,3312 Auburn Way S,Auburn,WA,98092,2533519985,Chinese,,,YES
+676,Little Duck,4100 Roosevelt Way NE,Seattle,WA,98105,2066952564,Chinese,,,YES
+677,Northwest Tofu,1913 S Jackson St,Seattle,WA,98144,2063288320,Cantonese; Chinese; Taiwanese,,,YES
+678,The Chinese Snob,10641 16th Ave SW,Seattle,WA,98146,6464753037,Chinese,,,YES
+679,Tian Fu Old Town,4500 9th Ave NE,Seattle,WA,98105,2064203129,Chinese,,,YES
+680,TianTian Noodle Tian Tian Jian Mian,15230 NE 24th St,Redmond,WA,98052,2063491516,Chinese,,,YES
+681,Tiger Garden,2885 78th Ave SE,Mercer Island,WA,98040,2062750077,Chinese,,,YES
+682,Twin Dragon,15321 Main St NE,Duvall,WA,98019,4257885519,Chinese,,,YES
+683,Asian Spice Chopsticks,14655 Fryelands Blvd SE,Monroe,WA,98272,3608059292,Chinese; Thai,,,YES
+684,Red Corner Chinese Restaurant,1025 NW Gilman Blvd,Issaquah,WA,98027,4253919888,Chinese,,,YES
+685,Red Dragon Teriyaki,7034 Pacific Ave,Tacoma,WA,98408,2534731632,Chinese,,,YES
+686,Red Gem,6643 S Tacoma Way,Tacoma,WA,98409,2534752228,Chinese,,,YES
+687,Secret Congee,6301 Seaview Ave NW,Seattle,WA,98107,2067355487,Chinese,,,YES
+688,Shake 'n Go,3710 Broadway,Everett,WA,98201,4252594646,Chinese,,,YES
+689,Spicy Style of Sichuan,13200 Aurora Ave N,Seattle,WA,98133,2064683511,Chinese,,,YES
+690,Stir Fry 88,1101 Outlet Collection Way SW,Auburn,WA,98001,2537254028,Chinese,,,YES
+691,Stirfry Fry 88,4502 S Steele St,Tacoma,WA,98409,2534726570,Chinese,,,YES
+692,Szechuan First,18124 E Valley Hwy,Kent,WA,98032,4256560889,Chinese,,,YES
+693,Poke Plus,811 E Pike St,Seattle,WA,98122,2063246292,Hawaiian; Japanese,,,YES
+694,Poke Alice 2,2001 6th Ave,Seattle,WA,98121,2064026892,Hawaiian; Japanese; Bangladeshi,,,YES
+695,Teriyaki Temptations,5505 24th Ave NW,Seattle,WA,98107,2533385223,Hawaiian; Korean; Japanese,,,YES
+696,Teriyaki Tuesday,13027 Aurora Ave N,Seattle,WA,98133,4256596357,Hawaiian; Korean; Japanese,,,YES
+697,Happy At The Bay,17707 Pacific Ave S,Spanaway,WA,98387,2538752201,Japanese,,,YES
+698,Highway Teriyaki,19312 60th Ave W,Lynnwood,WA,98036,4257765187,Japanese,,,YES
+699,Himitsu Teriyaki,10216 SE 256th St,Kent,WA,98030,2535206601,Japanese,,,YES
+700,Himitsu Teriyaki,7903 Center Blvd SE,Snoqualmie,WA,98065,4253967550,Japanese,,,YES
+701,Himitsu Teriyaki,3010 Issaquah-Pine Lake Rd SE,Sammamish,WA,98075,4253928885,Japanese,,,YES
+702,Himitsu Teriyaki,8014 Lake City Way NE,Seattle,WA,98115,2065249929,Japanese,,,YES
+703,Himitsu Teriyaki Restaurant,22125 SE 237th St,Maple Valley,WA,98038,4254130177,Japanese,,,YES
+704,Hot Teriyaki,8013 Steilacoom Blvd SW,Lakewood,WA,98498,2535847776,Japanese,,,YES
+705,House Teriyaki Wok,35002 Pacific Hwy S,Federal Way,WA,98003,2538383588,Japanese,,,YES
+706,I Luv Teriyaki,15225 1st Ave S,Burien,WA,98148,2064444894,Japanese,,,YES
+707,Ichi 2 Teriyaki,13215 SE 240th St,Kent,WA,98042,2536397700,Japanese,,,YES
+708,Ichiban Teriyaki,6524 NE 181st St,Kenmore,WA,98028,4254817585,Japanese,,,YES
+709,Izakaya,829 N 10th St,Renton,WA,98057,4252282800,Japanese,,,YES
+710,J's Teriyaki,4 B St SE,Auburn,WA,98002,2533338221,Japanese,,,YES
+711,J's Teriyaki,1209 Central Ave S,Kent,WA,98032,2535203171,Japanese,,,YES
+712,Japan Ginger,220 Front St N,Issaquah,WA,98027,4254276080,Japanese,,,YES
+713,Jin Sushi,8904 S Tacoma Way,Lakewood,WA,98499,2538444898,Japanese,,,YES
+714,K's Teriyaki,20308 77th Ave NE,Arlington,WA,98223,3604740789,Japanese,,,YES
+715,Kai Sushi,2811 Colby Ave,Everett,WA,98201,4253747949,Japanese,,,YES
+716,Kaihana,21816 Marine View Dr S,Des Moines,WA,98198,2068705439,Japanese,,,YES
+717,Kamei Japanese Restaurant,10435 Pacific Ave S,Tacoma,WA,98444,2533012484,Japanese,,,YES
+718,Katsu-Mi,31217 Pacific Hwy S,Federal Way,WA,98003,2539413148,Japanese,,,YES
+719,KFSUSHI,5600 Roosevelt Way NE,Seattle,WA,98105,8082891832,Japanese,,,YES
+720,Kim's Teriyaki,841 Central Ave N,Kent,WA,98032,2538540667,Japanese,,,YES
+721,Kin Ja Teriyaki,8415 87th Ave SW,Lakewood,WA,98498,2535826789,Japanese,,,YES
+722,King's Teriyaki,1539 Blake St,Enumclaw,WA,98022,3608021500,Japanese,,,YES
+723,King's Teriyaki,8229 44th Ave W,Mukilteo,WA,98275,4253533383,Japanese,,,YES
+724,King's Teriyaki,13317 NE 175th St,Woodinville,WA,98072,4254882322,Japanese,,,YES
+725,Kinza Teriyaki,22219 Mountain Hwy E,Spanaway,WA,98387,2538461010,Japanese,,,YES
+726,Kiriba Sushi,323 N 145th St,Seattle,WA,98133,2063632288,Japanese,,,YES
+727,Kobe Teriyaki,11457 Pacific Ave S,Tacoma,WA,98444,2535363916,Japanese,,,YES
+728,Koby's Teriyaki,102 Lakeside Ave S,Seattle,WA,98144,2066696360,Japanese,,,YES
+729,Komorebi Sushi & Rolls,8560 122nd Ave NE,Kirkland,WA,98033,4258283106,Japanese,,,YES
+730,Kuro Sushi,15100 SE 38th St,Bellevue,WA,98006,4255306316,Japanese,,,YES
+731,Kwangs Palace,15029 W Thorne Ln SW,Lakewood,WA,98498,2535814940,Japanese,,,YES
+732,Kyo Teriyaki & Roll,9925 State Ave,Marysville,WA,98270,3606535124,Japanese,,,YES
+733,Kyoto Japanese Restaurant,8722 S Tacoma Way,Lakewood,WA,98499,2535817229,Japanese,,,YES
+734,Late Night Poke,3928 Factoria Square Mall SE,Bellevue,WA,98006,4257474413,Japanese,,,YES
+735,Late Night Poke,500 Mercer St,Seattle,WA,98109,2064533881,Japanese,,,YES
+736,Mako Teriyaki,13027 Aurora Ave N,Seattle,WA,98133,3605357364,Japanese,,,YES
+737,Marysville Osaka Sushi & Teriyaki,9501 State Ave,Marysville,WA,98270,3606533631,Japanese,,,YES
+738,Meadow Teriyaki,5320 66th St W,Tacoma,WA,98467,2534756595,Japanese,,,YES
+739,Miako Teriyaki,17328 140th Ave SE,Renton,WA,98058,4252288544,Japanese,,,YES
+740,Miako Teriyaki,11700 Mukilteo Speedway,Mukilteo,WA,98275,4253477474,Japanese,,,YES
+741,Shanghai Kitchen,13322 Pacific Ave S,Tacoma,WA,98444,2535390804,Chinese,,,YES
+742,Umai Sushi & Teriyaki,91 Pike St,Seattle,WA,98101,2066242511,Japanese,,,YES
+743,Tokyo Teriyaki,3111 Judson St,Gig Harbor,WA,98335,2538533232,Japanese,,,YES
+744,Teriyaki Cafe,408 W Stanley St,Granite Falls,WA,98252,3606914834,Japanese,,,YES
+745,Sunny Teriyaki,2120 W Emerson Pl,Seattle,WA,98199,2062819339,Japanese,,,YES
+746,Rolls and Rolls Plus Sushi,11011 NE 12th St,Bellevue,WA,98004,4254544313,Japanese,,,YES
+747,Tokyo Teriyaki & Wok,7405 Hardeson Rd,Everett,WA,98203,4254230888,Japanese,,,YES
+748,Teriyaki Yamato,2130 SW 336th St,Federal Way,WA,98023,2538740822,Japanese,,,YES
+749,Teriyaki Wok,1717 NE 44th St,Renton,WA,98056,4252274311,Japanese,,,YES
+750,Teriyaki Time,14419 Greenwood Ave N,Seattle,WA,98133,2063067227,Japanese,,,YES
+751,Teriyaki Town,20120 Ballinger Way NE,Shoreline,WA,98155,2063619088,Japanese,,,YES
+752,Teriyaki Island,1263 N 205th St,Shoreline,WA,98133,2065424352,Japanese,,,YES
+753,Teriyaki Bowl,3121 E Madison St,Seattle,WA,98112,2063243224,Japanese,,,YES
+754,Teriyaki Bowl,3405 172nd St NE,Arlington,WA,98223,3606535084,Japanese,,,YES
+755,Teriyaki 1st,806 NW 85th St,Seattle,WA,98117,2067843708,Japanese,,,YES
+756,Sushi Niwa,9701 S Tacoma Way,Lakewood,WA,98499,2532121282,Japanese,,,YES
+757,Sushi Misoya,3333 184th St SW,Lynnwood,WA,98037,4257757979,Japanese,,,YES
+758,Sushi Konami,1410 Lake Tapps Pkwy SE,Auburn,WA,98092,2539875202,Japanese,,,YES
+759,Super Teriyaki,1811 Howard Rd,Auburn,WA,98002,2538760707,Japanese,,,YES
+760,Sumo Poke,219 Broadway E,Seattle,WA,98102,2064023255,Japanese,,,YES
+761,Song's Teriyaki,4916 Center St,Tacoma,WA,98409,2535650876,Japanese,,,YES
+762,Soho Teriyaki,1209 Auburn Way N,Auburn,WA,98002,2537355431,Japanese,,,YES
+763,Ramen Ramen,5300 Rainier Ave S,Seattle,WA,98118,2063101979,Japanese,,,YES
+764,Poke Boy,1405 SE Everett Mall Way,Everett,WA,98208,2065375723,Japanese,,,YES
+765,Oak Tree Teriyaki,10002 Aurora Ave N,Seattle,WA,98133,2065256744,Japanese,,,YES
+766,New Teriyaki & Wok,6540 California Ave SW,Seattle,WA,98136,2069324572,Japanese,,,YES
+767,My Lil' Cube,402 N Meridian,Puyallup,WA,98371,2538402158,Japanese,,,YES
+768,Moli Bento,316 15th Ave E,Seattle,WA,98112,2063258630,Japanese,,,YES
+769,Misora Teriyaki Sushi and Wok,16809 Highway 99,Lynnwood,WA,98037,4256781819,Japanese,,,YES
+770,Teriyaki Zone,4927 Evergreen Way,Everett,WA,98203,4252581319,Japanese,,,YES
+771,Midori Teriyaki,12405 20th St NE,Lake Stevens,WA,98258,4253979797,Japanese,,,YES
+772,Sushi Snob,1256 Republican St,Seattle,WA,98109,2064204500,Japanese,,,YES
+773,Sushi 8090,111 Queen Anne Ave N,Seattle,WA,98109,2065800087,Japanese,,,YES
+774,Sake Sushi and Grill,5738 N 26th St,Tacoma,WA,98407,2537592558,Japanese,,,YES
+775,Nasai Teriyaki,5025 25th Ave NE,Seattle,WA,98105,2065243011,Japanese,,,YES
+776,Nasai Teriyaki,4305 University Way NE,Seattle,WA,98105,2066323572,Japanese,,,YES
+777,Nagoya Teriyaki,5500 Olympic Dr,Gig Harbor,WA,98335,2538588599,Japanese,,,YES
+778,Mix Sushi Bar,15600 NE 8th St,Bellevue,WA,98008,4255909284,Japanese,,,YES
+779,Supreme Dumplings,120 Park Ln,Kirkland,WA,98033,8773092755,Japanese,,,YES
+780,O Maki Rolls + Teriyaki,8530 Palatine Ave N,Seattle,WA,98103,2068251145,Japanese,,,YES
+781,O Maki Rolls + Teriyaki,2357 10th Ave E,Seattle,WA,98102,2068996289,Japanese,,,YES
+782,Momji - SLU,731 Bell St,Seattle,WA,98121,2062571304,Japanese,,,YES
+783,Samurai's Japanese Steakhouse,19321 Mountain Hwy E,Spanaway,WA,98387,2538465557,Japanese,,,YES
+784,Tori-Yoshi Japanese Fried Chicken,10802 Pacific Ave S,Tacoma,WA,98444,2535312141,Japanese,,,YES
+785,Tori-Yoshi Japanese Fried Chicken,Meridian Ave E,Puyallup,WA,98373,2538488575,Japanese,,,YES
+786,Tori-Yoshi Japanese Fried Chicken,521 Auburn Way S,Auburn,WA,98002,2538336454,Japanese,,,YES
+787,Tori-Yoshi Japanese Fried Chicken,8431 244th St SW,Edmonds,WA,98026,4255820578,Japanese,,,YES
+788,Tori-Yoshi Japanese Fried Chicken,1246 Central Ave N,Kent,WA,98032,2538546621,Japanese,,,YES
+789,Tori-Yoshi Japanese Fried Chicken,4109 196th St SW,Lynnwood,WA,98036,4257743834,Japanese,,,YES
+790,Tori-Yoshi Japanese Fried Chicken,14821 1st Ave S,Seattle,WA,98168,2062469197,Japanese,,,YES
+791,Tori-Yoshi Japanese Fried Chicken,18623 International Blvd,Seatac,WA,98188,2062481558,Japanese,,,YES
+792,Tori-Yoshi Japanese Fried Chicken,17206 International Blvd,Seatac,WA,98188,2062466076,Japanese,,,YES
+793,Tori-Yoshi Japanese Fried Chicken,132 128th St SW,Everett,WA,98204,4253552210,Japanese,,,YES
+794,Tori-Yoshi Japanese Fried Chicken,2202 WA-530,Arlington,WA,98223,3606529444,Japanese,,,YES
+795,Tori-Yoshi Japanese Fried Chicken,11755 Pacific Hwy SW,Lakewood,WA,98499,2535841416,Japanese,,,YES
+796,Tori Sake & Grill,202 SW 153rd St,Burien,WA,98166,2062481383,Japanese,,,YES
+797,Think Teriyaki,2125 SW 356th St,Federal Way,WA,98023,2538745160,Japanese,,,YES
+798,Teriyaki Kitchen,101 S 38th St,Tacoma,WA,98418,2534735900,Japanese,,,YES
+799,Teriyaki Kingdom,1521 SW 98th St,Seattle,WA,98106,2065905502,Japanese,,,YES
+800,Teriyaki Bowl,13620 NE 175th St,Woodinville,WA,98072,4254831904,Japanese,,,YES
+801,Teriyaki 2U,4017 A St SE,Auburn,WA,98002,2533339966,Japanese,,,YES
+802,Ten Ten Ramen,1026 NE 65th St,Seattle,WA,98115,2064534349,Japanese,,,YES
+803,ten ten ramen,500 Mercer St,Seattle,WA,98109,2064533881,Japanese,,,YES
+804,Ten Ten Ramen,3928 Factoria Square Mall SE,Bellevue,WA,98006,4257474413,Japanese,,,YES
+805,Sushi Today,330 SW 43rd St,Renton,WA,98057,4252510844,Japanese,,,YES
+806,Sushi Roll Roll Roll,1630 Duvall Ave NE,Renton,WA,98059,4252280371,Japanese,,,YES
+807,Sushi Omiya,100 Andover Park W,Tukwila,WA,98188,2063973497,Japanese,,,YES
+808,Sushi Daruma Ya,18230 E Valley Hwy,Kent,WA,98032,2069901795,Japanese,,,YES
+809,Snohomish Teriyaki,1207 13th St,Snohomish,WA,98290,3605682000,Japanese,,,YES
+810,Shilla Teriyaki,4423 S Meridian,Puyallup,WA,98373,2534354147,Japanese,,,YES
+811,SALMONDAY,1101 Avenue D,Snohomish,WA,98290,4252008500,Japanese,,,YES
+812,POKE BAY,4215 University Way NE,Seattle,WA,98105,4255505086,Japanese,,,YES
+813,Ono Teriyaki,20 SW 7th St,Renton,WA,98057,4252357570,Japanese,,,YES
+814,One Teryaki,17424 WA-9,Snohomish,WA,98296,3606681679,Japanese,,,YES
+815,Niko Teriyaki,12926 Mukilteo Speedway,Lynnwood,WA,98087,4253556486,Japanese,,,YES
+816,Niko Teriyaki,21241 State Route 410 E,Bonney Lake,WA,98391,2532299977,Japanese,,,YES
+817,Monster Burger,1703 S 324th St,Federal Way,WA,98003,2538159863,Japanese,,,YES
+818,Modoo Teriyaki,Meridian Ave E,Puyallup,WA,98373,2534457033,Japanese,,,YES
+819,Miyako's Teriyaki & Wok,7200 267th St NW,Stanwood,WA,98292,3606294535,Japanese,,,YES
+820,Nasai Teriyaki,8417 122nd Ave NE,Kirkland,WA,98033,4258272657,Japanese,,,YES
+821,Nari Sushi & Steak,2009 Mildred St W,Tacoma,WA,98466,2535036288,Japanese,,,YES
+822,Toudai Sushi & Fusion,12926 Mukilteo Speedway,Lynnwood,WA,98087,4259034352,Japanese,,,YES
+823,Tokyo Teriyaki,2804 Colby Ave,Everett,WA,98201,4252594531,Japanese,,Tier 3,YES
+824,Teriyaki Point,3617 172nd St NE,Arlington,WA,98223,3606573900,Japanese,,,YES
+825,Teriyaki Point,1206 State Ave,Marysville,WA,98270,3603227230,Japanese,,,YES
+826,Star Fusion and Bar,538 Broadway E,Seattle,WA,98102,2062575127,Japanese,,,YES
+827,Sushi Blue,13700 Highway 99,Lynnwood,WA,98087,4254499363,Japanese,,,YES
+828,Sapporo Japanese Restaurant,4803 Pacific Hwy E,Fife,WA,98424,2539225656,Japanese,,,YES
+829,Sam's Sushi Bar & Grill,5506 22nd Ave NW,Seattle,WA,98107,2067832262,Japanese,,,YES
+830,Sakuma Japanese Restaurant,10924 Mukilteo Speedway,Mukilteo,WA,98275,4253473063,Japanese,,,YES
+831,Motto Matsumoto,1026 NE 65th St,Seattle,WA,98115,3605127181,Japanese,,,YES
+832,Momoya Sushi & Bento,241 Sunset Blvd N,Renton,WA,98057,4252711717,Japanese,,,YES
+833,PNW Teriyaki,11014 19th Ave SE,Everett,WA,98208,4253570214,Japanese,,Tier 3,YES
+834,Oshio Teriyaki,730 Griffin Ave,Enumclaw,WA,98022,3608028988,Japanese,,Tier 3,YES
+835,Orenji Japanese Restaurant,5625 221st Pl SE,Issaquah,WA,98027,4253919999,Japanese,,,YES
+836,Takara Teriyaki,17526 Meridian E,Puyallup,WA,98375,2538416416,Japanese,,,YES
+837,Nikko Teriyaki,6621 S 211th St,Kent,WA,98032,4252515010,Japanese,,,YES
