@@ -1,3 +1,5 @@
 .DS_Store
 .Rproj.user
 .env
+# ignore all JSON keys under credential_api
+credential_api/*.json
