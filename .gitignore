@@ -2,4 +2,11 @@
 .Rproj.user
 .env
 # ignore all JSON keys under credential_api
+credential_api/*.jsonenv/
+.venv/
+**/env/
+**/.venv/
+**/site-packages/
+archived/
+
 credential_api/*.json
